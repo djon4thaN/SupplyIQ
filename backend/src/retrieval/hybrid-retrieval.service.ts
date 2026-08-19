@@ -18,6 +18,26 @@ const defaultStructuredResultLimit = 10
 const defaultDocumentResultLimit = 5
 const maximumResultLimit = 20
 
+const controlledTermEquivalences: Readonly<Record<string, readonly string[]>> = Object.freeze({
+  fatores: Object.freeze(['fatores', 'factors']),
+  factors: Object.freeze(['fatores', 'factors']),
+  avaliar: Object.freeze(['avaliar', 'evaluating', 'assessment']),
+  evaluating: Object.freeze(['avaliar', 'evaluating', 'assessment']),
+  assessment: Object.freeze(['avaliar', 'evaluating', 'assessment']),
+  fornecedor: Object.freeze(['fornecedor', 'supplier']),
+  supplier: Object.freeze(['fornecedor', 'supplier']),
+  seleção: Object.freeze(['seleção', 'selection']),
+  selection: Object.freeze(['seleção', 'selection']),
+  critérios: Object.freeze(['critérios', 'criteria']),
+  criteria: Object.freeze(['critérios', 'criteria']),
+  risco: Object.freeze(['risco', 'risk']),
+  risk: Object.freeze(['risco', 'risk']),
+  desempenho: Object.freeze(['desempenho', 'performance']),
+  performance: Object.freeze(['desempenho', 'performance']),
+  financeiro: Object.freeze(['financeiro', 'financial']),
+  financial: Object.freeze(['financeiro', 'financial']),
+})
+
 class RetrievalInputError extends Error {
   constructor(message: string) {
     super(message)
@@ -30,7 +50,8 @@ function normalizeText(value: string): string {
 }
 
 function getTerms(value: string): string[] {
-  return [...new Set(normalizeText(value).toLocaleLowerCase().match(/[\p{L}\p{N}]+/gu) ?? [])]
+  const terms = normalizeText(value).toLocaleLowerCase().match(/[\p{L}\p{N}]+/gu) ?? []
+  return [...new Set(terms.flatMap((term) => controlledTermEquivalences[term] ?? [term]))]
 }
 
 function getResultLimit(value: number | undefined, fallback: number): number {
@@ -146,7 +167,7 @@ export async function retrieveHybridContext(query: UserRetrievalQuery): Promise<
       })
     })
 
-  const documentResults = searchDocumentChunks(normalizedQuestion, documentLimit)
+  const documentResults = searchDocumentChunks(terms.join(' '), documentLimit)
     .map((chunk): DocumentRetrievalResult => {
       const source = getSource(sourceRecords.get(chunk.source_id) ?? {}, chunk.source_id)
       return Object.freeze({
