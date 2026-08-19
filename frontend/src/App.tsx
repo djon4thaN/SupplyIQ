@@ -24,7 +24,7 @@ function MarkdownAnswer({ content }: { content: string }) {
   const blocks: ReactNode[] = []
   let paragraph: string[] = []
   let list: string[] = []
-  const flushParagraph = () => { if (paragraph.length) { blocks.push(<p key={blocks.length}>{paragraph.join(' ')}</p>); paragraph = [] } }
+  const flushParagraph = () => { if (paragraph.length) { blocks.push(<p key={blocks.length}>{renderInlineMarkdown(paragraph.join(' '))}</p>); paragraph = [] } }
   const flushList = () => { if (list.length) { blocks.push(<ul key={blocks.length}>{list.map((item, index) => <li key={index}>{renderInlineMarkdown(item)}</li>)}</ul>); list = [] } }
 
   content.split(/\r?\n/).forEach((line) => {
