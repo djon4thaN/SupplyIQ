@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import type { FormEvent, ReactNode } from 'react'
 
 const suggestedQuestions = [
@@ -110,7 +110,7 @@ function BrandMark() { return <div className="brand-mark" aria-hidden="true"><sp
 function Sidebar({ conversations, activeId, onNewChat, onOpen, onDelete }: { conversations: Conversation[]; activeId: string | null; onNewChat: () => void; onOpen: (id: string) => void; onDelete: (id: string) => void }) {
   return <aside className="sidebar" aria-label="SupplyIQ navigation"><div className="sidebar-top"><a className="brand" href="/" aria-label="SupplyIQ home"><BrandMark /><span>SupplyIQ</span></a><button className="new-chat-button" type="button" onClick={onNewChat}><span className="plus" aria-hidden="true">+</span><span>New Chat</span></button>{conversations.length > 0 && <div className="chat-history"><span className="history-label">Previous chats</span>{conversations.map((conversation) => <div className={`history-item${conversation.id === activeId ? ' active' : ''}`} key={conversation.id}><button className="history-open" type="button" onClick={() => onOpen(conversation.id)} title={conversation.title}>{conversation.title}</button><button className="history-delete" type="button" onClick={() => onDelete(conversation.id)} aria-label={`Delete ${conversation.title}`}>×</button></div>)}</div>}</div><div className="sidebar-bottom"><div className="workspace-pill"><span className="workspace-avatar">S</span><span className="workspace-name">Supply team</span><span className="workspace-status" aria-label="Active workspace" /></div><span className="version-label">SUPPLYIQ · V4</span></div></aside>
 }
-function SuggestedCard({ label, question, onSelect }: { label: string; question: string; onSelect: (question: string) => void }) { return <button className="suggested-card" type="button" onClick={() => onSelect(question)}><span className="card-label">{label}</span><span className="card-question">{question}</span><span className="card-arrow" aria-hidden="true">↗</span></button> }
+function SuggestedCard({ label, question, onSelect, loading }: { label: string; question: string; onSelect: (question: string) => void; loading: boolean }) { return <button className="suggested-card" type="button" onClick={() => onSelect(question)} disabled={loading}><span className="card-label">{label}</span><span className="card-question">{question}</span><span className="card-arrow" aria-hidden="true">↗</span></button> }
 function Composer({ value, onChange, onSubmit, loading }: { value: string; onChange: (value: string) => void; onSubmit: (event: FormEvent<HTMLFormElement>) => void; loading: boolean }) { return <form className="composer" onSubmit={onSubmit}><input aria-label="Ask SupplyIQ a question" value={value} onChange={(event) => onChange(event.target.value)} placeholder="Ask anything about your supply chain..." disabled={loading} /><button className="send-button" type="submit" aria-label="Send question" disabled={loading}><span aria-hidden="true">{loading ? '…' : '↑'}</span></button></form> }
 
 function App() {
@@ -119,6 +119,7 @@ function App() {
   const [question, setQuestion] = useState('')
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
+  const loadingRef = useRef(false)
   const activeConversation = conversations.find((conversation) => conversation.id === activeId)
   const messages = activeConversation?.messages ?? []
 
@@ -128,10 +129,11 @@ function App() {
   const openConversation = (id: string) => { setActiveId(id); setQuestion(''); setError('') }
   const deleteConversation = (id: string) => { setConversations((current) => current.filter((conversation) => conversation.id !== id)); if (activeId === id) startNewChat() }
 
-  const handleSubmit = async (event: FormEvent<HTMLFormElement>) => {
-    event.preventDefault()
-    const message = question.trim()
-    if (!message || loading) return
+  const submitQuestion = async (submittedQuestion: string) => {
+    const message = submittedQuestion.trim()
+    if (!message || loadingRef.current) return
+    loadingRef.current = true
+    setQuestion(message)
     const conversationId = activeId ?? createConversationId()
     setActiveId(conversationId); setLoading(true); setError('')
     try {
@@ -146,12 +148,13 @@ function App() {
         return [updated, ...current.filter((conversation) => conversation.id !== conversationId)].slice(0, maximumConversations)
       })
       setQuestion('')
-    } catch { setError('Não foi possível conectar ao SupplyIQ. Verifique se o backend está ligado e tente novamente.') } finally { setLoading(false) }
+    } catch { setError('Não foi possível conectar ao SupplyIQ. Verifique se o backend está ligado e tente novamente.') } finally { loadingRef.current = false; setLoading(false) }
   }
+  const handleSubmit = (event: FormEvent<HTMLFormElement>) => { event.preventDefault(); void submitQuestion(question) }
 
   return <div className="app-shell"><Sidebar conversations={conversations} activeId={activeId} onNewChat={startNewChat} onOpen={openConversation} onDelete={deleteConversation} /><main className="main-content"><div className="content-frame">
     <section className="hero" aria-labelledby="hero-title"><div className="eyebrow"><span className="eyebrow-dot" /> Intelligence for better decisions</div><p className="greeting">Good morning, team.</p><h1 id="hero-title">What will we <em>uncover</em><br />today?</h1><p className="hero-copy">Ask SupplyIQ anything about your supply chain, suppliers, and markets.</p></section>
-    <section className="suggestions" aria-labelledby="suggestions-title"><div className="section-heading"><h2 id="suggestions-title">Start with a direction</h2><span>Suggested questions</span></div><div className="card-grid">{suggestedQuestions.map((item) => <SuggestedCard key={item.label} {...item} onSelect={setQuestion} />)}</div></section>
+    <section className="suggestions" aria-labelledby="suggestions-title"><div className="section-heading"><h2 id="suggestions-title">Start with a direction</h2><span>Suggested questions</span></div><div className="card-grid">{suggestedQuestions.map((item) => <SuggestedCard key={item.label} {...item} onSelect={(selectedQuestion) => { void submitQuestion(selectedQuestion) }} loading={loading} />)}</div></section>
     {messages.length > 0 && <section className="conversation" aria-label="Conversation">{messages.map(({ question: sentQuestion, response }, index) => <article className="conversation-item" key={`${sentQuestion}-${index}`}><div className="user-message"><span className="message-label">You</span><p>{sentQuestion}</p></div><div className="agent-message"><span className="message-label">SupplyIQ agent</span><MarkdownAnswer content={response.answer || 'No answer was returned.'} />{response.supportLevel && <p className="support-level">Support level: <strong>{response.supportLevel}</strong></p>}{!!response.sources?.length && <div className="response-meta"><span className="meta-title">Fontes</span>{response.sources.map((source, sourceIndex) => <div className="source-item" key={`${source.sourceId || source.name || 'source'}-${sourceIndex}`}><span>{source.name || source.sourceId || 'Unnamed source'}{source.organization ? ` · ${source.organization}` : ''}</span>{source.url && <a href={source.url} target="_blank" rel="noreferrer">Open source</a>}</div>)}</div>}</div></article>)}</section>}
     {error && <p className="chat-error" role="alert">{error}</p>}
     <div className="composer-wrap"><Composer value={question} onChange={setQuestion} onSubmit={handleSubmit} loading={loading} /><p className="disclaimer">SupplyIQ can make mistakes. Check important information before making decisions.</p></div>
