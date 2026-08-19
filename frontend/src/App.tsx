@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { FormEvent } from 'react'
+import type { FormEvent, ReactNode } from 'react'
 
 const suggestedQuestions = [
   { label: 'Market intelligence', question: 'What are the latest trends in our supply market?' },
@@ -11,6 +11,34 @@ const suggestedQuestions = [
 type Source = { sourceId?: string; name?: string; organization?: string; url?: string; limitations?: string }
 type ChatResponse = { answer?: string; sources?: Source[]; limitations?: string[]; supportLevel?: string }
 type Message = { question: string; response: ChatResponse }
+
+function renderInlineMarkdown(text: string): ReactNode[] {
+  return text.split(/(\*\*[^*]+\*\*|`[^`]+`)/g).filter(Boolean).map((part, index) => {
+    if (part.startsWith('**') && part.endsWith('**')) return <strong key={index}>{part.slice(2, -2)}</strong>
+    if (part.startsWith('`') && part.endsWith('`')) return <code key={index}>{part.slice(1, -1)}</code>
+    return <span key={index}>{part}</span>
+  })
+}
+
+function MarkdownAnswer({ content }: { content: string }) {
+  const blocks: ReactNode[] = []
+  let paragraph: string[] = []
+  let list: string[] = []
+  const flushParagraph = () => { if (paragraph.length) { blocks.push(<p key={blocks.length}>{paragraph.join(' ')}</p>); paragraph = [] } }
+  const flushList = () => { if (list.length) { blocks.push(<ul key={blocks.length}>{list.map((item, index) => <li key={index}>{renderInlineMarkdown(item)}</li>)}</ul>); list = [] } }
+
+  content.split(/\r?\n/).forEach((line) => {
+    const trimmed = line.trim()
+    if (!trimmed) { flushParagraph(); flushList(); return }
+    const heading = trimmed.match(/^#{1,6}\s+(.+)$/)
+    const bullet = trimmed.match(/^(?:[-*]|\d+\.)\s+(.+)$/)
+    if (heading) { flushParagraph(); flushList(); blocks.push(<h3 key={blocks.length}>{renderInlineMarkdown(heading[1])}</h3>); return }
+    if (bullet) { flushParagraph(); list.push(bullet[1]); return }
+    flushList(); paragraph.push(trimmed)
+  })
+  flushParagraph(); flushList()
+  return <div className="answer-content">{blocks}</div>
+}
 
 function BrandMark() { return <div className="brand-mark" aria-hidden="true"><span /><span /><span /></div> }
 function Sidebar({ onNewChat }: { onNewChat: () => void }) { return <aside className="sidebar" aria-label="SupplyIQ navigation"><div className="sidebar-top"><a className="brand" href="/" aria-label="SupplyIQ home"><BrandMark /><span>SupplyIQ</span></a><button className="new-chat-button" type="button" onClick={onNewChat}><span className="plus" aria-hidden="true">+</span><span>New Chat</span></button></div><div className="sidebar-bottom"><div className="workspace-pill"><span className="workspace-avatar">S</span><span className="workspace-name">Supply team</span><span className="workspace-status" aria-label="Active workspace" /></div><span className="version-label">SUPPLYIQ · V4</span></div></aside> }
@@ -37,7 +65,7 @@ function App() {
   return <div className="app-shell"><Sidebar onNewChat={() => { setQuestion(''); setMessages([]); setError('') }} /><main className="main-content"><div className="content-frame">
     <section className="hero" aria-labelledby="hero-title"><div className="eyebrow"><span className="eyebrow-dot" /> Intelligence for better decisions</div><p className="greeting">Good morning, team.</p><h1 id="hero-title">What will we <em>uncover</em><br />today?</h1><p className="hero-copy">Ask SupplyIQ anything about your supply chain, suppliers, and markets.</p></section>
     <section className="suggestions" aria-labelledby="suggestions-title"><div className="section-heading"><h2 id="suggestions-title">Start with a direction</h2><span>Suggested questions</span></div><div className="card-grid">{suggestedQuestions.map((item) => <SuggestedCard key={item.label} {...item} onSelect={setQuestion} />)}</div></section>
-    {messages.length > 0 && <section className="conversation" aria-label="Conversation">{messages.map(({ question: sentQuestion, response }, index) => <article className="conversation-item" key={`${sentQuestion}-${index}`}><div className="user-message"><span className="message-label">You</span><p>{sentQuestion}</p></div><div className="agent-message"><span className="message-label">SupplyIQ agent</span><p>{response.answer || 'No answer was returned.'}</p>{response.supportLevel && <p className="support-level">Support level: <strong>{response.supportLevel}</strong></p>}{!!response.sources?.length && <div className="response-meta"><span className="meta-title">Sources</span>{response.sources.map((source, sourceIndex) => <div className="source-item" key={`${source.sourceId || source.name || 'source'}-${sourceIndex}`}><span>{source.name || source.sourceId || 'Unnamed source'}{source.organization ? ` · ${source.organization}` : ''}</span>{source.url && <a href={source.url} target="_blank" rel="noreferrer">Open source</a>}{source.limitations && <small>{source.limitations}</small>}</div>)}</div>}{!!response.limitations?.length && <div className="response-meta"><span className="meta-title">Limitations</span><ul>{response.limitations.map((limitation, limitationIndex) => <li key={`${limitation}-${limitationIndex}`}>{limitation}</li>)}</ul></div>}</div></article>)}</section>}
+    {messages.length > 0 && <section className="conversation" aria-label="Conversation">{messages.map(({ question: sentQuestion, response }, index) => <article className="conversation-item" key={`${sentQuestion}-${index}`}><div className="user-message"><span className="message-label">You</span><p>{sentQuestion}</p></div><div className="agent-message"><span className="message-label">SupplyIQ agent</span><MarkdownAnswer content={response.answer || 'No answer was returned.'} />{response.supportLevel && <p className="support-level">Support level: <strong>{response.supportLevel}</strong></p>}{!!response.sources?.length && <div className="response-meta"><span className="meta-title">Fontes</span>{response.sources.map((source, sourceIndex) => <div className="source-item" key={`${source.sourceId || source.name || 'source'}-${sourceIndex}`}><span>{source.name || source.sourceId || 'Unnamed source'}{source.organization ? ` · ${source.organization}` : ''}</span>{source.url && <a href={source.url} target="_blank" rel="noreferrer">Open source</a>}</div>)}</div>}</div></article>)}</section>}
     {error && <p className="chat-error" role="alert">{error}</p>}
     <div className="composer-wrap"><Composer value={question} onChange={setQuestion} onSubmit={handleSubmit} loading={loading} /><p className="disclaimer">SupplyIQ can make mistakes. Check important information before making decisions.</p></div>
   </div></main></div>
