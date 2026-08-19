@@ -2,7 +2,7 @@ import type { GeminiConfiguration } from '../config/gemini.ts'
 import { createGeminiConfiguration } from '../config/gemini.ts'
 import { retrieveHybridContext } from '../retrieval/hybrid-retrieval.service.ts'
 import type { HybridRetrievalResult } from '../retrieval/types.ts'
-import type { AgentAnswer, AgentSupportLevel } from './types.ts'
+import type { AgentAnswer, AgentAvailabilityCode, AgentSupportLevel } from './types.ts'
 
 const maximumQuestionLength = 1_000
 const maximumContextCharacters = 12_000
@@ -14,6 +14,11 @@ const portugueseGenerationFailureAnswer = 'Não foi possível gerar uma resposta
 const englishGenerationFailureAnswer = 'A grounded answer could not be generated safely from the Knowledge Base at this time.'
 
 type RetrieveContext = (query: { question: string }) => Promise<HybridRetrievalResult>
+
+type SafeProviderError = {
+  code?: unknown
+  status?: unknown
+}
 
 function normalizeQuestion(question: string): string {
   return question.normalize('NFKC').replace(/\s+/g, ' ').trim()
@@ -61,11 +66,33 @@ function getSafeAnswer(value: string | undefined): string | undefined {
   return answer || undefined
 }
 
+function logGenerationDiagnostic(stage: 'empty_response' | 'request_failed', responseLength: number, error?: unknown): void {
+  const providerError = error && typeof error === 'object' ? error as SafeProviderError : undefined
+  const status = typeof providerError?.status === 'number' ? providerError.status : undefined
+  const code = typeof providerError?.code === 'string' ? providerError.code : undefined
+  const errorName = error instanceof Error ? error.name : undefined
+
+  console.warn(JSON.stringify({
+    component: 'gemini-agent',
+    stage,
+    responseLength,
+    ...(status === undefined ? {} : { status }),
+    ...(errorName === undefined ? {} : { errorName }),
+    ...(code === undefined ? {} : { code }),
+  }))
+}
+
+function getAvailabilityCode(error: unknown): AgentAvailabilityCode | undefined {
+  const providerError = error && typeof error === 'object' ? error as SafeProviderError : undefined
+  return providerError?.status === 429 ? 'AI_USAGE_LIMIT_REACHED' : undefined
+}
+
 function createAnswer(
   answer: string,
   result: HybridRetrievalResult,
   hasSufficientContext: boolean,
   extraLimitation?: string,
+  availabilityCode?: AgentAvailabilityCode,
 ): AgentAnswer {
   const limitations = [...result.limitations]
   if (extraLimitation) {
@@ -78,6 +105,7 @@ function createAnswer(
     limitations: Object.freeze([...new Set(limitations)]),
     supportLevel: result.capability.level as AgentSupportLevel,
     hasSufficientContext,
+    ...(availabilityCode === undefined ? {} : { availabilityCode }),
   })
 }
 
@@ -135,6 +163,7 @@ export class GeminiAgentService {
       })
       const answer = getSafeAnswer(response.text)
       if (!answer) {
+        logGenerationDiagnostic('empty_response', response.text?.length ?? 0)
         return createAnswer(
           getLocalizedAnswer(normalizedQuestion, portugueseGenerationFailureAnswer, englishGenerationFailureAnswer),
           retrieved,
@@ -144,12 +173,14 @@ export class GeminiAgentService {
       }
 
       return createAnswer(answer, retrieved, true)
-    } catch {
+    } catch (error) {
+      logGenerationDiagnostic('request_failed', 0, error)
       return createAnswer(
         getLocalizedAnswer(normalizedQuestion, portugueseGenerationFailureAnswer, englishGenerationFailureAnswer),
         retrieved,
         false,
         'Gemini generation failed; no answer was inferred.',
+        getAvailabilityCode(error),
       )
     }
   }

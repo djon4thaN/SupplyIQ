@@ -39,6 +39,14 @@ export async function postChat(
 ): Promise<void> {
   try {
     const result = await answerQuestion(getMessage(request.body))
+    if (result.availabilityCode === 'AI_USAGE_LIMIT_REACHED') {
+      response.status(503).json({
+        code: result.availabilityCode,
+        message: 'The AI service is temporarily unavailable.',
+      })
+      return
+    }
+
     response.json({
       answer: result.answer,
       sources: result.sources,

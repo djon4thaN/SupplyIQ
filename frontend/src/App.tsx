@@ -3,6 +3,9 @@ import type { FormEvent, ReactNode } from 'react'
 
 const suggestedQuestions = [
   { label: 'Supplier evaluation', question: 'What factors should be considered when evaluating a supplier?' },
+  { label: 'Procurement lifecycle', question: 'What are the main procurement lifecycle steps?' },
+  { label: 'Contract performance', question: 'How should contract performance be monitored?' },
+  { label: 'Supply chain risks', question: 'What are common supply chain risks according to the selected guidance?' },
 ]
 
 const storageKey = 'supplyiq.chat-history.v1'
@@ -11,7 +14,7 @@ const maximumStorageCharacters = 180_000
 const maximumSavedAnswerCharacters = 12_000
 
 type Source = { sourceId?: string; name?: string; organization?: string; url?: string; limitations?: string }
-type ChatResponse = { answer?: string; sources?: Source[]; limitations?: string[]; supportLevel?: string }
+type ChatResponse = { answer?: string; sources?: Source[]; limitations?: string[]; supportLevel?: string; code?: string }
 type Message = { question: string; response: ChatResponse }
 type Conversation = { id: string; title: string; createdAt: number; messages: Message[] }
 
@@ -136,7 +139,13 @@ function App() {
     try {
       const response = await fetch('http://127.0.0.1:3000/api/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ message }) })
       const data = await response.json().catch(() => ({})) as ChatResponse & { message?: string }
-      if (!response.ok) throw new Error(data.message || 'Não foi possível obter uma resposta agora.')
+      if (!response.ok) {
+        if (data.code === 'AI_USAGE_LIMIT_REACHED') {
+          setError('The AI is temporarily unavailable because the API usage limit has been reached. Please try again later.')
+          return
+        }
+        throw new Error(data.message || 'Não foi possível obter uma resposta agora.')
+      }
       setConversations((current) => {
         const existing = current.find((conversation) => conversation.id === conversationId)
         const updated: Conversation = existing
