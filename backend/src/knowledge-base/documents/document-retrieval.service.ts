@@ -44,6 +44,18 @@ export interface DocumentKnowledgeBase {
   documents: readonly DocumentIndexRecord[]
 }
 
+const documentTermVariants: Readonly<Record<string, readonly string[]>> = Object.freeze({
+  supplier: Object.freeze(['supplier', 'suppliers']),
+  suppliers: Object.freeze(['supplier', 'suppliers']),
+  evaluation: Object.freeze(['evaluation', 'evaluating', 'evaluate', 'evaluated']),
+  evaluating: Object.freeze(['evaluation', 'evaluating', 'evaluate', 'evaluated']),
+  selection: Object.freeze(['selection', 'select', 'selected']),
+  criteria: Object.freeze(['criteria', 'criterion']),
+  qualification: Object.freeze(['qualification', 'qualifications', 'qualified']),
+  exclusion: Object.freeze(['exclusion', 'exclusions', 'exclude']),
+  factors: Object.freeze(['factor', 'factors', 'criteria', 'criterion']),
+})
+
 class DocumentKnowledgeBaseValidationError extends Error {
   constructor(message: string) {
     super(`Document knowledge base validation failed: ${message}`)
@@ -182,7 +194,8 @@ export async function initializeDocumentKnowledgeBase(): Promise<DocumentKnowled
 }
 
 export function searchDocumentChunks(query: string, limit = 5): readonly DocumentChunk[] {
-  const normalizedTerms = [...new Set(query.toLocaleLowerCase().match(/[\p{L}\p{N}]+/gu) ?? [])]
+  const queryTerms = query.toLocaleLowerCase().match(/[\p{L}\p{N}]+/gu) ?? []
+  const normalizedTerms = [...new Set(queryTerms.flatMap((term) => documentTermVariants[term] ?? [term]))]
   if (!normalizedTerms.length || limit <= 0) {
     return []
   }

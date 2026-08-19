@@ -33,11 +33,7 @@ function truncate(value: string, maximumLength: number): string {
 
 function buildRetrievedContext(result: HybridRetrievalResult): string {
   const context = {
-    structuredResults: result.structuredResults.map(({ table, record, limitations }) => ({
-      table,
-      record,
-      limitations,
-    })),
+    limitations: result.limitations,
     documentResults: result.documentResults.map(({ chunk, limitations }) => ({
       chunk: {
         chunkId: chunk.chunk_id,
@@ -50,7 +46,11 @@ function buildRetrievedContext(result: HybridRetrievalResult): string {
       },
       limitations,
     })),
-    limitations: result.limitations,
+    structuredResults: result.structuredResults.map(({ table, record, limitations }) => ({
+      table,
+      record,
+      limitations,
+    })),
   }
 
   return truncate(JSON.stringify(context), maximumContextCharacters)
