@@ -3,9 +3,6 @@ import type { FormEvent, ReactNode } from 'react'
 
 const suggestedQuestions = [
   { label: 'Supplier evaluation', question: 'What factors should be considered when evaluating a supplier?' },
-  { label: 'Procurement criteria', question: 'What selection and qualification criteria are used in public procurement?' },
-  { label: 'Contract execution', question: 'What risks should be monitored during contract execution?' },
-  { label: 'Project associations', question: 'Which suppliers are associated with projects in the Knowledge Base?' },
 ]
 
 const storageKey = 'supplyiq.chat-history.v1'
