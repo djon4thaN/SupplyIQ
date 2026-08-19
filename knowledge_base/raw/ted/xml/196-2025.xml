@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">other</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Conseil Départemental de la Corrèze</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Hôtel du Département Marbot - 
+9 rue René et Émile fage - BP 199</cbc:StreetName>
+                           <cbc:CityName>Tulle cedex</cbc:CityName>
+                           <cbc:PostalZone>19005</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FRI21</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>22192720500197</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+33 0555937842</cbc:Telephone>
+                           <cbc:ElectronicMail>marches@correze.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://limoges.tribunal-administratif.fr</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Tribunal administratif de Limoges </cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>2 , Cours Bugeaud</cbc:StreetName>
+                           <cbc:Department>Haute-Vienne</cbc:Department>
+                           <cbc:CityName>Limoges</cbc:CityName>
+                           <cbc:PostalZone>87000</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FRI23</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>1787005000010</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+33 0555339155</cbc:Telephone>
+                           <cbc:Telefax>+33 0555339160</cbc:Telefax>
+                           <cbc:ElectronicMail>greffe.ta-limoges@juradm.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000196-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">eb748bee-c2ca-446b-a9f9-a3d6d2dd174b</cbc:ID>
+   <cbc:ContractFolderID>76e9a04d-9418-4547-8d73-4442dca177dc</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-30+02:00</cbc:IssueDate>
+   <cbc:IssueTime>16:06:34+02:00</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">FRA</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID>ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <ext:UBLExtensions>
+         <ext:UBLExtension>
+            <ext:ExtensionContent>
+               <efext:EformsExtension>
+                  <efbc:ProcedureRelaunchIndicator>true</efbc:ProcedureRelaunchIndicator>
+               </efext:EformsExtension>
+            </ext:ExtensionContent>
+         </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID>f22b43bb-091f-4dd5-bab2-ebbb0b359085-01</cbc:ID>
+      </cac:NoticeDocumentReference>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID>2024AFF064</cbc:ID>
+      <cbc:Name languageID="FRA">Élaboration du SAGE Vézère-Corrèze</cbc:Name>
+      <cbc:Description languageID="FRA">Les caractéristiques principales sont les suivantes :
+Le département est structure porteuse du SAGE Vézère-Corrèze. Dans ce cadre, il assure l'animation et porte la maîtrise d'ouvrage des études nécessaires à l'élaboration du SAGE. 
+Le SAGE Vézère-Corrèze est dans sa phase d'élaboration. Le travail mené jusqu'à présent a permis de dresser l'état initial du bassin de la Vézère. Les étapes suivantes consistent à : 
+ 
+- Réaliser le diagnostic du bassin pour identifier et hiérarchiser les enjeux du territoire 
+- Établir des scénarios prospectifs, en vue de définir la stratégie du bassin 
+- Élaborer l'ensemble des documents du SAGE (PAGD, règlement, rapport d'évaluation environnementale) 
+- Soumettre les documents du SAGE pour consultation et enquête publique avant approbation du SAGE par le Préfet 
+
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="FRA">Consultation relancée car déclarée sans suite pour infructuosité selon la procédure avec négociation en application de l'article R2124-3 alinéa 6 du code de la commande publique.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71313000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="FRA">Critère n°1 : Valeur technique : 70%
+Critère n°2 : Prix : 30%
+</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n°1 : Valeur technique : 70%</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Critère n°2 : Prix : 30%</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="FRA">Les candidats disposent des voies de recours suivantes :
+-Le Référé pré-contractuel (articles L. 551-1 à L. 551-12 du Code de justice administrative) avant la signature du contrat.
+-Le Référé contractuel (articles L. 551-13 à L. 551-23 du Code de justice administrative) après la signature du contrat, dans les conditions prévues à l'article R. 551-7 du CJA.
+-Le Recours de pleine juridiction en contestation de la validité du contrat, ouvert aux tiers justifiant d'un intérêt lésé, et pouvant être exercé dans les 2 mois suivant la date à laquelle l'acheteur a effectué les mesures de publicité du contrat.
+-Le Recours pour excès de pouvoir, contre des clauses réglementaires du contrat ou contre une décision de l'acheteur, dans les 2 mois à compter de la notification ou de la publication de la décision attaquée.
+
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efbc:ProcedureRelaunchIndicator>true</efbc:ProcedureRelaunchIndicator>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cac:SubsequentProcessTenderRequirement>
+               <cbc:Name>buyer-categories</cbc:Name>
+            </cac:SubsequentProcessTenderRequirement>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="FRA">Élaboration du SAGE Vézère-Corrèze</cbc:Name>
+         <cbc:Description languageID="FRA">Les caractéristiques principales sont les suivantes :
+Le département est structure porteuse du SAGE Vézère-Corrèze. Dans ce cadre, il assure l'animation et porte la maîtrise d'ouvrage des études nécessaires à l'élaboration du SAGE. 
+Le SAGE Vézère-Corrèze est dans sa phase d'élaboration. Le travail mené jusqu'à présent a permis de dresser l'état initial du bassin de la Vézère. Les étapes suivantes consistent à : 
+ 
+- Réaliser le diagnostic du bassin pour identifier et hiérarchiser les enjeux du territoire 
+- Établir des scénarios prospectifs, en vue de définir la stratégie du bassin 
+- Élaborer l'ensemble des documents du SAGE (PAGD, règlement, rapport d'évaluation environnementale)
+- Soumettre les documents du SAGE pour consultation et enquête publique avant approbation du SAGE par le Préfet 
+
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="FRA">Consultation relancée car déclarée sans suite pour infructuosité selon la procédure avec négociation en application de l'article R2124-3 alinéa 6 du code de la commande publique</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71313000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">28</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

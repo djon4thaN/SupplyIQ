@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">156094.44</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">all-rej</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0003</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">ins-fund</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0024</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">156094.44</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0005</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta do zad.5</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-12+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>DO/DZ-382-493/24</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Zad.5  Sakura Finetek Poland</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://www.gliwice.nio.gov.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy Oddział w Gliwicach</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Wybrzeże Armii Krajowej 15</cbc:StreetName>
+                           <cbc:Department>Dział Zamówień Publicznych i Zaopatrzenia</cbc:Department>
+                           <cbc:CityName>Gliwice</cbc:CityName>
+                           <cbc:PostalZone>44-102</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL229</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON: 000288366-00028</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48322788401</cbc:Telephone>
+                           <cbc:ElectronicMail>przetargi@gliwice.nio.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl/kio/kontakt</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba  Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:Department>Krajowa Izba Odwoławcza</cbc:Department>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON 010828091</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Sakura Finetek Polska Sp z o. o</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Grójecka 208 lok 2 P</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-309</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP 7010934400</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>222572096</cbc:Telephone>
+                           <cbc:ElectronicMail>polska@sakura.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000382-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">af1f9e1a-732a-4231-a89c-9a9478c59871</cbc:ID>
+   <cbc:ContractFolderID>be44342c-a7d2-458a-b9d7-d59d5399bdee</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>11:40:47Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">health</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>Postępowanie o udzielenie zamówienia publicznego prowadzone jest w trybie przetargu nieograniczonego zgodnie z przepisami art. 132 i nast. Ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (t.j.: Dz. U. z 2023 r., poz. 1605 ze zm.), zwaną w dalszej części „ustawą Pzp”</cbc:ID>
+      </cac:ProcurementLegislationDocumentReference>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">508789-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">true</cbc:ProcessReasonCode>
+         <cbc:ProcessReason languageID="POL">Zgodnie z dyspozycją art. 138 ust. 1 ustawy Pzp, termin składania ofert nie może być krótszy niż 35 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej. Jednocześnie w treści art. 138 ust. 2 pkt. 2) ustawy Pzp ustawodawca przewidział, że Zamawiający może wyznaczyć termin składania ofert krótszy niż termin 35dniowy, nie krótszy jednak niż 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej, jeżeli zachodzi pilna potrzeba udzielenia zamówienia i skrócenie terminu składania ofert jest uzasadnione.
+ Przedmiotowe postępowanie dotyczy przeglądów i konserwacji oraz serwisowania sprzętu medycznego, a zgodnie z art. 90 ust. 6 Ustawy o wyrobach medycznych świadczeniodawca czyli w tym przypadku Zamawiający jest obowiązany posiadać dokumentację wykonanych przeglądów, regulacji, kalibracji, wzorcowań, sprawdzeń i kontroli bezpieczeństwa wyrobu, który jest wykorzystywany do udzielania świadczeń zdrowotnych, zawierającą w szczególności daty wykonania tych czynności, nazwisko lub nazwę podmiotu, który wykonał te czynności,  ich opis, wyniki i uwagi dotyczące wyrobu. Wszystkie powyższe usługi muszą być wykonywane zgodnie z zaleceniami producenta sprzętu medycznego, a ich nieterminowość wiąże się z niemożliwością użytkowania danego urządzenia. Biorąc pod uwagę fakt, iż przegląd niektórych urządzeń objętych niniejszym postępowaniem powinien odbyć się niezwłocznie, zachowanie 35-dniowego terminu na składanie ofert w istotny sposób zagraża interesom Zamawiającego, ponieważ doprowadzi do nieprzestrzeganie terminów wykonania pierwszych przeglądów i konserwacji aparatury medycznej. Jednocześnie, skrócenie terminu składania ofert nie pozbawia Wykonawców możliwości udziału w postępowaniu.
+</cbc:ProcessReason>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">DO/DZ-381-1-45/24</cbc:ID>
+      <cbc:Name languageID="POL">Przeglądy i konserwacje urządzeń medycznych   dla Narodowego Instytutu Onkologii im. Marii Skłodowskiej - Curie  - Państwowego Instytutu Badawczego Oddziału 
+w Gliwicach
+</cbc:Name>
+      <cbc:Description languageID="POL">1.Przedmiotem niniejszego zamówienia są przeglądy i konserwacje urządzeń medycznych   dla Narodowego Instytutu Onkologii im. Marii Skłodowskiej - Curie  - Państwowego Instytutu Badawczego Oddziału w Gliwicach.
+2.Opis  przedmiotu zamówienia oraz warunki realizacji zamówienia zawarte są  w załącznikach:    
+1)Opis przedmiotu zamówienia, specyfikacja cenowa, oświadczenia   – załącznik nr  2.1-2.29 do SWZ,
+2)Projektowane postanowienia umowy, które zostaną wprowadzone do treści umowy   – załącznik nr  4.1-4.4 do SWZ.
+3. Zamawiający nie przeprowadził wstępnych konsultacji rynkowych. 
+4.Zamawiający nie przewiduje zamówień uzupełniających.
+5. Informacje na temat wspólnego ubiegania się Wykonawców o udzielenie zamówienia zawarte zostały w rozdziale IX SWZ.
+6. Termin związania ofertą wynosi: 90 dni. Bieg terminu związania ofertą rozpoczyna się wraz z upływem terminu składania ofert. Dzień ten jest pierwszym dniem terminu związania ofertą. Powyższe oznacza, iż termin związania ofertą upływa w dniu 30.11.2024 r.
+7. Klauzulę informacyjna wynikającą z treści art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE, Zamawiający zamieścił w SWZ.
+8.Szczegółowe informacje dotyczące niniejszego postępowania zawarte są w SWZ. </cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">1. O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy: 1) nie podlegają wykluczeniu (Zamawiający wykluczy z postępowania Wykonawcę w przypadkach, o których mowa w art. 108 ust. 1 pkt 1-6, art. 109 ust. 1 pkt 4 ustawy Pzp oraz art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (t.j. Dz. U. 2024 r. poz. 507) i art. 5k Rozporządzenia Rady (UE) 2022/576 z dnia 8 kwietnia 2022 r. w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie, 2) spełniają warunki udziału w postępowaniu. 2. Do oferty sporządzonej przy pomocy interaktywnego formularza ofertowego, należy dołączyć wypełnione, podpisane przez osobę/y uprawnioną/e do reprezentowania Wykonawcy formularze:
+1)Opis przedmiotu zamówienia, specyfikacja cenowa, - załączniki nr 2.1-2.29 do SWZ ( w zakresie zadania na które wykonawca składa ofertę)
+2)	Formularz „ JEDZ”  – interaktywny formularz zamieszczony na stronie internetowej prowadzonego postępowania
+3)	Oświadczenie Wykonawcy/ Wykonawcy wspólnie ubiegającego się o zamówienie,  dotyczące przesłanek wykluczenia – załącznik nr 5 do SWZ.
+4)	Oświadczenie podmiotu udostępniającego zasoby,  dotyczące przesłanek wykluczenia – załącznik nr 6 do SWZ ( jeżeli dotyczy)
+5)	Oświadczenie Wykonawców wspólnie ubiegających się o udzielenie zamówienia składane na podstawie art. 117 ust.4 ustawy Pzp  ( jeżeli dotyczy, dotyczy również wspólników spółki cywilnej)– załącznik nr 8 do SWZ,
+6)	Zobowiązanie  podmiotu  udostępniającego zasoby ( jeżeli dotyczy) – załącznik nr 9 do SWZ
+oraz
+7)	Zgodnie z zapisami rozdziału VII  SWZ -  Odpis lub  informację z Krajowego  Rejestru Sądowego, Centralnej  Ewidencji i Informacji o Działalności Gospodarczej lub innego właściwego rejestru potwierdzającego, że osoba działająca w imieniu wykonawcy jest umocowana do jego reprezentowania
+Jeżeli w imieniu wykonawcy działa osoba, której umocowanie do jego reprezentowania nie wynika 
+z dokumentów, o których mowa powyżej, zamawiający  oprócz dokumentu o którym mowa w zdaniu  1 powyżej wymaga  od wykonawcy złożenia pełnomocnictwa lub innego dokumentu potwierdzającego umocowanie do reprezentowania wykonawcy.
+Powyższe dotyczy również:
+-	osoby działającej w imieniu Wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego,
+-	osoby działającej w imieniu podmiotu udostępniającego zasoby na zasadach określonych w art. 118 ustawy Pzp. 
+8)	W przypadku złożenia oferty wspólnej pełnomocnictwo udzielone liderowi zgodnie z zapisami rozdziału IX SWZ ( art.58 ust.2  ustawy Pzp)
+10)	Przedmiotowe środki dowodowe, o których mowa w rozdziale IV SWZ – o ile dotyczy.
+2.	Zamawiający przed wyborem najkorzystniejszej oferty, wezwie Wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, nie krótszym niż 10 dni, aktualnych na dzień złożenia następujących podmiotowych środków dowodowych:
+2.1	Dotyczących braku podstaw wykluczenia:
+1)	informacji z Krajowego Rejestru Karnego w zakresie: 
+a)	art. 108 ust. 1 pkt. 1 i 2 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, 
+b)	art. 108 ust. 1 pkt. 4 ustawy, dotyczącej orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka karnego,  
+-  sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem;  
+2)	oświadczenia Wykonawcy, w zakresie art. 108 ust. 1 pkt 5 ustawy Pzp, o braku przynależności do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji  i konsumentów (t.j.: Dz. U. z 2023 r. poz. 1689 ze zm.), z innym wykonawcą, który złożył odrębną ofertę, ofertę częściową w postępowaniu, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty, oferty częściowej w postępowaniu niezależnie od innego Wykonawcy należącego do tej samej grupy kapitałowej;
+3)	odpisu lub informacji z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji 
+o Działalności Gospodarczej, w zakresie art. 109 ust. 1 pkt 4 ustawy, sporządzonych nie wcześniej niż 3 miesiące przed jej złożeniem, jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji;
+4)	oświadczenia Wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1 ustawy Pzp, w zakresie podstaw wykluczenia z postępowania wskazanych przez zamawiającego, o których mowa   w:
+a)	art. 108 ust. 1 pkt 3 ustaw Pzp,
+b)	art. 108 ust. 1 pkt 4 ustawy Pzp, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego,
+c)	art. 108 ust. 1 pkt 5 ustawy Pzp, dotyczących zawarcia z innymi wykonawcami porozumienia mającego na celu zakłócenie konkurencji,
+d)	art. 108 ust. 1 pkt 6 ustawy Pzp.
+2.2 Dotyczących potwierdzenia spełnienia warunków udziału w postępowaniu:
+1)wykazu osób skierowanych przez Wykonawcę do realizacji zamówienia publicznego, w szczególności odpowiedzialnych za świadczenie usług, kontrolę jakości, wraz z informacjami na temat ich kwalifikacji zawodowych, uprawnień, niezbędnych do wykonania zamówienia publicznego, a także zakresu wykonywanych przez nie czynności oraz informacją o podstawie do dysponowania tymi osobami. Wykaz należy przygotować według wzoru stanowiącego załącznik  nr 7 do SWZ.
+3.Jeżeli wykonawca ma siedzibę lub miejsce zamieszkania poza granicami Rzeczypospolitej Polskiej, zamiast:
+1)informacji z Krajowego Rejestru Karnego, o której mowa w pkt.2.1 ppkt 1)– składa informację 
+z odpowiedniego rejestru, takiego jak rejestr sądowy, albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany przez właściwy organ sądowy lub administracyjny kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument , w zakresie, o którym mowa w pkt.2.1. ppkt 1) 
+2)odpisu albo informacji z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji 
+o Działalności Gospodarczej, o których mowa w  pkt.2.1 ppkt.3) – składa dokument lub dokumenty wystawione w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania, potwierdzające,  że nie otwarto jego likwidacji, nie ogłoszono upadłości, jego aktywami nie zarządza likwidator lub sąd, nie zawarł układu z wierzycielami, jego działalność gospodarcza nie jest zawieszona ani nie znajduje się on w innej tego rodzaju sytuacji wynikającej z podobnej procedury przewidzianej  w przepisach miejsca wszczęcia tej procedury.
+4.Dokument, o którym mowa w pkt 3  ppkt.1, powinien być wystawiony nie wcześniej niż 6 miesięcy przed jego złożeniem. Dokument, o których mowa w pkt.3 ppkt. 2 powinien być wystawiony nie wcześniej niż 3 miesiące przed ich złożeniem.
+5.Jeżeli w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument dotyczy, nie wydaje się dokumentów, o których mowa w pkt.3, lub gdy dokumenty te nie odnoszą się do wszystkich przypadków, o których mowa w art. 108 ust. 1 pkt 1, 2 i 4 ustawy Pzp, zastępuje się je odpowiednio w całości lub w części dokumentem zawierającym odpowiednio oświadczenie wykonawcy, ze wskazaniem osoby albo osób uprawnionych do jego reprezentacji, lub oświadczenie osoby, której dokument miał dotyczyć, złożone pod przysięgą, lub, jeżeli w kraju, w którym wykonawca  ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument miał dotyczyć, nie ma przepisów o oświadczeniu pod przysięgą, złożone przed organem sądowym lub administracyjnym, notariuszem, organem samorządu zawodowego lub gospodarczego, właściwym ze względu na siedzibę lub miejsce zamieszkania wykonawcy lub miejsce zamieszkania osoby, której dokument miał dotyczyć. Przepis pkt. 4 stosuje się.
+6.W przypadku wspólnego ubiegania się o zamówienie przez Wykonawców, oświadczenia i dokumenty określone pkt 2.1 składa każdy z Wykonawców wspólnie ubiegających się o zamówienie.
+7. Szczegółowe informacje dotyczące niniejszego postępowania zawarte są w SWZ.
+</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">50400000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">
+cena wg kolejności</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Cena</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1.Odwołanie wnosi się w terminie: a)10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia,
+jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, b)15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a; 2. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub konkurs lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, 3.Odwołanie w przypadkach innych niż określone w pkt. 1 i 2 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, 4.Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty lub nie zaprosił Wykonawcy do złożenia oferty w ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się nie później niż w terminie: a)30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia, a w przypadku udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki – ogłoszenia o wyniku postępowania albo ogłoszenia o udzieleniu zamówienia, zawierającego uzasadnienie
+udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki; b)6 miesięcy od dnia zawarcia umowy, jeżeli zamawiający: - nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia albo, - opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenie o udzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki. 5. Więcej informacji o środkach ochrony prawnej przysługujących Wykonawcy oraz innym podmiotom zostały zawarte w rozdziale XXIV SWZ. 6. Zasady, terminy oraz sposób korzystania ze środków ochrony prawnej szczegółowo regulują przepisy działu IX ustawy Pzp– Środki ochrony prawnej (art. 505 – 590 ustawy Pzp).</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Zadanie 1 - Przegląd i konserwacja automatów do barwienia PRISMA</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie 1 - Przegląd i konserwacja automatów do barwienia PRISMA
+</cbc:Name>
+         <cbc:Description languageID="POL">1. Przedmiotem niniejszego zamówienia są przeglądy i konserwacje urządzeń medycznych   dla Narodowego Instytutu Onkologii im. Marii Skłodowskiej - Curie  - Państwowego Instytutu Badawczego Oddziału w Gliwicach
+2. Opis  przedmiotu zamówienia oraz warunki realizacji zamówienia zawarte są  w załącznikach:    
+1)	Opis przedmiotu zamówienia, specyfikacja cenowa, oświadczenia   – załącznik nr  2.1-2.29 do SWZ,
+2)	Projektowane postanowienia umowy, które zostaną wprowadzone do treści umowy   – załącznik nr  4.1-4.4 do SWZ.
+3.Termin wykonania przedmiotu zamówienia :
+1)	w zakresie zadań  nr: 1-2, 4-13, 16-25   – 36 miesięcy od daty zawarcia umowy, zgodnie z zapisami SWZ,
+2)	w zakresie zadań: 3, 26 –  planowany termin wykonania umowy do 31.10.2024 r. , w przypadku  gdy w zakresie zadania nr 3 oraz 26 nie zostanie zawarta umowa do dnia 15.10.2024, termin 31.10.2024 r. zostanie zmieniony, przy czym wykonanie przeglądu nastąpi w jak najszybszym terminie, w takim przypadku umowa zostanie zawarta na okres 30 dni licząc od dnia zawarcia umowy. 
+3)	W zakresie zadań 14 - 15 – do 30 dni od daty zawarcia umowy zgodnie z zapisami SWZ r.,
+4)	W zakresie zadania nr 29 – przez okres 36 miesięcy licząc od dnia 12.02.2025 r.
+4. Zamawiający w niniejszym postępowaniu przetargowym przy ocenie ofert będzie stosował procedurę określoną w art. 139 ust. 1 ustawy Pzp.
+5. Szczegóły zawiera SWZ.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">50400000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>ul. Wybrzeże Armii Krajowej 15</cbc:StreetName>
+               <cbc:CityName>Gliwice</cbc:CityName>
+               <cbc:PostalZone>44-102</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL229</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2024-12-12+01:00</cbc:StartDate>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">
+cena wg kolejności</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Cena</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1.Odwołanie wnosi się w terminie: a)10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia,
+jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, b)15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a; 2. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub konkurs lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, 3.Odwołanie w przypadkach innych niż określone w pkt. 1 i 2 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, 4.Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty lub nie zaprosił Wykonawcy do złożenia oferty w ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się nie później niż w terminie: a)30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia, a w przypadku udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki – ogłoszenia o wyniku postępowania albo ogłoszenia o udzieleniu zamówienia, zawierającego uzasadnienie
+udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki; b)6 miesięcy od dnia zawarcia umowy, jeżeli zamawiający: - nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia albo, - opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenie o udzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki. 5. Więcej informacji o środkach ochrony prawnej przysługujących Wykonawcy oraz innym podmiotom zostały zawarte w rozdziale XXIV SWZ. 6. Zasady, terminy oraz sposób korzystania ze środków ochrony prawnej szczegółowo regulują przepisy działu IX ustawy Pzp– Środki ochrony prawnej (art. 505 – 590 ustawy Pzp).</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Zadanie 5 - Przegląd i konserwacja nakrywarek do szkiełek mikroskopowych FILM</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie 5 - Przegląd i konserwacja nakrywarek do szkiełek mikroskopowych FILM
+</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem niniejszego zamówienia są przeglądy i konserwacje urządzeń medycznych   dla Narodowego Instytutu Onkologii im. Marii Skłodowskiej - Curie  - Państwowego Instytutu Badawczego Oddziału w Gliwicach
+2. Opis  przedmiotu zamówienia oraz warunki realizacji zamówienia zawarte są  w załącznikach:    
+1)	Opis przedmiotu zamówienia, specyfikacja cenowa, oświadczenia   – załącznik nr  2.1-2.29 do SWZ,
+2)	Projektowane postanowienia umowy, które zostaną wprowadzone do treści umowy   – załącznik nr  4.1-4.4 do SWZ.
+3.Termin wykonania przedmiotu zamówienia :
+1)	w zakresie zadań  nr: 1-2, 4-13, 16-25   – 36 miesięcy od daty zawarcia umowy, zgodnie z zapisami SWZ,
+2)	w zakresie zadań: 3, 26 –  planowany termin wykonania umowy do 31. 10.2024 r. , w przypadku  gdy w zakresie zadania nr 3 oraz 26 nie zostanie zawarta umowa do dnia 15.10.2024, termin 31.10.2024 r. zostanie zmieniony, przy czym wykonanie przeglądu nastąpi w jak najszybszym terminie, w takim przypadku umowa zostanie zawarta na okres 30 dni licząc od dnia zawarcia umowy. 
+3)	W zakresie zadań 14 - 15 – do 30 dni od daty zawarcia umowy zgodnie z zapisami SWZ r.,
+4)	W zakresie zadania nr 29 – przez okres 36 miesięcy licząc od dnia 12.02.2025 r.
+4. Zamawiający w niniejszym postępowaniu przetargowym przy ocenie ofert będzie stosował procedurę określoną w art. 139 ust. 1 ustawy Pzp.
+5. Szczegóły zawiera SWZ.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">50400000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>ul. Wybrzeże Armii Krajowej 15</cbc:StreetName>
+               <cbc:CityName>Gliwice</cbc:CityName>
+               <cbc:PostalZone>44-102</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL229</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0024</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">
+cena wg kolejności</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Cena</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1.Odwołanie wnosi się w terminie: a)10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia,
+jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, b)15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a; 2. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub konkurs lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, 3.Odwołanie w przypadkach innych niż określone w pkt. 1 i 2 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, 4.Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty lub nie zaprosił Wykonawcy do złożenia oferty w ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się nie później niż w terminie: a)30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia, a w przypadku udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki – ogłoszenia o wyniku postępowania albo ogłoszenia o udzieleniu zamówienia, zawierającego uzasadnienie
+udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki; b)6 miesięcy od dnia zawarcia umowy, jeżeli zamawiający: - nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia albo, - opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenie o udzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki. 5. Więcej informacji o środkach ochrony prawnej przysługujących Wykonawcy oraz innym podmiotom zostały zawarte w rozdziale XXIV SWZ. 6. Zasady, terminy oraz sposób korzystania ze środków ochrony prawnej szczegółowo regulują przepisy działu IX ustawy Pzp– Środki ochrony prawnej (art. 505 – 590 ustawy Pzp).</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Zadanie 24 - Przegląd i konserwacja myjni- dezynfektora FD 1610</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie 24 - Przegląd i konserwacja myjni- dezynfektora FD 1610
+</cbc:Name>
+         <cbc:Description languageID="POL">1. Przedmiotem niniejszego zamówienia są przeglądy i konserwacje urządzeń medycznych   dla Narodowego Instytutu Onkologii im. Marii Skłodowskiej - Curie  - Państwowego Instytutu Badawczego Oddziału w Gliwicach
+2. Opis  przedmiotu zamówienia oraz warunki realizacji zamówienia zawarte są  w załącznikach:    
+1)	Opis przedmiotu zamówienia, specyfikacja cenowa, oświadczenia   – załącznik nr  2.1-2.29 do SWZ,
+2)	Projektowane postanowienia umowy, które zostaną wprowadzone do treści umowy   – załącznik nr  4.1-4.4 do SWZ.
+3.Termin wykonania przedmiotu zamówienia :
+1)	w zakresie zadań  nr: 1-2, 4-13, 16-25   – 36 miesięcy od daty zawarcia umowy, zgodnie z zapisami SWZ,
+2)	w zakresie zadań: 3, 26 –  planowany termin wykonania umowy do 31. 10.2024 r. , w przypadku  gdy 
+w zakresie zadania nr 3 oraz 26 nie zostanie zawarta umowa do dnia 15.10.2024, termin 31.10.2024 r. zostanie zmieniony, przy czym wykonanie przeglądu nastąpi w jak najszybszym terminie, w takim przypadku umowa zostanie zawarta na okres 30 dni licząc od dnia zawarcia umowy. 
+3)	W zakresie zadań 14 - 15 – do 30 dni od daty zawarcia umowy zgodnie z zapisami SWZ r.,
+4)	W zakresie zadania nr 29 – przez okres 36 miesięcy licząc od dnia 12.02.2025 r.
+4. Zamawiający w niniejszym postępowaniu przetargowym przy ocenie ofert będzie stosował procedurę określoną w art. 139 ust. 1 ustawy Pzp.
+5. Szczegóły zawiera SWZ.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">50400000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>ul. Wybrzeże Armii Krajowej 15</cbc:StreetName>
+               <cbc:CityName>Gliwice</cbc:CityName>
+               <cbc:PostalZone>44-102</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL229</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

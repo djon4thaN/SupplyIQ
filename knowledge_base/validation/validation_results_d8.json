@@ -1,0 +1,14 @@
+{
+  "phase": "D8",
+  "status": "validated_with_gaps",
+  "checks": {
+    "two_original_pdfs_present": true,
+    "pdfs_open_with_pdfinfo": true,
+    "pdf_text_extractable": true,
+    "document_index_complete": true,
+    "reference_restriction_logged": true,
+    "no_normalized_pdf_in_d8": true
+  },
+  "passed": 6,
+  "total": 6
+}

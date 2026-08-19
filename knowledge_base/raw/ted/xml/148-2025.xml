@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1660281.16</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>6</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">241650.72</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>BWS Sp. z o.o.</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-13+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Wykonanie 
+w ramach Generalnego Pomiaru Ruchu 2025 (GPR 2025) bezpośrednich pomiarów ruchu, na odcinkach pomiarowych dróg krajowych na terenie GDDKiA Oddział w Rzeszowie w wyznaczonych punktach w podziale na 5 części.
+Część 5 – GPR 2025 - bezpośredni pomiarów ruchu drogowego na odcinkach
+pomiarowych dróg krajowych obejmujących Rejon w Lesku</cbc:Title>
+                     <efac:ContractReference>
+                        <cbc:ID>O/RZ.D-3.2421.16.2024.5</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>BWS Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Skarb Państwa Generalny Dyrektor Dróg Krajowych i Autostrad ul. Wronia 53, 00-874 Warszawa, Prowadzący postępowanie: Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Rzeszowie</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Rzeszów</cbc:CityName>
+                           <cbc:PostalZone>35-959</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>8131106223</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>17 853-40-71</cbc:Telephone>
+                           <cbc:ElectronicMail>sekretariatrzeszow@gddkia.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02­-676  </cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>(22) 458 78 01</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">BWS Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Białystok</cbc:CityName>
+                           <cbc:PostalZone>15-809</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL841</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP: 5423371551</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000148-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">5ffbc10e-6708-4410-b2aa-aa468716cdaf</cbc:ID>
+   <cbc:ContractFolderID>1f7a910e-2971-4b82-8fd1-4d3e8c6bfbec</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>11:00:47Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">cga</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">380118-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">O/RZ.D-3.2421.16.2024</cbc:ID>
+      <cbc:Name languageID="POL">Wykonanie w ramach Generalnego Pomiaru Ruchu 2025 (GPR 2025) bezpośrednich
+pomiarów ruchu, na odcinkach pomiarowych dróg krajowych na terenie GDDKiA Oddział w
+Rzeszowie w wyznaczonych punktach w podziale na 5 części.</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest przeprowadzenie w ramach Generalnego Pomiaru Ruchu
+2025 (GPR 2025), bezpośrednich pomiarów ruchu drogowego na odcinkach pomiarowych
+dróg krajowych administrowanych przez Generalną Dyrekcję Dróg Krajowych i Autostrad
+Oddział w Rzeszowie. GPR 2025 będzie przeprowadzony zgodnie z „Wytycznymi organizacji i
+przeprowadzenia Generalnego Pomiaru Ruchu w 2025 roku na drogach krajowych”.
+Szczegółowy opis przedmiotu zamówienia zawiera Tom III – Opis przedmiotu zamówienia
+wraz z Wytycznymi organizacji i przeprowadzenia generalnego pomiaru ruchu w 2025 roku na
+drogach krajowych. Przedmiot zamówienia został podzielony na następujące części: Część 1
+– GPR 2025 - bezpośredni pomiarów ruchu drogowego na odcinkach pomiarowych dróg
+krajowych obejmujących Rejon w Rzeszowie; Część 2 – GPR 2025 - bezpośredni pomiarów
+ruchu drogowego na odcinkach pomiarowych dróg krajowych obejmujących Rejon w
+Przemyślu; Część 3 – GPR 2025 - bezpośredni pomiarów ruchu drogowego na odcinkach
+pomiarowych dróg krajowych obejmujących Rejon w Nisku; Część 4 – GPR 2025 -
+bezpośredni pomiarów ruchu drogowego na odcinkach pomiarowych dróg krajowych
+obejmujących Rejon w Krośnie; Część 5 – GPR 2025 - bezpośredni pomiarów ruchu
+drogowego na odcinkach pomiarowych dróg krajowych obejmujących Rejon w Lesku. Wartość
+zamówienia powyżej 143 000 EUR. Zamawiający nie zastrzega obowiązku osobistego
+wykonania przez Wykonawcę kluczowych zadań.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="PLN">1729800</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">63712710</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">63712700</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">.</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Waga kryterium wynosi 100 %</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Dokładne informacje na temat terminów składania odwołań:
+1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy Pzp, przysługują środki ochrony prawnej określone w Dziale IX ustawy Pzp. Środki ochrony prawnej wobec ogłoszenia o zamówieniu oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15) ustawy Pzp oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+2. Odwołanie przysługuje wyłącznie od niezgodnej z przepisami ustawy Pzp czynności Zamawiającego podjętej w niniejszym postępowaniu o udzielenie zamówienia w tym na projektowane postanowienia umowy oraz na zaniechanie czynności, do której Zamawiający był zobowiązany na podstawie ustawy Pzp.
+3. Odwołanie powinno zawierać informacje, o których mowa w art. 516 ustawy Pzp.
+4. Odwołanie wnosi się do Prezesa Izby w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej opatrzonej podpisem zaufanym.
+5. Odwołujący przekazuje kopię odwołania Zamawiającemu przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu. Domniemywa się, iż Zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przesłanie jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej. Kopię odwołania zamawiającemu należy przesłać za pośrednictwem Platformy. Po zgłoszeniu do postępowania należy w zakładce „Postępowania”, wybrać „Moje postępowania” a następnie wybrać niniejsze postępowanie oraz korzystając z zakładki „Pytania/informacje”, polecenie „Nowe/wysłane” i następnie „Dodaj pytanie/ komentarz” przekazać treść odwołania lub załączyć pliki.
+6. Terminy wniesienia odwołania:
+1) Odwołanie wnosi się w terminie 10 dni od dnia przesłania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia - jeżeli informacja została przekazana przy użycie środków komunikacji elektronicznej albo w terminie 15 dni - jeżeli została przekazana w inny sposób;
+2) Odwołanie wobec treści ogłoszenia o zamówieniu lub wobec treści dokumentów zamówienia, wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na Platformie;
+3) Odwołanie wobec czynności innych niż określone w pkt. 1) i 2) powyżej wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.
+4) Jeżeli Zamawiający nie przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty odwołanie wnosi się nie później niż w terminie:
+a) 30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia;
+b) 6 miesięcy od dnia zawarcia umowy, jeżeli Zamawiający nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia;
+7. Szczegółowe zasady postępowania po wniesieniu odwołania, określają stosowne przepisy Działu IX ustawy Pzp.
+8. Na orzeczenie Krajowej Izby Odwoławczej, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do Sądu Okręgowego w Warszawie – sądu zamówień publicznych.
+9. Skargę wnosi za pośrednictwem Prezesa Krajowej Izby Odwoławczej w terminie 14 dni od dnia doręczenia orzeczenia Krajowej Izby Odwoławczej lub postanowienia Prezesa izby, o którym mowa w art. 519 ust. 1 ustawy Pzp, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego. w rozumieniu ustawy z dnia 23.11.2012r. - Prawo pocztowe albo wysłanie na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020r. o doręczeniach elektronicznych, jest równoznaczne z jej wniesieniem.
+10. Od wyroku sądu lub postanowienia kończącego postępowanie w sprawie przysługuje skarga kasacyjna do Sądu Najwyższego.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">O/RZ.D-3.2421.16.2024.5</cbc:ID>
+         <cbc:Name languageID="POL">Część 5 – GPR 2025 - bezpośredni pomiarów ruchu drogowego na odcinkach
+pomiarowych dróg krajowych obejmujących Rejon w Lesku</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest przeprowadzenie w ramach Generalnego Pomiaru Ruchu 2025 (GPR 2025), bezpośrednich pomiarów ruchu drogowego na odcinkach pomiarowych dróg krajowych administrowanych przez Generalną Dyrekcję Dróg Krajowych i Autostrad Oddział w Rzeszowie. GPR 2025 będzie przeprowadzony zgodnie z „Wytycznymi organizacji i przeprowadzenia Generalnego Pomiaru Ruchu w 2025 roku na drogach krajowych”. Szczegółowy opis przedmiotu zamówienia zawiera Tom III – Opis przedmiotu zamówienia wraz z Wytycznymi organizacji i przeprowadzenia generalnego pomiaru ruchu w 2025 roku na drogach krajowych.  Przedmiot zamówienia został podzielony na następujące części: Część 5 – GPR 2025 - bezpośredni pomiarów ruchu drogowego na odcinkach
+pomiarowych dróg krajowych obejmujących Rejon w Lesku; Wartość zamówienia powyżej 143 000 EUR.
+Zamawiający nie zastrzega obowiązku osobistego wykonania przez Wykonawcę kluczowych
+zadań.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">63712710</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">63712700</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">12</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

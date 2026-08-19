@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1884246</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>7</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>7</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>7</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0003</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>6</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>6</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>6</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0004</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0004</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0004</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0004</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">323066.9</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta na PAKIET NR 1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">735982</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta na PAKIET NR 2</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">179697.7</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta na PAKIET NR 3</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0004</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">645499.4</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0004</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta na PAKIET NR 4</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-11+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>SA.271.21.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     <cbc:IssueDate>2024-12-11+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>SA.271.22.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+                     <cbc:IssueDate>2024-12-11+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>SA.271.23.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0004</cbc:ID>
+                     <cbc:IssueDate>2024-12-11+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>SA.271.24.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0004</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Forest Brothers Szymon Michalski</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://tomaszow.lublin.lasy.gov.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://ezamowienia.gov.pl/pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Tomaszów
+</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Mickiewicza 1</cbc:StreetName>
+                           <cbc:CityName>Pasieki</cbc:CityName>
+                           <cbc:PostalZone>22-600</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>9210004658</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 84 664 24 58</cbc:Telephone>
+                           <cbc:ElectronicMail>tomaszow@lublin.lasy.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.gov.pl/web/uzp</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://epuap.gov.pl/wps/portal/strefa-klienta/katalog-spraw/opis-uslugi/odwolanie-do-krajowej-izby-odwolawczej/UZP</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza
+</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:Department>Biuro Odwołań</cbc:Department>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 (22) 458 78 01</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">FOREST BROTHERS Szymon Michalski</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Marii Skłodowskiejcurie, Nr 156</cbc:StreetName>
+                           <cbc:CityName>Skierniewice</cbc:CityName>
+                           <cbc:PostalZone>96-100</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL715</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>8361805775</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000594-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">91afa444-386f-48e0-a219-27d7f5922fee</cbc:ID>
+   <cbc:ContractFolderID>af59912b-10b6-4651-9d37-4f4d5ecbbf9e</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>09:48:31Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://www.gov.pl/web/nadlesnictwo-tomaszow/zamowienia-publiczne4</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">econ-aff</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>Ustawa z dnia 11 września 2019 r. Prawo zamówień publicznych</cbc:ID>
+         <cbc:DocumentDescription languageID="POL">przetarg nieograniczony na podstawie art. 129 ust. 1 pkt 1) w zw. z art. 129 ust. 2 oraz art. 132 - 139 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (tekst jedn. Dz. U. z 2024 r. poz. 1320 ze zm.)</cbc:DocumentDescription>
+      </cac:ProcurementLegislationDocumentReference>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">611927-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">true</cbc:ProcessReasonCode>
+         <cbc:ProcessReason languageID="POL">Zamawiający wyznacza termin składania ofert zgodnie z art. 138 ust. 4 ustawy Prawo zamówień publicznych.</cbc:ProcessReason>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">SA.270.12.2024</cbc:ID>
+      <cbc:Name languageID="POL">Wycinka drzew i krzewów wraz z uprzątnięciem, na potrzeby realizacji inwestycji drogowych pod budowę drogi ekspresowej S17 Piaski-Hrebenne,  S17 - odcinki nr 7 i 9.</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia są prace z zakresu ścinki, zrywki drzew i wyróbki sortymentów oraz wycinki drzewek i krzewów na powierzchniach otwartych wraz z uprzątnięciem powierzchni pozrębowych, do wykonania na terenie Nadleśnictwa Tomaszów w związku z budową odcinków drogi ekspresowej S17 Piaski-Hrebenne, Odcinek nr 7: węzeł „Zamość Południe" bez węzła – węzeł „Tomaszów Lubelski Północ” bez węzła; dł. ok. 18,498 km” oraz Odcinek nr 9: Tomaszów Lubelski (koniec ‎‎obwodnicy) – Hrebenne (początek obwodnicy), długości ok. 17,3 km”. Szczegółowy zakres prac zawarty jest w dokumentach zamówienia (Specyfikacji Warunków Zamówienia i jej załącznikach).</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">W postępowaniu mogą brać udział Wykonawcy, którzy nie podlegają wykluczeniu z postępowania o udzielenie zamówienia w okolicznościach, o których mowa w art. 108 ust. 1 PZP oraz art. 109 ust. 1 pkt 15 i 710 PZP. Złożenie oferty oraz Komunikacja między Zamawiającym, a Wykonawcami odbywa się wyłącznie przy użyciu Platformy eZamówienia („Platforma”), która jest dostępna pod adresem: https://ezamowienia.gov.pl. Korzystanie z Platformy eZamówienia jest bezpłatne. Szczegółowe informacje zawarte są w SWZ. Szacunkowa wartość zamówienia wykazana jest sumą: zamówienia podstawowego (wartość zamówienia netto plus prawo opcji na poziomie 30 %).</cbc:Note>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="PLN">2031756.33</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77200000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77210000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77211000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77211100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77211200</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77211400</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="POL">Postępowanie prowadzone będzie zgodnie z zasadami przewidzianymi dla tzw. „procedury odwróconej”, o której mowa w art. 139 ust. 1, 3 4 PZP. Specyfikacja Warunków Zamówienia (SWZ) stanowi dokumenty zamówienia. Pozostałe informacje zawiera SWZ. Wykaz oświadczeń oraz podmiotowych środków dowodowych w celu wykazania braku podstaw wykluczenia z postępowania oraz spełniania warunków udziału w postępowaniu zawarty będzie w SWZ.</cbc:Description>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Ocenie w ramach kryterium „Cena” podlegać będzie cena łączna brutto podana w Formularzu Oferty dla danego Pakietu (Załącznik nr 1 do SWZ).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów PZP, przysługują środki ochrony prawnej określone w dziale IX PZP tj. odwołanie i skarga do sądu. Postępowanie odwoławcze uregulowane zostało w przepisach art. 506-578 PZP, a postępowanie skargowe w przepisach art. 579-590 PZP.
+2. Odwołanie przysługuje na:
+1) niezgodną z przepisami PZP czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+2) zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie PZP;
+3) zaniechanie przeprowadzenia postępowania o udzielenie zamówienia na podstawie PZP, mimo że Zamawiający był do tego obowiązany.
+3. Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo w postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.  Domniemywa się, że Zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
+4. Odwołanie wnosi się w terminie: (a) 10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, (b) 15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. (a).
+5. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej.
+6. Odwołanie w przypadkach innych niż określone w pkt 19.4. i 19.5 SWZ wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia. 
+7. Na orzeczenie Krajowej Izby Odwoławczej oraz postanowienie Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, stronom oraz uczestnikom postępowania przysługuje skarga do sądu. Skargę wnosi się do Sądu Okręgowego w Warszawie - sądu zamówień publicznych. Skargę wnosi się za pośrednictwem Prezesa Krajowej Izby Odwoławczej, w terminie 14 dni od dnia doręczenia orzeczenia Krajowej Izby Odwoławczej lub postanowienia Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (tekst jedn. Dz. U. z 2022 r. poz. 896 z późn. zm.), jest równoznaczne z jej wniesieniem. 
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Pakiet nr 1 - Leśnictwo Skrzypny Ostrów</cbc:ID>
+         <cbc:Name languageID="POL">Pakiet nr 1 - Leśnictwo Skrzypny Ostrów</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia są prace z zakresu ścinki, zrywki drzew i wyróbki sortymentów oraz wycinki drzewek i krzewów na powierzchniach otwartych wraz z uprzątnięciem powierzchni pozrębowych, do wykonania na terenie Nadleśnictwa Tomaszów w związku z budową odcinka drogi ekspresowej S17 Piaski-Hrebenne, Odcinek nr 7: węzeł „Zamość Południe" bez węzła – węzeł „Tomaszów Lubelski Północ” bez węzła; dł. ok. 18,498 km.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">Szacunkowa wartość zamówienia wykazana jest sumą: zamówienia podstawowego (wartość zamówienia netto plus prawo opcji na poziomie 30 %). Okres realizacji zamówienia: 90 dni kalendarzowych od dnia podpisania umowy. Zamawiający może zlecić w trakcie realizacji Umowy zakres prac mniejszy niż wskazany w SWZ, jednak nie mniej niż 70 % Wartości Przedmiotu Umowy. Zamawiający zgodnie z art. 95 PZP wymaga zatrudnienia przez Wykonawcę lub podwykonawcę na podstawie stosunku pracy osób wykonujących czynności w zakresie realizacji zamówienia polegające na pozyskaniu i zrywce surowca drzewnego, jeżeli wykonanie tych czynności polega na wykonywaniu pracy w sposób określony w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.</cbc:Note>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="PLN">360732.71</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77200000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Teren Nadleśnictwa Tomaszów, obszar realizacji pakietu - Leśnictwo Skrzypny Ostrów</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="DAY">90</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">W stosunku do każdego Pakietu Zamawiający jest uprawniony zlecić Wykonawcy dodatkowy zakres rzeczowy w stosunku do każdej z pozycji kosztorysu ofertowego stanowiącego część Oferty („Opcja”). Przedmiotem Opcji będą takie same (analogiczne) prace, jak opisane w SWZ i wycenione przez Wykonawcę w którejkolwiek z pozycji kosztorysu ofertowego stanowiącego część Oferty. W ramach Opcji, wedle wyboru Zamawiającego, mogą zostać zlecone wszystkie, niektóre lub tylko jedna z prac wskazanych w SWZ i wycenionych przez Wykonawcę w kosztorysie ofertowym stanowiącym część Oferty.
+Prace będące przedmiotem Opcji mogą zostać zlecone w ilości, której łączna wartość nie będzie przekraczała 30 % Wynagrodzenia z dnia zawarcia Umowy, zgodnie z §11 ust 1 wzoru umowy stanowiącego Załącznik nr 12 do SWZ. Podstawą określenia wartości prac zleconych w ramach Opcji (w celu określenia jej zakresu) będą ceny jednostkowe poszczególnych prac zawarte w kosztorysie ofertowym stanowiącym część Oferty.
+Zamawiający nie jest zobowiązany do zlecenia prac objętych przedmiotem Opcji, a Wykonawcy nie służy roszczenie o ich zlecenie.  
+Zamawiający przewiduje możliwość skorzystania z Opcji w przypadku: (1) wystąpienia konieczności zwiększenia zakresu rzeczowego usług stanowiących przedmiot zamówienia w następstwie przyczyn przyrodniczych, klimatycznych, atmosferycznych, (2) zmian na rynku sprzedaży drewna lub powierzenia Zamawiającemu nowych zadań gospodarczych lub publicznych, (3) powierzania Wykonawcy prac stanowiących wykonawstwo zastępcze w stosunku do prac realizowanych przez innego wykonawcę (na Obszarze Realizacji Pakietu)
+</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Ocenie w ramach kryterium „Cena” podlegać będzie cena łączna brutto podana w Formularzu Oferty dla danego Pakietu (Załącznik nr 1 do SWZ).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów PZP, przysługują środki ochrony prawnej określone w dziale IX PZP tj. odwołanie i skarga do sądu. Postępowanie odwoławcze uregulowane zostało w przepisach art. 506-578 PZP, a postępowanie skargowe w przepisach art. 579-590 PZP.
+2. Odwołanie przysługuje na:
+1) niezgodną z przepisami PZP czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+2) zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie PZP;
+3) zaniechanie przeprowadzenia postępowania o udzielenie zamówienia na podstawie PZP, mimo że Zamawiający był do tego obowiązany.
+3. Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo w postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.  Domniemywa się, że Zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
+4. Odwołanie wnosi się w terminie: (a) 10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, (b) 15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. (a).
+5. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej.
+6. Odwołanie w przypadkach innych niż określone w pkt 19.4. i 19.5 SWZ wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia. 
+7. Na orzeczenie Krajowej Izby Odwoławczej oraz postanowienie Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, stronom oraz uczestnikom postępowania przysługuje skarga do sądu. Skargę wnosi się do Sądu Okręgowego w Warszawie - sądu zamówień publicznych. Skargę wnosi się za pośrednictwem Prezesa Krajowej Izby Odwoławczej, w terminie 14 dni od dnia doręczenia orzeczenia Krajowej Izby Odwoławczej lub postanowienia Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (tekst jedn. Dz. U. z 2022 r. poz. 896 z późn. zm.), jest równoznaczne z jej wniesieniem. 
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Pakiet nr 2 - Leśnictwo Pańków</cbc:ID>
+         <cbc:Name languageID="POL">Pakiet nr 2 - Leśnictwo Pańków</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia są prace z zakresu ścinki, zrywki drzew i wyróbki sortymentów oraz wycinki drzewek i krzewów na powierzchniach otwartych wraz z uprzątnięciem powierzchni pozrębowych, do wykonania na terenie Nadleśnictwa Tomaszów w związku z budową odcinka drogi ekspresowej S17 Piaski-Hrebenne, Odcinek nr 7: węzeł „Zamość Południe" bez węzła – węzeł „Tomaszów Lubelski Północ” bez węzła; dł. ok. 18,498 km.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">Szacunkowa wartość zamówienia wykazana jest sumą: zamówienia podstawowego (wartość zamówienia netto plus prawo opcji na poziomie 30 %). Okres realizacji zamówienia: 90 dni kalendarzowych od dnia podpisania umowy. Zamawiający może zlecić w trakcie realizacji Umowy zakres prac mniejszy niż wskazany w SWZ, jednak nie mniej niż 70 % Wartości Przedmiotu Umowy. Zamawiający zgodnie z art. 95 PZP wymaga zatrudnienia przez Wykonawcę lub podwykonawcę na podstawie stosunku pracy osób wykonujących czynności w zakresie realizacji zamówienia polegające na pozyskaniu i zrywce surowca drzewnego, jeżeli wykonanie tych czynności polega na wykonywaniu pracy w sposób określony w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.</cbc:Note>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="PLN">786051.23</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77200000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Teren Nadleśnictwa Tomaszów, obszar realizacji pakietu - Leśnictwo Pańków</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="DAY">90</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">W stosunku do każdego Pakietu Zamawiający jest uprawniony zlecić Wykonawcy dodatkowy zakres rzeczowy w stosunku do każdej z pozycji kosztorysu ofertowego stanowiącego część Oferty („Opcja”). Przedmiotem Opcji będą takie same (analogiczne) prace, jak opisane w SWZ i wycenione przez Wykonawcę w którejkolwiek z pozycji kosztorysu ofertowego stanowiącego część Oferty. W ramach Opcji, wedle wyboru Zamawiającego, mogą zostać zlecone wszystkie, niektóre lub tylko jedna z prac wskazanych w SWZ i wycenionych przez Wykonawcę w kosztorysie ofertowym stanowiącym część Oferty.
+Prace będące przedmiotem Opcji mogą zostać zlecone w ilości, której łączna wartość nie będzie przekraczała 30 % Wynagrodzenia z dnia zawarcia Umowy, zgodnie z §11 ust 1 wzoru umowy stanowiącego Załącznik nr 12 do SWZ. Podstawą określenia wartości prac zleconych w ramach Opcji (w celu określenia jej zakresu) będą ceny jednostkowe poszczególnych prac zawarte w kosztorysie ofertowym stanowiącym część Oferty.
+Zamawiający nie jest zobowiązany do zlecenia prac objętych przedmiotem Opcji, a Wykonawcy nie służy roszczenie o ich zlecenie.  
+Zamawiający przewiduje możliwość skorzystania z Opcji w przypadku: (1) wystąpienia konieczności zwiększenia zakresu rzeczowego usług stanowiących przedmiot zamówienia w następstwie przyczyn przyrodniczych, klimatycznych, atmosferycznych, (2) zmian na rynku sprzedaży drewna lub powierzenia Zamawiającemu nowych zadań gospodarczych lub publicznych, (3) powierzania Wykonawcy prac stanowiących wykonawstwo zastępcze w stosunku do prac realizowanych przez innego wykonawcę (na Obszarze Realizacji Pakietu)
+</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Ocenie w ramach kryterium „Cena” podlegać będzie cena łączna brutto podana w Formularzu Oferty dla danego Pakietu (Załącznik nr 1 do SWZ).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów PZP, przysługują środki ochrony prawnej określone w dziale IX PZP tj. odwołanie i skarga do sądu. Postępowanie odwoławcze uregulowane zostało w przepisach art. 506-578 PZP, a postępowanie skargowe w przepisach art. 579-590 PZP.
+2. Odwołanie przysługuje na:
+1) niezgodną z przepisami PZP czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+2) zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie PZP;
+3) zaniechanie przeprowadzenia postępowania o udzielenie zamówienia na podstawie PZP, mimo że Zamawiający był do tego obowiązany.
+3. Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo w postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.  Domniemywa się, że Zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
+4. Odwołanie wnosi się w terminie: (a) 10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, (b) 15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. (a).
+5. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej.
+6. Odwołanie w przypadkach innych niż określone w pkt 19.4. i 19.5 SWZ wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia. 
+7. Na orzeczenie Krajowej Izby Odwoławczej oraz postanowienie Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, stronom oraz uczestnikom postępowania przysługuje skarga do sądu. Skargę wnosi się do Sądu Okręgowego w Warszawie - sądu zamówień publicznych. Skargę wnosi się za pośrednictwem Prezesa Krajowej Izby Odwoławczej, w terminie 14 dni od dnia doręczenia orzeczenia Krajowej Izby Odwoławczej lub postanowienia Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (tekst jedn. Dz. U. z 2022 r. poz. 896 z późn. zm.), jest równoznaczne z jej wniesieniem. 
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Pakiet nr 3 - Leśnictwo Bełżec</cbc:ID>
+         <cbc:Name languageID="POL">Pakiet nr 3 - Leśnictwo Bełżec</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia są prace z zakresu ścinki, zrywki drzew i wyróbki sortymentów oraz wycinki drzewek i krzewów na powierzchniach otwartych wraz z uprzątnięciem powierzchni pozrębowych, do wykonania na terenie Nadleśnictwa Tomaszów w związku z budową odcinka drogi ekspresowej S17 Piaski-Hrebenne, Odcinek nr 9: Tomaszów Lubelski (koniec ‎‎obwodnicy) – Hrebenne (początek obwodnicy), długości ok. 17,3 km.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">Szacunkowa wartość zamówienia wykazana jest sumą: zamówienia podstawowego (wartość zamówienia netto plus prawo opcji na poziomie 30 %). Okres realizacji zamówienia: 90 dni kalendarzowych od dnia podpisania umowy. Zamawiający może zlecić w trakcie realizacji Umowy zakres prac mniejszy niż wskazany w SWZ, jednak nie mniej niż 70 % Wartości Przedmiotu Umowy. Zamawiający zgodnie z art. 95 PZP wymaga zatrudnienia przez Wykonawcę lub podwykonawcę na podstawie stosunku pracy osób wykonujących czynności w zakresie realizacji zamówienia polegające na pozyskaniu i zrywce surowca drzewnego, jeżeli wykonanie tych czynności polega na wykonywaniu pracy w sposób określony w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.</cbc:Note>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="PLN">202792.76</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77200000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Teren Nadleśnictwa Tomaszów, obszar realizacji pakietu - Leśnictwo Bełżec</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="DAY">90</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">W stosunku do każdego Pakietu Zamawiający jest uprawniony zlecić Wykonawcy dodatkowy zakres rzeczowy w stosunku do każdej z pozycji kosztorysu ofertowego stanowiącego część Oferty („Opcja”). Przedmiotem Opcji będą takie same (analogiczne) prace, jak opisane w SWZ i wycenione przez Wykonawcę w którejkolwiek z pozycji kosztorysu ofertowego stanowiącego część Oferty. W ramach Opcji, wedle wyboru Zamawiającego, mogą zostać zlecone wszystkie, niektóre lub tylko jedna z prac wskazanych w SWZ i wycenionych przez Wykonawcę w kosztorysie ofertowym stanowiącym część Oferty.
+Prace będące przedmiotem Opcji mogą zostać zlecone w ilości, której łączna wartość nie będzie przekraczała 30 % Wynagrodzenia z dnia zawarcia Umowy, zgodnie z §11 ust 1 wzoru umowy stanowiącego Załącznik nr 12 do SWZ. Podstawą określenia wartości prac zleconych w ramach Opcji (w celu określenia jej zakresu) będą ceny jednostkowe poszczególnych prac zawarte w kosztorysie ofertowym stanowiącym część Oferty.
+Zamawiający nie jest zobowiązany do zlecenia prac objętych przedmiotem Opcji, a Wykonawcy nie służy roszczenie o ich zlecenie.  
+Zamawiający przewiduje możliwość skorzystania z Opcji w przypadku: (1) wystąpienia konieczności zwiększenia zakresu rzeczowego usług stanowiących przedmiot zamówienia w następstwie przyczyn przyrodniczych, klimatycznych, atmosferycznych, (2) zmian na rynku sprzedaży drewna lub powierzenia Zamawiającemu nowych zadań gospodarczych lub publicznych, (3) powierzania Wykonawcy prac stanowiących wykonawstwo zastępcze w stosunku do prac realizowanych przez innego wykonawcę (na Obszarze Realizacji Pakietu)
+</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0004</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Ocenie w ramach kryterium „Cena” podlegać będzie cena łączna brutto podana w Formularzu Oferty dla danego Pakietu (Załącznik nr 1 do SWZ).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów PZP, przysługują środki ochrony prawnej określone w dziale IX PZP tj. odwołanie i skarga do sądu. Postępowanie odwoławcze uregulowane zostało w przepisach art. 506-578 PZP, a postępowanie skargowe w przepisach art. 579-590 PZP.
+2. Odwołanie przysługuje na:
+1) niezgodną z przepisami PZP czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+2) zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie PZP;
+3) zaniechanie przeprowadzenia postępowania o udzielenie zamówienia na podstawie PZP, mimo że Zamawiający był do tego obowiązany.
+3. Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo w postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.  Domniemywa się, że Zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
+4. Odwołanie wnosi się w terminie: (a) 10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, (b) 15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. (a).
+5. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej.
+6. Odwołanie w przypadkach innych niż określone w pkt 19.4. i 19.5 SWZ wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia. 
+7. Na orzeczenie Krajowej Izby Odwoławczej oraz postanowienie Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, stronom oraz uczestnikom postępowania przysługuje skarga do sądu. Skargę wnosi się do Sądu Okręgowego w Warszawie - sądu zamówień publicznych. Skargę wnosi się za pośrednictwem Prezesa Krajowej Izby Odwoławczej, w terminie 14 dni od dnia doręczenia orzeczenia Krajowej Izby Odwoławczej lub postanowienia Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (tekst jedn. Dz. U. z 2022 r. poz. 896 z późn. zm.), jest równoznaczne z jej wniesieniem. 
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Pakiet nr 4 - Leśnictwa Potoki i Lubycza Królewska</cbc:ID>
+         <cbc:Name languageID="POL">Pakiet nr 4 - Leśnictwa Potoki i Lubycza Królewska</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia są prace z zakresu ścinki, zrywki drzew i wyróbki sortymentów oraz wycinki drzewek i krzewów na powierzchniach otwartych wraz z uprzątnięciem powierzchni pozrębowych, do wykonania na terenie Nadleśnictwa Tomaszów w związku z budową odcinka drogi ekspresowej S17 Piaski-Hrebenne, Odcinek nr 9: Tomaszów Lubelski (koniec ‎‎obwodnicy) – Hrebenne (początek obwodnicy), długości ok. 17,3 km.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">Szacunkowa wartość zamówienia wykazana jest sumą: zamówienia podstawowego (wartość zamówienia netto plus prawo opcji na poziomie 30 %). Okres realizacji zamówienia: 90 dni kalendarzowych od dnia podpisania umowy. Zamawiający może zlecić w trakcie realizacji Umowy zakres prac mniejszy niż wskazany w SWZ, jednak nie mniej niż 70 % Wartości Przedmiotu Umowy. Zamawiający zgodnie z art. 95 PZP wymaga zatrudnienia przez Wykonawcę lub podwykonawcę na podstawie stosunku pracy osób wykonujących czynności w zakresie realizacji zamówienia polegające na pozyskaniu i zrywce surowca drzewnego, jeżeli wykonanie tych czynności polega na wykonywaniu pracy w sposób określony w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.</cbc:Note>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="PLN">682179.63</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77200000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Teren Nadleśnictwa Tomaszów, obszar realizacji pakietu - Leśnictwa Potoki i Lubycza Królewska</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="DAY">90</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">W stosunku do każdego Pakietu Zamawiający jest uprawniony zlecić Wykonawcy dodatkowy zakres rzeczowy w stosunku do każdej z pozycji kosztorysu ofertowego stanowiącego część Oferty („Opcja”). Przedmiotem Opcji będą takie same (analogiczne) prace, jak opisane w SWZ i wycenione przez Wykonawcę w którejkolwiek z pozycji kosztorysu ofertowego stanowiącego część Oferty. W ramach Opcji, wedle wyboru Zamawiającego, mogą zostać zlecone wszystkie, niektóre lub tylko jedna z prac wskazanych w SWZ i wycenionych przez Wykonawcę w kosztorysie ofertowym stanowiącym część Oferty.
+Prace będące przedmiotem Opcji mogą zostać zlecone w ilości, której łączna wartość nie będzie przekraczała 30 % Wynagrodzenia z dnia zawarcia Umowy, zgodnie z §11 ust 1 wzoru umowy stanowiącego Załącznik nr 12 do SWZ. Podstawą określenia wartości prac zleconych w ramach Opcji (w celu określenia jej zakresu) będą ceny jednostkowe poszczególnych prac zawarte w kosztorysie ofertowym stanowiącym część Oferty.
+Zamawiający nie jest zobowiązany do zlecenia prac objętych przedmiotem Opcji, a Wykonawcy nie służy roszczenie o ich zlecenie.  
+Zamawiający przewiduje możliwość skorzystania z Opcji w przypadku: (1) wystąpienia konieczności zwiększenia zakresu rzeczowego usług stanowiących przedmiot zamówienia w następstwie przyczyn przyrodniczych, klimatycznych, atmosferycznych, (2) zmian na rynku sprzedaży drewna lub powierzenia Zamawiającemu nowych zadań gospodarczych lub publicznych, (3) powierzania Wykonawcy prac stanowiących wykonawstwo zastępcze w stosunku do prac realizowanych przez innego wykonawcę (na Obszarze Realizacji Pakietu)
+</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

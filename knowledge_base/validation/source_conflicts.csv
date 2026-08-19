@@ -1,0 +1,2 @@
+conflict_id,topic,entity_type,entity_id,source_id_a,claim_a,source_id_b,claim_b,resolution_status,resolution_notes,last_checked_at
+conf_0001,duplicate_source_supplier_id_within_subset,supplier,sup_0061;sup_0104,file_nist_015,ID de origem 'VITAE_DIAM' aparece 2 vezes com nomes: Donec Tincidunt Company | Vitae Diam Incorporated,,,unresolved_kept_separate,Registros mantidos como entidades separadas com IDs internos distintos conforme secao 9 regra 5 do prompt mestre (manter separado quando houver duvida). Relacoes que referenciam este ID de origem ficam ambiguas.,2026-08-19

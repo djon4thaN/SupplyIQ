@@ -1,0 +1,8 @@
+metric,value
+selected_source_records,300
+unique_contracts,288
+unique_suppliers,285
+unique_projects,127
+multi_supplier_contracts_without_inferred_total,10
+contracts_with_direct_total,278
+currency,USD

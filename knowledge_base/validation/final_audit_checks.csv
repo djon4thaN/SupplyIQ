@@ -1,0 +1,20 @@
+check_id,status,detail
+final_001,passed,All registered sources are marked official.
+final_002,passed,All registered sources have license name and URL.
+final_003,passed,All registered sources have HTTP(S) URLs.
+final_004,passed,Raw source files are preserved.
+final_005,passed,TED and World Bank subset registries are present.
+final_006,passed,Data Dictionary is present.
+final_007,passed,Document Index is present.
+final_008,passed,Relationship Catalog is present.
+final_009,passed,Capability Matrix contains 13 assessed questions.
+final_010,passed,Research gaps and source conflicts are registered.
+final_011,passed,Relationship catalog IDs are unique.
+final_012,passed,All retained documents have normalized PDF paths.
+final_013,passed,Hybrid capabilities explicitly separate general guidance from structured evidence.
+final_014,passed,File registry is present.
+final_015,passed,Data quality report is present.
+final_016,passed,Canonical processed metadata and validation CSVs are UTF-8 parseable; raw source encodings are preserved
+final_017,passed,Foreign-key references: passed
+final_018,warning,Open known gaps are preserved and visible: 3
+final_019,passed,Exact duplicate rows removed from canonical processed tables

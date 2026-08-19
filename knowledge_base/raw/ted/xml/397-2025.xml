@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">545646.03</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">545646.03</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">545646.03</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-verif-inad-low</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">545646.03</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermDescription languageID="POL">Dostawa, instalacja, szkolenie w zakresie obsługi, serwis gwarancyjny itp. (z wyjątkiem usługi finansowania,
+którą Wykonawca wykona samodzielnie).</efbc:TermDescription>
+                        <efbc:TermCode listName="applicability">yes</efbc:TermCode>
+                        <efbc:PercentageKnownIndicator>false</efbc:PercentageKnownIndicator>
+                        <efbc:ValueKnownIndicator>false</efbc:ValueKnownIndicator>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>1 Oferta</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-03+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>1 Umowa</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>1 Oferta </cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                     <efac:SubContractor>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        <efac:MainContractor>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </efac:MainContractor>
+                     </efac:SubContractor>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.szpital.mielec.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Szpital Specjalistyczny im. Edmunda Biernackiego Mielcu</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Żeromskiego 22</cbc:StreetName>
+                           <cbc:CityName>Mielec</cbc:CityName>
+                           <cbc:PostalZone>39-300</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL824</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON: 000308637</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Zamówienia Publiczne</cbc:Name>
+                           <cbc:Telephone>17 780-01-46</cbc:Telephone>
+                           <cbc:ElectronicMail>przetargi@szpital.mielec.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP: 5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Krajowa Izba Odwoławcza</cbc:Name>
+                           <cbc:Telephone>+48 22 458 78 01</cbc:Telephone>
+                           <cbc:Telefax>+48 22 458 78 00</cbc:Telefax>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.medfinance.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">BFF MEDFinance S.A.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Kilińskiego 66</cbc:StreetName>
+                           <cbc:CityName>Łódź</cbc:CityName>
+                           <cbc:PostalZone>90-118</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL712</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP:7252027054</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Izabella Ogrodowczyk</cbc:Name>
+                           <cbc:Telephone>+48 538 242 301</cbc:Telephone>
+                           <cbc:ElectronicMail>izabella.ogrodowczyk@medfinance.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.stryker.com</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Stryker Polska Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Poleczki 35</cbc:StreetName>
+                           <cbc:CityName>Łódź</cbc:CityName>
+                           <cbc:PostalZone>02-822</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP: 9520015337</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000397-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">5d5bdcb7-ac5d-45ca-b3ee-f604c24bdb04</cbc:ID>
+   <cbc:ContractFolderID>f8a666b8-a7b5-44ba-98da-a23954692feb</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>08:22:20Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://ezamowienia.gov.pl</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">health</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>Przetarg nieograniczony - art. 132 ustawy z 11 września 2019 r. Prawo zamówień publicznych</cbc:ID>
+      </cac:ProcurementLegislationDocumentReference>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:Description languageID="POL">Wykonawca przygotowuje ofertę przy pomocy interaktywnego „Formularza ofertowego” udostępnionego przez Zamawiającego na Platformie e-Zamówienia i zamieszczonego w podglądzie postępowania w zakładce „Informacje podstawowe” oraz zgodnie ze wzorem stanowiącym Załącznik nr 2 do SWZ (formularz asortymentowo-cenowy). Formularz asortymentowo-cenowy stanowi integralną część Formularza ofertowego.
+Zalogowany Wykonawca posiadający odpowiednie uprawnienia uzyskuje możliwość przygotowania oferty na przygotowanym przez Zamawiającego Formularzu ofertowym. Użycie przycisku „Wypełnij” widocznego pod „Formularzem ofertowym” powoduje automatyczne pobranie danych Wykonawcy wprowadzonych przez niego podczas rejestracji. Wykonawca zobowiązany jest do zweryfikowania poprawności danych automatycznie pobranych przez system z jego konta (w szczególności nazwy Wykonawcy) i uzupełnienia pozostałych informacji dotyczących Wykonawcy/Wykonawców wspólnie ubiegających się o udzielenie zamówienia. 
+Następnie Wykonawca powinien pobrać „Formularz ofertowy”, zapisać go na dysku komputera użytkownika, uzupełnić pozostałymi danymi wymaganymi przez Zamawiającego i ponownie zapisać na dysku komputera użytkownika oraz podpisać odpowiednim rodzajem podpisu.
+Uwaga! Nie należy zmieniać nazwy pliku nadanej przez Platformę e-Zamówienia. Zapisany „Formularz ofertowy” należy zawsze otwierać w programie Adobe Acrobat Reader DC.
+Dokumenty, oświadczenia, lub podmiotowe środki dowodowe, przedmiotowe środki dowodowe składane wraz z ofertą:
+a)oświadczenia o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu w zakresie wskazanym przez Zamawiającego na formularzu jednolitego europejskiego dokumentu zamówienia oraz na załączniku nr 3a do SWZ tj. Oświadczenie wykonawcy/wykonawcy wspólnie ubiegającego się o udzielenie zamówienia dotyczące przesłanek wykluczenia z art. 5K Rozporządzenia 833/2014 oraz art. 7 ust. 1 Ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego
+b)w przypadku wykonawców wspólnie ubiegających się o udzielenie zamówienia, oświadczenie, o którym mowa w pkt. a) każdy z wykonawców wspólnie ubiegających się o udzielenie zamówienia składa oddzielnie jako oświadczenie własne
+c)przedmiotowe środki dowodowe tj.:
+Oświadczenie, że oferowany asortyment posiada dokumenty wymagane przez obowiązujące prawo na podstawie których może być wprowadzony do obrotu i stosowania w placówkach ochrony zdrowia RP (Załącznik nr 5 do SWZ)
+Oświadczenie dotyczące spełnienia wymaganych przez Zamawiającego parametrów (Załączniki nr 6 do SWZ)
+d)pełnomocnictwo lub inny dokument potwierdzający umocowanie do reprezentowania Wykonawcy, Wykonawców wspólnie ubiegających się o udzielenie zamówienia (o ile dotyczy)
+e)pełnomocnictwo lub inny dokument potwierdzający umocowanie do reprezentowania wszystkich Wykonawców wspólnie ubiegających się o udzielenie zamówienia lub inny dokument potwierdzający umocowanie do reprezentowania Wykonawcy (np. umowa o współdziałaniu). Pełnomocnik może być ustanowiony do reprezentowania Wykonawców w postępowaniu albo do reprezentowania w postępowaniu i zawarcia umowy (o ile dotyczy).
+Oferta powinna być podpisana przez osobę upoważnioną do reprezentowania Wykonawcy, zgodnie z formą reprezentacji Wykonawcy określoną w rejestrze lub innym dokumencie, właściwym dla danej formy organizacyjnej Wykonawcy albo przez upełnomocnionego przedstawiciela Wykonawcy.
+Oferta powinna być sporządzona w języku polskim w formie elektronicznej. 
+Jeżeli oferta zawiera informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993r. o zwalczaniu nieuczciwej konkurencji, Wykonawca powinien nie później niż w terminie składania ofert, zastrzec, że nie mogą one być udostępnione oraz wykazać, iż zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa. Informacje stanowiące tajemnicę przedsiębiorstwa powinny zostać złożone w osobnym pliku wraz z jednoczesnym zaznaczeniem polecenia „Załącznik stanowiący tajemnicę przedsiębiorstwa” a następnie wraz z plikami stanowiącymi jawną część zaszyfrowane.
+Wszystkie koszty związane z uczestnictwem w postępowaniu, w szczególności z przygotowaniem i złożeniem oferty ponosi Wykonawca składający ofertę. Zamawiający nie przewiduje zwrotu kosztów udziału w postępowaniu.
+Podmiotowe środki dowodowe, przedmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia sporządzone w języku obcym winny być złożone wraz z tłumaczeniem na język polski. 
+</cbc:Description>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">610877-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">SzP.ZP.271.91.24</cbc:ID>
+      <cbc:Name languageID="POL">91.24 Sprzedaż i dostawa zestawu laparoskopowego z dwoma monitorami i rejestratorem do Szpitala Specjalistycznego im. Edmunda Biernackiego w Mielcu</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiot zamówienia obejmuje:
+a)sprzedaż i dostawę zestawu laparoskopowego z dwoma monitorami i rejestratorem do Szpitala Specjalistycznego im. Edmunda Biernackiego w Mielcu spełniających wymagania określone w SWZ - na koszt i ryzyko Wykonawcy,
+b)zamontowanie, uruchomienie i oddanie do użytkowania sprzętu w stanie pełnej sprawności technicznej i użytkowej,
+c)instruktaż personelu Zamawiającego w zakresie obsługi oferowanego zestawu.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">Podmiotowe środki dowodowe wymagane od Wykonawcy obejmują:
+a.	informację z Krajowego Rejestru Karnego w zakresie:
+- art.108 ust.1 pkt 1 i 2 ustawy PZP
+- art.108 ust.1 pkt 4 ustawy PZP dotyczącej orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka karnego
+sporządzoną nie wcześniej niż 6 miesięcy przed jej złożeniem;
+b.	oświadczenie Wykonawcy, w zakresie art. 108 ust.1 pkt 5 ustawy PZP o braku przynależności do tej samej grupy kapitałowej, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (t.j. Dz.U. z 2021r. poz. 275), z innym Wykonawcą, który złożył odrębną ofertę, ofertę częściową lub wniosek o dopuszczenie do udziału w postępowaniu, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty, oferty częściowej lub wniosku o dopuszczenie do udziału w postępowaniu niezależnie od innego Wykonawcy należącego do tej samej grupy kapitałowej – Załącznik nr 4 do SWZ;
+c.	odpis lub informacja z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, w zakresie art. 109 ust. 1 pkt 4 ustawy PZP, sporządzonych nie wcześniej niż 3 miesiące przed jej złożeniem, jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji;
+d.	oświadczenie Wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust.1 ustawy PZP, w zakresie podstaw wykluczenia z postępowania określonych w:
+- art.108 ust. 1 pkt 3 ustawy PZP,
+- art.108 ust. 1 pkt 4 ustawy PZP, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego,
+- art.108 ust. 1 pkt 5 ustawy PZP, dotyczących zawarcia z innymi Wykonawcami porozumienia mającego na celu zakłócenie konkurencji,
+- art.108 ust. 1 pkt 6 ustawy PZP.
+Jeżeli Wykonawca ma siedzibę lub miejsce zamieszkania poza granicami Rzeczypospolitej Polskiej, zamiast informacji z Krajowego Rejestru Karnego, o których mowa w pkt 7 a) składa informację z odpowiedniego rejestru, takiego jak rejestr sądowy, albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany przez właściwy organ sądowy lub administracyjny kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument, w zakresie, o którym mowa w pkt 7 a) wystawiony nie wcześniej niż 6 miesięcy przed jego złożeniem.
+Jeżeli Wykonawca ma siedzibę lub miejsce zamieszkania poza granicami Rzeczypospolitej Polskiej, zamiast odpisu albo informacji z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o których mowa w pkt 7 c) składa dokument lub dokumenty wystawione w kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania, potwierdzające, że nie otwarto jego likwidacji ani nie ogłoszono upadłości, jego aktywami nie zarządza likwidator lub sąd, nie zawarł układu z wierzycielami, jego działalność gospodarcza nie jest zawieszona ani nie znajduje się on w innej tego rodzaju sytuacji wynikającej z podobnej procedury przewidzianej w przepisach miejsca wszczęcia tej procedury wystawiony nie wcześniej niż 3 miesiące przed jego złożeniem.
+Jeżeli w kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument dotyczy, nie wydaje się dokumentów, o których mowa powyżej, lub gdy dokumenty te nie odnoszą się do wszystkich przypadków, o których mowa w art. 108 ust. 1 pkt 1, 2 i 4 ustawy PZP, zastępuje się je odpowiednio w całości lub w części dokumentem zawierającym odpowiednio oświadczenie Wykonawcy, ze wskazaniem osoby albo osób uprawnionych do jego reprezentacji, lub oświadczenie osoby, której dokument miał dotyczyć, złożone pod przysięgą, lub, jeżeli w kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument miał dotyczyć, nie ma przepisów o oświadczeniu pod przysięgą, złożone przed organem sądowym lub administracyjnym, notariuszem, organem samorządu zawodowego lub gospodarczego, właściwym ze względu na siedzibę lub miejsce zamieszkania Wykonawcy lub miejsce zamieszkania osoby, której dokument miał dotyczyć.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">33190000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">33168000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:StreetName>Szpital Specjalistyczny im. Edmunda Biernackiego w Mielcu</cbc:StreetName>
+            <cbc:AdditionalStreetName>ul. Żeromskiego 22</cbc:AdditionalStreetName>
+            <cbc:CityName>Mielec</cbc:CityName>
+            <cbc:PostalZone>39-300</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL824</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>90</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">cena</cbc:Name>
+                  <cbc:Description languageID="POL">Przy wyborze najkorzystniejszej oferty Zamawiający będzie kierował się następującymi kryteriami oceny ofert:
+cena - 90 %
+Sposób oceny ofert:
+	- cena jako kryterium wymierne obliczane zostanie wg wzoru: 
+ Wpc=Cn/CofxR
+gdzie:
+Wpc – Wartość punktowa
+Cn - najniższa proponowana cena brutto
+Cof - cena brutto oferty badanej
+R – ranga (90)
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>10</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">okres gwarancji</cbc:Name>
+                  <cbc:Description languageID="POL">Przy wyborze najkorzystniejszej oferty Zamawiający będzie kierował się następującymi kryteriami oceny ofert:
+okres gwarancji (warunek minimalny – 36 miesiące) jako kryterium wymierne obliczane zostanie wg wzoru: 
+Wpg=Gof/Gn xR
+gdzie:
+Wpg – Wartość punktowa kryterium okres gwarancji
+Gof– okres gwarancji oferty badanej
+Gn - najdłuższy proponowany okres gwarancji 
+R – ranga (10)
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1.	Środki ochrony prawnej przysługują Wykonawcy oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy PZP. 
+2.	Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15 ustawy PZP oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+3.	Odwołanie przysługuje na:
+a)	niezgodną z przepisami ustawy czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+b)	zaniechanie czynności w postępowaniu o udzielenie zamówienia do której Zamawiający był obowiązany na podstawie ustawy.
+4.	Odwołanie wnosi się do Prezesa Izby. Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.
+5.	Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej.
+6.	Odwołanie wnosi się w terminie:
+-	10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej,
+-	15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony powyżej.
+7.	Odwołanie w przypadkach innych niż określone w pkt 5 i 6 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.
+8.	Na orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy PZP stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu.
+9.	W postępowaniu toczącym się wskutek wniesienia skargi stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego o apelacji, jeżeli przepisy Działu IX oddział 3 ustawy PZP nie stanowią inaczej.
+10.	Skargę wnosi się do Sądu Okręgowego w Warszawie - sądu zamówień publicznych.
+11.	Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe jest równoznaczne z jej wniesieniem.
+12.	Prezes Izby przekazuje skargę wraz z aktami postępowania odwoławczego do sądu zamówień publicznych w terminie 7 dni od dnia jej otrzymania.
+13.	Skargę może wnieść również Prezes Urzędu, w terminie 30 dni od dnia wydania orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w art. 529 ust. 1 ustawy PZP. Prezes Urzędu może także przystąpić do toczącego się postępowania. Do czynności podejmowanych przez Prezesa Urzędu stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postepowania cywilnego o prokuraturze.
+14.	Szczegółowe prawa i obowiązki w zakresie środków ochrony prawnej przysługujących Wykonawcy regulują przepisy Działu IX Ustawy Prawo Zamówień Publicznych.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">SzP.ZP.271.91.24</cbc:ID>
+         <cbc:Name languageID="POL">Sprzedaż i dostawa zestawu laparoskopowego z dwoma monitorami i rejestratorem do Szpitala Specjalistycznego im. Edmunda Biernackiego w Mielcu</cbc:Name>
+         <cbc:Description languageID="POL">1.Przedmiot zamówienia obejmuje:
+a)sprzedaż i dostawę zestawu laparoskopowego z dwoma monitorami i rejestratorem do Szpitala Specjalistycznego im. Edmunda Biernackiego w Mielcu spełniających wymagania określone w SWZ - na koszt i ryzyko Wykonawcy,
+b)zamontowanie, uruchomienie i oddanie do użytkowania sprzętu w stanie pełnej sprawności technicznej i użytkowej,
+c)instruktaż personelu Zamawiającego w zakresie obsługi oferowanego zestawu.
+W skład zestawu wchodzi:
+Medyczny monitor 4K OLED - szt. 2
+Endoskopowa kamera 4K - szt. 1
+Źródło światła LED - szt. 1
+Medyczny rejestrator cyfrowy/System zarządzania danymi - szt. 1
+Światłowód - szt. 2
+Światłowód - szt. 4
+Nadajnik  - szt. 1
+Odbiornik - szt. 1
+Statyw do monitora bezprzewodowego - szt. 1
+Insuflator CO2 - szt. 1
+Optyka laparoskopowa średnica 10 mm; kąt patrzenia optyki 30 stopni - szt. 2
+Optyka laparoskopowa średnica 5,5 mm; kąt patrzenia optyki 30 stopni - szt. 1
+Optyka laparoskopowa średnica 10 mm; kąt patrzenia optyki 0 stopni  - szt. 1
+Optyka średnica 10 mm; kąt patrzenia optyki 30 stopni - szt. 3
+Kontener do sterylizacji optyk - szt. 7
+Pompa płucząca - szt. 1
+Wózek aparaturowy - szt. 1
+Szczegółowy opis przedmiotu zamówienia zawiera SWZ.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">Wykonawca składający ofertę pozostaje nią związany przez okres do dnia 07.02.2025r. Bieg terminu związania ofertą rozpoczyna się wraz z upływem terminu składania ofert, przy czym pierwszym dniem związania ofertą jest dzień, w którym upływa termin składania ofert.</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">33190000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">33168000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Szpital Specjalistyczny im. Edmunda Biernackiego</cbc:StreetName>
+               <cbc:AdditionalStreetName>Ul. Żeromskiego 22</cbc:AdditionalStreetName>
+               <cbc:CityName>Mielec</cbc:CityName>
+               <cbc:PostalZone>39-300</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL824</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="DAY">28</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

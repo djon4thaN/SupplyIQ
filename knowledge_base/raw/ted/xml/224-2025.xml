@@ -1,0 +1,2100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">50041938.74</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0003</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0004</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0004</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0004</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0005</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0005</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0005</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0006</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0006</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0006</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0006</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0007</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0007</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0007</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0007</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0009</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0008</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0008</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0008</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0010</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0009</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0009</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0009</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0013</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0010</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0010</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>4</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0010</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0014</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0011</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">no-rece</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0011</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0012</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">no-rece</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0012</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0013</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">no-rece</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0015</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">345624.34</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0007</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>OFERTA LEMAR ELECTRIC SP.z o.o. - z1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">777562</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0007</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>OFERTA LEMAR ELECTRIC SP.z o.o. - z2</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">8436309</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>MAS SP.z o.o. - z3</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0004</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">53600.4</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0007</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0005</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>LEMAR ELECTRIC SP.z o.o. - z4</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0005</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">5839970</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0006</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>PHUP IZOL-PLAST SP.z o.o. - z6</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0006</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">603656</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0004</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0007</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>ROGUM KABLE SP.z o.o. - z7</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0007</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">24007070</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0008</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0009</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>TELE-FONIKA KABLE S.A. - z8</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0008</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">9521047</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0010</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>MAS Sp. z o.o. - z9</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0009</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">102500</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0006</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0013</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>KOVA-TEX Gabryś i Wspólnicy Sp. j. - z12</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0010</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">354600</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0007</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0014</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>LEMAR ELECTRIC Sp. z o.o. - z13</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>541/ZA/HZZ/2024/564/HZP/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>542/ZA/HZZ/2024/564/HZP/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>546/ZA/HZZ/2024/564/HZP/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0004</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>543/ZA/HZZ/2024/564/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0004</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0005</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>548/ZA/HZZ/2024/564/HZP/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0005</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0006</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>552/ZA/HZZ/2024/564/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0006</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0007</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>553/ZA/HZZ/2024/564/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0007</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0008</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>547/ZA/HZZ/2024/564/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0008</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0009</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>554/ZA/HZZ/2024/564/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0009</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0010</cbc:ID>
+                     <cbc:IssueDate>2024-06-17+02:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>544/ZA/HZZ/2024/564/MSO</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0010</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     <cbc:Name>MAS Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID>
+                     <cbc:Name>PHPU IZOL-PLAST Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0004</cbc:ID>
+                     <cbc:Name>ROGUM KABLE Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0007</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0006</cbc:ID>
+                     <cbc:Name>KOVA-TEX Gabryś i Wspólnicy Sp. j.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0009</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0007</cbc:ID>
+                     <cbc:Name>LEMAR ELECTRIC Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0017</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0008</cbc:ID>
+                     <cbc:Name>TELE-FONIKA KABLE S.A.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0014</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">34</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://lw.com.pl/</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://bogdanka.eb2b.com.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Lubelski Węgiel Bogdanka S.A.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Bogdanka</cbc:StreetName>
+                           <cbc:Department>Pion Zakupów</cbc:Department>
+                           <cbc:CityName>Puchaczów</cbc:CityName>
+                           <cbc:PostalZone>21-013</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>7130005784</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Pion Zakupów</cbc:Name>
+                           <cbc:Telephone>+48 81 462 50 75</cbc:Telephone>
+                           <cbc:ElectronicMail>przetargipubliczne@lw.com.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://bogdanka.eb2b.com.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17 A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 224587701</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:EndpointID>https://bogdanka.eb2b.com.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Urząd Prokuratorii Generalnej Rzeczypospolitej Polskiej</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Hoża 76/78</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-682</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262883664</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 (22) 392-31-09</cbc:Telephone>
+                           <cbc:ElectronicMail>kancelaria@prokuratoria.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">MAS Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Rybnicka 42</cbc:StreetName>
+                           <cbc:CityName>Mikołów</cbc:CityName>
+                           <cbc:PostalZone>43-190</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6340134429</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 3225187</cbc:Telephone>
+                           <cbc:ElectronicMail>dz-gorniczy@mas.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Przedsiębiorstwo Handlowo-Produkcyjno-Usługowe IZOL-PLAST Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Raciborska 79</cbc:StreetName>
+                           <cbc:CityName>Rogów</cbc:CityName>
+                           <cbc:PostalZone>44-362</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6470508638</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+4 324512010</cbc:Telephone>
+                           <cbc:ElectronicMail>poczta@izol-plast.rogow.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0007</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">ROGUM KABLE Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Grunwaldzka 66</cbc:StreetName>
+                           <cbc:CityName>Pruszcz Gdński</cbc:CityName>
+                           <cbc:PostalZone>83-000</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL634</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>9570017373</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 506234233</cbc:Telephone>
+                           <cbc:ElectronicMail>l.czajkowski@rogum.com.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0009</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">KOVA-TEX Gabryś i Wspólnicy Sp. j.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Plac Stare Miasto 11</cbc:StreetName>
+                           <cbc:CityName>Radom</cbc:CityName>
+                           <cbc:PostalZone>26-600</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL921</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>7961017465</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 322829380</cbc:Telephone>
+                           <cbc:ElectronicMail>kovat@poczta.onet.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0014</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">TELE-FONIKA KABLE S.A.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Hipolita Cegielskiego 1</cbc:StreetName>
+                           <cbc:CityName>Myślenice</cbc:CityName>
+                           <cbc:PostalZone>32-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL214</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6252299929</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>mgdalena.kliminska@lemarelectric.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0017</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">LEMAR ELECTRIC Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Katowicka 104</cbc:StreetName>
+                           <cbc:CityName>Mysłowice</cbc:CityName>
+                           <cbc:PostalZone>41-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL228</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>2220892160</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 3231661</cbc:Telephone>
+                           <cbc:ElectronicMail>magdalena.kliminska@lemarelectric.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000224-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">7331b315-dd36-4592-8323-f5dcbb272a96</cbc:ID>
+   <cbc:ContractFolderID>44878321-9629-4beb-84c3-12289fab17ef</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>11:57:24Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0025</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-social</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:Description languageID="POL">Postępowanie o udzielenie zamówienia publicznego, prowadzone będzie w trybie przetargu nieograniczonego, o którym mowa w art. 376 ust. 1 pkt 1) ustawy z dnia 11
+września 2019 r. Prawo zamówień publicznych (t.j.: Dz. U. z 2023 r. poz. 1605 z późn. zm.) dalej zwanej „ustawą Pzp” lub „ustawą”, o wartości powyżej progów unijnych w rozumieniu art. 3 ustawy Pzp</cbc:Description>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">154655-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">564 HZP MSO 2024</cbc:ID>
+      <cbc:Name languageID="POL">„Dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”
+– zgodnie z postanowieniami SWZ.</cbc:Name>
+      <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– w podziale na zadania - zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515 </cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564/HZP MSO/2024 Zadanie nr 1</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 1 - Przewody nawojowe,                                                   
+w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CityName>Bogdanka</cbc:CityName>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515 </cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 2</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 2 - Przewody elektroenergetyczne do układania na stałe, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 3</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 3 - Kable sterownicze i sygnalizacyjne, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 630 do 1330 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CityName>Bogdanka</cbc:CityName>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 4</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 4 - Przewody elektroenergetyczne do odbiorników ruchomych i przenośnych, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0006</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 6</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 6 - Przewody oponowe elektroenergetyczne gumowe Protomont, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5,  zgodnie z postanowieniami SWZ.
+</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0007</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie:
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określa: art. 515
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 7</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 7 - Przewody oponowe elektroenergetyczne polwinitowe, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0009</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 8</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 8 - Kable elektroenergetyczne, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0010</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564/HZP/MSO/2024 Zadanie nr 9</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 9 -Kable telekomunikacyjne, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0011</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 10</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 10 - Kable światłowodowe, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0012</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 11</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 11 - Przewody słaboprądowe, w asortymencie ujętym w wykazie stanowiącym załącznik nr 5, zgodnie z postanowieniami SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0013</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 12</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 12 - Przewody strzałowe, w asortymencie zgodnym z wykazem stanowiącym załącznik nr 5  do SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0014</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 13</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 13 - Przewody spawalnicze, w asortymencie zgodnym z wykazem stanowiącym załącznik nr 5 do SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0015</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Kryteria oceny ofert 
+1.	Złożone oferty niepodlegające odrzuceniu będą oceniane na podstawie następujących kryteriów: 
+Cena brutto oferty – 100% wagi (dla każdego zadania)
+2.	Za najkorzystniejszą w każdym zadaniu, Zamawiający uzna ofertę, która uzyska najwyższą liczbę punktów przyznaną zgodnie 
+z poniższym wzorem: 
+C = (Cmin /Ci) x Kc
+gdzie: 
+C – liczba punktów przyznana danej ofercie za cenę  - na dane zadanie 
+C min – wartość brutto dla celów szacunkowych oferty z najniższą ceną - na dane zadanie 
+Ci – wartość brutto dla celów szacunkowych oferty badanej na dane zadanie 
+Kc – wskaźnik wagi.
+3.	Wszystkie obliczenia dokonywane będą do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">art. 515 ust 1 pkt 1) lit a) - ustawy z dnia 11 września 2019r. - Prawo zamówień publicznych:
+1. Odwołania wnosi się:
+1) w przypadku zamówień, których wartość jest równa albo przekracza progi unijne w terminie :
+    a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków  
+        komunikacji elektronicznej
+ Pozostałe terminy zgodnie z  ustawą z dnia 11 września 2019r. - Prawo zamówień publicznych określają: art. 515</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">564 HZP MSO 2024 Zadanie nr 14</cbc:ID>
+         <cbc:Name languageID="POL">Zadanie nr 14 - Kable i przewody specjalne, w asortymencie zgodnym z wykazem stanowiącym załącznik nr 5 do SWZ.</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa kabli i przewodów elektroenergetycznych niskiego i średniego napięcia oraz kabli sygnalizacyjnych i teletechnicznych do zastosowania w zakładzie górniczym na powierzchni i w wyrobiskach podziemnych w pomieszczeniach ze stopniem „a”, „b” i ,,c” niebezpieczeństwa wybuchu metanu oraz klasy „A” i „B” zagrożenia wybuchem pyłu węglowego”– zgodnie z postanowieniami SWZ.
+2.	Szczegółowy opis przedmiotu zamówienia zawiera Część III SWZ Opis Przedmiotu Zamówienia.
+3.	Przedmiotowe zamówienie jest zamówieniem sektorowym w rozumieniu  art. 7 pkt 35) ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31300000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31320000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">31330000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejscem spełnienia świadczenia jest: Lubelski Węgiel „Bogdanka” S.A. w Bogdance, 21-013 Puchaczów. Magazyny położone w Bogdance, Nadrybiu i Stefanowie. Magazyny czynne są w godzinach 6:30 do 13:30 (od poniedziałku do piątku).</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL814</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1797984.56</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>8</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">2211521.01</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermDescription languageID="POL">Podjazdy grup interwencyjnych</efbc:TermDescription>
+                        <efbc:TermPercent>1.5</efbc:TermPercent>
+                        <efbc:TermCode listName="applicability">yes</efbc:TermCode>
+                        <efbc:PercentageKnownIndicator>true</efbc:PercentageKnownIndicator>
+                        <efbc:ValueKnownIndicator>false</efbc:ValueKnownIndicator>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Najkorzystniejsza oferta</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-11-25+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-11+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>NZ.231.103.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Time Group Polska Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        <efbc:GroupLeadIndicator>true</efbc:GroupLeadIndicator>
+                     </efac:Tenderer>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer>
+                     <efac:SubContractor>
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                        <efac:MainContractor>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </efac:MainContractor>
+                     </efac:SubContractor>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">33</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://kzgm.katowice.pl/</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://platformazakupowa.pl/pn/kzgm_katowice</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Komunalny Zakład Gospodarki Mieszkaniowej w Katowicach</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Grażyńskiego 5</cbc:StreetName>
+                           <cbc:CityName>Katowice</cbc:CityName>
+                           <cbc:PostalZone>40-126</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>241031620</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Dział NZ</cbc:Name>
+                           <cbc:Telephone>324163160</cbc:Telephone>
+                           <cbc:ElectronicMail>przetargi@kzgm.katowice.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://epuap.gov.pl/wps/portal/strefa-klienta/katalog-spraw/opis-uslugi/odwolanie-do-krajowej-izby-odwolawczej/UZP</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul.Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Sekretariat Biura Odwołań</cbc:Name>
+                           <cbc:Telephone>22 458 77 01</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <efbc:CompanySizeCode listName="economic-operator-size">medium</efbc:CompanySizeCode>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Time Group Polska Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Plac Wolności 2</cbc:StreetName>
+                           <cbc:CityName>Mysłowice</cbc:CityName>
+                           <cbc:PostalZone>41-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6412538663</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>531958330</cbc:Telephone>
+                           <cbc:ElectronicMail>magdalena.klimas@time-group.com.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Sky One Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Plac Wolności 2</cbc:StreetName>
+                           <cbc:CityName>Mysłowice</cbc:CityName>
+                           <cbc:PostalZone>41-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>2220887785</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>531958330</cbc:Telephone>
+                           <cbc:ElectronicMail>magdalena.klimas@time-group.com.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Juwentus Agencja Ochrony Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Poloneza 91</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-826</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5272260025</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>224227000</cbc:Telephone>
+                           <cbc:ElectronicMail>bok@juwentus.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000569-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">e4aa076f-cb11-415c-acf9-63bb4d7b6dbb</cbc:ID>
+   <cbc:ContractFolderID>94c01bf6-03e9-486c-9634-d643bebb43a9</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>12:08:54Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-social</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://platformazakupowa.pl/pn/kzgm_katowice</cbc:BuyerProfileURI>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:Description languageID="POL">Postępowanie o udzielenie zamówienia prowadzone jest w trybie przetargu nieograniczonego z uwzględnieniem przepisów właściwych dla zamówień na usługi społeczne – art. 359 - 360 ustawy Prawo zamówień publicznych (t.j. Dz. U. 2024, poz. 1320 ze zm.), zwanej dalej ustawą. Wartość szacunkowa zamówienia przekracza równowartość kwoty określonej w art. 359 pkt 1 ustawy</cbc:Description>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">637308-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">NZ.231.103.2024</cbc:ID>
+      <cbc:Name languageID="POL">Świadczenie usług ochrony osób i mienia w obrębie nieruchomości zarządzanych przez KZGM w Katowicach</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem niniejszej umowy są usługi bezpośredniej ochrony fizycznej osób i mienia oraz patroli prewencyjnych w obrębie nieruchomości położonych w	Katowicach i zarządzanych przez Komunalny Zakład Gospodarki Mieszkaniowej w Katowicach na zasadach określonych w projektowanych postanowieniach umowy (wraz z załącznikami) stanowiących załącznik nr 3 do SWZ. Szczegółowy opis przedmiotu zamówienia zawarty jest w Rozdziale III SWZ. Postępowanie o udzielenie zamówienia prowadzone jest w trybie przetargu nieograniczonego z uwzględnieniem przepisów właściwych dla zamówienia na usługi społeczne - art. 359 -360 ustawy Prawo zamówień publicznych. Wartość szacunkowa zamówienia przekracza równowartość kwoty określonej w art. 359 pkt 1 ustawy.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79710000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="POL"> I. Zamawiający:  1. Przewiduje zastosowanie tzw. procedury odwróconej, o której mowa w art. 139 ustawy tj. Zamawiający najpierw dokona badania i oceny ofert, a następnie dokona kwalifikacji podmiotowej wykonawcy, którego oferta została najwyżej oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału w postępowaniu 2. nie wymaga wnoszenia wadium.
+II. 1. Oferta musi być sporządzona w języku polskim i złożona w formie elektronicznej (postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym), zgodnie z treścią zawartą we wzorze formularza oferty oraz zawierać następujące oświadczenia/dokumenty:
+1) Oświadczenie, że Wykonawca zapoznał się z warunkami zamówienia i z załączonymi projektowanymi postanowieniami umowy, oraz że przyjmuje ich treść bez żadnych zastrzeżeń;
+2) Oświadczenia o spełnianiu wymogów wynikających z RODO zgodnie z treścią zawartą we wzorze formularza oferty;
+3) Informację o podwykonawcach, w tym o części/zakresie zamówienia, których wykonanie zamierza powierzyć podwykonawcom – jeśli dotyczy;
+4) Oświadczenie o obowiązku podatkowym – jeżeli dotyczy;
+5) Oświadczenie o przynależności do sektora małych i średnich przedsiębiorstw – zgodnie z treścią zawartą we wzorze formularza oferty (zalecane, nie wymagane).
+Do przygotowania oferty zaleca się skorzystanie z Formularza oferty, stanowiącego załącznik Nr 1 do SWZ. 
+W przypadku gdy Wykonawca nie korzysta z przygotowanego przez Zamawiającego wzoru Formularza oferty, oferta musi zawierać wszystkie informacje wymagane we wzorze. 
+Oferta musi zostać podpisana kwalifikowanym podpisem elektronicznym.
+2. Z OFERTĄ NALEŻY ZŁOŻYĆ:
+1) Oświadczenie o podziale obowiązków pomiędzy Wykonawcami, o którym mowa w art. 117 ust. 4, w przypadku wspólnego ubiegania się o zamówienie (załącznik nr 2 do SWZ). Oświadczenie składa się, pod rygorem nieważności, w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym;
+2) Zobowiązanie podmiotu udostępniającego zasoby lub inny podmiotowy środek dowodowy potwierdzający, że Wykonawca realizując zamówienie będzie dysponował niezbędnymi zasobami podmiotu trzeciego, o ile Wykonawca korzysta ze zdolności lub sytuacji podmiotów udostępniających zasoby na zasadach określonych w art. 118 ustawy – jeśli dotyczy - w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym.
+Uwaga: Jeżeli zobowiązanie podmiotu udostępniającego zasoby zostało sporządzone jako dokument w postaci papierowej i opatrzone własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, poświadczającym zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej.
+3) Pełnomocnictwo, w tym pełnomocnictwo ustanowione do reprezentowania Wykonawcy/ów ubiegającego/cych się o udzielenie zamówienia publicznego – jeśli dotyczy. Pełnomocnictwo należy dołączyć w oryginale bądź kopii – zgodnie z punktem 3 niniejszego rozdziału;
+4) Spis wszystkich załączonych dokumentów (spis treści) – zalecane, nie wymagane.
+3. Pełnomocnictwo do złożenia oferty musi być złożone w oryginale w takiej samej formie, jak składana oferta (t.j. w formie elektronicznej czyli postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym). W przypadku, gdy pełnomocnictwo zostało wystawione w postaci papierowej i opatrzone własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego dokumentu, opatrzone kwalifikowanym podpisem elektronicznym, mocodawcy (osoba/osoby wystawiające pełnomocnictwo) lub notariusza, poświadczającym zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej. 
+4. Każdy z Wykonawców może złożyć tylko jedną ofertę. Złożenie większej liczby ofert lub oferty zawierającej propozycje wariantowe spowoduje odrzucenie wszystkich ofert złożonych przez danego Wykonawcę. 
+5. Dokumenty i oświadczenia składane przez Wykonawcę powinny być w języku polskim. W przypadku  załączenia dokumentów sporządzonych w innym języku niż dopuszczony, Wykonawca zobowiązany jest załączyć tłumaczenie na język polski.</cbc:Description>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">.</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">1. Przy wyborze najkorzystniejszej oferty, Zamawiający będzie kierował się wyłącznie kryterium ceny.
+2. Oferta, z najniższą ceną,  spośród ofert nie odrzuconych, będzie wybrana jako najkorzystniejsza oferta.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Odwołanie należy wnieść w terminie 10 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia - jeżeli zostały przesłane w sposób określony w art. 180 ust. 5 zdanie drugie ustawy Pzp - w przypadku gdy wartość zamówienia jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8;</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">NZ.231.103.2024</cbc:ID>
+         <cbc:Name languageID="POL">Świadczenie usług ochrony osób i mienia w obrębie nieruchomości zarządzanych przez KZGM w Katowicach</cbc:Name>
+         <cbc:Description languageID="POL">1. Przedmiotem niniejszej umowy są usługi bezpośredniej ochrony fizycznej osób i mienia oraz patroli prewencyjnych w obrębie nieruchomości położonych w	Katowicach i zarządzanych przez Komunalny Zakład Gospodarki Mieszkaniowej w	Katowicach składające się z:
+1) usługi bezpośredniej ochrony fizycznej osób i mienia (realizowane zgodnie z zasadami określonymi w projektowanych postanowieniach umowy (Załącznik nr 3 do SWZ), w tym:
+a) stałą obecność pracowników ochrony na ochranianym obiekcie w godzinach wskazanych przez Zamawiającego (realizowaną w trybie zwykłym i awaryjnym, przy czym tryb awaryjny objęty jest prawem opcji); 
+b) dysponowanie zmotoryzowaną grupą interwencyjną, wyposażoną w radiowe środki łączności, w celu awaryjnej kontroli sytuacji na ochranianych obiektach (zweryfikowania stanu i podjęcie działań zapobiegawczych niezwiązanych z użyciem przymusu bezpośredniego) przez zmotoryzowane dwuosobowe grupy pracowników ochrony, z czasem dojazdu do obiektów Zamawiającego nie przekraczającym 15 minut. Zamawiający nie wymaga dedykowanego patrolu interwencyjnego, stworzonego tylko i wyłącznie na potrzeby realizacji zamówienia (dysponowanie zmotoryzowaną grupą interwencyjną, której czas reakcji nie może być dłuższy niż 15 minut od momentu telefonicznego zgłoszenia w ciągu dnia i nie dłuższy niż 10 w minut w godzinach nocnych, tj. od 22:00 do 6:00)
+2) usługi patroli prewencyjnych, przez co rozumie usługę polegającą na okresowym kontrolowaniu stanu bezpieczeństwa obiektów Zamawiającego przez zmotoryzowane (samochód), dwuosobowe grupy pracowników ochrony, w godzinach nocnych (tj. 22.00 – 6.00), w ilości i częstotliwości wskazanej w zleceniu przez zmotoryzowane (samochód) dwuosobowe grupy pracowników ochrony, zgodnie z zasadami określonymi w projektowanych postanowieniach umowy i w Planie Ochrony (Załącznik nr 3 do SWZ). Przez pojedynczy patrol rozumie się dojazd i kontrolę wskazanych w zleceniu nieruchomości. Zakres ten w całości objęty jest prawem opcji. 
+2. Zestawienie aktualnie ochranianych obiektów stanowi Załącznik nr 1 do projektowanych postanowień umowy. Zamawiający na chwilę obecną planuje świadczenie usługi bezpośredniej ochrony fizycznej osób i mienia w trybie zwykłym na 8 obiektach, w sumie ok. 5568 godzin miesięcznie, jednak Zamawiający zastrzega, że liczba obiektów może ulec zmianie, zgodnie z przewidzianym prawem opcji.
+3. Zamawiający nie wymaga aby osoby wykonujące czynności bezpośredniej ochrony fizycznej osób i mienia ani osoby świadczące usługi w ramach grupy interwencyjnej lub patroli prewencyjnych były wpisane na listę kwalifikowanych pracowników ochrony fizycznej, o której mowa w ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia. 
+4. Szczegółowy opis przedmiotu zamówienia zawarty jest w Rozdziale III SWZ oraz projektowanych postanowieniach umowy wraz z załącznikami.
+5. Zamawiający przewiduje udzielenie zamówień, o których mowa w art. 214 ust. 1 pkt 7 ustawy, polegających na powtórzeniu podobnych usług tj. usług ochrony osób i mienia w obrębie nieruchomości położonych w Katowicach, zarządzanych przez Komunalny Zakład Gospodarki Mieszkaniowej w Katowicach w zakresie maksymalnie 75598 godzin (w tym: ochrona fizyczna maksymalnie 75 573 godzin i tryb awaryjny maksymalnie 25 godzin) oraz maksymalnie 240 patroli prewencyjnych. Zasady oraz warunki świadczenia usług będą podobne jak w zamówieniu podstawowym. 
+Zamawiający udzieli zamówień, o których mowa w art. 214 ust. 1 pkt 7 ustawy na następujących warunkach:
+       1) wykonawca  realizował  dotychczasowe  zamówienie  w  terminie  i  z  najwyższą starannością,
+       2) wykonawca  zapewni  nie  gorszy  standard  wykonania  nowego  zamówienia  niż podstawowego,
+       3) strony  w  wyniku  negocjacji  uzgodnią  wynagrodzenie  i  termin  wykonania  nowego zamówienia. </cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">I. 1. Termin wykonania zamówienia: 12 miesięcy od dnia wystawienia pierwszego zlecenia lub do wyczerpania środków, o których mowa w § 8 ust. 3 pkt. 2 projektowanych postanowień umowy. 
+2. Rozpoczęcie realizacji usług nastąpi do trzech dni roboczych od daty podpisania umowy, jednak nie wcześniej niż od dnia 02.01.2025 r. od godziny 7:00. 
+II.  1. Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia. W tym celu Wykonawcy ustanawiają pełnomocnika do reprezentowania ich w postępowaniu o udzielenie zamówienia albo reprezentowania w postępowaniu i zawarcia umowy w sprawie zamówienia publicznego – nie dotyczy spółki cywilnej, o ile upoważnienie/pełnomocnictwo do występowania w imieniu tej spółki wynika z dołączonej do oferty umowy spółki bądź wszyscy wspólnicy podpiszą ofertę.
+2. Wszelka korespondencja prowadzona będzie wyłącznie z podmiotem występującym jako pełnomocnik Wykonawców składających wspólną ofertę.
+3. Oferta musi być podpisana w taki sposób, by prawnie zobowiązywała wszystkich Wykonawców występujących wspólnie (przez każdego z Wykonawców lub pełnomocnika).
+4. Wykonawcy wspólnie ubiegający się o zamówienie, przedłożą wraz z ofertą:
+1) stosowne pełnomocnictwo – zgodnie z Rozdziałem XV SWZ – nie dotyczy spółki cywilnej, o ile upoważnienie/pełnomocnictwo do występowania w imieniu tej spółki wynika z dołączonej do oferty umowy spółki bądź wszyscy wspólnicy podpiszą ofertę. 
+UWAGA: Pełnomocnictwo, o którym mowa powyżej może wynikać albo z dokumentu pod taką samą nazwą, albo z umowy podmiotów składających wspólnie ofertę.
+2) oświadczenie, z którego wynika, które roboty, usługi lub dostawy wykonają poszczególni wykonawcy, w sytuacji określonej w art. 117 ust. 2 i 3 ustawy.
+5. Zasady rozliczania prac pomiędzy Wykonawcami wspólnie ubiegającymi się o udzielenie zamówienia, w tym zasady wystawiania faktur na rzecz Zamawiającego, należy określić w umowie regulującej współpracę tych Wykonawców, przy czym:
+1) Zamawiający zaleca, aby podmiotem uprawnionym do wystawiania faktur na rzecz Zamawiającego, przyjmowania płatności i dokonywania rozliczeń był Lider Konsorcjum**
+2) Zamawiający dopuszcza, aby faktury na rzecz Zamawiającego, były wystawiane przez poszczególnych członków Konsorcjum, pod warunkiem, że umowa Konsorcjum będzie zawierać odpowiednie zapisy w tym zakresie i wskazywać zakres prac wykonywanych przez poszczególnych członków Konsorcjum.
+6. W przypadku, gdy umowa regulująca współpracę Wykonawców wspólnie ubiegających się 	o zamówienia, nie będzie zawierała zasad rozliczania prac pomiędzy tymi Wykonawcami, w tym zasad wystawiania faktur na rzecz Zamawiającego, Zamawiający przyjmie, że jedynym Wykonawcą uprawnionym do wystawiania faktur będzie Lider* Konsorcjum**.
+* Wykonawca wskazany jako pełnomocnik lub jeden z Wykonawców (wskazany przez pozostałych) wspólnie ubiegających się o zamówienie
+** Wykonawcy występujący wspólnie
+III. 
+</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79710000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CityName>Katowice</cbc:CityName>
+               <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">12</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">Zamawiający przewiduje skorzystanie z instytucji PRAWA OPCJI w związku z brakiem możliwości precyzyjnego określenia liczby patroli prewencyjnych oraz możliwością zmiany liczby obiektów, w których konieczne będzie świadczenie usług ochrony w trakcie obowiązywania umowy. Zamawiający może skorzystać z prawa opcji w szczególności w związku z przejęciem przez Zamawiającego do zarządzania lub zabezpieczenia obiektu, zwiększeniem zakresu ochrony na danym obiekcie, podjęcia przez Zamawiającego decyzji o objęciu ochroną budynku znajdującego się aktualnie w jego zarządzaniu, koniecznością zlecenia usługi patroli prewencyjnych w przypadku uciążliwej obecności niepożądanych osób, pojawienia się incydentów na terenie obiektu lub doraźnego zabezpieczenia nieruchomości na wypadek np. pożaru.
+Warunkiem skorzystania z prawa opcji jest złożenie przez Zamawiającego pisemnego oświadczenia woli w przedmiocie skorzystania z prawa opcji w określonym przez niego zakresie. Zasady dotyczące realizacji przedmiotu zamówienia objętego prawem opcji będą takie same jak te, które obowiązują przy realizacji zamówienia gwarantowanego (bezpośrednia ochrona fizyczna osób i mienia w trybie zwykłym), a w przypadku opcji na tryb awaryjny lub patrole prewencyjne - z uwzględnieniem uregulowań szczególnych, określonych w projektowanych postanowieniach umowy. 
+Prawo opcji opisane w § 11  projektowanych postanowieniach umowy obejmuje następujący zakres przedmiotu zamówienia:
+a) zwiększenie liczby godzin bezpośredniej ochrony fizycznej osób i mienia w trybie zwykłym, wynikające m. in. ze zwiększenia liczby obiektów, w których będzie konieczne świadczenie usługi bezpośredniej ochrony fizycznej osób i mienia. Zamówienie w tym zakresie może się zwiększyć maksymalnie o 21 170 godzin (tj. do 75 573 godzin). Zamawiający może skorzystać z prawa opcji w zakresie bezpośredniej ochrony fizycznej w okresie trwania niniejszej umowy po zrealizowaniu przez Wykonawcę gwarantowanego zakresu zamówienia minimalnego, czyli 54 403 godzin ochrony w trybie zwykłym;
+b) patrole prewencyjne w obrębie nieruchomości położonych w Katowicach zarządzanych przez KZGM w Katowicach. Maksymalna wielkość przedmiotu zamówienia w tym zakresie wynosi 240 patroli. Zamawiający nie jest w stanie zagwarantować minimalnej ilości dla ww. zakresu usług, gdyż konieczność ich świadczenia zależy od okoliczności niezależnych od Zamawiającego. Przewiduje się możliwość skorzystania z prawa opcji np. w przypadku notorycznego przebywania osób nieuprawnionych (np. bezdomnych) w obrębie danej nieruchomości. Zamawiający może skorzystać z prawa opcji w zakresie patroli prewencyjnych w okresie obowiązywania umowy określonym w § 2  projektowanych postanowieniach umowy;
+c) bezpośrednią ochronę fizyczną osób i mienia w trybie awaryjnym. Maksymalna wielkość przedmiotu zamówienia w tym zakresie wynosi 25 godzin ochrony. Zgłoszenie zapotrzebowania na usługi bezpośredniej ochrony fizycznej osób i mienia w trybie awaryjnym będzie dotyczyć nagłych przypadków w szczególności stwarzających zagrożenie dla zdrowia i/lub życia np. na okoliczność zabezpieczenia nieruchomości po pożarze i będzie obejmowało świadczenie usługi bezpośredniej ochrony fizycznej przez czas wskazany w zleceniu. Rozpoczęcie usługi nastąpi do 120 minut od zgłoszenia zapotrzebowania realizacji usługi w trybie awaryjnym przekazanego przez Zamawiającego telefonicznie lub za pośrednictwem wiadomości SMS. Zamawiający nie jest w stanie zagwarantować minimalnej ilości dla ww.  zakresu usług, gdyż konieczność ich świadczenia zależy od okoliczności niezależnych od Zamawiającego. Zamawiający może skorzystać z prawa opcji w zakresie bezpośredniej ochrony fizycznej osób i mienia w trybie awaryjnym w okresie obowiązywania umowy określonym w § 2 projektowanych postanowieniach umowy. 
+Zamawiający określił maksymalne ilości realizacji zamówienia, jednak zastrzega sobie prawo do niewykorzystania całości zamówienia. Wykonawcy nie przysługuje roszczenie z  tego tytułu. Maksymalny zakres zamówienia wynosi 75 573 roboczogodzin bezpośredniej ochrony osób i mienia w trybie zwykłym, 240 patroli prewencyjnych oraz 25 roboczogodzin bezpośredniej ochrony osób i mienia w trybie awaryjnym. Gwarantowany (minimalny) zakres zamówienia wynosi: 54 403 roboczogodzin bezpośredniej ochrony osób i mienia w trybie zwykłym.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

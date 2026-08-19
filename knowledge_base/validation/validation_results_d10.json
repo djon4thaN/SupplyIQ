@@ -1,0 +1,14 @@
+{
+  "phase": "D10",
+  "status": "validated",
+  "checks": {
+    "data_dictionary_has_supplier_projects": true,
+    "entity_index_covers_processed_tables": true,
+    "relationship_ids_unique": true,
+    "capability_matrix_has_required_examples": true,
+    "document_index_has_normalized_paths": true,
+    "hybrid_limits_explicit": true
+  },
+  "passed": 6,
+  "total": 6
+}

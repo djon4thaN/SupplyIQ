@@ -1,0 +1,9 @@
+{
+  "phase": "D11 final audit",
+  "status": "validated_with_gaps",
+  "checks_passed": 17,
+  "checks_warning": 1,
+  "checks_failed": 0,
+  "open_research_gaps": 3,
+  "foreign_key_issues": 0
+}

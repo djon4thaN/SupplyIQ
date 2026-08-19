@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">2078700</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">2078700</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0000</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>oferta nr 1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-05+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>R.ROZ.272.70.2023/443</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://www.wody.gov.pl/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Państwowe Gospodarstwo Wodne Wody Polskie, ul. Żelazna 59A, 00-848 Warszawa - Regionalny Zarząd Gospodarki Wodnej w Rzeszowie</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Hanasiewicza 17 B</cbc:StreetName>
+                           <cbc:CityName>Rzeszów</cbc:CityName>
+                           <cbc:PostalZone>35-103</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>368302575</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Osoby wymienione w pkt. 3.11 SWZ</cbc:Name>
+                           <cbc:Telephone>+48 178537400</cbc:Telephone>
+                           <cbc:Telefax>+48 178536421</cbc:Telefax>
+                           <cbc:ElectronicMail>rzeszow@wody.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 224587840</cbc:Telephone>
+                           <cbc:Telefax>+48 224587800</cbc:Telefax>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Departament Odwołań Urzędu Zamówień Publicznych</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP 5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:Telefax>+48 224587800</cbc:Telefax>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Sweco Polska sp. z o. o. (Lider)</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Franklina Roosevelta 22 </cbc:StreetName>
+                           <cbc:CityName>Poznań</cbc:CityName>
+                           <cbc:PostalZone>60-829</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL415</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP: 5220004190</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000484-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">edd8d719-4d45-42ed-a383-ae9e0edf96dd</cbc:ID>
+   <cbc:ContractFolderID>7cea7987-966d-4a81-9a4c-aad93084b244</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>07:09:10Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">env-pro</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">598495-2023</cbc:ID>
+      </cac:NoticeDocumentReference>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">RZ.ROZ.2710.70.2023</cbc:ID>
+      <cbc:Name languageID="POL">Opracowanie kompletnej dokumentacji projektowej dla odcinkowej budowy lewego i prawego wału przeciwpowodziowego rzeki Młynówka wraz z budową bulwarów o łącznej długości ok. 1 330 m oraz budowy suchego zbiornika na rzece Młynówka w km 3+485 w ramach zadania pn.: „Budowa suchego zbiornika na rzece Młynówka w km 3+485”</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest opracowanie kompletnej dokumentacji projektowej dla odcinkowej budowy lewego i prawego wału przeciwpowodziowego rzeki Młynówka wraz z budową bulwarów o łącznej długości ok. 1 330 m oraz budowy suchego zbiornika na rzece Młynówka w km 3+485 w ramach zadania pn.: „Budowa suchego zbiornika na rzece Młynówka w km 3+485”</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">1. Komunikacja między Zamawiającym a Wykonawcami, złożenie Oferty, dokumentów lub oświadczeń składających się na ofertę, podmiotowych środków dowodowych, zobowiązania podmiotu udostępniającego zasoby, pełnomocnictw, innych oświadczeń lub dokumentów, o których mowa w SWZ, cyfrowych odwzorowań podmiotowych środków dowodowych lub innych dokumentów o których mowa w SWZ, złożenie i otwarcie ofert, odbywa się wyłącznie za pośrednictwem platformy zakupowej – pod adresem: https://przetargi.wody.gov.pl/. 2. Zgodnie z art. 139 ustawy Pzp, Zamawiający najpierw dokona badania i oceny ofert, a następnie dokona kwalifikacji podmiotowej Wykonawcy, którego oferta została najwyżej oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału w postępowaniu. 3. Wykonawca podlega wykluczeniu na podstawie: 1) art. 108 ust. 1 ustawy Pzp 2) art. 5k Rozporządzenia Rady (UE) 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie, w brzmieniu nadanym Rozporządzeniem Rady (UE) 2022/576 z dnia 8 kwietnia 2022 r. w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie i art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego 4. Zgodnie z pkt 10 SWZ na ofertę składają się: 1) formularz oferty, 2) zakres rzeczowo-finansowy, 3) dokumenty potwierdzające uprawnienie do podpisania oferty oraz do podpisania lub poświadczenia za zgodność z oryginałem składanych oświadczeń lub dokumentów, 4) pełnomocnictwo - o ile dotyczy 5) dokument zawierający wyjaśnienie wraz z uzasadnieniem, dlaczego zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa – o ile dotyczy, 6) JEDZ składany przez Wykonawcę oraz dotyczący innych podmiotów, na których zasoby powołuje się Wykonawca (jeżeli dotyczy) o niepodleganiu wykluczeniu na podstawie okoliczności wskazanych w pkt 3.1) powyżej oraz spełnianiu warunków udziału w postępowaniu 7) oświadczenie wykonawcy oraz innych podmiotów, na których zasoby powołuje się Wykonawca (jeżeli dotyczy),o niepodleganiu wykluczeniu na podstawie okoliczności wskazanych w pkt 3.2) powyżej. 8) zobowiązanie innych podmiotów do udostępnienia zasobów - o ile dotyczy 9) dokument Self – cleaning - o ile dotyczy 5. Na potwierdzenie braku podstaw wykluczenia Wykonawcy z udziału w postępowaniu (pkt 10.3 SWZ), Wykonawca przedkłada, po uprzednim wezwaniu: 1) podmiotowe środki dowodowe, o których mowa w § 2 ust. 1 pkt 1) lit. a)-b), pkt 2), pkt 7) lit. a)-d) rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 23 grudnia 2020 r. w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy, 2) oświadczenie wykonawcy o niepodleganiu wykluczeniu z postępowania na podstawie okoliczności wskazanych w pkt 3.2) powyżej. 6. Na potwierdzenie spełniania warunków udziału w postępowaniu, Wykonawca przedkłada, po uprzednim wezwaniu, podmiotowe środki dowodowe, o których mowa w § 9 ust. 1 pkt 2), pkt 3) rozporządzenia, o którym mowa w pkt 5 powyżej (pkt 10.4 SWZ). 7. Stosownie do art. 257 ustawy Pzp, Zamawiający zastrzega sobie prawo unieważnienia przedmiotowego postępowania lub danej części postępowania, jeżeli środki publiczne, które Zamawiający zamierzał przeznaczyć na sfinansowanie całości lub danej części przedmiotowego zamówienia, nie zostaną mu przyznane. 8. Zamawiający nie wymaga wniesienia wadium w przedmiotowym postępowaniu.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71322000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Doświadczenie osoby wskazanej do pełnienia funkcji projektanta</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Cena</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Wobec treści dokumentów zamówienia i czynności podjętych przez Zamawiającego w toku postępowania oraz w przypadku zaniechania przez Zamawiającego czynności, do których jest zobowiązany na podstawie Ustawy, Wykonawcy przysługują środki ochrony prawnej określone w dziale IX ustawy, tj. odwołanie oraz skarga do sądu. 2. Zgodnie z art. 513 ustawy, odwołanie przysługuje na: 1) niezgodną z przepisami ustawy czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, O zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub Konkursie, w tym na projektowane postanowienie umowy; 2) zaniechanie czynności w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym Systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, do której zamawiający był obowiązany Na podstawie ustawy; 3) zaniechanie przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania konkursu na Podstawie ustawy, mimo że zamawiający był do tego obowiązany. 3. Zgodnie z art. 508, 514 i 516 ustawy: 1) odwołanie wnosi się do Prezesa Izby, w formie pisemnej albo w formie elektronicznej albo w postaci Elektronicznej, z tym że odwołanie i przystąpienie do postępowania odwoławczego, wniesione w postaci Elektronicznej, wymagają opatrzenia podpisem zaufanym; 2) Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci Elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem Terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego Terminu. Domniemywa się, że Zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do Jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do Jego wniesienia przy użyciu środków komunikacji elektronicznej; 3) odwołanie powinno wskazywać czynności lub zaniechania czynności zamawiającego, której zarzuca się Niezgodność z przepisami ustawy, lub wskazywać zaniechania przeprowadzenia postępowania o udzielenie Zamówienia lub zorganizowania konkursu na podstawie ustawy, zawierać zwięzłe przedstawienie zarzutów, żądanie co do sposobu rozstrzygnięcia odwołania, okoliczności faktyczne i prawne uzasadniające wniesienie Odwołania oraz dowody na poparcie przytoczonych okoliczności. 4. Zgodnie z art. 515 ustawy: 1) odwołanie wnosi się w terminie 10 dni od dnia przekazania informacji o czynności Zamawiającego Stanowiącej podstawę jego wniesienia – jeżeli informacja została przekazana przy użyciu środków komunikacji Elektronicznej, albo w terminie 15 dni – jeżeli informacja została przekazana w inny sposób; 2) odwołanie wobec treści ogłoszenia wszczynającego postępowanie lub wobec treści dokumentów Zamówienia, wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej; 3) odwołanie Wobec czynności innych niż określone w pkt 1 i 2 wnosi się w terminie 10 dni od dnia, w którym powzięto Lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Opracowanie kompletnej dokumentacji projektowej dla odcinkowej budowy lewego i prawego wału przeciwpowodziowego rzeki Młynówka wraz z budową bulwarów o łącznej długości ok. 1 330 m oraz budowy suchego zbiornika na rzece Młynówka w km 3+485 w ramach zadania pn.: „Budowa suchego zbiornika na rzece Młynówka w km 3+485”</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest opracowanie kompletnej dokumentacji projektowo-kosztorysowej dla odcinkowej budowy lewego i prawego wału przeciwpowodziowego rzeki Młynówka wraz z budową bulwarów o łącznej długości ok. 1 330 m oraz budową suchego zbiornika na rzece Młynówka w km 3+485 w ramach zadania pn.: „Budowa suchego zbiornika na rzece Młynówka w km 3+485” wraz z uzyskaniem wszelkich niezbędnych decyzji administracyjnych w tym decyzji o pozwoleniu na realizację inwestycji.
+Celem przedsięwzięcia jest budowa wałów przeciwpowodziowych i bulwarów na lewym i prawym brzegu rzeki Młynówka wraz z niezbędną infrastrukturą o łącznej długości ok. 1 330 m, a także budowa suchego zbiornika na rzece Młynówce w miejscowości: Trzcinica, Opacie – gm. Jasło, Bączal Dolny – gm. Skołyszyn, powiat jasielski. Zapora czołowa zbiornika planowana jest w km 3+485 rzeki Młynówki, a jego pojemność ma wynieść ok. 515 tyś m3.
+Szczegółowy opis przedmiotu zamówienia zawiera Załącznik Nr 3 do SWZ.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71322000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:Region>anyw</cbc:Region>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">12</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

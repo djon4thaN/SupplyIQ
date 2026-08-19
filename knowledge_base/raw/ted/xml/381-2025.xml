@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<ext:UBLExtensions>
+						<ext:UBLExtension>
+							<ext:ExtensionContent>
+								<efext:EformsExtension>
+
+								<efac:NoticeResult><efac:LotResult><cbc:ID schemeName="result">RES-0001</cbc:ID><cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode><efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator><efac:LotTender><cbc:ID schemeName="tender">TEN-0001</cbc:ID></efac:LotTender><efac:ReceivedSubmissionsStatistics><efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode><efbc:StatisticsNumeric>11</efbc:StatisticsNumeric></efac:ReceivedSubmissionsStatistics><efac:SettledContract><cbc:ID schemeName="contract">CON-0001</cbc:ID></efac:SettledContract><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0001</cbc:ID></efac:TenderLot></efac:LotResult><efac:LotResult><cbc:ID schemeName="result">RES-0002</cbc:ID><cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode><efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator><efac:LotTender><cbc:ID schemeName="tender">TEN-0002</cbc:ID></efac:LotTender><efac:ReceivedSubmissionsStatistics><efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode><efbc:StatisticsNumeric>9</efbc:StatisticsNumeric></efac:ReceivedSubmissionsStatistics><efac:SettledContract><cbc:ID schemeName="contract">CON-0002</cbc:ID></efac:SettledContract><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0002</cbc:ID></efac:TenderLot></efac:LotResult><efac:LotResult><cbc:ID schemeName="result">RES-0003</cbc:ID><cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode><efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator><efac:LotTender><cbc:ID schemeName="tender">TEN-0003</cbc:ID></efac:LotTender><efac:ReceivedSubmissionsStatistics><efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode><efbc:StatisticsNumeric>10</efbc:StatisticsNumeric></efac:ReceivedSubmissionsStatistics><efac:SettledContract><cbc:ID schemeName="contract">CON-0003</cbc:ID></efac:SettledContract><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0003</cbc:ID></efac:TenderLot></efac:LotResult><efac:LotResult><cbc:ID schemeName="result">RES-0004</cbc:ID><cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode><efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator><efac:LotTender><cbc:ID schemeName="tender">TEN-0004</cbc:ID></efac:LotTender><efac:ReceivedSubmissionsStatistics><efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode><efbc:StatisticsNumeric>9</efbc:StatisticsNumeric></efac:ReceivedSubmissionsStatistics><efac:SettledContract><cbc:ID schemeName="contract">CON-0004</cbc:ID></efac:SettledContract><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0004</cbc:ID></efac:TenderLot></efac:LotResult><efac:LotResult><cbc:ID schemeName="result">RES-0005</cbc:ID><cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode><efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator><efac:LotTender><cbc:ID schemeName="tender">TEN-0005</cbc:ID></efac:LotTender><efac:ReceivedSubmissionsStatistics><efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode><efbc:StatisticsNumeric>10</efbc:StatisticsNumeric></efac:ReceivedSubmissionsStatistics><efac:SettledContract><cbc:ID schemeName="contract">CON-0005</cbc:ID></efac:SettledContract><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0005</cbc:ID></efac:TenderLot></efac:LotResult><efac:LotResult><cbc:ID schemeName="result">RES-0006</cbc:ID><cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode><efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator><efac:LotTender><cbc:ID schemeName="tender">TEN-0006</cbc:ID></efac:LotTender><efac:ReceivedSubmissionsStatistics><efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode><efbc:StatisticsNumeric>5</efbc:StatisticsNumeric></efac:ReceivedSubmissionsStatistics><efac:SettledContract><cbc:ID schemeName="contract">CON-0006</cbc:ID></efac:SettledContract><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0006</cbc:ID></efac:TenderLot></efac:LotResult><efac:LotResult><cbc:ID schemeName="result">RES-0007</cbc:ID><cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode><efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator><efac:LotTender><cbc:ID schemeName="tender">TEN-0007</cbc:ID></efac:LotTender><efac:ReceivedSubmissionsStatistics><efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode><efbc:StatisticsNumeric>7</efbc:StatisticsNumeric></efac:ReceivedSubmissionsStatistics><efac:SettledContract><cbc:ID schemeName="contract">CON-0007</cbc:ID></efac:SettledContract><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0007</cbc:ID></efac:TenderLot></efac:LotResult><efac:LotTender>
+                    
+                
+                    
+                <cbc:ID schemeName="tender">TEN-0001</cbc:ID><efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator><cac:LegalMonetaryTotal>
+                        
+                        
+                    <cbc:PayableAmount currencyID="EUR">2630000</cbc:PayableAmount></cac:LegalMonetaryTotal><efac:SubcontractingTerm>
+                         
+                    <efbc:TermCode listName="applicability">no</efbc:TermCode></efac:SubcontractingTerm><efac:TenderingParty><cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID></efac:TenderingParty><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0001</cbc:ID></efac:TenderLot><efac:TenderReference><cbc:ID>La Passerelle</cbc:ID></efac:TenderReference></efac:LotTender><efac:LotTender>
+                    
+                
+                    
+                <cbc:ID schemeName="tender">TEN-0002</cbc:ID><efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator><cac:LegalMonetaryTotal>
+                        
+                        
+                    <cbc:PayableAmount currencyID="EUR">2610000</cbc:PayableAmount></cac:LegalMonetaryTotal><efac:SubcontractingTerm>
+                         
+                    <efbc:TermCode listName="applicability">not-known</efbc:TermCode></efac:SubcontractingTerm><efac:TenderingParty><cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID></efac:TenderingParty><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0002</cbc:ID></efac:TenderLot><efac:TenderReference><cbc:ID>EDG NET31 ENTREPRISE DE PROPRETE</cbc:ID></efac:TenderReference></efac:LotTender><efac:LotTender>
+                    
+                
+                    
+                <cbc:ID schemeName="tender">TEN-0003</cbc:ID><efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator><cac:LegalMonetaryTotal>
+                        
+                        
+                    <cbc:PayableAmount currencyID="EUR">3450000</cbc:PayableAmount></cac:LegalMonetaryTotal><efac:SubcontractingTerm>
+                         
+                    <efbc:TermCode listName="applicability">not-known</efbc:TermCode></efac:SubcontractingTerm><efac:TenderingParty><cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID></efac:TenderingParty><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0003</cbc:ID></efac:TenderLot><efac:TenderReference><cbc:ID>PLD GARONNE</cbc:ID></efac:TenderReference></efac:LotTender><efac:LotTender>
+                    
+                
+                    
+                <cbc:ID schemeName="tender">TEN-0004</cbc:ID><efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator><cac:LegalMonetaryTotal>
+                        
+                        
+                    <cbc:PayableAmount currencyID="EUR">2715000</cbc:PayableAmount></cac:LegalMonetaryTotal><efac:SubcontractingTerm>
+                         
+                    <efbc:TermCode listName="applicability">not-known</efbc:TermCode></efac:SubcontractingTerm><efac:TenderingParty><cbc:ID schemeName="tendering-party">TPA-0004</cbc:ID></efac:TenderingParty><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0004</cbc:ID></efac:TenderLot><efac:TenderReference><cbc:ID>VIDIMUS</cbc:ID></efac:TenderReference></efac:LotTender><efac:LotTender>
+                    
+                
+                    
+                <cbc:ID schemeName="tender">TEN-0005</cbc:ID><efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator><cac:LegalMonetaryTotal>
+                        
+                        
+                    <cbc:PayableAmount currencyID="EUR">3020000</cbc:PayableAmount></cac:LegalMonetaryTotal><efac:SubcontractingTerm>
+                         
+                    <efbc:TermCode listName="applicability">not-known</efbc:TermCode></efac:SubcontractingTerm><efac:TenderingParty><cbc:ID schemeName="tendering-party">TPA-0005</cbc:ID></efac:TenderingParty><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0005</cbc:ID></efac:TenderLot><efac:TenderReference><cbc:ID>AJNET-ENTREPRISE DE PROPRETE</cbc:ID></efac:TenderReference></efac:LotTender><efac:LotTender>
+                    
+                
+                    
+                <cbc:ID schemeName="tender">TEN-0006</cbc:ID><efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator><cac:LegalMonetaryTotal>
+                        
+                        
+                    <cbc:PayableAmount currencyID="EUR">145000</cbc:PayableAmount></cac:LegalMonetaryTotal><efac:SubcontractingTerm>
+                         
+                    <efbc:TermCode listName="applicability">not-known</efbc:TermCode></efac:SubcontractingTerm><efac:TenderingParty><cbc:ID schemeName="tendering-party">TPA-0006</cbc:ID></efac:TenderingParty><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0006</cbc:ID></efac:TenderLot><efac:TenderReference><cbc:ID>WILAU PROPRETE</cbc:ID></efac:TenderReference></efac:LotTender><efac:LotTender>
+                    
+                
+                    
+                <cbc:ID schemeName="tender">TEN-0007</cbc:ID><efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator><cac:LegalMonetaryTotal>
+                        
+                        
+                    <cbc:PayableAmount currencyID="EUR">330000</cbc:PayableAmount></cac:LegalMonetaryTotal><efac:SubcontractingTerm>
+                         
+                    <efbc:TermCode listName="applicability">not-known</efbc:TermCode></efac:SubcontractingTerm><efac:TenderingParty><cbc:ID schemeName="tendering-party">TPA-0007</cbc:ID></efac:TenderingParty><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0007</cbc:ID></efac:TenderLot><efac:TenderReference><cbc:ID>SUD OUEST CLEAN</cbc:ID></efac:TenderReference></efac:LotTender><efac:SettledContract><cbc:ID schemeName="contract">CON-0001</cbc:ID><cbc:IssueDate>2024-12-05+01:00</cbc:IssueDate><cbc:Title languageID="FRA">Secteur Colomiers</cbc:Title><efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator><efac:ContractReference><cbc:ID>2024202401701</cbc:ID></efac:ContractReference><efac:LotTender><cbc:ID schemeName="tender">TEN-0001</cbc:ID></efac:LotTender></efac:SettledContract><efac:SettledContract><cbc:ID schemeName="contract">CON-0002</cbc:ID><cbc:IssueDate>2024-12-04+01:00</cbc:IssueDate><cbc:Title languageID="FRA">Secteur Colomiers / Nord - Ouest</cbc:Title><efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator><efac:ContractReference><cbc:ID>2024202401702</cbc:ID></efac:ContractReference><efac:LotTender><cbc:ID schemeName="tender">TEN-0002</cbc:ID></efac:LotTender></efac:SettledContract><efac:SettledContract><cbc:ID schemeName="contract">CON-0003</cbc:ID><cbc:IssueDate>2024-12-03+01:00</cbc:IssueDate><cbc:Title languageID="FRA">Secteur Colomiers / Nord - Est</cbc:Title><efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator><efac:ContractReference><cbc:ID>2024202401703</cbc:ID></efac:ContractReference><efac:LotTender><cbc:ID schemeName="tender">TEN-0003</cbc:ID></efac:LotTender></efac:SettledContract><efac:SettledContract><cbc:ID schemeName="contract">CON-0004</cbc:ID><cbc:IssueDate>2024-12-06+01:00</cbc:IssueDate><cbc:Title languageID="FRA">Secteur Colomiers / Sud - Ouest</cbc:Title><efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator><efac:ContractReference><cbc:ID>2024202401704</cbc:ID></efac:ContractReference><efac:LotTender><cbc:ID schemeName="tender">TEN-0004</cbc:ID></efac:LotTender></efac:SettledContract><efac:SettledContract><cbc:ID schemeName="contract">CON-0005</cbc:ID><cbc:IssueDate>2024-12-04+01:00</cbc:IssueDate><cbc:Title languageID="FRA">Secteur Colomiers / Sud - Est</cbc:Title><efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator><efac:ContractReference><cbc:ID>2024202401705</cbc:ID></efac:ContractReference><efac:LotTender><cbc:ID schemeName="tender">TEN-0005</cbc:ID></efac:LotTender></efac:SettledContract><efac:SettledContract><cbc:ID schemeName="contract">CON-0006</cbc:ID><cbc:IssueDate>2024-12-12+01:00</cbc:IssueDate><cbc:Title languageID="FRA">Secteur Tarn</cbc:Title><efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator><efac:ContractReference><cbc:ID>2024202401706</cbc:ID></efac:ContractReference><efac:LotTender><cbc:ID schemeName="tender">TEN-0006</cbc:ID></efac:LotTender></efac:SettledContract><efac:SettledContract><cbc:ID schemeName="contract">CON-0007</cbc:ID><cbc:IssueDate>2024-12-16+01:00</cbc:IssueDate><cbc:Title languageID="FRA">Secteur Tarn et Garonne</cbc:Title><efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator><efac:ContractReference><cbc:ID>2024202401707</cbc:ID></efac:ContractReference><efac:LotTender><cbc:ID schemeName="tender">TEN-0007</cbc:ID></efac:LotTender></efac:SettledContract><efac:TenderingParty>
+                    
+                    
+                    
+                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID><efac:Tenderer>
+                        
+                        
+                    <cbc:ID schemeName="organization">ORG-0005</cbc:ID></efac:Tenderer></efac:TenderingParty><efac:TenderingParty>
+                    
+                    
+                    
+                <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID><efac:Tenderer>
+                        
+                        
+                    <cbc:ID schemeName="organization">ORG-0006</cbc:ID></efac:Tenderer></efac:TenderingParty><efac:TenderingParty>
+                    
+                    
+                    
+                <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID><efac:Tenderer>
+                        
+                        
+                    <cbc:ID schemeName="organization">ORG-0007</cbc:ID></efac:Tenderer></efac:TenderingParty><efac:TenderingParty>
+                    
+                    
+                    
+                <cbc:ID schemeName="tendering-party">TPA-0004</cbc:ID><efac:Tenderer>
+                        
+                        
+                    <cbc:ID schemeName="organization">ORG-0008</cbc:ID></efac:Tenderer></efac:TenderingParty><efac:TenderingParty>
+                    
+                    
+                    
+                <cbc:ID schemeName="tendering-party">TPA-0005</cbc:ID><efac:Tenderer>
+                        
+                        
+                    <cbc:ID schemeName="organization">ORG-0009</cbc:ID></efac:Tenderer></efac:TenderingParty><efac:TenderingParty>
+                    
+                    
+                    
+                <cbc:ID schemeName="tendering-party">TPA-0006</cbc:ID><efac:Tenderer>
+                        
+                        
+                    <cbc:ID schemeName="organization">ORG-0010</cbc:ID></efac:Tenderer></efac:TenderingParty><efac:TenderingParty>
+                    
+                    
+                    
+                <cbc:ID schemeName="tendering-party">TPA-0007</cbc:ID><efac:Tenderer>
+                        
+                        
+                    <cbc:ID schemeName="organization">ORG-0011</cbc:ID></efac:Tenderer></efac:TenderingParty></efac:NoticeResult><efac:NoticeSubType><cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode></efac:NoticeSubType><efac:Organizations><efac:Organization>
+                    
+                    
+                <efac:Company>
+                        
+                        
+                        
+                        
+                        
+                        
+                    <cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0001</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">Avenue-Web Systèmes</cbc:Name></cac:PartyName><cac:PostalAddress>
+                               
+                        <cbc:CityName>Seyssinet-Pariset</cbc:CityName><cbc:PostalZone>38170</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRK24</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">EF1AFAF6-D422-33CD-B2EC4E239E4B2F68</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>+33480041260</cbc:Telephone><cbc:ElectronicMail>publications-joue@aws-france.com</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                    
+                <efac:Company>
+                         
+                        
+                        
+                        
+                        
+                        
+                    <cbc:WebsiteURI>http://www.ladepeche-marchespublics.fr</cbc:WebsiteURI><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0002</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">ALTEAL</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                 
+                        <cbc:Postbox>70131</cbc:Postbox><cbc:StreetName>8 allée du Lauragais</cbc:StreetName><cbc:CityName>Colomiers</cbc:CityName><cbc:PostalZone>31772</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRJ23</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">3153</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                              
+                        <cbc:Name>le Directeur Général</cbc:Name><cbc:Telephone>(33)811567567</cbc:Telephone><cbc:ElectronicMail>servicemarche@alteal.net</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                    
+                <efac:Company>
+                        
+                        
+                        
+                        
+                        
+                        
+                    <cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">Tribunal judiciaire de Bordeaux</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                  
+                        <cbc:Postbox>7015</cbc:Postbox><cbc:StreetName>30 Rue Des Freres Bonie</cbc:StreetName><cbc:AdditionalStreetName>Cs 11403</cbc:AdditionalStreetName><cbc:CityName>Bordeaux</cbc:CityName><cbc:PostalZone>33077</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRI12</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">EF1AFB15-C2DB-558E-1116853E1872DD93</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0547339000</cbc:Telephone><cbc:ElectronicMail>tj-bordeaux@justice.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                    
+                <efac:Company>
+                        
+                        
+                        
+                        
+                        
+                        
+                    <cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">USH HABITAT SOCIAL EN OCCITANIE</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>104 avenue Jean Rieux</cbc:StreetName><cbc:CityName>Toulouse</cbc:CityName><cbc:PostalZone>31500</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRJ23</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">EF1AFB24-E774-E96E-7DF0535283750642</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0561360760</cbc:Telephone><cbc:ElectronicMail>occitanie@union-habitat.org</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                        
+                    
+                    
+                <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator><efac:UltimateBeneficialOwner><cbc:ID schemeName="ubo">UBO-0005</cbc:ID></efac:UltimateBeneficialOwner><efac:Company>
+                        
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    <efbc:CompanySizeCode listName="economic-operator-size">sme</efbc:CompanySizeCode><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">La Passerelle</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>1 Rue De Provence</cbc:StreetName><cbc:CityName>Colomiers</cbc:CityName><cbc:PostalZone>31770</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRJ23</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">37232-1-1-1</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0562740409</cbc:Telephone><cbc:ElectronicMail>nicolas.faure@lapasserelle31.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                        
+                    
+                    
+                <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator><efac:UltimateBeneficialOwner><cbc:ID schemeName="ubo">UBO-0006</cbc:ID></efac:UltimateBeneficialOwner><efac:Company>
+                        
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    <efbc:CompanySizeCode listName="economic-operator-size">sme</efbc:CompanySizeCode><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0006</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">EDG NET31 ENTREPRISE DE PROPRETE</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>13 Che De L Ormeau</cbc:StreetName><cbc:CityName>Colomiers</cbc:CityName><cbc:PostalZone>31770</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRJ23</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">37232-1-2-1</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0674198064</cbc:Telephone><cbc:ElectronicMail>contact@edgnet31.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                        
+                    
+                    
+                <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator><efac:UltimateBeneficialOwner><cbc:ID schemeName="ubo">UBO-0007</cbc:ID></efac:UltimateBeneficialOwner><efac:Company>
+                        
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    <efbc:CompanySizeCode listName="economic-operator-size">large</efbc:CompanySizeCode><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0007</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">PLD GARONNE</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>2098 La Lauragaise</cbc:StreetName><cbc:CityName>Labege</cbc:CityName><cbc:PostalZone>31670</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRJ23</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">37232-1-3-1</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0561007680</cbc:Telephone><cbc:ElectronicMail>publics.marches@pld-services.com</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                        
+                    
+                    
+                <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator><efac:UltimateBeneficialOwner><cbc:ID schemeName="ubo">UBO-0008</cbc:ID></efac:UltimateBeneficialOwner><efac:Company>
+                        
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    <efbc:CompanySizeCode listName="economic-operator-size">large</efbc:CompanySizeCode><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0008</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">VIDIMUS</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>10 Rue Salvador Allende</cbc:StreetName><cbc:CityName>Talence</cbc:CityName><cbc:PostalZone>33400</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRI12</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">37232-1-4-1</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0499773329</cbc:Telephone><cbc:ElectronicMail>n.bonello@groupenicollin.com</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                        
+                    
+                    
+                <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator><efac:UltimateBeneficialOwner><cbc:ID schemeName="ubo">UBO-0009</cbc:ID></efac:UltimateBeneficialOwner><efac:Company>
+                        
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    <efbc:CompanySizeCode listName="economic-operator-size">sme</efbc:CompanySizeCode><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0009</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">AJNET-ENTREPRISE DE PROPRETE</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>4 Av De La Saudrune</cbc:StreetName><cbc:CityName>Portet-Sur-Garonne</cbc:CityName><cbc:PostalZone>31120</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRJ23</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">37232-1-5-1</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0561319716</cbc:Telephone><cbc:ElectronicMail>contact@ajnet31.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                        
+                    
+                    
+                <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator><efac:UltimateBeneficialOwner><cbc:ID schemeName="ubo">UBO-0010</cbc:ID></efac:UltimateBeneficialOwner><efac:Company>
+                        
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    <efbc:CompanySizeCode listName="economic-operator-size">sme</efbc:CompanySizeCode><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0010</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">WILAU PROPRETE</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>2 Che De La Traverse</cbc:StreetName><cbc:CityName>Ibos</cbc:CityName><cbc:PostalZone>65420</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRJ26</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">37232-1-6-1</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0562350985</cbc:Telephone><cbc:ElectronicMail>contact@wilauetave.com</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                        
+                    
+                    
+                <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator><efac:UltimateBeneficialOwner><cbc:ID schemeName="ubo">UBO-0011</cbc:ID></efac:UltimateBeneficialOwner><efac:Company>
+                        
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    <efbc:CompanySizeCode listName="economic-operator-size">sme</efbc:CompanySizeCode><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0011</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">SUD OUEST CLEAN</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>22 Rue Des Genets</cbc:StreetName><cbc:CityName>Toulouse</cbc:CityName><cbc:PostalZone>31000</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRJ23</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">37232-1-7-1</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0619157080</cbc:Telephone><cbc:ElectronicMail>info@sudouestclean.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:UltimateBeneficialOwner>
+                    
+                    
+                    
+                <cbc:ID schemeName="ubo">UBO-0005</cbc:ID><efac:Nationality>
+                        
+                    <cbc:NationalityID>FRA</cbc:NationalityID></efac:Nationality></efac:UltimateBeneficialOwner><efac:UltimateBeneficialOwner>
+                    
+                    
+                    
+                <cbc:ID schemeName="ubo">UBO-0006</cbc:ID><efac:Nationality>
+                        
+                    <cbc:NationalityID>FRA</cbc:NationalityID></efac:Nationality></efac:UltimateBeneficialOwner><efac:UltimateBeneficialOwner>
+                    
+                    
+                    
+                <cbc:ID schemeName="ubo">UBO-0007</cbc:ID><efac:Nationality>
+                        
+                    <cbc:NationalityID>FRA</cbc:NationalityID></efac:Nationality></efac:UltimateBeneficialOwner><efac:UltimateBeneficialOwner>
+                    
+                    
+                    
+                <cbc:ID schemeName="ubo">UBO-0008</cbc:ID><efac:Nationality>
+                        
+                    <cbc:NationalityID>FRA</cbc:NationalityID></efac:Nationality></efac:UltimateBeneficialOwner><efac:UltimateBeneficialOwner>
+                    
+                    
+                    
+                <cbc:ID schemeName="ubo">UBO-0009</cbc:ID><efac:Nationality>
+                        
+                    <cbc:NationalityID>FRA</cbc:NationalityID></efac:Nationality></efac:UltimateBeneficialOwner><efac:UltimateBeneficialOwner>
+                    
+                    
+                    
+                <cbc:ID schemeName="ubo">UBO-0010</cbc:ID><efac:Nationality>
+                        
+                    <cbc:NationalityID>FRA</cbc:NationalityID></efac:Nationality></efac:UltimateBeneficialOwner><efac:UltimateBeneficialOwner>
+                    
+                    
+                    
+                <cbc:ID schemeName="ubo">UBO-0011</cbc:ID><efac:Nationality>
+                        
+                    <cbc:NationalityID>FRA</cbc:NationalityID></efac:Nationality></efac:UltimateBeneficialOwner></efac:Organizations><efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000381-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+							</ext:ExtensionContent>
+						</ext:UBLExtension>
+					</ext:UBLExtensions>
+					<cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+					<cbc:CustomizationID>eforms-sdk-1.10</cbc:CustomizationID>
+				<cbc:ID schemeName="notice-id">ba1ea8f9-5649-491b-888d-a169605ec8e7</cbc:ID><cbc:ContractFolderID>244c7b7d-1d4a-4494-abb0-8196edf118eb</cbc:ContractFolderID><cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate><cbc:IssueTime>15:12:21+01:00</cbc:IssueTime><cbc:VersionID>01</cbc:VersionID><cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain><cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode><cbc:NoticeLanguageCode>FRA</cbc:NoticeLanguageCode><cac:ContractingParty><cac:ContractingPartyType><cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode></cac:ContractingPartyType><cac:ContractingActivity><cbc:ActivityTypeCode listName="authority-activity">hc-am</cbc:ActivityTypeCode></cac:ContractingActivity><cac:Party><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0002</cbc:ID></cac:PartyIdentification><cac:ServiceProviderParty>
+				
+				
+			<cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party>
+					
+				<cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0001</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party></cac:ContractingParty><cac:TenderingProcess><cbc:ProcedureCode languageID="FRA" listName="procurement-procedure-type">open</cbc:ProcedureCode><cac:ProcessJustification>
+						 
+					<cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode></cac:ProcessJustification></cac:TenderingProcess><cac:ProcurementProject><cbc:ID>2024-017</cbc:ID><cbc:Name languageID="FRA">Accord-cadre de nettoyage des parties communes, gestion des déchets ménagers et des encombrants des résidences d'Altéal</cbc:Name><cbc:Description languageID="FRA">La nature des prestations attendues est détaillée au cahier des clauses techniques particulières</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification></cac:ProcurementProject><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0001</cbc:ID><cac:TenderingTerms><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cac:AwardingTerms><cac:AwardingCriterion>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            <cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>35</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Méthodologie appliquée spécifiquement au titre du présent marché pour la bonne exécution des prestations</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>20</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Moyens humains et matériels mis en place pour l'exécution du marché</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>5</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Note sur les engagements Rse de l'entreprise</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>40</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Prix</cbc:Description></cac:SubordinateAwardingCriterion></cac:AwardingCriterion></cac:AwardingTerms><cac:AppealTerms><cac:AppealReceiverParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms></cac:TenderingTerms><cac:TenderingProcess><cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator><cac:NoticeDocumentReference><cbc:ID>471421-2024</cbc:ID></cac:NoticeDocumentReference><cac:AuctionTerms>
+				
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem>
+                
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">1</cbc:ID><cbc:Name languageID="FRA">Secteur Colomiers</cbc:Name><cbc:Description languageID="FRA">Cf. CCTP</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:ContractExtension>
+                             
+                                
+                            
+                        <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric><cac:Renewal>
+                                    
+                                <cac:Period>
+                                        
+                                    <cbc:Description languageID="FRA">Au terme de la durée du marché, l'acheteur pourra reconduire tacitement le marché pour une période de 12 mois. Le marché pourra être reconduit 3 fois, portant la durée totale des reconductions à 36 mois</cbc:Description></cac:Period></cac:Renewal></cac:ContractExtension></cac:ProcurementProject></cac:ProcurementProjectLot><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0002</cbc:ID><cac:TenderingTerms><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cac:AwardingTerms><cac:AwardingCriterion>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            <cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>35</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Méthodologie appliquée spécifiquement au titre du présent marché pour la bonne exécution des prestations</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>20</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Moyens humains et matériels mis en place pour l'exécution du marché</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>5</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Note sur les engagements Rse de l'entreprise</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>40</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Prix</cbc:Description></cac:SubordinateAwardingCriterion></cac:AwardingCriterion></cac:AwardingTerms><cac:AppealTerms><cac:AppealReceiverParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms></cac:TenderingTerms><cac:TenderingProcess><cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator><cac:NoticeDocumentReference><cbc:ID>471421-2024</cbc:ID></cac:NoticeDocumentReference><cac:AuctionTerms>
+				
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem>
+                
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">2</cbc:ID><cbc:Name languageID="FRA">Secteur Colomiers / Nord - Ouest</cbc:Name><cbc:Description languageID="FRA">Cf. CCTP</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:ContractExtension>
+                             
+                                
+                            
+                        <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric><cac:Renewal>
+                                    
+                                <cac:Period>
+                                        
+                                    <cbc:Description languageID="FRA">Au terme de la durée du marché, l'acheteur pourra reconduire tacitement le marché pour une période de 12 mois. Le marché pourra être reconduit 3 fois, portant la durée totale des reconductions à 36 mois</cbc:Description></cac:Period></cac:Renewal></cac:ContractExtension></cac:ProcurementProject></cac:ProcurementProjectLot><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0003</cbc:ID><cac:TenderingTerms><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cac:AwardingTerms><cac:AwardingCriterion>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            <cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>35</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Méthodologie appliquée spécifiquement au titre du présent marché pour la bonne exécution des prestations</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>20</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Moyens humains et matériels mis en place pour l'exécution du marché</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>5</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Note sur les engagements Rse de l'entreprise</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>40</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Prix</cbc:Description></cac:SubordinateAwardingCriterion></cac:AwardingCriterion></cac:AwardingTerms><cac:AppealTerms><cac:AppealReceiverParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms></cac:TenderingTerms><cac:TenderingProcess><cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator><cac:NoticeDocumentReference><cbc:ID>471421-2024</cbc:ID></cac:NoticeDocumentReference><cac:AuctionTerms>
+				
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem>
+                
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">3</cbc:ID><cbc:Name languageID="FRA">Secteur Colomiers / Nord - Est</cbc:Name><cbc:Description languageID="FRA">Cf. CCTP</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:ContractExtension>
+                             
+                                
+                            
+                        <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric><cac:Renewal>
+                                    
+                                <cac:Period>
+                                        
+                                    <cbc:Description languageID="FRA">Au terme de la durée du marché, l'acheteur pourra reconduire tacitement le marché pour une période de 12 mois. Le marché pourra être reconduit 3 fois, portant la durée totale des reconductions à 36 mois</cbc:Description></cac:Period></cac:Renewal></cac:ContractExtension></cac:ProcurementProject></cac:ProcurementProjectLot><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0004</cbc:ID><cac:TenderingTerms><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cac:AwardingTerms><cac:AwardingCriterion>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            <cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>35</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Méthodologie appliquée spécifiquement au titre du présent marché pour la bonne exécution des prestations</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>20</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Moyens humains et matériels mis en place pour l'exécution du marché</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>5</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Note sur les engagements Rse de l'entreprise</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>40</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Prix</cbc:Description></cac:SubordinateAwardingCriterion></cac:AwardingCriterion></cac:AwardingTerms><cac:AppealTerms><cac:AppealReceiverParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms></cac:TenderingTerms><cac:TenderingProcess><cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator><cac:NoticeDocumentReference><cbc:ID>471421-2024</cbc:ID></cac:NoticeDocumentReference><cac:AuctionTerms>
+				
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem>
+                
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">4</cbc:ID><cbc:Name languageID="FRA">Secteur Colomiers / Sud - Ouest</cbc:Name><cbc:Description languageID="FRA">Cf. CCTP</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:ContractExtension>
+                             
+                                
+                            
+                        <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric><cac:Renewal>
+                                    
+                                <cac:Period>
+                                        
+                                    <cbc:Description languageID="FRA">Au terme de la durée du marché, l'acheteur pourra reconduire tacitement le marché pour une période de 12 mois. Le marché pourra être reconduit 3 fois, portant la durée totale des reconductions à 36 mois</cbc:Description></cac:Period></cac:Renewal></cac:ContractExtension></cac:ProcurementProject></cac:ProcurementProjectLot><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0005</cbc:ID><cac:TenderingTerms><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cac:AwardingTerms><cac:AwardingCriterion>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            <cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>35</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Méthodologie appliquée spécifiquement au titre du présent marché pour la bonne exécution des prestations</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>20</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Moyens humains et matériels mis en place pour l'exécution du marché</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>5</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Note sur les engagements Rse de l'entreprise</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>40</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Prix</cbc:Description></cac:SubordinateAwardingCriterion></cac:AwardingCriterion></cac:AwardingTerms><cac:AppealTerms><cac:AppealReceiverParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms></cac:TenderingTerms><cac:TenderingProcess><cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator><cac:NoticeDocumentReference><cbc:ID>471421-2024</cbc:ID></cac:NoticeDocumentReference><cac:AuctionTerms>
+				
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem>
+                
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">5</cbc:ID><cbc:Name languageID="FRA">Secteur Colomiers / Sud - Est</cbc:Name><cbc:Description languageID="FRA">Cf. CCTP</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:ContractExtension>
+                             
+                                
+                            
+                        <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric><cac:Renewal>
+                                    
+                                <cac:Period>
+                                        
+                                    <cbc:Description languageID="FRA">Au terme de la durée du marché, l'acheteur pourra reconduire tacitement le marché pour une période de 12 mois. Le marché pourra être reconduit 3 fois, portant la durée totale des reconductions à 36 mois</cbc:Description></cac:Period></cac:Renewal></cac:ContractExtension></cac:ProcurementProject></cac:ProcurementProjectLot><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0006</cbc:ID><cac:TenderingTerms><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cac:AwardingTerms><cac:AwardingCriterion>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            <cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>35</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Méthodologie appliquée spécifiquement au titre du présent marché pour la bonne exécution des prestations</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>20</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Moyens humains et matériels mis en place pour l'exécution du marché</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>5</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Note sur les engagements Rse de l'entreprise</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>40</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Prix</cbc:Description></cac:SubordinateAwardingCriterion></cac:AwardingCriterion></cac:AwardingTerms><cac:AppealTerms><cac:AppealReceiverParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms></cac:TenderingTerms><cac:TenderingProcess><cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator><cac:NoticeDocumentReference><cbc:ID>471421-2024</cbc:ID></cac:NoticeDocumentReference><cac:AuctionTerms>
+				
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem>
+                
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">6</cbc:ID><cbc:Name languageID="FRA">Secteur Tarn</cbc:Name><cbc:Description languageID="FRA">Cf. CCTP</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:ContractExtension>
+                             
+                                
+                            
+                        <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric><cac:Renewal>
+                                    
+                                <cac:Period>
+                                        
+                                    <cbc:Description languageID="FRA">Au terme de la durée du marché, l'acheteur pourra reconduire tacitement le marché pour une période de 12 mois. Le marché pourra être reconduit 3 fois, portant la durée totale des reconductions à 36 mois</cbc:Description></cac:Period></cac:Renewal></cac:ContractExtension></cac:ProcurementProject></cac:ProcurementProjectLot><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0007</cbc:ID><cac:TenderingTerms><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cac:AwardingTerms><cac:AwardingCriterion>
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            <cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>35</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Méthodologie appliquée spécifiquement au titre du présent marché pour la bonne exécution des prestations</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>20</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Moyens humains et matériels mis en place pour l'exécution du marché</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>5</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique/ Note sur les engagements Rse de l'entreprise</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>40</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Prix</cbc:Description></cac:SubordinateAwardingCriterion></cac:AwardingCriterion></cac:AwardingTerms><cac:AppealTerms><cac:AppealReceiverParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms></cac:TenderingTerms><cac:TenderingProcess><cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator><cac:NoticeDocumentReference><cbc:ID>471421-2024</cbc:ID></cac:NoticeDocumentReference><cac:AuctionTerms>
+				
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem>
+                
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">7</cbc:ID><cbc:Name languageID="FRA">Secteur Tarn et Garonne</cbc:Name><cbc:Description languageID="FRA">Cf. CCTP</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">90911000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:ContractExtension>
+                             
+                                
+                            
+                        <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric><cac:Renewal>
+                                    
+                                <cac:Period>
+                                        
+                                    <cbc:Description languageID="FRA">Au terme de la durée du marché, l'acheteur pourra reconduire tacitement le marché pour une période de 12 mois. Le marché pourra être reconduit 3 fois, portant la durée totale des reconductions à 36 mois</cbc:Description></cac:Period></cac:Renewal></cac:ContractExtension></cac:ProcurementProject></cac:ProcurementProjectLot><cac:TenderResult><cbc:AwardDate>2000-01-01Z</cbc:AwardDate></cac:TenderResult></ContractAwardNotice>

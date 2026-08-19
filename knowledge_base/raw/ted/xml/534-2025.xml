@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efac:NoticeResult>
+            <cbc:TotalAmount currencyID="EUR">1248900</cbc:TotalAmount>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0000</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              </efac:LotTender>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID schemeName="contract">CON-0000</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              <cbc:RankCode>1</cbc:RankCode>
+              <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+              <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="EUR">1248900</cbc:PayableAmount>
+              </cac:LegalMonetaryTotal>
+              <efac:SubcontractingTerm>
+                <efbc:TermAmount currencyID="EUR">1041555</efbc:TermAmount>
+                <efbc:TermDescription languageID="HRV">Dio prijevoza učenika osnovnih škola</efbc:TermDescription>
+                <efbc:TermPercent>83.4</efbc:TermPercent>
+                <efbc:TermCode listName="applicability">yes</efbc:TermCode>
+                <efbc:PercentageKnownIndicator>true</efbc:PercentageKnownIndicator>
+                <efbc:ValueKnownIndicator>true</efbc:ValueKnownIndicator>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>589-SKP-24</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0000</cbc:ID>
+              <cbc:AwardDate>2024-11-20+01:00</cbc:AwardDate>
+              <cbc:IssueDate>2024-11-29+01:00</cbc:IssueDate>
+              <cbc:Title languageID="HRV">Prijevoz učenika OŠ nad kojima osnivačka prava ima Bjelovarsko-bilogorska županija</cbc:Title>
+              <efac:ContractReference>
+                <cbc:ID>KLASA: 406-01/24-01/53; URBROJ: 2103-15-24-8</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+          </efac:NoticeResult>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://bbz.hr/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">BJELOVARSKO-BILOGORSKA ŽUPANIJA</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Dr. Ante Starčevića 8</cbc:StreetName>
+                  <cbc:CityName>Bjelovar</cbc:CityName>
+                  <cbc:PostalZone>43000</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR021</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>12928625880</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Milana Sabolić</cbc:Name>
+                  <cbc:Telephone>+385 43221911</cbc:Telephone>
+                  <cbc:ElectronicMail>milana.sabolic@bbz.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.dkom.hr/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">Državna komisija za kontrolu postupaka javne nabave</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Ulica grada Vukovara 23/V</cbc:StreetName>
+                  <cbc:CityName>Zagreb</cbc:CityName>
+                  <cbc:PostalZone>10000</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>95857869241</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Kontakt</cbc:Name>
+                  <cbc:Telephone>+385 14559 930</cbc:Telephone>
+                  <cbc:ElectronicMail>dkom@dkom.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.nn.hr/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">Narodne novine d.d.</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Savski gaj  XIII. 6</cbc:StreetName>
+                  <cbc:CityName>Zagreb</cbc:CityName>
+                  <cbc:PostalZone>10020</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>TED94</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>HR64546066176</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>EOJN Helpdesk</cbc:Name>
+                  <cbc:Telephone>+385 16652889</cbc:Telephone>
+                  <cbc:ElectronicMail>eojn@nn.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+              <efac:Company>
+                <efbc:CompanySizeCode listName="economic-operator-size">medium</efbc:CompanySizeCode>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">ČAZMATRANS - NOVA d.o.o.</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>M.Novačića 10</cbc:StreetName>
+                  <cbc:CityName>Čazma</cbc:CityName>
+                  <cbc:PostalZone>43240</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR021</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>04767584912</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Gordana Birač</cbc:Name>
+                  <cbc:Telephone>+38598436745 </cbc:Telephone>
+                  <cbc:ElectronicMail>gordana.birac@cazmatrans.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000534-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.10</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">2a43b775-b73d-4ac0-8d5f-ea5c3648d56c</cbc:ID>
+  <cbc:ContractFolderID>9e70323d-9487-429d-9cbe-bd9f9f202ef6</cbc:ContractFolderID>
+  <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+  <cbc:IssueTime>18:00:00.0000000+01:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>HRV</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cbc:BuyerProfileURI>https://bbz.hr/</cbc:BuyerProfileURI>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">ra</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingProcess>
+    <cbc:Description languageID="HRV">Otvoreni postupak</cbc:Description>
+    <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID schemeName="InternalID">2/EV-V</cbc:ID>
+    <cbc:Name languageID="HRV">Prijevoz učenika OŠ nad kojima osnivačka prava ima Bjelovarsko-bilogorska županija</cbc:Name>
+    <cbc:Description languageID="HRV">Predmet nabave je usluga prijevoza učenika osnovnih škola nad kojima osnivačka prava ima Bjelovarsko-bilogorska županija (u nastavku: Škole), na nastavu i s nastave, svakog nastavnog dana, u razdoblju od 01. prosinca 2024. godine do kraja školske godine 2024./2025., odnosno do 31.08.2025. godine.
+Ponuditelj je obvezan pružiti uslugu prijevoza učenika putem posebnog linijskog prijevoza sukladno priloženom troškovniku i ostalim uvjetima iz dokumentacije o nabavi, od mjesta stanovanja učenika do škole i po završetku nastave od škole do mjesta stanovanja.
+U slučaju promjene naziva, ukidanja, pripajanja, preustroja pojedine škole, odnosno drugih sličnih situacija, određenih zakonom ili drugim propisima kojima dolazi do promjene u djelokrugu rada i nadležnosti škole i Naručitelja, sva prava i obveze vezana uz ovaj predmet nabave i sklopljeni ugovor o javnoj nabavi, prelaze na pravnog slijednika ili slijednike sukladno njihovom međusobnom sporazumu.
+</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cac:RequestedTenderTotal>
+      <cbc:EstimatedOverallContractAmount currencyID="EUR">1260000</cbc:EstimatedOverallContractAmount>
+    </cac:RequestedTenderTotal>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">60100000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+    <cac:TenderingTerms>
+      <ext:UBLExtensions>
+        <ext:UBLExtension>
+          <ext:ExtensionContent>
+            <efext:EformsExtension>
+              <efac:StrategicProcurement>
+                <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+              </efac:StrategicProcurement>
+            </efext:EformsExtension>
+          </ext:ExtensionContent>
+        </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>90.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Cijena ponude</cbc:Name>
+            <cbc:Description languageID="HRV">Cijena ponude</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Broj zamjenskih autobusa </cbc:Name>
+            <cbc:Description languageID="HRV">Naručitelj kao drugi kriterij određuje broj zamjenskih autobusa koje ponuditelji moraju imati na raspolaganju. S obzirom da se radi o usluzi prijevoza učenika čija kontinuirana realizacija je vrlo važna, Naručitelj će dodijeliti više bodova onom Ponuditelju koji može dokazati da raspolaže s većim brojem zamjenskih autobusa odgovarajuće kvalitete, a sve kako bi imao dodatnu sigurnost da u slučaju kvara autobusa neće doći do zastoja u izvršenju usluge. Ponuditelj koji na raspolaganju ima jedan zamjenski autobus sukladno formuli u nastavku ostvarit će 0 bodova. Da bi ostvario bodove, svaki ponuditelj mora dokazati da će imati na raspolaganju minimalno dva zamjenska vozila. Ponuditelj koji ima na raspolaganju više raspoloživih zamjenskih autobusa ostvaruje više bodova, a maksimalno se uzima u obzir 10 dodatnih zamjenskih autobusa.
+
+Dakle, Ponuditelji ostvaruju bodove ukoliko imaju na raspolaganju od 2 do 10 zamjenskih autobusa prema sljedećoj formuli:
+
+                          	  Zi – Z10
+broj bodova =   -------------------------     x 10
+                            	Zmax – Z10
+
+
+•	Zi –  ponuđeni broj raspoloživih zamjenskih autobusa za koji se računaju bodovi,
+•	Z10 – minimalni broj raspoloživih zamjenskih autobusa,
+•	Zmax – najveći broj ponuđenih raspoloživih zamjenskih autobusa
+
+Ukupan broj bodova: broj bodova za ponuđenu cijenu + broj bodova koji je ponuda dobila za broj ponuđenih zamjenskih autobusa.
+
+Ponuditelj u ponudi dostavlja izjavu o raspoloživim dodatnim zamjenskim autobusima. Iz izjave mora biti vidljivo koji je broj raspoloživih zamjenskih autobusa ponuđen. 
+Ostali dokazi koje je potrebno priložiti kao dokaz kriterija uz izjavu su:
+-	preslika važeće prometne dozvole (knjižice vozila ako je još važeća) te presliku ugovora o najmu ili ugovora o leasingu za svako vozilo ukoliko vozilo nije u vlasništvu Ponuditelja
+-	presliku izvoda licencije za svako vozilo kojim Ponuditelj namjerava obavljati uslugu prijevoza sukladno članku 4., točki 19. Zakona o prijevozu u cestovnom prometu („Narodne novine“, broj 41/18, 98/19, 30/21 i 89/21), sukladno članku 14. i 114. Zakona o prijevozu u cestovnom prometu („Narodne novine“, broj 41/18, 98/19, 30/21 i 89/21) te Pravilniku o licencijama u djelatnosti cestovnog prometa („Narodne novine“ broj 50/18) Ponuditelji koji posjeduju važeću Licenciju za unutarnji prijevoz su dužni dostaviti Izvode licencije za vozila koja nude
+-	važeću potvrdu o ispunjavanju uvjeta za vozila kojima se prevoze djeca sukladno članku 21. Pravilnika o uvjetima koje moraju ispunjavati autobusi kojima se organizirano prevoze djeca („Narodne novine“ broj 100/08 i 20/09).
+
+Ukoliko ponuditelj u svojoj ponudi ne dostavi traženu izjavu i ostale dokaze, smatrat će se da je ponudio 1 raspoloživi zamjenski autobus i ponuda neće biti odbijena. 
+</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cbc:Description languageID="HRV">Žalba se dostavlja elektroničkim sredstvima komunikacije putem međusobno povezanih informacijskih sustava Državne komisije i EOJN RH (u daljnjem tekstu: sustav e-Žalba).</cbc:Description>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="internalID">2/EV-V</cbc:ID>
+      <cbc:Name languageID="HRV">Prijevoz učenika OŠ nad kojima osnivačka prava ima Bjelovarsko-bilogorska županija</cbc:Name>
+      <cbc:Description languageID="HRV">Predmet nabave je usluga prijevoza učenika osnovnih škola nad kojima osnivačka prava ima Bjelovarsko-bilogorska županija (u nastavku: Škole), na nastavu i s nastave, svakog nastavnog dana, u razdoblju od 01. prosinca 2024. godine do kraja školske godine 2024./2025., odnosno do 31.08.2025. godine.
+Ponuditelj je obvezan pružiti uslugu prijevoza učenika putem posebnog linijskog prijevoza sukladno priloženom troškovniku i ostalim uvjetima iz dokumentacije o nabavi, od mjesta stanovanja učenika do škole i po završetku nastave od škole do mjesta stanovanja.
+U slučaju promjene naziva, ukidanja, pripajanja, preustroja pojedine škole, odnosno drugih sličnih situacija, određenih zakonom ili drugim propisima kojima dolazi do promjene u djelokrugu rada i nadležnosti škole i Naručitelja, sva prava i obveze vezana uz ovaj predmet nabave i sklopljeni ugovor o javnoj nabavi, prelaze na pravnog slijednika ili slijednike sukladno njihovom međusobnom sporazumu.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="HRV">Detaljna razrada predmeta nabave, sa minimalnim uvjetima i karakteristikama predmeta nabave sadržana je u Specifikacijama prijevoza po školama i u Troškovniku koji su sastavni dio Dokumentacije o nabavi (prilog br. 1 i prilog br. 2).
+Ponuditelj ne smije mijenjati opise predmeta nabave navedene u Specifikaciji prijevoza po školama i u Troškovniku kao niti dopisivati stupce niti na bilo koji način mijenjati sadržaj Specifikacije prijevoza po školama i Troškovnika.
+Prijevoznik mora uslugu prijevoza obavljati pravovremeno i redovito svakog nastavnog dana, na siguran način, autobusima koji udovoljavaju Pravilniku o uvjetima koje moraju ispunjavati autobusi kojima se organizirano prevoze djeca („Narodne novine“ broj 100/08 i 20/09.), prema relacijama iz Specifikacije i Troškovnika.
+Ukoliko dođe do kvara autobusa prilikom prijevoza djece, odabrani ponuditelj se obvezuje u najkraćem mogućem roku poslati zamjenski autobus (mora zadovoljavati uvjete iz Pravilnika o uvjetima koje moraju ispunjavati autobusi kojima se organizirano prevoze djeca) koji će djecu prevesti do odredišta.
+Usluga prijevoza obavljati će se okvirno 115 dana. Prijevoz se obavlja kao poseban prijevoz isključivo prema relacijama prijevoza definiranim ovom dokumentacijom. 
+Ovisno o novonastalim okolnostima (npr. izgradnji novih škola ili ukidanju postojećih škola), može doći do povećanja ili smanjenja broja relacija prijevoza odnosno broja kilometara kao i broja djece po pojedinoj relaciji.
+</cbc:Note>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="accessibility">inc</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">1260000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">60100000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cbc:Description languageID="HRV">Relacije osnovnih škola (matične i područne škole) nad kojima osnivačka prava ima BBŽ, prema važećoj mreži osnovnih škola. Relacije prijevoza detaljno su razrađene u troškovniku.</cbc:Description>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HR021</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:TenderResult>
+    <cbc:AwardDate>2000-01-01+01:00</cbc:AwardDate>
+  </cac:TenderResult>
+</ContractAwardNotice>

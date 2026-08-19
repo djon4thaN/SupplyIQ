@@ -1,0 +1,147 @@
+project_id,source_project_id,project_name,project_description,project_status,country_code,country_name,source_id,source_file_id,source_record_id,collected_at
+prj_0001,1,My Organization,,,,,src_nist_supplychain,file_nist_002,1,2026-08-19
+prj_0002,2,Project Alpha,,,,,src_nist_supplychain,file_nist_002,2,2026-08-19
+prj_0003,1,My Organization,,,,,src_nist_supplychain,file_nist_005,1,2026-08-19
+prj_0004,2,Project Alpha,,,,,src_nist_supplychain,file_nist_005,2,2026-08-19
+prj_0005,3,Project Beta,,,,,src_nist_supplychain,file_nist_005,3,2026-08-19
+prj_0006,4,Project Gamma,,,,,src_nist_supplychain,file_nist_005,4,2026-08-19
+prj_0007,5,Project Delta,,,,,src_nist_supplychain,file_nist_005,5,2026-08-19
+prj_0008,1,Navit Inc.,,,,,src_nist_supplychain,file_nist_008,1,2026-08-19
+prj_0009,2,GPS Model 3,,,,,src_nist_supplychain,file_nist_008,2,2026-08-19
+prj_0010,3,GPS Model 5,,,,,src_nist_supplychain,file_nist_008,3,2026-08-19
+prj_0011,1,"OpenLine, INC",,,,,src_nist_supplychain,file_nist_011,1,2026-08-19
+prj_0012,2,Hospital Business Unit,,,,,src_nist_supplychain,file_nist_011,2,2026-08-19
+prj_0013,3,Clinic Business Unit,,,,,src_nist_supplychain,file_nist_011,3,2026-08-19
+prj_0014,4,Small Practice Business Unit,,,,,src_nist_supplychain,file_nist_011,4,2026-08-19
+prj_0015,5,Pharmacy Business Unit,,,,,src_nist_supplychain,file_nist_011,5,2026-08-19
+prj_0016,1,State,,,,,src_nist_supplychain,file_nist_014,1,2026-08-19
+prj_0017,2,Administration,,,,,src_nist_supplychain,file_nist_014,2,2026-08-19
+prj_0018,3,Investigation,,,,,src_nist_supplychain,file_nist_014,3,2026-08-19
+prj_0019,4,Attorney General,,,,,src_nist_supplychain,file_nist_014,4,2026-08-19
+prj_wb_p180171,P180171,Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1),,contract_award_recorded,,Eastern and Southern Africa,src_worldbank_finances1,file_worldbank_ds00005_001,76728,2026-08-19
+prj_wb_p166539,P166539,Ghana Economic Transformation Project,Industry & Trade/Ser,contract_award_recorded,GHA,Ghana,src_worldbank_finances1,file_worldbank_ds00005_001,77714,2026-08-19
+prj_wb_p168481,P168481,"Georgia I2Q - Innovation, Inclusion and Quality",Education,contract_award_recorded,GEO,Georgia,src_worldbank_finances1,file_worldbank_ds00005_001,76328,2026-08-19
+prj_wb_p161996,P161996,Sustainable Forests & Livelihoods (SUFAL) Project,Agriculture;Info & Communication;Social Protection,contract_award_recorded,BGD,Bangladesh,src_worldbank_finances1,file_worldbank_ds00005_001,77712,2026-08-19
+prj_wb_p161928,P161928,Operation for Supporting Rural Bridges (SupRB),Info & Communication;Transportation,contract_award_recorded,BGD,Bangladesh,src_worldbank_finances1,file_worldbank_ds00005_001,77320,2026-08-19
+prj_wb_p144271,P144271,Forest Conservation and Sustainability in the Heart of the Colombian Amazon,Agriculture;Public Admin,contract_award_recorded,COL,Colombia,src_worldbank_finances1,file_worldbank_ds00005_001,75155,2026-08-19
+prj_wb_p170035,P170035,"Agriculture Governance, Growth and Resilience Investment Project",Agriculture;Industry & Trade/Ser,contract_award_recorded,MDA,Moldova,src_worldbank_finances1,file_worldbank_ds00005_001,77307,2026-08-19
+prj_wb_p167790,P167790,Higher Education Project,Info & Communication;Education,contract_award_recorded,MDA,Moldova,src_worldbank_finances1,file_worldbank_ds00005_001,77049,2026-08-19
+prj_wb_p162594,P162594,Multipurpose Cadaster Project,Agriculture;Public Admin;Info & Communication,contract_award_recorded,COL,Colombia,src_worldbank_finances1,file_worldbank_ds00005_001,76462,2026-08-19
+prj_wb_p173834,P173834,Papua New Guinea COVID-19 Emergency Response Project,Health,contract_award_recorded,PNG,Papua New Guinea,src_worldbank_finances1,file_worldbank_ds00005_001,75634,2026-08-19
+prj_wb_p163353,P163353,Nigeria Rural Access and Agricultural Marketing Project,Transportation;Industry & Trade/Ser,contract_award_recorded,NGA,Nigeria,src_worldbank_finances1,file_worldbank_ds00005_001,77174,2026-08-19
+prj_wb_p154112,P154112,Sustainable Rural Sanitation Services Program for Results,Public Admin;Health;Water/Sanit/Waste,contract_award_recorded,EGY,"Egypt, Arab Republic of",src_worldbank_finances1,file_worldbank_ds00005_001,77711,2026-08-19
+prj_wb_p166936,P166936,Lesotho Renewable Energy & Energy Access Project,Energy & Extractives,contract_award_recorded,LSO,Lesotho,src_worldbank_finances1,file_worldbank_ds00005_001,77710,2026-08-19
+prj_wb_p160674,P160674,Social Protection Enhancement Project,Social Protection,contract_award_recorded,PSE,West Bank and Gaza,src_worldbank_finances1,file_worldbank_ds00005_001,76470,2026-08-19
+prj_wb_p160865,P160865,Livestock Productivity and Resilience Support Project,Agriculture;Social Protection;Industry & Trade/Ser,contract_award_recorded,NGA,Nigeria,src_worldbank_finances1,file_worldbank_ds00005_001,75870,2026-08-19
+prj_wb_p166802,P166802,Mozambique Conservation Areas for Biodiversity and Development - Phase 2,Agriculture;Industry & Trade/Ser,contract_award_recorded,MOZ,Mozambique,src_worldbank_finances1,file_worldbank_ds00005_001,75867,2026-08-19
+prj_wb_p176965,P176965,FSM Skills and Employability Enhancement Project,Education;Social Protection,contract_award_recorded,FSM,"Micronesia, Federated States of",src_worldbank_finances1,file_worldbank_ds00005_001,76346,2026-08-19
+prj_wb_p163711,P163711,Tax Administration and Statistical System Modernization Project,Public Admin;Info & Communication,contract_award_recorded,KGZ,Kyrgyz Republic,src_worldbank_finances1,file_worldbank_ds00005_001,76345,2026-08-19
+prj_wb_p169168,P169168,Early Childhood Development to Build Tajikistan’s Human Capital Project,Education;Health;Social Protection,contract_award_recorded,TJK,Tajikistan,src_worldbank_finances1,file_worldbank_ds00005_001,77647,2026-08-19
+prj_wb_p170466,P170466,Uganda Investing in Forests and Protected Areas for Climate-Smart Development Project,Agriculture;Industry & Trade/Ser,contract_award_recorded,UGA,Uganda,src_worldbank_finances1,file_worldbank_ds00005_001,75740,2026-08-19
+prj_wb_p176088,P176088,Southeast Asia Regional Economic Corridor and Connectivity Project,Transportation;Industry & Trade/Ser,contract_award_recorded,LAO,Lao People's Democratic Republic,src_worldbank_finances1,file_worldbank_ds00005_001,77649,2026-08-19
+prj_wb_p167512,P167512,Strengthening Primary Health Care and Surveillance in Haiti,Health,contract_award_recorded,HTI,Haiti,src_worldbank_finances1,file_worldbank_ds00005_001,76727,2026-08-19
+prj_wb_p169718,P169718,Liberia Urban Resilience Project,,contract_award_recorded,LBR,Liberia,src_worldbank_finances1,file_worldbank_ds00005_001,76344,2026-08-19
+prj_wb_p169265,P169265,Harmonizing and Improving Statistics in West Africa,Public Admin;Info & Communication,contract_award_recorded,,Western and Central Africa,src_worldbank_finances1,file_worldbank_ds00005_001,76065,2026-08-19
+prj_wb_p178694,P178694,Fiji Tourism Development Program in Vanua Levu,Industry & Trade/Ser,contract_award_recorded,,Fiji,src_worldbank_finances1,file_worldbank_ds00005_001,76343,2026-08-19
+prj_wb_p180220,P180220,Solomon Islands Community Benefits Sharing Project -- Phase 2,,contract_award_recorded,SLB,Solomon Islands,src_worldbank_finances1,file_worldbank_ds00005_001,76920,2026-08-19
+prj_wb_p178684,P178684,DRC Girls Learning and Empowerment Project,,contract_award_recorded,COD,"Congo, Democratic Republic of",src_worldbank_finances1,file_worldbank_ds00005_001,76083,2026-08-19
+prj_wb_p175011,P175011,Turkey Climate Smart and Competitive Agricultural Growth Project (TUCSAP),Agriculture,contract_award_recorded,TUR,Turkiye,src_worldbank_finances1,file_worldbank_ds00005_001,76475,2026-08-19
+prj_wb_p165129,P165129,Integrated Project for Source Sustainability and Climate Resilient Rain-fed Agriculture in Himachal Pradesh,Agriculture,contract_award_recorded,IND,India,src_worldbank_finances1,file_worldbank_ds00005_001,77057,2026-08-19
+prj_wb_p170185,P170185,Serbia Accelerating Innovation and Growth Entrepreneurship,Industry & Trade/Ser,contract_award_recorded,SRB,Serbia,src_worldbank_finances1,file_worldbank_ds00005_001,77703,2026-08-19
+prj_wb_p153743,P153743,Electricity Access Expansion Project,Energy & Extractives,contract_award_recorded,NER,Niger,src_worldbank_finances1,file_worldbank_ds00005_001,76570,2026-08-19
+prj_wb_p162679,P162679,West Bengal Major Irrigation and Flood Management Project,Agriculture,contract_award_recorded,IND,India,src_worldbank_finances1,file_worldbank_ds00005_001,76473,2026-08-19
+prj_wb_p162637,P162637,Rural Water Supply and Sanitation Project,Water/Sanit/Waste,contract_award_recorded,TJK,Tajikistan,src_worldbank_finances1,file_worldbank_ds00005_001,77702,2026-08-19
+prj_wb_p130182,P130182,Education Improvement Project,Education,contract_award_recorded,ARM,Armenia,src_worldbank_finances1,file_worldbank_ds00005_001,76726,2026-08-19
+prj_wb_p167830,P167830,Orinoquia Integrated Sustainable Landscapes,Agriculture;Industry & Trade/Ser,contract_award_recorded,COL,Colombia,src_worldbank_finances1,file_worldbank_ds00005_001,76332,2026-08-19
+prj_wb_p167455,P167455,Ceara Rural Sustainable Development and Competitiveness Phase II,Agriculture;Social Protection;Water/Sanit/Waste,contract_award_recorded,BRA,Brazil,src_worldbank_finances1,file_worldbank_ds00005_001,76918,2026-08-19
+prj_wb_p148537,P148537,Modernization of Government Services in the Republic of Moldova,Public Admin;Info & Communication,contract_award_recorded,MDA,Moldova,src_worldbank_finances1,file_worldbank_ds00005_001,76725,2026-08-19
+prj_wb_p165695,P165695,SABESP - IMPROVING WATER SERVICE ACCESS AND SECURITY IN THE METROPOLITAN REGION OF SÃO PAULO PROJECT,Water/Sanit/Waste,contract_award_recorded,BRA,Brazil,src_worldbank_finances1,file_worldbank_ds00005_001,76569,2026-08-19
+prj_wb_p164452,P164452,NI - INTEGRATED PUBLIC PROVISION OF HEALTH CARE SERVICES,Health,contract_award_recorded,NIC,Nicaragua,src_worldbank_finances1,file_worldbank_ds00005_001,77314,2026-08-19
+prj_wb_p177627,P177627,Barwaaqo - Somalia Water for Rural Resilience Project,Agriculture;Public Admin;Water/Sanit/Waste;Industry & Trade/Ser,contract_award_recorded,,"Somalia, Federal Republic of",src_worldbank_finances1,file_worldbank_ds00005_001,77701,2026-08-19
+prj_wb_p149239,P149239,Nepal:  Private Sector-Led Mini-Grid Energy Access Project,Energy & Extractives,contract_award_recorded,NPL,Nepal,src_worldbank_finances1,file_worldbank_ds00005_001,77700,2026-08-19
+prj_wb_p177742,P177742,Public Financial Management Improvement Project Phase 2,,contract_award_recorded,PSE,West Bank and Gaza,src_worldbank_finances1,file_worldbank_ds00005_001,76464,2026-08-19
+prj_wb_p181354,P181354,Innovative Private Sector Development II,,contract_award_recorded,PSE,West Bank and Gaza,src_worldbank_finances1,file_worldbank_ds00005_001,76468,2026-08-19
+prj_wb_p173518,P173518,Rural and Small Towns Water Security Project,Water/Sanit/Waste,contract_award_recorded,MOZ,Mozambique,src_worldbank_finances1,file_worldbank_ds00005_001,76336,2026-08-19
+prj_wb_p178077,P178077,Economic Acceleration and Resilience for NEET (EARN),,contract_award_recorded,BGD,Bangladesh,src_worldbank_finances1,file_worldbank_ds00005_001,76744,2026-08-19
+prj_wb_p177239,P177239,Solomon Islands: Pacific Islands Regional Oceanscape Program - Second Phase for Economic Resilience,Agriculture,contract_award_recorded,SLB,Solomon Islands,src_worldbank_finances1,file_worldbank_ds00005_001,75739,2026-08-19
+prj_wb_p172668,P172668,Second District Heating Efficiency Improvement Project,Energy & Extractives,contract_award_recorded,MDA,Moldova,src_worldbank_finances1,file_worldbank_ds00005_001,76467,2026-08-19
+prj_wb_p172031,P172031,Improving Healthcare Services in Somalia Project (“Damal Caafimaad”),Health,contract_award_recorded,,"Somalia, Federal Republic of",src_worldbank_finances1,file_worldbank_ds00005_001,77179,2026-08-19
+prj_wb_p178035,P178035,Accelerating Economic Diversification and Job Creation Project,Info & Communication;Financial Sector;Industry & Trade/Ser,contract_award_recorded,AGO,Angola,src_worldbank_finances1,file_worldbank_ds00005_001,76724,2026-08-19
+prj_wb_p174635,P174635,Northern Mozambique Rural Resilience Project,Agriculture;Public Admin;Social Protection,contract_award_recorded,MOZ,Mozambique,src_worldbank_finances1,file_worldbank_ds00005_001,77677,2026-08-19
+prj_wb_p118518,P118518,Moldova Agriculture Competitiveness Project,Agriculture;Industry & Trade/Ser,contract_award_recorded,MDA,Moldova,src_worldbank_finances1,file_worldbank_ds00005_001,75737,2026-08-19
+prj_wb_p162635,P162635,Enhancing Resilience in Kyrgyzstan Project,Public Admin;Info & Communication;Education;Financial Sector,contract_award_recorded,KGZ,Kyrgyz Republic,src_worldbank_finances1,file_worldbank_ds00005_001,76217,2026-08-19
+prj_wb_p167762,P167762,Emergency Multi-Sector Rohingya Crisis Response Project,Social Protection;Transportation;Water/Sanit/Waste,contract_award_recorded,BGD,Bangladesh,src_worldbank_finances1,file_worldbank_ds00005_001,77698,2026-08-19
+prj_wb_p165000,P165000,Public Financial Management Reforms for Institutional Strengthening,Public Admin;Info & Communication;Education;Health,contract_award_recorded,LBR,Liberia,src_worldbank_finances1,file_worldbank_ds00005_001,76916,2026-08-19
+prj_wb_p172102,P172102,Sierra Leone - Quality Essential Health Services and Systems Support Project,Health,contract_award_recorded,SLE,Sierra Leone,src_worldbank_finances1,file_worldbank_ds00005_001,76085,2026-08-19
+prj_wb_p152057,P152057,Social Protection Integration Project,Education;Social Protection,contract_award_recorded,HND,Honduras,src_worldbank_finances1,file_worldbank_ds00005_001,77654,2026-08-19
+prj_wb_p166189,P166189,Northern Congo Agroforestry Project,Agriculture,contract_award_recorded,COG,"Congo, Republic of",src_worldbank_finances1,file_worldbank_ds00005_001,77696,2026-08-19
+prj_wb_p164748,P164748,Chad - Refugees and Host Communities Support Project,Education;Health;Social Protection;Water/Sanit/Waste,contract_award_recorded,TCD,Chad,src_worldbank_finances1,file_worldbank_ds00005_001,76914,2026-08-19
+prj_wb_p166996,P166996,Ghana Jobs and Skills Project,Info & Communication;Education;Social Protection,contract_award_recorded,GHA,Ghana,src_worldbank_finances1,file_worldbank_ds00005_001,76466,2026-08-19
+prj_wb_p161798,P161798,Salado Integrated River Basin Management Support Project,Agriculture;Water/Sanit/Waste,contract_award_recorded,ARG,Argentina,src_worldbank_finances1,file_worldbank_ds00005_001,76913,2026-08-19
+prj_wb_p174417,P174417,Recovery of Economic Activity for Liberian Informal Sector Employment Project,Social Protection,contract_award_recorded,LBR,Liberia,src_worldbank_finances1,file_worldbank_ds00005_001,76912,2026-08-19
+prj_wb_p174335,P174335,Cambodia General Education Improvement Project,Education,contract_award_recorded,KHM,Cambodia,src_worldbank_finances1,file_worldbank_ds00005_001,77683,2026-08-19
+prj_wb_p156397,P156397,China HCFC Phaseout Project Stage II,Public Admin;Industry & Trade/Ser,contract_award_recorded,CHN,China,src_worldbank_finances1,file_worldbank_ds00005_001,76465,2026-08-19
+prj_wb_p174684,P174684,Economic Transformation for Inclusive Growth Project,Public Admin;Industry & Trade/Ser,contract_award_recorded,MDG,Madagascar,src_worldbank_finances1,file_worldbank_ds00005_001,75325,2026-08-19
+prj_wb_p167000,P167000,Transforming Egypt's Healthcare System Project,Health,contract_award_recorded,EGY,"Egypt, Arab Republic of",src_worldbank_finances1,file_worldbank_ds00005_001,75744,2026-08-19
+prj_wb_p177233,P177233,Response - Recovery - Resilience for Conflict-Affected Communities in Ethiopia Project,Social Protection,contract_award_recorded,ETH,Ethiopia,src_worldbank_finances1,file_worldbank_ds00005_001,76084,2026-08-19
+prj_wb_p168577,P168577,Financial Inclusion and Entrepreneurship Scaling Project,Financial Sector,contract_award_recorded,MWI,Malawi,src_worldbank_finances1,file_worldbank_ds00005_001,76331,2026-08-19
+prj_wb_p174595,P174595,Building Resilient Bridges,Transportation,contract_award_recorded,ALB,Albania,src_worldbank_finances1,file_worldbank_ds00005_001,76082,2026-08-19
+prj_wb_p170676,P170676,Ulaanbaatar Heating Sector Improvement Project,,contract_award_recorded,MNG,Mongolia,src_worldbank_finances1,file_worldbank_ds00005_001,75874,2026-08-19
+prj_wb_p174986,P174986,OECS Data for Decision Making (DDM) Project,,contract_award_recorded,,OECS Countries,src_worldbank_finances1,file_worldbank_ds00005_001,76081,2026-08-19
+prj_wb_p171269,P171269,Plastic free Rivers and Seas for South Asia,Public Admin;Info & Communication;Water/Sanit/Waste,contract_award_recorded,,South Asia,src_worldbank_finances1,file_worldbank_ds00005_001,76723,2026-08-19
+prj_wb_p174116,P174116,Mongolia Emergency Relief and Employment Support Project,Social Protection,contract_award_recorded,MNG,Mongolia,src_worldbank_finances1,file_worldbank_ds00005_001,76719,2026-08-19
+prj_wb_p171742,P171742,Access to Distributed Electricity and Lighting in Ethiopia (ADELE),Energy & Extractives,contract_award_recorded,ETH,Ethiopia,src_worldbank_finances1,file_worldbank_ds00005_001,76080,2026-08-19
+prj_wb_p179291,P179291,Shock Responsive and Resilient Social Safety Net Project,Social Protection,contract_award_recorded,COM,Comoros,src_worldbank_finances1,file_worldbank_ds00005_001,77050,2026-08-19
+prj_wb_p175655,P175655,Improving public financial management for the green transition,Public Admin,contract_award_recorded,SRB,Serbia,src_worldbank_finances1,file_worldbank_ds00005_001,76214,2026-08-19
+prj_wb_p167156,P167156,Nigeria: Improved Child Survival Program for Human Capital MPA,Health,contract_award_recorded,NGA,Nigeria,src_worldbank_finances1,file_worldbank_ds00005_001,77052,2026-08-19
+prj_wb_p168539,P168539,OECS Regional Health Project,Health,contract_award_recorded,,OECS Countries,src_worldbank_finances1,file_worldbank_ds00005_001,77653,2026-08-19
+prj_wb_p164704,P164704,Karachi Water and Sewerage Services Improvement Project (KWSSIP),,contract_award_recorded,PAK,Pakistan,src_worldbank_finances1,file_worldbank_ds00005_001,77051,2026-08-19
+prj_wb_p129992,P129992,Third Phase Disaster Vuln.Reduction APL for Dominica,Public Admin;Transportation;Water/Sanit/Waste,contract_award_recorded,DMA,Dominica,src_worldbank_finances1,file_worldbank_ds00005_001,76718,2026-08-19
+prj_wb_p167817,P167817,Regional Disease Surveillance Systems Enhancement Project (REDISSE) Phase IV,Info & Communication;Health,contract_award_recorded,,Western and Central Africa,src_worldbank_finances1,file_worldbank_ds00005_001,76712,2026-08-19
+prj_wb_p175977,P175977,Honduras Tropical Cyclones Eta and Iota Emergency Recovery Project,Public Admin;Social Protection,contract_award_recorded,HND,Honduras,src_worldbank_finances1,file_worldbank_ds00005_001,75743,2026-08-19
+prj_wb_p173799,P173799,MONGOLIA COVID-19 EMERGENCY RESPONSE AND HEALTH SYSTEM PREPAREDNESS PROJECT,Health,contract_award_recorded,MNG,Mongolia,src_worldbank_finances1,file_worldbank_ds00005_001,75741,2026-08-19
+prj_wb_p175170,P175170,Tuvalu Health System Strengthening Project,Health,contract_award_recorded,TUV,Tuvalu,src_worldbank_finances1,file_worldbank_ds00005_001,76079,2026-08-19
+prj_wb_p177073,P177073,Federated States of Micronesia Strategic Climate-Oriented Road Enhancements,Transportation,contract_award_recorded,FSM,"Micronesia, Federated States of",src_worldbank_finances1,file_worldbank_ds00005_001,76078,2026-08-19
+prj_wb_p164920,P164920,Tanzania Roads to Inclusion and Socioeconomic Opportunities (RISE) Project,Transportation,contract_award_recorded,TZA,Tanzania,src_worldbank_finances1,file_worldbank_ds00005_001,76213,2026-08-19
+prj_wb_p154482,P154482,Sahel Irrigation Initiative Support Project,Agriculture;Info & Communication,contract_award_recorded,,Western and Central Africa,src_worldbank_finances1,file_worldbank_ds00005_001,77310,2026-08-19
+prj_wb_p155759,P155759,Citizen-Centric Judicial Modernization and Justice Service Delivery,Public Admin;Info & Communication,contract_award_recorded,TZA,Tanzania,src_worldbank_finances1,file_worldbank_ds00005_001,76070,2026-08-19
+prj_wb_p177782,P177782,Emergency Project to Combat the Food Crisis in Cameroon,Agriculture,contract_award_recorded,CMR,Cameroon,src_worldbank_finances1,file_worldbank_ds00005_001,75866,2026-08-19
+prj_wb_p178040,P178040,Angola Strengthening Governance for Enhanced Service Delivery Project,Public Admin,contract_award_recorded,AGO,Angola,src_worldbank_finances1,file_worldbank_ds00005_001,76560,2026-08-19
+prj_wb_p171462,P171462,Commercialization and De-Risking for Agricultural Transformation Project,Agriculture;Industry & Trade/Ser,contract_award_recorded,,Rwanda,src_worldbank_finances1,file_worldbank_ds00005_001,77178,2026-08-19
+prj_wb_p172627,P172627,Skills for A Vibrant Economy Project,Education,contract_award_recorded,MWI,Malawi,src_worldbank_finances1,file_worldbank_ds00005_001,76561,2026-08-19
+prj_wb_p177124,P177124,RMI Urban Resilience Project,,contract_award_recorded,,Marshall Islands,src_worldbank_finances1,file_worldbank_ds00005_001,75493,2026-08-19
+prj_wb_p159632,P159632,P4: Pacific Regional Connectivity Program Phase 4: KI: Connectivity Project,Info & Communication,contract_award_recorded,KIR,Kiribati,src_worldbank_finances1,file_worldbank_ds00005_001,75491,2026-08-19
+prj_wb_p176108,P176108,Kiribati Digital Government Project,Info & Communication,contract_award_recorded,KIR,Kiribati,src_worldbank_finances1,file_worldbank_ds00005_001,75489,2026-08-19
+prj_wb_p164785,P164785,Punjab Human Capital Investment Project,Education;Health;Social Protection,contract_award_recorded,PAK,Pakistan,src_worldbank_finances1,file_worldbank_ds00005_001,76069,2026-08-19
+prj_wb_p178009,P178009,Mangroves for Coastal Resilience Project,Agriculture;Public Admin;Social Protection,contract_award_recorded,IDN,Indonesia,src_worldbank_finances1,file_worldbank_ds00005_001,77650,2026-08-19
+prj_wb_p171054,P171054,Climate Adaptation and Resilience for South Asia,Public Admin,contract_award_recorded,,South Asia,src_worldbank_finances1,file_worldbank_ds00005_001,75738,2026-08-19
+prj_wb_p170213,P170213,Catalyzing Financing and Capacity for the Biodiversity Economy around Protected Areas Project,Agriculture;Industry & Trade/Ser,contract_award_recorded,ZAF,South Africa,src_worldbank_finances1,file_worldbank_ds00005_001,76327,2026-08-19
+prj_wb_p175382,P175382,Burkina Faso Emergency Local Development and Resilience Project,Public Admin;Social Protection;Transportation;Industry & Trade/Ser,contract_award_recorded,BFA,Burkina Faso,src_worldbank_finances1,file_worldbank_ds00005_001,76461,2026-08-19
+prj_wb_p165945,P165945,Livestock Commercialization Project,Agriculture;Info & Communication,contract_award_recorded,MNG,Mongolia,src_worldbank_finances1,file_worldbank_ds00005_001,76717,2026-08-19
+prj_wb_p163734,P163734,Dushanbe Water Supply and Wastewater Project,Water/Sanit/Waste,contract_award_recorded,TJK,Tajikistan,src_worldbank_finances1,file_worldbank_ds00005_001,76068,2026-08-19
+prj_wb_p160005,P160005,Climate Resilience Multi-Phase Programmatic Approach,Public Admin;Info & Communication;Water/Sanit/Waste,contract_award_recorded,LKA,Sri Lanka,src_worldbank_finances1,file_worldbank_ds00005_001,77308,2026-08-19
+prj_wb_p175895,P175895,Ukraine Emergency COVID-19 Response and Vaccination Project,Health,contract_award_recorded,UKR,Ukraine,src_worldbank_finances1,file_worldbank_ds00005_001,75488,2026-08-19
+prj_wb_p177814,P177814,Pathways to Sustainable Livelihoods Project,Social Protection,contract_award_recorded,LSO,Lesotho,src_worldbank_finances1,file_worldbank_ds00005_001,76716,2026-08-19
+prj_wb_p165861,P165861,Bolivia Urban Resilience,Public Admin;Transportation;Water/Sanit/Waste,contract_award_recorded,BOL,Bolivia,src_worldbank_finances1,file_worldbank_ds00005_001,76067,2026-08-19
+prj_wb_p172225,P172225,Federated States of Micronesia Prioritized Road Investment and Management Enhancements Project,Transportation,contract_award_recorded,FSM,"Micronesia, Federated States of",src_worldbank_finances1,file_worldbank_ds00005_001,76066,2026-08-19
+prj_wb_p162043,P162043,Western Balkans Trade and Transport Facilitation,Transportation;Industry & Trade/Ser,contract_award_recorded,,Western Balkans,src_worldbank_finances1,file_worldbank_ds00005_001,76715,2026-08-19
+prj_wb_p172284,P172284,Ethiopia Human Capital Operation,Public Admin;Education;Health,contract_award_recorded,ETH,Ethiopia,src_worldbank_finances1,file_worldbank_ds00005_001,76714,2026-08-19
+prj_wb_p164044,P164044,ECOWAS-Regional Electricity Access Project,Energy & Extractives,contract_award_recorded,,Western and Central Africa,src_worldbank_finances1,file_worldbank_ds00005_001,77177,2026-08-19
+prj_wb_p171524,P171524,RESILAND CA+ Program: Tajikistan Resilient Landscape Restoration Project,Agriculture,contract_award_recorded,,Central Asia,src_worldbank_finances1,file_worldbank_ds00005_001,77648,2026-08-19
+prj_wb_p180245,P180245,Health Enhancement And Lifesaving (HEAL) Ukraine Project,Health,contract_award_recorded,UKR,Ukraine,src_worldbank_finances1,file_worldbank_ds00005_001,76713,2026-08-19
+prj_wb_p179534,P179534,Strengthening the Digital Health Agenda in the Province of Buenos Aires,Health,contract_award_recorded,ARG,Argentina,src_worldbank_finances1,file_worldbank_ds00005_001,75736,2026-08-19
+prj_wb_p167184,P167184,Improving Access to and Value from Health Services in PNG: Financing the Frontlines,Health,contract_award_recorded,PNG,Papua New Guinea,src_worldbank_finances1,file_worldbank_ds00005_001,77173,2026-08-19
+prj_wb_p177158,P177158,Digital Sao Tome and Principe,Info & Communication,contract_award_recorded,,Sao Tome and Principe,src_worldbank_finances1,file_worldbank_ds00005_001,77305,2026-08-19
+prj_wb_p167416,P167416,Social Safety Net Project,Social Protection,contract_award_recorded,ECU,Ecuador,src_worldbank_finances1,file_worldbank_ds00005_001,75328,2026-08-19
+prj_wb_p170469,P170469,TEGUCIGALPA: WATER SUPPLY STRENGTHENING PROJECT,Water/Sanit/Waste,contract_award_recorded,HND,Honduras,src_worldbank_finances1,file_worldbank_ds00005_001,76459,2026-08-19
+prj_wb_p171528,P171528,Caribbean Digital Transformation Project,Info & Communication,contract_award_recorded,,Caribbean,src_worldbank_finances1,file_worldbank_ds00005_001,76326,2026-08-19
+prj_wb_p170718,P170718,Digital Federated States of Micronesia Project,Info & Communication,contract_award_recorded,FSM,"Micronesia, Federated States of",src_worldbank_finances1,file_worldbank_ds00005_001,75487,2026-08-19
+prj_wb_p171681,P171681,Tuvalu Learning Project,Public Admin;Education,contract_award_recorded,TUV,Tuvalu,src_worldbank_finances1,file_worldbank_ds00005_001,75327,2026-08-19
+prj_wb_p161386,P161386,Higher Education Development in Pakistan,Info & Communication;Education,contract_award_recorded,PAK,Pakistan,src_worldbank_finances1,file_worldbank_ds00005_001,76458,2026-08-19
+prj_wb_p178532,P178532,Strengthening Social Protection Delivery System in Sindh,Health;Social Protection,contract_award_recorded,PAK,Pakistan,src_worldbank_finances1,file_worldbank_ds00005_001,75326,2026-08-19
+prj_wb_p176396,P176396,Burundi Digital Foundations Project,Info & Communication,contract_award_recorded,BDI,Burundi,src_worldbank_finances1,file_worldbank_ds00005_001,76063,2026-08-19
+prj_wb_p159337,P159337,Finance for Jobs II,Education;Energy & Extractives;Industry & Trade/Ser,contract_award_recorded,PSE,West Bank and Gaza,src_worldbank_finances1,file_worldbank_ds00005_001,75154,2026-08-19
+prj_wb_p177816,P177816,Food Systems Resilience Program for Eastern and Southern Africa (Phase 3) FSRP,Agriculture;Industry & Trade/Ser,contract_award_recorded,,Eastern and Southern Africa,src_worldbank_finances1,file_worldbank_ds00005_001,75338,2026-08-19
+prj_wb_p168739,P168739,Water Security Development - Gaza Central Desalination Program – Associated Works Phase I Project,Water/Sanit/Waste,contract_award_recorded,PSE,West Bank and Gaza,src_worldbank_finances1,file_worldbank_ds00005_001,75153,2026-08-19
+prj_wb_p177779,P177779,Tajikistan Preparedness and Resilience to Disasters Project,Public Admin;Transportation,contract_award_recorded,TJK,Tajikistan,src_worldbank_finances1,file_worldbank_ds00005_001,76455,2026-08-19
+prj_wb_p171965,P171965,Strengthening Reform Management in Jordan,Public Admin;Info & Communication,contract_award_recorded,JOR,Jordan,src_worldbank_finances1,file_worldbank_ds00005_001,75337,2026-08-19

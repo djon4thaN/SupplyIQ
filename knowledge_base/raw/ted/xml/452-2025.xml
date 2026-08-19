@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">899200</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">914000</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">899200</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>4</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>4</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-micro</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-med</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">899200</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta nr 4</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-11-28Z</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-10Z</cbc:IssueDate>
+                     <cbc:Title languageID="POL">UMOWA nr 01/12/2024</cbc:Title>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>UMOWA nr 01/12/2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>BORIM PALIWA SP.  Z O.O.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://www.zgk.wieliczka.eu/pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Zakład Gospodarki Komunalnej w Wieliczce spółka z ograniczoną odpowiedzialnością</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. ul. Józefa Jedynaka 30</cbc:StreetName>
+                           <cbc:CityName>Wieliczka</cbc:CityName>
+                           <cbc:PostalZone>32-020</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL214</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP: 6832009500</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON: 120618017</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>12 291 48 06</cbc:Telephone>
+                           <cbc:ElectronicMail>zgk@wieliczka.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">BORIM PALIWA SP. Z O.O.,</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>UL. JASKÓŁEK 12L</cbc:StreetName>
+                           <cbc:CityName>STUDZIENICE</cbc:CityName>
+                           <cbc:PostalZone>43-215</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP : 6381815184 Regon: 364489097 nr KRS: 0000618478</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>607080015</cbc:Telephone>
+                           <cbc:ElectronicMail>borim@borim.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000452-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">e2d99c00-0fcd-498e-ac78-ce301bcb7df9</cbc:ID>
+   <cbc:ContractFolderID>e5d172c6-999c-4aa1-a0fa-3183b7d3a2bf</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31+01:00</cbc:IssueDate>
+   <cbc:IssueTime>10:50:07+01:00</cbc:IssueTime>
+   <cbc:VersionID>02</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2024-12-31+01:00</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode>POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">646241-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="POL">Dostawa oleju napędowego wraz ze zbiornikiem magazynowym w formie dzierżawy na potrzeby Zakładu Gospodarki Komunalnej w Wieliczce w roku 2025</cbc:Name>
+      <cbc:Description languageID="POL">3.1. Przedmiotem zamówienia jest:
+             3.1.1) Sukcesywna dostawa oleju napędowego (spełniającego wymagania określone w Rozporządzeniu Ministra Gospodarki z dnia 9 października 2015 r. w sprawie wymagań jakościowych dla paliw ciekłych (Dz.U. z 2015r., poz.1680 ze zm.) w planowanej ilości ON 200 000 litrów.
+             3.1.2) Udostępnienie w formie dzierżawy na okres trwania umowy zbiornika spełniającego warunki określone w Rozporządzeniu Ministra Gospodarki z dnia 18 września 2001 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać zbiorniki bezciśnieniowe i niskociśnieniowe przeznaczone do magazynowania materiałów ciekłych zapalnych (Dz.U. Nr 113, poz. 1211 z późn. zm.) wraz z układem dystrybucyjnym do bezobsługowego poboru oleju napędowego identyfikującego niezależnie pojazdy samochodowe, maszyny i urządzenia oraz kierowców, służące do wewnętrznego tankowania pojazdów Zamawiającego, olejem napędowym.
+c) lokalizacja zbiornika – na terenie Zakładu Gospodarki Komunalnej w Wieliczce, Sp. z o.o. ul. Jedynaka 30, 
+32-020 Wieliczka.
+Zamawiający ustala dla celów obliczenia ceny oferty cenę jednostkową hurtową netto za jeden litr oleju napędowego (ekodiesel) na dzień przekazania do publikacji publikacji ogłoszenia o zamówieniu tj. na dzień 23.10.2024r. która zgodnie z cennikiem sprzedaży paliw płynnych PKN Orlen, zamieszczonym na stronie internetowej www.orlen.pl wynosi 4,76 zł.
+Wykonawca ustali stałą opłatę z uwzględnieniem wszystkich kosztów realizacji zadania takich jak:
+- dzierżawa zbiornika wraz z układem dystrybucyjnym do pobierania oleju napędowego,
+- użytkowanie kart i kluczy logujących lub równoważnych,
+oraz innych koniecznych do realizacji przedmiotu zamówienia.
+Odbiór dostarczonego przez Wykonawcę do zbiornika magazynowego oleju napędowego zostanie każdorazowo potwierdzony dokumentem WZ, podpisanym przez osoby uprawnione przez Zamawiającego.
+Wykonawca przeszkoli wyznaczonych przez Zamawiającego pracowników w zakresie obsługi tankowania pojazdów/sprzętu.
+         3.2. Wydzierżawienie, dostawa i instalacja zbiornika oleju napędowego z dystrybutorem.
+             3.2.1) Wykonawca  winien  wyposażyć Zamawiającego na  okres realizacji dostaw w dopuszczony do eksploatacji na terenie Zamawiającego zbiornik paliwa, o pojemności 5000 litrów, z dystrybutorem do tankowania.
+             3.2.2) Zbiornik ma być wykonany z wysokiej jakości surowców odpornych na działanie ekstremalnych warunków atmosferycznych i promieniowania UV oraz ma gwarantować maksymalne zabezpieczenie przed wyciekami, które mogłyby spowodować szkody dla środowiska naturalnego.
+             3.2.3)  Zbiornik należy dostarczyć i zainstalować we  wskazanym przez  Zamawiającego miejscu do 14 dni od podpisania umowy, jednak nie później niż do 31.12.2024r.  Zbiornik musi posiadać ważne dopuszczenie biegłego z zakresu pożarnictwa oraz wymagane dokumenty dozoru technicznego dopuszczające zbiornik do eksploatacji (poświadczenie o przeprowadzonym badaniu próby ciśnieniowej – nr UDT), jak również spełniać inne wymagania (np.: ADR, SANEPID-u, PIP, BHP).
+             3.2.4) Pompa i dystrybutor mają być umieszczone w zamkniętej obudowie chroniącej przed dostępem osób niepowołanych.
+             3.2.5) Układ dystrybucyjny powinien być urządzeniem zapewniającym samoobsługowy pobór oleju napędowego przez osoby upoważnione przez Zamawiającego, poprzez przydzielenie kierowcom (operatorom) kart logujących lub równoważnych oraz pojazdom (maszynom) kluczy logujących lub równoważnych.
+             3.2.6) Pobór oleju napędowego ze zbiornika winien być objęty systemem monitorowania.
+         3.3. Zarządzanie paliwem.
+             3.3.1) Dostawy oleju napędowego mają odbywać się w godzinach 7.00 do 13.00 w dni robocze.
+             3.3.2) Wykonawca obowiązany jest do zapewnienia stałych dostaw, celem ciągłego zaspokajania potrzeb Zamawiającego na paliwo, stanowiące przedmiot zamówienia, lecz bez odrębnego zamówienia Zamawiającego. 
+             3.3.3) Wykonawca decyduje o terminie i ilości dostarczonego oleju napędowego do zbiornika magazynowego przez okres obowiązywania zawartej umowy, w porozumieniu z Zamawiającym.
+             3.3.4) O dostawie oleju napędowego do zbiornika Wykonawca powiadomi Zamawiającego z co najmniej 2-godzinnym wyprzedzeniem.
+             3.3.5) Ilość pobranego oleju napędowego jest rozliczana w temperaturze rzeczywistej.
+             3.3.6) Zamawiający ma dostęp do danych dotyczących poboru oleju napędowego 24 godziny na dobę przez 7 dni w tygodniu.
+             3.3.7) Ustalenia i decyzje dotyczące wykonywania zamówienia uzgadniane będą przez Zamawiającego z ustanowionym przedstawicielem Wykonawcy.
+             3.3.8) Zamawiający nie ponosi odpowiedzialności za szkody wyrządzone  przez  Wykonawcę podczas wykonywania przedmiotu umowy.
+CPV:
+09134100-8 – olej napędowy
+         3.4. Jeżeli w SWZ zostało wskazane pochodzenie (marka, znak towarowy, producent, dostawca) materiałów lub normy, aprobaty, specyfikacje i systemy, o których mowa w art. 99 ust. 5 ustawy Pzp, zamawiający dopuszcza oferowanie materiałów lub rozwiązań równoważnych pod warunkiem, że zagwarantują one prawidłową realizację zamówienia oraz zapewnią uzyskanie parametrów technicznych nie gorszych od założonych w SWZ. Wykonawca, który powołuje się na rozwiązania równoważne, jest zobowiązany wykazać, że oferowane przez niego rozwiązanie spełnia wymagania określone przez zamawiającego. W takim przypadku wykonawca załącza do oferty wykaz rozwiązań równoważnych stosownie wraz z jego opisem lub normami.
+         3.5. W przypadku opisania przedmiotu zamówienia w SWZ wraz z załącznikami poprzez odniesienie się do norm, ocen technicznych, specyfikacji technicznych i systemów referencji technicznych, o których mowa w art. 101 ust. 1 pkt 2 oraz ust. 3 uPzp, zamawiający dopuszcza rozwiązania równoważne opisywanym.
+Normy, oceny techniczne, specyfikacje techniczne i systemy referencji technicznych o których mowa w art. 101 ust. 1 pkt</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="PLN">952600</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">09134100</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:FiscalLegislationDocumentReference>
+            <cbc:ID>generated_id</cbc:ID>
+            <cac:IssuerParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:IssuerParty>
+         </cac:FiscalLegislationDocumentReference>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Zamawiający oceni i porówna jedynie te oferty, które odpowiadają wymaganiom opisanym w niniejszej SWZ, t.j. oferty które nie zostały odrzucone. W niniejszym postępowaniu jedynym kryterium oceny ofert jest cena brutto całego zamówienia. Oferta z najniższą ceną otrzyma maksymalną liczbę punktów – 100. Pozostałe oferty zostaną przeliczone wg wzoru podanego poniżej. Wynik będzie traktowany jako wartość punktowa oferty w kryterium cena oferty. An = Najniższa cena wśród złożonych ofert/Cena zaoferowana przez wykonawcę x 100 pkt gdzie: An – liczba punktów przyznana ofercie „n” n – numer oferty Punkty będą zaokrąglane do dwóch miejsc po przecinku lub z większą dokładnością, jeżeli przy zastosowaniu wymienionego zaokrąglenia nie występuje różnica w ilości przyznanych punktów wynikająca z małej różnicy zaoferowanych cen.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">10 dni</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">PZ/3450/2024</cbc:ID>
+         <cbc:Name languageID="POL">Dostawa oleju napędowego wraz ze zbiornikiem magazynowym w formie dzierżawy na potrzeby Zakładu Gospodarki Komunalnej w Wieliczce w roku 2025</cbc:Name>
+         <cbc:Description languageID="POL">3.1.1) Sukcesywna dostawa oleju napędowego (spełniającego wymagania określone w Rozporządzeniu Ministra Gospodarki z dnia 9 października 2015 r. w sprawie wymagań jakościowych dla paliw ciekłych (Dz.U. z 2015r., poz.1680 ze zm.) w planowanej ilości ON 200 000 litrów.
+             3.1.2) Udostępnienie w formie dzierżawy na okres trwania umowy zbiornika spełniającego warunki określone w Rozporządzeniu Ministra Gospodarki z dnia 18 września 2001 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać zbiorniki bezciśnieniowe i niskociśnieniowe przeznaczone do magazynowania materiałów ciekłych zapalnych (Dz.U. Nr 113, poz. 1211 z późn. zm.) wraz z układem dystrybucyjnym do bezobsługowego poboru oleju napędowego identyfikującego niezależnie pojazdy samochodowe, maszyny i urządzenia oraz kierowców, służące do wewnętrznego tankowania pojazdów Zamawiającego, olejem napędowym.
+c) lokalizacja zbiornika – na terenie Zakładu Gospodarki Komunalnej w Wieliczce, Sp. z o.o. ul. Jedynaka</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:EstimatedOverallContractQuantity unitCode="LTR">200000</cbc:EstimatedOverallContractQuantity>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="PLN">952600</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">09134100</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Informacje dot. terminu wykonania zamówienia: - Dostawa i instalacja zbiornika we wskazanym przez Zamawiającego miejscu do 14 dni od podpisania umowy, jednak nie później niż do 31.12.2024 r. - planowane rozpoczęcie dostawy: od dnia sporządzenia protokołu zdawczo – odbiorczego posadowienia zbiornika magazynowego, jednak nie wcześniej niż od dnia 01.01.2025 r. - planowane zakończenie: 31.12.2025 r.</cbc:Description>
+            <cac:Address>
+               <cbc:StreetName>J Jedynaka 30</cbc:StreetName>
+               <cbc:AdditionalStreetName>J Jedynaka 30</cbc:AdditionalStreetName>
+               <cbc:CityName>Wieliczka</cbc:CityName>
+               <cbc:PostalZone>32-020</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL214</cbc:CountrySubentityCode>
+               <cac:AddressLine>
+                  <cbc:Line>J Jedynaka 30</cbc:Line>
+               </cac:AddressLine>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01Z</cbc:StartDate>
+            <cbc:EndDate>2025-12-31Z</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

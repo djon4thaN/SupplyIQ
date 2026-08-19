@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">27634304.36</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">27634304.36</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">27634304.36</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">27634304.36</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-11-28+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-05+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Obsługa przewozów pasażerskich w transporcie zbiorowym organizowanym przez Miasto Rybnik
+</cbc:Title>
+                     <efac:ContractReference>
+                        <cbc:ID>Km-III.272.3.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.rybnik.eu</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://ezamowienia.gov.pl/pl/</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Urząd Miasta Rybnika</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Bolesława Chrobrego 2</cbc:StreetName>
+                           <cbc:CityName>Rybnik</cbc:CityName>
+                           <cbc:PostalZone>44-200</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>276255430</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 32 43 92 302</cbc:Telephone>
+                           <cbc:ElectronicMail>zam_pub@um.rybnik.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.gov.pl/web/uzp/krajowa-izba-odwolawcza</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Urząd Zamówień Publicznych - Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 22 458 78 01</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">konsorcjum: Kłosok sp. z o.o. spółka komandytowa, Jutrans sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Gajowa 62</cbc:StreetName>
+                           <cbc:CityName>Żory</cbc:CityName>
+                           <cbc:PostalZone>44­-240</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6511736515</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 32 455 66 49</cbc:Telephone>
+                           <cbc:ElectronicMail>biuro@klosok.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000200-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">8d0af8a0-9834-4f31-ae6d-e6111708f329</cbc:ID>
+   <cbc:ContractFolderID>6c1bd2fd-2c40-4ae1-b4be-0941b1f42cdd</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>13:07:06Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <ext:UBLExtensions>
+         <ext:UBLExtension>
+            <ext:ExtensionContent>
+               <efext:EformsExtension>
+                  <efbc:ProcedureRelaunchIndicator>false</efbc:ProcedureRelaunchIndicator>
+               </efext:EformsExtension>
+            </ext:ExtensionContent>
+         </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">617374-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">ZP.271.71.2024</cbc:ID>
+      <cbc:Name languageID="POL">Obsługa przewozów pasażerskich w transporcie zbiorowym organizowanym przez Miasto Rybnik
+</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest obsługa przewozów pasażerskich w transporcie zbiorowym minimum dziesięcioma autobusami przegubowymi o parametrach technicznych opisanych w załączniku nr 7 do SWZ oraz wyposażenia wg formularza oferty oraz minimum jednym rezerwowym.
+Ogólne wymagania Zamawiającego.
+1. Szacowana planowana wielkość pracy eksploatacyjnej w całym okresie świadczenia usług wynosi 1 801 454 wozokilometry.
+2. W całym okresie realizacji umowy łączna wielkość pracy eksploatacyjnej nie zmniejszy się o więcej niż 15%, tj. 270 218,1 wozokilometra. Łączna gwarantowana minimalna wielkość pracy eksploatacyjnej wyniesie 1 531 235,9 wozokilometra.
+3. Zamawiający informuje, że praca eksploatacyjna będzie wykonywana przede wszystkim w dni robocze podczas roku szkolnego. Nie przewiduje się zaangażowania autobusów w dni wolne od pracy (soboty, niedziele, święta) w okresie roku szkolnego. Ma to jednak charakter elastyczny. W okresach poza rokiem szkolnym wielkość przewozów jest mniejsza niż w roku szkolnym, co może być związane także ze zmniejszonym zaangażowaniem taboru.
+4. Autobusy wyprodukowane nie wcześniej niż w 2014 roku.
+5. Autobusy mogą być napędzane silnikiem zasilanym olejem napędowym spełniającym poziom emisji spalin min EURO VI lub gazem ziemnym (CNG lub LNG) lub o napędzie zeroemisyjnym (zgodnie Ustawą z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych; Dz. U. 2018 poz. 317).
+6. Autobusy mają być wyposażone w automatyczną skrzynię biegów (dotyczy autobusów zasilanych olejem napędowym lub gazem ziemnym).
+7. Stosownie do treści art. 29 ust. 3a ustawy Pzp, Zamawiający poniżej określa czynności w zakresie realizacji zamówienia przez osoby zatrudnione przez Wykonawcę lub podwykonawcę na podstawie umowy o pracę, tj. kierowanie autobusem w ramach obsługi przewozów pasażerskich w transporcie zbiorowym.
+Szczegółowe wymagania dotyczące przedmiotu zamówienia zostały określone w SWZ.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="PLN">26221163.78</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">60112000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">W tym kryterium pod uwagę będzie brana zaoferowana cena. Sposób oceny ofert został określony wzorem w rozdziale XXIII SWZ.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>5</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Tapicerka</cbc:Name>
+                  <cbc:Description languageID="POL">W tym kryterium premiowane będą autobusy podstawowe wyposażone w tapicerkę siedzisk odpowiadającą celom promocyjnym miasta. Wpływa to pozytywnie na odbiór transportu miejskiego jako usługi publicznej. Link do Systemu Identyfikacji Wizualnej:  https://siw.rybnik.eu/#system-identyfikacji-wizualnej. W kryterium liczba przyznanych punktów dla poszczególnych ofert będzie przyznawana według poniższej zasady:
+1)	za każdy autobus wyposażony w tapicerkę w barwach miejskich oraz z logotypami odpowiadającymi systemowi identyfikacyjnemu miasta – 5 pkt
+2)	w przypadku zaoferowania realizacji zamówienia 4 autobusami spełniającymi podstawowe wymagania określone w załączniku nr 7 do SWZ – 0 pkt
+Suma punktów uzyskanych w kryterium zostaje podzielona przez łączną liczbę wymaganych autobusów podstawowych, tj. 4. Wynik dzielenia stanowi liczbę punktów przyznanych w ramach kryterium.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>9</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Rodzaj kabiny kierowcy </cbc:Name>
+                  <cbc:Description languageID="POL">W tym kryterium premiowane będą autobusy podstawowe wyposażone w kabiny kierowców zapewniające wyższy komfort pracy z uwagi na ich wydzielenie od przedziału pasażerskiego. W kryterium liczba przyznanych punktów dla poszczególnych ofert  będzie przyznawana według poniższej zasady:
+1)	za każdy autobus wyposażony w kabinę kierowcy obejmującą połowę przednich drzwi oraz przeszklenie w sposób pozostawiający nie więcej niż 30 centymetrów największej odległości od sufitu – 9 pkt
+2)	za każdy autobus wyposażony w kabinę kierowcy obejmującą przeszklenie w sposób pozostawiający nie więcej niż 30 centymetrów największej odległości od sufitu – 7 pkt
+3)	w przypadku zaoferowania realizacji zamówienia 4 autobusami spełniającymi podstawowe wymagania określone w pkt II ppkt 5 załącznika nr 7 do SWZ – 0 pkt
+Suma punktów uzyskanych w kryterium zostaje podzielona przez łączną liczbę wymaganych autobusów podstawowych, tj. 4. Wynik dzielenia stanowi liczbę punktów przyznanych w ramach kryterium.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>5</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Typ wyświetlacza tylnego </cbc:Name>
+                  <cbc:Description languageID="POL">W tym kryterium premiowane będą autobusy podstawowe wyposażone w tylne wyświetlacze zewnętrzne wyświetlające oprócz numeru linii także kierunek jazdy, dzięki czemu informacja kierowana do pasażerów będzie bardziej kompletna. W kryterium liczba przyznanych punktów dla poszczególnych ofert  będzie przyznawana według poniższej zasady:
+1)	za każdy autobus wyposażony w tylny wyświetlacz zewnętrzny umożliwiający wyświetlanie numeru linii oraz kierunku jazdy – 5 pkt
+2)	w przypadku zaoferowania realizacji zamówienia 4 autobusami wyposażonymi w tylny wyświetlacz zewnętrzny umożliwiający wyświetlanie wyłącznie numeru linii – 0 pkt
+Suma punktów uzyskanych w kryterium zostaje podzielona przez łączną liczbę wymaganych autobusów podstawowych, tj. 4. Wynik dzielenia stanowi liczbę punktów przyznanych w ramach kryterium.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>5</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Wyświetlacze zewnętrzne prawe </cbc:Name>
+                  <cbc:Description languageID="POL">W tym kryterium premiowane będą autobusy podstawowe wyposażone w wyświetlacze zewnętrzne prawe wyświetlające numer linii oraz kierunek jazdy na odrębnych urządzeniach, dzięki czemu dla informacji o kierunku pozostanie więcej przestrzeni. W kryterium liczba przyznanych punktów dla poszczególnych ofert  będzie przyznawana według poniższej zasady:
+1)	za każdy autobus wyposażony w dwa odrębne wyświetlacze zewnętrzne prawe, tj. jeden przeznaczony do wyświetlania numeru linii i drugi przeznaczony do wyświetlania kierunku jazdy – 5 pkt
+2)	w przypadku zaoferowania realizacji zamówienia 4 autobusami wyposażonymi w zintegrowany wyświetlacz zewnętrzny prawy, umożliwiający wyświetlanie numeru linii oraz kierunku jazdy na jednym urządzeniu – 0 pkt
+Suma punktów uzyskanych w kryterium zostaje podzielona przez łączną liczbę wymaganych autobusów podstawowych, tj. 4. Wynik dzielenia stanowi liczbę punktów przyznanych w ramach kryterium.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>11</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Rodzaj napędu </cbc:Name>
+                  <cbc:Description languageID="POL">W tym kryterium premiowane będą autobusy podstawowe wykorzystujące do napędu silniki zero- lub niskoemisyjne, w rozumieniu ustawy o elektromobilności. W kryterium liczba przyznanych punktów dla poszczególnych ofert  będzie przyznawana według poniższej zasady:
+1)	za każdy autobus wyposażony w napęd bezemisyjny – 11 pkt
+2)	za każdy autobus wyposażony w napęd hybrydowy – 5 pkt
+3)	w przypadku zaoferowania realizacji zamówienia 4 autobusami wyposażonymi w inny rodzaj napędu niż wskazane wyżej – 0 pkt
+Suma punktów uzyskanych w kryterium zostaje podzielona przez łączną liczbę wymaganych autobusów podstawowych, tj. 4. Wynik dzielenia stanowi liczbę punktów przyznanych w ramach kryterium.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>5</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Rodzaj drzwi</cbc:Name>
+                  <cbc:Description languageID="POL">W tym kryterium premiowane będą autobusy podstawowe wyposażone w drzwi odskokowo-przesuwne, jako rozwiązanie usprawniające wymianę pasażerską na przystankach. W kryterium liczba przyznanych punktów dla poszczególnych ofert  będzie przyznawana według poniższej zasady:
+1)	za każdy autobus wyposażony w dwoje lub troje drzwi odskokowo-przesuwnych – 5 pkt
+2)	za każdy autobus wyposażony w jedne drzwi odskokowo-przesuwne – 1 pkt
+3)	w przypadku zaoferowania realizacji zamówienia 4 autobusami wyposażonymi we wszystkie drzwi w technologii innej niż odskokowo-przesuwna – 0 pkt
+Suma punktów uzyskanych w kryterium zostaje podzielona przez łączną liczbę wymaganych autobusów podstawowych, tj. 4. Wynik dzielenia stanowi liczbę punktów przyznanych w ramach kryterium.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1.	Zasady, terminy oraz sposób korzystania ze środków ochrony prawnej szczegółowo regulują przepisy działu IX ustawy – Środki ochrony prawnej 
+(art. 505-590 ustawy Pzp).
+2.	Środki ochrony prawnej przysługują Wykonawcy oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy.
+3.	Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie 
+o udzielenie zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15, oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+4.	Odwołanie przysługuje na:
+1)	niezgodną z przepisami ustawy czynność Zamawiającego, podjętą 
+w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+2)	zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający by obowiązany na podstawie ustawy.
+5.	Odwołanie wnosi się w terminie:
+1)	10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej;
+2)	15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w pkt 5 ppkt. 1.
+6.	Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 
+10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej.
+7.	Odwołanie w przypadkach innych niż określone w pkt 5 i 6 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.
+8.	Jeżeli Zamawiający mimo takiego obowiązku nie przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty, odwołanie wnosi się nie później niż w terminie: 
+1)	30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia;
+2)	6 miesięcy od dnia zawarcia umowy, jeżeli Zamawiający nie opublikował 
+w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia.
+9.	Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej opatrzone podpisem zaufanym.
+10.	Na orzeczenie Krajowej Izby Odwoławczej oraz postanowienie Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 ustawy Pzp, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. Skargę wnosi się do Sądu Okręgowego w Warszawie za pośrednictwem Prezesa Krajowej Izby Odwoławczej.
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">ZP.271.71.2024</cbc:ID>
+         <cbc:Name languageID="POL">Obsługa przewozów pasażerskich w transporcie zbiorowym organizowanym przez Miasto Rybnik</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest obsługa przewozów pasażerskich w transporcie zbiorowym minimum dziesięcioma autobusami przegubowymi o parametrach technicznych opisanych w załączniku nr 7 do SWZ oraz wyposażenia wg formularza oferty oraz minimum jednym rezerwowym.
+Ogólne wymagania Zamawiającego.
+1. Szacowana planowana wielkość pracy eksploatacyjnej w całym okresie świadczenia usług wynosi 1 801 454 wozokilometry.
+2. W całym okresie realizacji umowy łączna wielkość pracy eksploatacyjnej nie zmniejszy się o więcej niż 15%, tj. 270 218,1 wozokilometra. Łączna gwarantowana minimalna wielkość pracy eksploatacyjnej wyniesie 1 531 235,9 wozokilometra.
+3. Zamawiający informuje, że praca eksploatacyjna będzie wykonywana przede wszystkim w dni robocze podczas roku szkolnego. Nie przewiduje się zaangażowania autobusów w dni wolne od pracy (soboty, niedziele, święta) w okresie roku szkolnego. Ma to jednak charakter elastyczny. W okresach poza rokiem szkolnym wielkość przewozów jest mniejsza niż w roku szkolnym, co może być związane także ze zmniejszonym zaangażowaniem taboru.
+4. Autobusy wyprodukowane nie wcześniej niż w 2014 roku.
+5. Autobusy mogą być napędzane silnikiem zasilanym olejem napędowym spełniającym poziom emisji spalin min EURO VI lub gazem ziemnym (CNG lub LNG) lub o napędzie zeroemisyjnym (zgodnie Ustawą z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych; Dz. U. 2018 poz. 317).
+6. Autobusy mają być wyposażone w automatyczną skrzynię biegów (dotyczy autobusów zasilanych olejem napędowym lub gazem ziemnym).
+7. Stosownie do treści art. 29 ust. 3a ustawy Pzp, Zamawiający poniżej określa czynności w zakresie realizacji zamówienia przez osoby zatrudnione przez Wykonawcę lub podwykonawcę na podstawie umowy o pracę, tj. kierowanie autobusem w ramach obsługi przewozów pasażerskich w transporcie zbiorowym.
+Szczegółowe wymagania dotyczące przedmiotu zamówienia zostały określone w SWZ.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">60112000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-02-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2029-01-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

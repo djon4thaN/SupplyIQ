@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efac:NoticeResult>
+            <cbc:TotalAmount currencyID="EUR">49138.47</cbc:TotalAmount>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0001</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">open-nw</cbc:TenderResultCode>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0002</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0006</cbc:ID>
+              </efac:LotTender>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0003</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0005</cbc:ID>
+              </efac:LotTender>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0004</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">open-nw</cbc:TenderResultCode>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0004</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0005</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              </efac:LotTender>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID schemeName="contract">CON-0005</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0006</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">open-nw</cbc:TenderResultCode>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0006</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-0006</cbc:ID>
+              <cbc:RankCode>1</cbc:RankCode>
+              <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+              <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="EUR">6396</cbc:PayableAmount>
+              </cac:LegalMonetaryTotal>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                <efbc:PercentageKnownIndicator>false</efbc:PercentageKnownIndicator>
+                <efbc:ValueKnownIndicator>false</efbc:ValueKnownIndicator>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>EV_116a-24</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-0005</cbc:ID>
+              <cbc:RankCode>1</cbc:RankCode>
+              <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+              <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="EUR">25597.8</cbc:PayableAmount>
+              </cac:LegalMonetaryTotal>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                <efbc:PercentageKnownIndicator>false</efbc:PercentageKnownIndicator>
+                <efbc:ValueKnownIndicator>false</efbc:ValueKnownIndicator>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>NSK-04102024-G3</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              <cbc:RankCode>1</cbc:RankCode>
+              <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+              <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="EUR">17144.67</cbc:PayableAmount>
+              </cac:LegalMonetaryTotal>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                <efbc:PercentageKnownIndicator>false</efbc:PercentageKnownIndicator>
+                <efbc:ValueKnownIndicator>false</efbc:ValueKnownIndicator>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>0403_02092024_HR</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+              <cbc:AwardDate>2024-11-20+01:00</cbc:AwardDate>
+              <cbc:IssueDate>2024-12-09+01:00</cbc:IssueDate>
+              <cbc:Title languageID="HRV">Videokonferencijski sustav</cbc:Title>
+              <efac:ContractReference>
+                <cbc:ID>VV-1-2024-2 za grupu 2</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0006</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+              <cbc:AwardDate>2024-11-20+01:00</cbc:AwardDate>
+              <cbc:IssueDate>2024-12-10+01:00</cbc:IssueDate>
+              <cbc:Title languageID="HRV">Poslužitelji</cbc:Title>
+              <efac:ContractReference>
+                <cbc:ID>VV-1-2024-3 za grupu 3</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0005</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0005</cbc:ID>
+              <cbc:AwardDate>2024-11-20+01:00</cbc:AwardDate>
+              <cbc:IssueDate>2024-12-06+01:00</cbc:IssueDate>
+              <cbc:Title languageID="HRV">Mrežna oprema</cbc:Title>
+              <efac:ContractReference>
+                <cbc:ID>VV-1-2024-5 za grupu 5</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+          </efac:NoticeResult>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.nsk.hr/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">Nacionalna i sveučilišna knjižnica u Zagrebu</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Ulica Hrvatske bratske zajednice 4</cbc:StreetName>
+                  <cbc:CityName>Grad Zagreb</cbc:CityName>
+                  <cbc:PostalZone>10000</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>84838770814</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Jagica Tadić</cbc:Name>
+                  <cbc:Telephone>+385 16164055</cbc:Telephone>
+                  <cbc:ElectronicMail>javna_nabava@nsk.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.dkom.hr/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">Državna komisija za kontrolu postupaka javne nabave</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Ulica grada Vukovara 23/V</cbc:StreetName>
+                  <cbc:CityName>Zagreb</cbc:CityName>
+                  <cbc:PostalZone>10000</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>95857869241</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Kontakt</cbc:Name>
+                  <cbc:Telephone>+385 14559 930</cbc:Telephone>
+                  <cbc:ElectronicMail>dkom@dkom.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.nn.hr/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">Narodne novine d.d.</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Savski gaj  XIII. 6</cbc:StreetName>
+                  <cbc:CityName>Zagreb</cbc:CityName>
+                  <cbc:PostalZone>10020</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>TED94</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>HR64546066176</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>EOJN Helpdesk</cbc:Name>
+                  <cbc:Telephone>+385 16652889</cbc:Telephone>
+                  <cbc:ElectronicMail>eojn@nn.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+              <efac:Company>
+                <efbc:CompanySizeCode listName="economic-operator-size">small</efbc:CompanySizeCode>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">ALFA KOMPJUTER USLUGE d.o.o.</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Hvarska ulica 1a</cbc:StreetName>
+                  <cbc:CityName>Grad Zagreb</cbc:CityName>
+                  <cbc:PostalZone>10000</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>70346031690</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Dražen Popović</cbc:Name>
+                  <cbc:Telephone>+385 16181777</cbc:Telephone>
+                  <cbc:ElectronicMail>alfa-kompjuter@zg.t-com.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.span.eu/</cbc:WebsiteURI>
+                <efbc:CompanySizeCode listName="economic-operator-size">large</efbc:CompanySizeCode>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">SPAN d.d.</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Koturaška cesta 47</cbc:StreetName>
+                  <cbc:CityName>Grad Zagreb</cbc:CityName>
+                  <cbc:PostalZone>10000</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>19680551758</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Dina Coronelli Jukić</cbc:Name>
+                  <cbc:Telephone>+385 16690200</cbc:Telephone>
+                  <cbc:ElectronicMail>prodaja@span.eu</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+              <efac:Company>
+                <efbc:CompanySizeCode listName="economic-operator-size">small</efbc:CompanySizeCode>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HRV">EURO-V.A.L. d.o.o.</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Mirna ulica 11</cbc:StreetName>
+                  <cbc:CityName>Grad Zagreb</cbc:CityName>
+                  <cbc:PostalZone>10040</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>57964358389</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Mirjana Šimić</cbc:Name>
+                  <cbc:Telephone>+385 12988004</cbc:Telephone>
+                  <cbc:ElectronicMail>info@euroval.hr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000259-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.10</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">c943badc-d1ca-41a0-b661-22c97465cfdd</cbc:ID>
+  <cbc:ContractFolderID>b8e51277-dfe3-4492-890a-9b068d87d9c5</cbc:ContractFolderID>
+  <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+  <cbc:IssueTime>18:00:00.0000000+01:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>HRV</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cbc:BuyerProfileURI>https://www.nsk.hr/</cbc:BuyerProfileURI>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">rcr</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingProcess>
+    <cbc:Description languageID="HRV">Otvoreni postupak</cbc:Description>
+    <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID schemeName="InternalID">VV-1-2024</cbc:ID>
+    <cbc:Name languageID="HRV">Informatička oprema</cbc:Name>
+    <cbc:Description languageID="HRV">Naručitelj provodi otvoreni postupak javne nabave informatičke opreme podijeljen u 6 grupa. Detaljan opis predmeta nabave naveden je u Opisu predmeta nabave kao privitku ove dokumentacije i u Tehničkim specifikacijama za svaku grupu predmeta nabave. Ponuditelj je dužan za svaku grupu predmeta nabave nuditi isključivo cjelokupan predmet nabave, a količina je navedena u Troškovnicima koji su također izdvojeni u zaseban dokument (privitak dokumentacije o nabavi). 
+
+Ukupna procijenjena vrijednost nabave na razini 2024. godine iznosi 278.000,00 EUR bez PDV-a, a na ovaj postupak se odnosi iznos od 142.000,00 EUR bez PDV-a. Imajući na umu ukupnu procijenjenu vrijednost nabave na razini 2024. godine, odredbe prema ovoj dokumentaciji o nabavi sukladno čl. 4. st. 2. ZJN 2016 primjenjuju se prema pravilima za otvoreni postupak javne nabave robe velike vrijednosti. 
+</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+    <cac:RequestedTenderTotal>
+      <cbc:EstimatedOverallContractAmount currencyID="EUR">142000</cbc:EstimatedOverallContractAmount>
+    </cac:RequestedTenderTotal>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">30236000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>90.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Cijena ponude</cbc:Name>
+            <cbc:Description languageID="HRV">Cijena ponude</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Dodatni jamstveni rok</cbc:Name>
+            <cbc:Description languageID="HRV">Naručitelj kao nefinancijski kriterij  predmeta nabave određuje dodatni (komercijalni) jamstveni rok u kojemu će gospodarski subjekt odgovarati za nedostatke na isporučenoj opremi. Maksimalni broj bodova koji gospodarski subjekt može ostvariti prema ovom kriteriju je 10 bodova. Valjana ponuda s najdužim ponuđenim dodatnim jamstvenim rokom dobit će maksimalan broj bodova. 
+
+Detaljan opis kriterija za odabir ponude je naveden u privitku dokumentacije o nabavi.
+
+Gospodarski subjekti ponuđeni dodatni jamstveni rok navode u obrascu Tehničkih specifikacija za pojedinu grupu za koju podnose ponudu, u dijelu „Podatak tražen sukladno dokumentaciji o nabavi (nefinancijski kriterij za odabir ponude)“ na kraju obrasca Tehničkih specifikacija.
+</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cbc:Description languageID="HRV">Pravo na žalbu ima svaki gospodarski subjekt koji ima ili je imao pravni interes za dobivanje ugovora o javnoj nabavi i koji je pretrpio ili bi mogao pretrpjeti štetu od navodnoga kršenja subjektivnih prava. Pravo na žalbu ima i tijelo državne uprave nadležno za politiku javne nabave i nadležno državno odvjetništvo. Žalba se izjavljuje Državnoj komisiji za kontrolu postupaka javne nabave (dalje u tekstu: Državna komisija) u pisanom obliku. Žalba se dostavlja elektroničkim sredstvima komunikacije putem međusobno povezanih informacijskih sustava Državne komisije i Oglasnika (dalje u tekstu: sustav e-Žalba). Oglasnik se smatra poslužiteljem za potrebe sustava e-Žalba. Državna komisija utvrđuje je li obavijest o zaprimljenoj žalbi poslana strankama žalbenog postupka sukladno članku 405. stavku 4. ZJN 2016 te ukoliko utvrdi da nije, bez odgode će obavijestiti stranke žalbenog postupka o izjavljenoj žalbi. Smatra se da je dostava Državnoj komisiji odnosno stranki žalbenog postupka obavljena na dan kada je žalba zaprimljena na poslužitelju Oglasnika. Smatra se da je žalba koja je predana putem sustava e-Žalba potpisana. Odredbe iz članka 405. ZJN 2016 na odgovarajući se način primjenjuju i na druge podneske stranaka tijekom žalbenog postupka te zaključke Državne komisije. Sukladno članku 406. ZJN 2016, u otvorenom postupku žalba se izjavljuje u roku od deset dana, i to od dana: objave poziva na nadmetanje, u odnosu na sadržaj poziva ili Dokumentacije o nabavi, objave obavijesti o ispravku, u odnosu na sadržaj ispravka, objave izmjene Dokumentacije o nabavi, u odnosu na sadržaj izmjene Dokumentacije, otvaranja ponuda u odnosu na propuštanje Naručitelja da valjano odgovori na pravodobno dostavljen zahtjev za dodatne informacije, objašnjenja ili izmjene Dokumentacije o nabavi te na postupak otvaranja ponuda, primitka odluke o odabiru ili poništenju, u odnosu na postupak pregleda, ocjene i odabira ponuda, ili razloge poništenja. Ako tijekom roka za žalbu sustav e-Žalba na poslužitelju Oglasnika postane nedostupan, rok za žalbu iz članaka 406. do 414. ZJN 2016 produžuje se za onoliko dana koliko je sustav e-Žalba bio nedostupan. Ako je sustav e-Žalba bio nedostupan samo zadnjeg dana roka za žalbu, rok za žalbu produžuje se do isteka prvog sljedećeg radnog dana. Žalitelj koji je propustio izjaviti žalbu u određenoj fazi otvorenog postupka javne nabave sukladno navedenom, nema pravo na žalbu u kasnijoj fazi postupka za prethodnu fazu. Žalba obvezno sadržava podatke i dokaze iz članka 420. ZJN 2016.</cbc:Description>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="internalID">VV-1-2024-1</cbc:ID>
+      <cbc:Name languageID="HRV">Prijenosna računala</cbc:Name>
+      <cbc:Description languageID="HRV">Predmet nabave u Grupi 1 je nabava prijenosnih računala, isporuka na lokaciju naručitelja, usluga jamstva za ispravnost prodane stvari s ciljem implementacije sveobuhvatnog programa modernizacije hrvatskog  visokog obrazovanja naziva “e-Sveučilišta“. Isporučena oprema se isporučuje s predinstaliranim operativnim sustavom i pripadajućom opremom.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="HRV">Broj: NPOO.C3.1.R2-I.1.0001
+
+EU program: Nacionalni plan oporavka i otpornosti 2021.-2026. (NPOO) za projekte koji se financiraju iz mehanizma za oporavak i otpornost.
+
+Predmet nabave za Grupu 1 je kao projektna aktivnost obuhvaćen projektom pod nazivom „e-Sveučilišta“, sufinanciranog sredstvima iz Nacionalnog plana oporavka i otpornosti 2021.-2026. (NPOO) sukladno Ugovoru o dodjeli bespovratnih sredstava broj NPOO.C3.1.R2-I.1.0001 za projekte koji se financiraju iz mehanizma za oporavak i otpornost. Uz Naručitelja, partneri u navedenom projektu su Hrvatska akademska i istraživačka mreža CARNet, Sveučilište u Zagrebu Sveučilišni računski centar (Srce) i Agencija za znanost i visoko obrazovanje (AZVO).
+</cbc:Note>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="accessibility">inc</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">8000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">30236000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cbc:Description languageID="HRV">lokacija Naručitelja: Nacionalna i sveučilišna knjižnica u Zagrebu, Ulica Hrvatske bratske zajednice 4, HR-10000 Zagreb, Hrvatska</cbc:Description>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>90.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Cijena ponude</cbc:Name>
+            <cbc:Description languageID="HRV">Cijena ponude</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Dodatni jamstveni rok</cbc:Name>
+            <cbc:Description languageID="HRV">Naručitelj kao nefinancijski kriterij  predmeta nabave određuje dodatni (komercijalni) jamstveni rok u kojemu će gospodarski subjekt odgovarati za nedostatke na isporučenoj opremi. Maksimalni broj bodova koji gospodarski subjekt može ostvariti prema ovom kriteriju je 10 bodova. Valjana ponuda s najdužim ponuđenim dodatnim jamstvenim rokom dobit će maksimalan broj bodova. 
+
+Detaljan opis kriterija za odabir ponude je naveden u privitku dokumentacije o nabavi.
+
+Gospodarski subjekti ponuđeni dodatni jamstveni rok navode u obrascu Tehničkih specifikacija za pojedinu grupu za koju podnose ponudu, u dijelu „Podatak tražen sukladno dokumentaciji o nabavi (nefinancijski kriterij za odabir ponude)“ na kraju obrasca Tehničkih specifikacija.
+
+</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cbc:Description languageID="HRV">Pravo na žalbu ima svaki gospodarski subjekt koji ima ili je imao pravni interes za dobivanje ugovora o javnoj nabavi i koji je pretrpio ili bi mogao pretrpjeti štetu od navodnoga kršenja subjektivnih prava. Pravo na žalbu ima i tijelo državne uprave nadležno za politiku javne nabave i nadležno državno odvjetništvo. Žalba se izjavljuje Državnoj komisiji za kontrolu postupaka javne nabave (dalje u tekstu: Državna komisija) u pisanom obliku. Žalba se dostavlja elektroničkim sredstvima komunikacije putem međusobno povezanih informacijskih sustava Državne komisije i Oglasnika (dalje u tekstu: sustav e-Žalba). Oglasnik se smatra poslužiteljem za potrebe sustava e-Žalba. Državna komisija utvrđuje je li obavijest o zaprimljenoj žalbi poslana strankama žalbenog postupka sukladno članku 405. stavku 4. ZJN 2016 te ukoliko utvrdi da nije, bez odgode će obavijestiti stranke žalbenog postupka o izjavljenoj žalbi. Smatra se da je dostava Državnoj komisiji odnosno stranki žalbenog postupka obavljena na dan kada je žalba zaprimljena na poslužitelju Oglasnika. Smatra se da je žalba koja je predana putem sustava e-Žalba potpisana. Odredbe iz članka 405. ZJN 2016 na odgovarajući se način primjenjuju i na druge podneske stranaka tijekom žalbenog postupka te zaključke Državne komisije. Sukladno članku 406. ZJN 2016, u otvorenom postupku žalba se izjavljuje u roku od deset dana, i to od dana: objave poziva na nadmetanje, u odnosu na sadržaj poziva ili Dokumentacije o nabavi, objave obavijesti o ispravku, u odnosu na sadržaj ispravka, objave izmjene Dokumentacije o nabavi, u odnosu na sadržaj izmjene Dokumentacije, otvaranja ponuda u odnosu na propuštanje Naručitelja da valjano odgovori na pravodobno dostavljen zahtjev za dodatne informacije, objašnjenja ili izmjene Dokumentacije o nabavi te na postupak otvaranja ponuda, primitka odluke o odabiru ili poništenju, u odnosu na postupak pregleda, ocjene i odabira ponuda, ili razloge poništenja. Ako tijekom roka za žalbu sustav e-Žalba na poslužitelju Oglasnika postane nedostupan, rok za žalbu iz članaka 406. do 414. ZJN 2016 produžuje se za onoliko dana koliko je sustav e-Žalba bio nedostupan. Ako je sustav e-Žalba bio nedostupan samo zadnjeg dana roka za žalbu, rok za žalbu produžuje se do isteka prvog sljedećeg radnog dana. Žalitelj koji je propustio izjaviti žalbu u određenoj fazi otvorenog postupka javne nabave sukladno navedenom, nema pravo na žalbu u kasnijoj fazi postupka za prethodnu fazu. Žalba obvezno sadržava podatke i dokaze iz članka 420. ZJN 2016.</cbc:Description>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="internalID">VV-1-2024-2</cbc:ID>
+      <cbc:Name languageID="HRV">Videokonferencijski sustav</cbc:Name>
+      <cbc:Description languageID="HRV">Predmet nabave u Grupi 2 je nabava videokonferencijskog sustava, isporuka na lokaciju naručitelja, korisničke upute za rad s ponuđenom opremom, usluga jamstva za ispravnost prodane stvari i tehničku podršku s ciljem implementacije sveobuhvatnog programa modernizacije hrvatskog visokog obrazovanja naziva “e-Sveučilišta“. Isporučena oprema se isporučuje s predinstaliranim operativnim sustavom i pripadajućom opremom.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="HRV">Broj: NPOO.C3.1.R2-I.1.0001
+
+EU program: Nacionalni plan oporavka i otpornosti 2021.-2026. (NPOO) za projekte koji se financiraju iz mehanizma za oporavak i otpornost.
+
+Predmet nabave za Grupu 2 je kao projektna aktivnost obuhvaćen projektom pod nazivom „e-Sveučilišta“, sufinanciranog sredstvima iz Nacionalnog plana oporavka i otpornosti 2021.-2026. (NPOO) sukladno Ugovoru o dodjeli bespovratnih sredstava broj NPOO.C3.1.R2-I.1.0001 za projekte koji se financiraju iz mehanizma za oporavak i otpornost. Uz Naručitelja, partneri u navedenom projektu su Hrvatska akademska i istraživačka mreža CARNet, Sveučilište u Zagrebu Sveučilišni računski centar (Srce) i Agencija za znanost i visoko obrazovanje (AZVO).
+</cbc:Note>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="accessibility">inc</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">8000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">30236000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cbc:Description languageID="HRV">Lokacija Naručitelja: Nacionalna i sveučilišna knjižnica u Zagrebu, Ulica Hrvatske bratske zajednice 4, HR-10000 Zagreb, Hrvatska</cbc:Description>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>90.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Cijena ponude</cbc:Name>
+            <cbc:Description languageID="HRV">Cijena ponude</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Dodatni jamstveni rok</cbc:Name>
+            <cbc:Description languageID="HRV">Naručitelj kao nefinancijski kriterij  predmeta nabave određuje dodatni (komercijalni) jamstveni rok u kojemu će gospodarski subjekt odgovarati za nedostatke na isporučenoj opremi. Maksimalni broj bodova koji gospodarski subjekt može ostvariti prema ovom kriteriju je 10 bodova. Valjana ponuda s najdužim ponuđenim dodatnim jamstvenim rokom dobit će maksimalan broj bodova. 
+
+Detaljan opis kriterija za odabir ponude je naveden u privitku dokumentacije o nabavi.
+
+Gospodarski subjekti ponuđeni dodatni jamstveni rok navode u obrascu Tehničkih specifikacija za pojedinu grupu za koju podnose ponudu, u dijelu „Podatak tražen sukladno dokumentaciji o nabavi (nefinancijski kriterij za odabir ponude)“ na kraju obrasca Tehničkih specifikacija.
+</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cbc:Description languageID="HRV">Pravo na žalbu ima svaki gospodarski subjekt koji ima ili je imao pravni interes za dobivanje ugovora o javnoj nabavi i koji je pretrpio ili bi mogao pretrpjeti štetu od navodnoga kršenja subjektivnih prava. Pravo na žalbu ima i tijelo državne uprave nadležno za politiku javne nabave i nadležno državno odvjetništvo. Žalba se izjavljuje Državnoj komisiji za kontrolu postupaka javne nabave (dalje u tekstu: Državna komisija) u pisanom obliku. Žalba se dostavlja elektroničkim sredstvima komunikacije putem međusobno povezanih informacijskih sustava Državne komisije i Oglasnika (dalje u tekstu: sustav e-Žalba). Oglasnik se smatra poslužiteljem za potrebe sustava e-Žalba. Državna komisija utvrđuje je li obavijest o zaprimljenoj žalbi poslana strankama žalbenog postupka sukladno članku 405. stavku 4. ZJN 2016 te ukoliko utvrdi da nije, bez odgode će obavijestiti stranke žalbenog postupka o izjavljenoj žalbi. Smatra se da je dostava Državnoj komisiji odnosno stranki žalbenog postupka obavljena na dan kada je žalba zaprimljena na poslužitelju Oglasnika. Smatra se da je žalba koja je predana putem sustava e-Žalba potpisana. Odredbe iz članka 405. ZJN 2016 na odgovarajući se način primjenjuju i na druge podneske stranaka tijekom žalbenog postupka te zaključke Državne komisije. Sukladno članku 406. ZJN 2016, u otvorenom postupku žalba se izjavljuje u roku od deset dana, i to od dana: objave poziva na nadmetanje, u odnosu na sadržaj poziva ili Dokumentacije o nabavi, objave obavijesti o ispravku, u odnosu na sadržaj ispravka, objave izmjene Dokumentacije o nabavi, u odnosu na sadržaj izmjene Dokumentacije, otvaranja ponuda u odnosu na propuštanje Naručitelja da valjano odgovori na pravodobno dostavljen zahtjev za dodatne informacije, objašnjenja ili izmjene Dokumentacije o nabavi te na postupak otvaranja ponuda, primitka odluke o odabiru ili poništenju, u odnosu na postupak pregleda, ocjene i odabira ponuda, ili razloge poništenja. Ako tijekom roka za žalbu sustav e-Žalba na poslužitelju Oglasnika postane nedostupan, rok za žalbu iz članaka 406. do 414. ZJN 2016 produžuje se za onoliko dana koliko je sustav e-Žalba bio nedostupan. Ako je sustav e-Žalba bio nedostupan samo zadnjeg dana roka za žalbu, rok za žalbu produžuje se do isteka prvog sljedećeg radnog dana. Žalitelj koji je propustio izjaviti žalbu u određenoj fazi otvorenog postupka javne nabave sukladno navedenom, nema pravo na žalbu u kasnijoj fazi postupka za prethodnu fazu. Žalba obvezno sadržava podatke i dokaze iz članka 420. ZJN 2016.</cbc:Description>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="internalID">VV-1-2024-3</cbc:ID>
+      <cbc:Name languageID="HRV">Poslužitelji</cbc:Name>
+      <cbc:Description languageID="HRV">Predmet nabave u Grupi 3 je nabava poslužitelja, isporuka na lokaciju naručitelja i usluga jamstva za ispravnost prodane stvari, sukladno tehničkim specifikacijama.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="accessibility">inc</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">26000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">30236000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cbc:Description languageID="HRV">Lokacija Naručitelja: Nacionalna i sveučilišna knjižnica u Zagrebu, Ulica Hrvatske bratske zajednice 4, HR-10000 Zagreb, Hrvatska</cbc:Description>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0004</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cbc:CalculationExpression languageID="HRV">Način izračuna kriterija za odabir najpovoljnije ponude je opisan u dokumentaciji o nabavi</cbc:CalculationExpression>
+          <cac:SubordinateAwardingCriterion>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Cijena ponude</cbc:Name>
+            <cbc:Description languageID="HRV">Cijena ponude</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Dodatni jamstveni rok</cbc:Name>
+            <cbc:Description languageID="HRV">Naručitelj kao nefinancijski kriterij  predmeta nabave određuje dodatni (komercijalni) jamstveni rok u kojemu će gospodarski subjekt odgovarati za nedostatke na isporučenoj opremi. Maksimalni broj bodova koji gospodarski subjekt može ostvariti prema ovom kriteriju je 10 bodova. Valjana ponuda s najdužim ponuđenim dodatnim jamstvenim rokom dobit će maksimalan broj bodova. 
+
+Detaljan opis kriterija za odabir ponude je naveden u privitku dokumentacije o nabavi.
+
+Gospodarski subjekti ponuđeni dodatni jamstveni rok navode u obrascu Tehničkih specifikacija za pojedinu grupu za koju podnose ponudu, u dijelu „Podatak tražen sukladno dokumentaciji o nabavi (nefinancijski kriterij za odabir ponude)“ na kraju obrasca Tehničkih specifikacija.
+</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cbc:Description languageID="HRV">Pravo na žalbu ima svaki gospodarski subjekt koji ima ili je imao pravni interes za dobivanje ugovora o javnoj nabavi i koji je pretrpio ili bi mogao pretrpjeti štetu od navodnoga kršenja subjektivnih prava. Pravo na žalbu ima i tijelo državne uprave nadležno za politiku javne nabave i nadležno državno odvjetništvo. Žalba se izjavljuje Državnoj komisiji za kontrolu postupaka javne nabave (dalje u tekstu: Državna komisija) u pisanom obliku. Žalba se dostavlja elektroničkim sredstvima komunikacije putem međusobno povezanih informacijskih sustava Državne komisije i Oglasnika (dalje u tekstu: sustav e-Žalba). Oglasnik se smatra poslužiteljem za potrebe sustava e-Žalba. Državna komisija utvrđuje je li obavijest o zaprimljenoj žalbi poslana strankama žalbenog postupka sukladno članku 405. stavku 4. ZJN 2016 te ukoliko utvrdi da nije, bez odgode će obavijestiti stranke žalbenog postupka o izjavljenoj žalbi. Smatra se da je dostava Državnoj komisiji odnosno stranki žalbenog postupka obavljena na dan kada je žalba zaprimljena na poslužitelju Oglasnika. Smatra se da je žalba koja je predana putem sustava e-Žalba potpisana. Odredbe iz članka 405. ZJN 2016 na odgovarajući se način primjenjuju i na druge podneske stranaka tijekom žalbenog postupka te zaključke Državne komisije. Sukladno članku 406. ZJN 2016, u otvorenom postupku žalba se izjavljuje u roku od deset dana, i to od dana: objave poziva na nadmetanje, u odnosu na sadržaj poziva ili Dokumentacije o nabavi, objave obavijesti o ispravku, u odnosu na sadržaj ispravka, objave izmjene Dokumentacije o nabavi, u odnosu na sadržaj izmjene Dokumentacije, otvaranja ponuda u odnosu na propuštanje Naručitelja da valjano odgovori na pravodobno dostavljen zahtjev za dodatne informacije, objašnjenja ili izmjene Dokumentacije o nabavi te na postupak otvaranja ponuda, primitka odluke o odabiru ili poništenju, u odnosu na postupak pregleda, ocjene i odabira ponuda, ili razloge poništenja. Ako tijekom roka za žalbu sustav e-Žalba na poslužitelju Oglasnika postane nedostupan, rok za žalbu iz članaka 406. do 414. ZJN 2016 produžuje se za onoliko dana koliko je sustav e-Žalba bio nedostupan. Ako je sustav e-Žalba bio nedostupan samo zadnjeg dana roka za žalbu, rok za žalbu produžuje se do isteka prvog sljedećeg radnog dana. Žalitelj koji je propustio izjaviti žalbu u određenoj fazi otvorenog postupka javne nabave sukladno navedenom, nema pravo na žalbu u kasnijoj fazi postupka za prethodnu fazu. Žalba obvezno sadržava podatke i dokaze iz članka 420. ZJN 2016.</cbc:Description>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="internalID">VV-1-2024-4</cbc:ID>
+      <cbc:Name languageID="HRV">Skeneri</cbc:Name>
+      <cbc:Description languageID="HRV">Predmet nabave u Grupi 4 je nabava skenera, isporuka na lokaciju naručitelja, instalacija u prostoru Naručitelja i usluga jamstva za ispravnost prodane stvari, sukladno tehničkim specifikacijama.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="accessibility">inc</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">50000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">30236000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cbc:Description languageID="HRV">Lokacija Naručitelja: Nacionalna i sveučilišna knjižnica u Zagrebu, Ulica Hrvatske bratske zajednice 4, HR-10000 Zagreb, Hrvatska</cbc:Description>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>90.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Cijena ponude</cbc:Name>
+            <cbc:Description languageID="HRV">Cijena ponude</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Dodatni jamstveni rok</cbc:Name>
+            <cbc:Description languageID="HRV">Naručitelj kao nefinancijski kriterij  predmeta nabave određuje dodatni (komercijalni) jamstveni rok u kojemu će gospodarski subjekt odgovarati za nedostatke na isporučenoj opremi. Maksimalni broj bodova koji gospodarski subjekt može ostvariti prema ovom kriteriju je 10 bodova. Valjana ponuda s najdužim ponuđenim dodatnim jamstvenim rokom dobit će maksimalan broj bodova. 
+
+Detaljan opis kriterija za odabir ponude je naveden u privitku dokumentacije o nabavi.
+
+Gospodarski subjekti ponuđeni dodatni jamstveni rok navode u obrascu Tehničkih specifikacija za pojedinu grupu za koju podnose ponudu, u dijelu „Podatak tražen sukladno dokumentaciji o nabavi (nefinancijski kriterij za odabir ponude)“ na kraju obrasca Tehničkih specifikacija.
+</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cbc:Description languageID="HRV">Pravo na žalbu ima svaki gospodarski subjekt koji ima ili je imao pravni interes za dobivanje ugovora o javnoj nabavi i koji je pretrpio ili bi mogao pretrpjeti štetu od navodnoga kršenja subjektivnih prava. Pravo na žalbu ima i tijelo državne uprave nadležno za politiku javne nabave i nadležno državno odvjetništvo. Žalba se izjavljuje Državnoj komisiji za kontrolu postupaka javne nabave (dalje u tekstu: Državna komisija) u pisanom obliku. Žalba se dostavlja elektroničkim sredstvima komunikacije putem međusobno povezanih informacijskih sustava Državne komisije i Oglasnika (dalje u tekstu: sustav e-Žalba). Oglasnik se smatra poslužiteljem za potrebe sustava e-Žalba. Državna komisija utvrđuje je li obavijest o zaprimljenoj žalbi poslana strankama žalbenog postupka sukladno članku 405. stavku 4. ZJN 2016 te ukoliko utvrdi da nije, bez odgode će obavijestiti stranke žalbenog postupka o izjavljenoj žalbi. Smatra se da je dostava Državnoj komisiji odnosno stranki žalbenog postupka obavljena na dan kada je žalba zaprimljena na poslužitelju Oglasnika. Smatra se da je žalba koja je predana putem sustava e-Žalba potpisana. Odredbe iz članka 405. ZJN 2016 na odgovarajući se način primjenjuju i na druge podneske stranaka tijekom žalbenog postupka te zaključke Državne komisije. Sukladno članku 406. ZJN 2016, u otvorenom postupku žalba se izjavljuje u roku od deset dana, i to od dana: objave poziva na nadmetanje, u odnosu na sadržaj poziva ili Dokumentacije o nabavi, objave obavijesti o ispravku, u odnosu na sadržaj ispravka, objave izmjene Dokumentacije o nabavi, u odnosu na sadržaj izmjene Dokumentacije, otvaranja ponuda u odnosu na propuštanje Naručitelja da valjano odgovori na pravodobno dostavljen zahtjev za dodatne informacije, objašnjenja ili izmjene Dokumentacije o nabavi te na postupak otvaranja ponuda, primitka odluke o odabiru ili poništenju, u odnosu na postupak pregleda, ocjene i odabira ponuda, ili razloge poništenja. Ako tijekom roka za žalbu sustav e-Žalba na poslužitelju Oglasnika postane nedostupan, rok za žalbu iz članaka 406. do 414. ZJN 2016 produžuje se za onoliko dana koliko je sustav e-Žalba bio nedostupan. Ako je sustav e-Žalba bio nedostupan samo zadnjeg dana roka za žalbu, rok za žalbu produžuje se do isteka prvog sljedećeg radnog dana. Žalitelj koji je propustio izjaviti žalbu u određenoj fazi otvorenog postupka javne nabave sukladno navedenom, nema pravo na žalbu u kasnijoj fazi postupka za prethodnu fazu. Žalba obvezno sadržava podatke i dokaze iz članka 420. ZJN 2016.</cbc:Description>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="internalID">VV-1-2024-5</cbc:ID>
+      <cbc:Name languageID="HRV">Mrežna oprema</cbc:Name>
+      <cbc:Description languageID="HRV">Predmet nabave u Grupi 5 je nabava mrežne opreme, isporuka na lokaciju naručitelja i usluga jamstva za ispravnost prodane stvari, sukladno tehničkim specifikacijama.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="accessibility">inc</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">25000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">30236000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cbc:Description languageID="HRV">Lokacija Naručitelja: Nacionalna i sveučilišna knjižnica u Zagrebu, Ulica Hrvatske bratske zajednice 4, HR-10000 Zagreb, Hrvatska</cbc:Description>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0006</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>90.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Cijena ponude</cbc:Name>
+            <cbc:Description languageID="HRV">Cijena ponude</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10.00</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="HRV">Dodatni jamstveni rok</cbc:Name>
+            <cbc:Description languageID="HRV">Naručitelj kao nefinancijski kriterij  predmeta nabave određuje dodatni (komercijalni) jamstveni rok u kojemu će gospodarski subjekt odgovarati za nedostatke na isporučenoj opremi. Maksimalni broj bodova koji gospodarski subjekt može ostvariti prema ovom kriteriju je 10 bodova. Valjana ponuda s najdužim ponuđenim dodatnim jamstvenim rokom dobit će maksimalan broj bodova. 
+
+Detaljan opis kriterija za odabir ponude je naveden u privitku dokumentacije o nabavi.
+
+Gospodarski subjekti ponuđeni dodatni jamstveni rok navode u obrascu Tehničkih specifikacija za pojedinu grupu za koju podnose ponudu, u dijelu „Podatak tražen sukladno dokumentaciji o nabavi (nefinancijski kriterij za odabir ponude)“ na kraju obrasca Tehničkih specifikacija.
+</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cbc:Description languageID="HRV">Pravo na žalbu ima svaki gospodarski subjekt koji ima ili je imao pravni interes za dobivanje ugovora o javnoj nabavi i koji je pretrpio ili bi mogao pretrpjeti štetu od navodnoga kršenja subjektivnih prava. Pravo na žalbu ima i tijelo državne uprave nadležno za politiku javne nabave i nadležno državno odvjetništvo. Žalba se izjavljuje Državnoj komisiji za kontrolu postupaka javne nabave (dalje u tekstu: Državna komisija) u pisanom obliku. Žalba se dostavlja elektroničkim sredstvima komunikacije putem međusobno povezanih informacijskih sustava Državne komisije i Oglasnika (dalje u tekstu: sustav e-Žalba). Oglasnik se smatra poslužiteljem za potrebe sustava e-Žalba. Državna komisija utvrđuje je li obavijest o zaprimljenoj žalbi poslana strankama žalbenog postupka sukladno članku 405. stavku 4. ZJN 2016 te ukoliko utvrdi da nije, bez odgode će obavijestiti stranke žalbenog postupka o izjavljenoj žalbi. Smatra se da je dostava Državnoj komisiji odnosno stranki žalbenog postupka obavljena na dan kada je žalba zaprimljena na poslužitelju Oglasnika. Smatra se da je žalba koja je predana putem sustava e-Žalba potpisana. Odredbe iz članka 405. ZJN 2016 na odgovarajući se način primjenjuju i na druge podneske stranaka tijekom žalbenog postupka te zaključke Državne komisije. Sukladno članku 406. ZJN 2016, u otvorenom postupku žalba se izjavljuje u roku od deset dana, i to od dana: objave poziva na nadmetanje, u odnosu na sadržaj poziva ili Dokumentacije o nabavi, objave obavijesti o ispravku, u odnosu na sadržaj ispravka, objave izmjene Dokumentacije o nabavi, u odnosu na sadržaj izmjene Dokumentacije, otvaranja ponuda u odnosu na propuštanje Naručitelja da valjano odgovori na pravodobno dostavljen zahtjev za dodatne informacije, objašnjenja ili izmjene Dokumentacije o nabavi te na postupak otvaranja ponuda, primitka odluke o odabiru ili poništenju, u odnosu na postupak pregleda, ocjene i odabira ponuda, ili razloge poništenja. Ako tijekom roka za žalbu sustav e-Žalba na poslužitelju Oglasnika postane nedostupan, rok za žalbu iz članaka 406. do 414. ZJN 2016 produžuje se za onoliko dana koliko je sustav e-Žalba bio nedostupan. Ako je sustav e-Žalba bio nedostupan samo zadnjeg dana roka za žalbu, rok za žalbu produžuje se do isteka prvog sljedećeg radnog dana. Žalitelj koji je propustio izjaviti žalbu u određenoj fazi otvorenog postupka javne nabave sukladno navedenom, nema pravo na žalbu u kasnijoj fazi postupka za prethodnu fazu. Žalba obvezno sadržava podatke i dokaze iz članka 420. ZJN 2016.</cbc:Description>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="internalID">VV-1-2024-6</cbc:ID>
+      <cbc:Name languageID="HRV">AIO računalo, stolno računalo</cbc:Name>
+      <cbc:Description languageID="HRV">Predmet nabave u Grupi 6 je nabava AIO računala i stolnih računala, isporuka na lokaciju naručitelja i usluga jamstva za ispravnost prodane stvari, sukladno tehničkim specifikacijama</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="accessibility">inc</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">25000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">30236000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cbc:Description languageID="HRV">Lokacija Naručitelja: Nacionalna i sveučilišna knjižnica u Zagrebu, Ulica Hrvatske bratske zajednice 4, HR-10000 Zagreb, Hrvatska</cbc:Description>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HR050</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HRV</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:TenderResult>
+    <cbc:AwardDate>2000-01-01+01:00</cbc:AwardDate>
+  </cac:TenderResult>
+</ContractAwardNotice>

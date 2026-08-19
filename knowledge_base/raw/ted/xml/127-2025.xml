@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">124701660</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">157518779.76</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">134677792.8</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <cac:FinancingParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:FinancingParty>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">124701660</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>WC SERWIS POLSKA Sp. z o.o.</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-12+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-31+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Usługa zabezpieczenia w przenośne urządzenia sanitarne w 2025 roku </cbc:Title>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>311/2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>WC SERWIS POLSKA Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://25wog.wp.mil.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://platformazakupowa.pl/pn/25wog_wp</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">25. Wojskowy Oddział Gospodarczy w Białymstoku.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Kawaleryjska 70</cbc:StreetName>
+                           <cbc:Department>Ministerstwo Obrony Narodowej</cbc:Department>
+                           <cbc:CityName>Białystok</cbc:CityName>
+                           <cbc:PostalZone>15-325</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL841</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5423224755</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>261 398 839</cbc:Telephone>
+                           <cbc:ElectronicMail>25wog.kancelaria@ron.mil.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://www.uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cbc:EndpointID>http://www.uzp.gov.pl/kio</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:Telefax>+48 224587800</cbc:Telefax>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://wcserwis.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://wcserwis.pl/</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">WC SERWIS POLSKA Sp. z o.o</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Zabrze</cbc:CityName>
+                           <cbc:PostalZone>41-808</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL229</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6482730408</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 32 278 45 31</cbc:Telephone>
+                           <cbc:ElectronicMail>biuro@wcserwis.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000127-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">7dade2c8-aeea-40fb-9f4d-ceac124231c4</cbc:ID>
+   <cbc:ContractFolderID>df1c6524-e87d-44cc-812e-7593d30c7387</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>09:50:07Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://platformazakupowa.pl/pn/25wog_wp</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">defence</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">667232-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">75/PN/2024</cbc:ID>
+      <cbc:Name languageID="POL">Usługa zabezpieczenia w przenośne urządzenia sanitarne w 2025 roku</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest usługa zabezpieczenia w przenośne urządzenia sanitarne w rejonie odpowiedzialności 25. WOG w 2025 r. Zamawiający (na podstawie art. 31 ust. 2 ustawy Pzp) przewiduje możliwość
+1 wznowienia zamówienia, polegającego na powtórzeniu przedmiotu zamówienia na okres równy okresowi realizacji umowy przed wznowieniem. 
+Poprzez wznowienie należy rozumieć wykonanie przedmiotu zamówienia
+w największym możliwym zakresie, tj. obejmującym zamówienie podstawowe/gwarantowane i opcjonalne.
+Zamawiający poinformuje pisemnie Wykonawcę, że skorzysta ze wznowienia najpóźniej jeden miesiąc przed upływem terminu obowiązywania umowy. Wykonawca zobowiązany jest złożyć w formie pisemnej oświadczenie o wyrażeniu zgodny na wznowienie zamówienia w terminie do 7 dni od dnia otrzymania informacji od Zamawiającego. W przypadku braku odpowiedzi Wykonawcy w wyżej wymienionym okresie, Zamawiający uzna, że Wykonawca nie wyraża zgody na wznowienie zamówienia.
+W przypadku niepoinformowania Wykonawcy w terminie, należy przyjąć, że Zamawiający nie będzie korzystał ze wznowienia. Wykonawca nie będzie miał żadnych roszczeń w stosunku do Zamawiającego, w przypadku gdy Zamawiający ze wznowienia nie skorzysta.
+4. Ze względu na charakter zabezpieczanych przedsięwzięć nie jest możliwy podział zamówienia na części. Ćwiczenia i inne zadania realizowane przez żołnierzy realizowane są w wyniku rozkazów podejmowanych przez wyższych przełożonych i nie jest możliwe przewidzenie lokalizacji dla realizacji poszczególnych zadań.
+W związku z nieprzewidywalnością zarówno umiejscowienia, jak i liczebności wojska, które należy zaopatrzyć teren, który będzie objęty umową ograniczony jest wyłącznie rejonem odpowiedzialności 25. WOG w Białymstoku określonym
+w rozkazie nr Z-27/P4 Szefa Sztabu generalnego WP z dn. 28.02.2023 r. Wykonawca musi być w gotowości realizacji umowy niezależnie od lokalizacji wskazanej w zleceniu (w RO), przy czym w ramach umowy konieczne może być również przemieszczenie podstawionego zabezpieczenia do kolejnego miejsca.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90400000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL841</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-fixed">fix-tot</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">100</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">10</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">75/PN/2024</cbc:ID>
+         <cbc:Name languageID="POL">Usługa zabezpieczenia w przenośne urządzenia sanitarne w 2025 roku</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest usługa zabezpieczenia w przenośne urządzenia sanitarne w rejonie odpowiedzialności 25. WOG w 2025 r. Zamawiający (na podstawie art. 31 ust. 2 ustawy Pzp) przewiduje możliwość
+1 wznowienia zamówienia, polegającego na powtórzeniu przedmiotu zamówienia na okres równy okresowi realizacji umowy przed wznowieniem. 
+Poprzez wznowienie należy rozumieć wykonanie przedmiotu zamówienia
+w największym możliwym zakresie, tj. obejmującym zamówienie podstawowe/gwarantowane i opcjonalne.
+Zamawiający poinformuje pisemnie Wykonawcę, że skorzysta ze wznowienia najpóźniej jeden miesiąc przed upływem terminu obowiązywania umowy. Wykonawca zobowiązany jest złożyć w formie pisemnej oświadczenie o wyrażeniu zgodny na wznowienie zamówienia w terminie do 7 dni od dnia otrzymania informacji od Zamawiającego. W przypadku braku odpowiedzi Wykonawcy w wyżej wymienionym okresie, Zamawiający uzna, że Wykonawca nie wyraża zgody na wznowienie zamówienia.
+W przypadku niepoinformowania Wykonawcy w terminie, należy przyjąć, że Zamawiający nie będzie korzystał ze wznowienia. Wykonawca nie będzie miał żadnych roszczeń w stosunku do Zamawiającego, w przypadku gdy Zamawiający ze wznowienia nie skorzysta.
+4. Ze względu na charakter zabezpieczanych przedsięwzięć nie jest możliwy podział zamówienia na części. Ćwiczenia i inne zadania realizowane przez żołnierzy realizowane są w wyniku rozkazów podejmowanych przez wyższych przełożonych i nie jest możliwe przewidzenie lokalizacji dla realizacji poszczególnych zadań.
+W związku z nieprzewidywalnością zarówno umiejscowienia, jak i liczebności wojska, które należy zaopatrzyć teren, który będzie objęty umową ograniczony jest wyłącznie rejonem odpowiedzialności 25. WOG w Białymstoku określonym
+w rozkazie nr Z-27/P4 Szefa Sztabu generalnego WP z dn. 28.02.2023 r. Wykonawca musi być w gotowości realizacji umowy niezależnie od lokalizacji wskazanej w zleceniu (w RO), przy czym w ramach umowy konieczne może być również przemieszczenie podstawionego zabezpieczenia do kolejnego miejsca</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="gpp-criteria">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="social-objective">acc-all</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90400000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL841</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2025-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">Zamawiający w oparciu o art. 441 ustawy Pzp skorzysta z prawa opcji w przypadku wystąpienia potrzeby zamówienia dodatkowego asortymentu w związku z przydzielonymi środkami finansowych na ten cel. Do zamówień objętych prawem opcji stosuje się postanowienia odnoszące się do zamówienia podstawowego. Zamawiający zastrzega sobie prawo do niewykorzystania całości bądź części zamówienia objętego prawem opcji, a Wykonawca oświadcza, że nie będzie z tego powodu wnosił żadnych roszczeń.</cbc:OptionsDescription>
+            <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

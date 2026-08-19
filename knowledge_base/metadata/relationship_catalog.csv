@@ -1,0 +1,14 @@
+relationship_id,left_entity,right_entity,relationship_type,bridge_file,left_key,right_key,source_support,cardinality,limitations
+rel_0001,suppliers,products,supplies_or_vendor_of_component,processed/supplier_products.csv,supplier_id,product_id,src_nist_supplychain,many_to_many,No subconjunto GPS Manufacturer a relacao foi construida a partir de Vendor 1 e Vendor 2 em vez da coluna literal Supplier ID por esta ultima ser majoritariamente orfa ver transformation_log tr_0006 relacoes ambiguas ou orfas foram omitidas
+rel_0002,products,projects,associated_with,processed/product_projects.csv,product_id,project_id,src_nist_supplychain,many_to_many,Hierarquia original de projetos coluna Level nao esta representada apenas a associacao direta produto-projeto
+rel_0003,projects,projects,parent_child_hierarchy,none,,,src_nist_supplychain,one_to_many,Existe na fonte coluna Level ex 1.1.2 mas nao ha campo parent_project_id no esquema canonico atual esta relacao nao foi materializada registrada como lacuna para decisao futura
+rel_0004,notices,buyers,has_buyer,processed/notice_buyers.csv,notice_id,buyer_id,src_ted_opendata,many_to_many,Somente papeis Buyer explicitamente referenciados no XML.
+rel_0005,notices,procedures,describes,processed/procurement_notices.csv,procedure_id,procedure_id,src_ted_opendata,many_to_one,Ligacao por BT-04 e registro do notice.
+rel_0006,notices,lots,contains,processed/procurement_lots.csv,notice_id,notice_id,src_ted_opendata,one_to_many,Um aviso eForms contem pelo menos um lot.
+rel_0007,lots,awards,has_result,processed/procurement_awards.csv,lot_id,lot_id,src_ted_opendata,one_to_many,LotResult pode indicar vencedor ou nao adjudicacao.
+rel_0008,awards,suppliers,awarded_to,processed/award_suppliers.csv,award_id,supplier_id,src_ted_opendata,many_to_many,Somente winner ligado via LotTender e TenderingParty.
+rel_0009,contracts,suppliers,contracted_with,processed/contract_suppliers.csv,contract_id,supplier_id,src_ted_opendata,many_to_many,Derivada de Contract-LotTender-TenderingParty-Organisation.
+rel_0010,contracts,lots,covers,processed/contract_lots.csv,contract_id,lot_id,src_ted_opendata,many_to_many,Ponte adicionada pois um contrato pode cobrir varios lots.
+rel_0011,contracts,awards,settles,processed/contract_awards.csv,contract_id,award_id,src_ted_opendata,many_to_many,Ponte adicionada para contratos associados a mais de um LotResult.
+rel_0012,lots,categories,classified_as,processed/procurement_lots.csv,category_id,category_id,src_ted_opendata,many_to_one,CPV publicado no XML; nomes nao preenchidos nesta fase.
+rel_0013,suppliers,projects,contract_supplier_for_project,processed/supplier_projects.csv,supplier_id,project_id,src_worldbank_finances1,many_to_many,Observed at supplier contract award source-row level; no assertion of supplier ownership or product supply chain.

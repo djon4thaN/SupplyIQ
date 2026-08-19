@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">748832.84</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">785424</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">748832.84</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">748832.84</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">not-known</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Najkorzystniejsza oferta FBSerwis S.A.</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-11-08+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-05+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>ZE.7021.1.8.2024.MK</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>FBSerwis S.A. </cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://bip.zory.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://zory.logintrade.net/rejestracja/ustawowe.html</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Miejska Żory</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Al. Wojska Polskiego 25</cbc:StreetName>
+                           <cbc:Department>Zespół Zamówień Publicznych</cbc:Department>
+                           <cbc:CityName>Żory</cbc:CityName>
+                           <cbc:PostalZone>44-240</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6511706371</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Zespół Zamówień Publicznych</cbc:Name>
+                           <cbc:Telephone>+48 324348245</cbc:Telephone>
+                           <cbc:ElectronicMail>zp@um.zory.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.uzp.gov.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>www.uzp.gov.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17A</cbc:StreetName>
+                           <cbc:Department>Departament odwołań</cbc:Department>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Departament Odwołań</cbc:Name>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">FBSerwis S.A.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Siedmiogrodzka 9</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>01-204</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5272676062</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>226236380</cbc:Telephone>
+                           <cbc:ElectronicMail>przetargi@fbserwis.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000179-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">2fc7fb30-bb56-4141-bc43-f025be9b2405</cbc:ID>
+   <cbc:ContractFolderID>dcd3f1ad-9966-47e8-9e0d-b640eade711b</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>12:43:15Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://zory.logintrade.net/rejestracja/ustawowe.html</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">597013-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">ZP.271.10.2.2024</cbc:ID>
+      <cbc:Name languageID="POL">Konserwacja i eksploatacja oświetlenia ulicznego w 2025 roku na terenie Gminy Żory i stanowiącego własność Gminy Żory</cbc:Name>
+      <cbc:Description languageID="POL">Usługa obejmująca konserwację i eksploatację oświetlenia ulicznego w 2025 roku na terenie Gminy Żory i stanowiącego własność Gminy Żory.
+Zakres rzeczowy zadania:
+Konserwacja i eksploatacja urządzeń oświetlenia ulic, placów, dróg i miejsc publicznych na terenie administrowanym przez Gminę Żory tj.:
+− 5701 szt. punktów świetlnych stanowiących własność Gminy Żory (w tym 2345 szt. będących na gwarancji) wg załącznika do umowy,
+− 138 szt. szaf oświetlenia ulicznego z pomiarem energii elektrycznej i sterowaniem oświetleniem ulicznym stanowiących własność Gminy Żory wg załącznika do umowy,
+− pozostałych elementów, czyli oświetlenia gablot reklamowych, wiat przystankowych, pylonów na rondach.
+Oświetlenie jest przyłączone do sieci dystrybucyjnej Operatora Systemu Dystrybucyjnego (OSD) TAURON Dystrybucja S.A. oraz ESV9 Sp. z o.o.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">1. Zamawiający przewiduje podstawy wykluczenia, o których mowa w art. 108 ust. 1 ustawy Pzp zgodnie z SWZ. 2. Zamawiający przewiduje podstawy wykluczenia,
+o których mowa w art. 109 ust. 1 ustawy Pzp zgodnie z SWZ. 3. Zamawiający wykluczy z postępowania Wykonawców wobec których zachodzą podstawy do wykluczenia o których mowa w art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego- zgodnie z SWZ 4. Zamawiający wykluczy z postępowania Wykonawców wobec których zachodzą podstawy wykluczenia o których mowa w art 5 k Rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 229 z 31.7.2014, str. 1),w brzmieniu nadanym rozporządzeniem Rady (UE) 2022/576 w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie- zgodnie z SWZ 5. Zamawiający nie przewiduje zamówień zgodnie z art. 214 ust. 1 pkt 7 ustawy Pzp. 6. Zmawiający przed wyborem najkorzystniejszej oferty wzywa wykonawcę, którego oferta została najwyżej oceniona do złożenia w wyznaczonym terminie, nie krótszym niż 10 dni, aktualnych na dzień złożenia podmiotowych środków dowodowych, tj. 1) wykaz dostaw lub
+usług wykonanych, a w przypadku świadczeń powtarzających się lub ciągłych również wykonywanych, w okresie ostatnich 3 lat, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których dostawy lub usługi zostały wykonane lub są wykonywane, oraz załączeniem dowodów określających, czy te dostawy lub usługi zostały wykonane lub są wykonywane należycie, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty sporządzone przez podmiot, na rzecz którego dostawy lub usługi zostały wykonane, a w przypadku świadczeń powtarzających się lub ciągłych są wykonywane, a jeżeli wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – oświadczenie wykonawcy; w przypadku świadczeń powtarzających się lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonywanie powinny być wystawione w okresie ostatnich 3 miesięcy; Uwaga: Jeżeli wykonawca powołuje się na doświadczenie w realizacji dostaw lub usług wykonywanych wspólnie z innymi wykonawcami,
+wykaz dotyczy dostaw lub usług, w których wykonaniu wykonawca ten bezpośrednio uczestniczył, a w przypadku świadczeń powtarzających się lub ciągłych, w których
+wykonywaniu bezpośrednio uczestniczył lub uczestniczy. 2) wykaz osób, skierowanych przez wykonawcę do realizacji zamówienia publicznego, w szczególności odpowiedzialnych za świadczenie usług, kontrolę jakości lub kierowanie robotami budowlanymi, wraz z informacjami na temat ich kwalifikacji zawodowych, uprawnień, doświadczenia i wykształcenia niezbędnych do wykonania zamówienia publicznego, a także zakresu wykonywanych przez nie czynności oraz informacją o podstawie do dysponowania tymi osobami. 3) wykaz narzędzi, wyposażenia zakładu lub urządzeń technicznych dostępnych wykonawcy w celu wykonania zamówienia publicznego wraz z informacją o podstawie do dysponowania tymi zasobami; 4) dokumenty zgodnie z pkt 9B ppkt 4–10 SWZ oraz pkt 9C ppkt 1–4 SWZ 7. Zamawiający przewiduje zastosowanie procedury, o której mowa w art. 139 ustawy Pzp. 8. Na potwierdzenie spełniania warunków udziału w postępowaniu oraz niepodlegania wykluczeniu z postępowania do oferty należy załączyć: 1.Aktualne na dzień składania ofert oświadczenie stanowiące wstępne potwierdzenie, że Wykonawca: a)nie podlega wykluczeniu z postępowania, b)spełnia warunki udziału w postępowaniu w zakresie wskazanym przez zamawiającego. - Oświadczenie, o którym mowa w pkt. 1, składa się na formularzu jednolitego europejskiego dokumentu zamówienia, sporządzonym zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia (Dz. Urz. UE L 3 z 06.01.2016, str. 16), zwanego dalej „jednolitym dokumentem”. - Oświadczenie, o którym mowa w pkt. 1, stanowi dowód potwierdzający brak podstaw wykluczenia, spełnianie warunków udziału w postępowaniu, odpowiednio na dzień składania ofert, stanowi dowód tymczasowo zastępujący wymagane przez zamawiającego podmiotowe środki dowodowe. - W przypadku wspólnego ubiegania się o zamówienie przez wykonawców, oświadczenie, o którym mowa w pkt 1, składa każdy z wykonawców. Oświadczenia te potwierdzają brak podstaw wykluczenia oraz spełnianie warunków udziału w postępowaniu w zakresie, w jakim każdy z wykonawców wykazuje spełnianie warunków udziału w postępowaniu - Wykonawca, w przypadku polegania na zdolnościach lub sytuacji podmiotów udostępniających zasoby, przedstawia, wraz z oświadczeniem, o którym mowa w pkt 1, także oświadczenie podmiotu udostępniającego zasoby, potwierdzające brak podstaw wykluczenia tego podmiotu oraz odpowiednio spełnianie warunków udziału w postępowaniu, w zakresie, w jakim wykonawca powołuje się na jego zasoby. - Wykonawca może wykorzystać jednolity dokument złożony w odrębnym postępowaniu o udzielenie zamówienia, jeżeli potwierdzi, że informacje w nim zawarte pozostają prawidłowe. - Wykonawca wypełnia JEDZ, tworząc dokument elektroniczny. Może korzystać z narzędzia ESPD lub innych dostępnych narzędzi lub oprogramowania, które umożliwiają wypełnienie JEDZ i utworzenie dokumentu elektronicznego. Zaleca się wypełnienie formularza JEDZ przy wykorzystaniu systemu dostępnego poprzez następującą stronę internetową https://espd.uzp.gov.pl/filter?lang=pl W tym celu należy podjąć następujące kroki: a) Ze strony internetowej Zamawiającego, na której udostępniony został dokument SWZ należy pobrać plik w formacie XML o nazwie „espd-request” stanowiący załącznik do SWZ b) Wejść na stronę https://espd.uzp.gov.pl/filter?lang=pl c) Wybrać odpowiednią wersję językową d) Wybrać opcję „Jestem Wykonawcą” (Uwaga! Powyższą opcję należy również zaznaczyć w przypadku, gdy formularz JEDZ wypełnia podmiot, na którego zasoby powołuje się Wykonawca) e) Zaimportować pobrany wcześniej plik w formacie XML o nazwie „espdrequest”f) Wypełnić formularz i postępować dalej zgodnie z instrukcjami (podpowiedziami) w narzędziu. - W celu wstępnego potwierdzenia spełnienia warunków udziału w Postępowaniu Wykonawca ograniczy się do ogólnego oświadczenia dotyczącego wszystkich kryteriów kwalifikacji poprzez wypełnienie sekcji w części IV i nie wypełnia żadnej z pozostałych sekcji w części IV Jednolitego Dokumentu. 2. Oświadczenie Wykonawcy o braku postaw wykluczenia z postępowania zgodnie z art. 5K Rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie, dodanym Rozporządzeniem Rady (UE) 2022/576 z dnia 8 kwietnia 2022 r. w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz.Urz.UE nr L 111 z 8.04.2022 r. str. 1). Oświadczenie składa się, pod rygorem nieważności, w formie elektronicznej (w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym).</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">50232100</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:StreetName>Żory</cbc:StreetName>
+            <cbc:AdditionalStreetName>Aleja Wojska Polskiego</cbc:AdditionalStreetName>
+            <cbc:CityName>Żory</cbc:CityName>
+            <cbc:PostalZone>44-240</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+            <cac:AddressLine>
+               <cbc:Line>25</cbc:Line>
+            </cac:AddressLine>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:FiscalLegislationDocumentReference>
+            <cbc:ID>_DEFAULT_VALUE_CHANGE_ME_</cbc:ID>
+            <cac:IssuerParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:IssuerParty>
+         </cac:FiscalLegislationDocumentReference>
+         <cac:EnvironmentalLegislationDocumentReference>
+            <cbc:ID>_DEFAULT_VALUE_CHANGE_ME_</cbc:ID>
+            <cac:IssuerParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:IssuerParty>
+         </cac:EnvironmentalLegislationDocumentReference>
+         <cac:EmploymentLegislationDocumentReference>
+            <cbc:ID>_DEFAULT_VALUE_CHANGE_ME_</cbc:ID>
+            <cac:IssuerParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:IssuerParty>
+         </cac:EmploymentLegislationDocumentReference>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="fsr">false</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:Description languageID="POL">.</cbc:Description>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">.</cbc:Name>
+                  <cbc:Description languageID="POL">W kryterium, w którym Zamawiającemu zależy, aby Wykonawca przedstawił jak najniższy wskaźnik, tj. cena – zostanie zastosowany następujący wzór arytmetyczny:
+(n : b) x 60	
+Oferta z najniższą ceną otrzyma 60 pktów, pozostałe proporcjonalnie mniej, gdzie:
+a) n - wartość oferty z najmniejszą wartością, 
+b) b - wartość oferty badanej, 
+c) 60 – wskaźnik stały.   </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">.</cbc:Name>
+                  <cbc:Description languageID="POL">W kryterium 2: czas realizacji w przypadku niesprawnego ciągu oświetleniowego (powyżej 4 lamp zlokalizowanych obok siebie) - ocena punktowa przedstawia się następująco:
+Czas realizacji do 48 h od zgłoszenia 	- 0 pkt 
+Czas realizacji do 24 h od zgłoszenia 	- 10 pkt
+Czas realizacji do 12 h od zgłoszenia 	- 40 pkt
+Przez czas realizacji rozumie się termin usunięcia awarii i usterek od chwili ich zgłoszenia. W niniejszym kryterium Wykonawca może uzyskać maksymalnie 40 pkt.
+Zgodnie z SWZ zaoferowany czas realizacji w przypadku niesprawnego ciągu oświetleniowego nie może być dłuższy niż do 48 h od zgłoszenia (w przypadku zaoferowania czasu realizacji w przypadku niesprawnego ciągu oświetleniowego dłuższego niż do 48 h od zgłoszenia oferta zostanie odrzucona zgodnie z art. 226 ust. 1 pkt 5) ustawy Pzp).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Odwołanie wnosi się w terminie:10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja
+została przekazana przy użyciu środków komunikacji elektronicznej 1. Środki ochrony prawnej przysługują Wykonawcy, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów pzp. 2. Odwołanie przysługuje na: 2.1. niezgodną z przepisami ustawy czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy; 2.2. zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie ustawy. 3. Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej opatrzone podpisem zaufanym. 4. Na orzeczenie Krajowej Izby Odwoławczej
+oraz postanowienie Prezesa Krajowej Izby Odwoławczej, o którym mowa w art. 519 ust. 1 pzp, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. Skargę wnosi się do Sądu Okręgowego w Warszawie za pośrednictwem Prezesa Krajowej Izby Odwoławczej. 5. Szczegółowe informacje dotyczące środków ochrony prawnej określone są w Dziale IX „Środki ochrony prawnej” pzp.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">ZP.271.10.2.2024</cbc:ID>
+         <cbc:Name languageID="POL">Konserwacja i eksploatacja oświetlenia ulicznego w 2025 roku na terenie Gminy Żory i stanowiącego własność Gminy Żory</cbc:Name>
+         <cbc:Description languageID="POL">Usługa obejmująca konserwację i eksploatację oświetlenia ulicznego w 2025 roku na terenie Gminy Żory i stanowiącego własność Gminy Żory.
+Zakres rzeczowy zadania:
+Konserwacja i eksploatacja urządzeń oświetlenia ulic, placów, dróg i miejsc publicznych na terenie administrowanym przez Gminę Żory tj.:
+− 5701 szt. punktów świetlnych stanowiących własność Gminy Żory (w tym 2345 szt. będących na gwarancji) wg załącznika do umowy,
+− 138 szt. szaf oświetlenia ulicznego z pomiarem energii elektrycznej i sterowaniem oświetleniem ulicznym stanowiących własność Gminy Żory wg załącznika do umowy,
+− pozostałych elementów, czyli oświetlenia gablot reklamowych, wiat przystankowych, pylonów na rondach.
+Oświetlenie jest przyłączone do sieci dystrybucyjnej Operatora Systemu Dystrybucyjnego (OSD) TAURON Dystrybucja S.A. oraz ESV9 Sp. z o.o.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">1. Wypełniony formularz ofertowy (zwany dalej ofertą) musi zawierać następujące załączniki: a. Jednolity Europejski Dokument Zamówienia (JEDZ), b.
+Oświadczenie w związku z art. 117 ust. 4 ustawy pzp, z którego wynika, które usługi wykonają poszczególni Wykonawcy w przypadku Wykonawców wspólnie ubiegających się o udzielenie zamówienia - jeżeli dotyczy (zgodnie z zał. nr 2 do oferty), c. jeżeli dotyczy - zobowiązanie podmiotu trzeciego do oddania Wykonawcy do dyspozycji niezbędnych zasobów na potrzeby wykonania zamówienia lub inny dokument potwierdzający ten fakt, d. zestawienie kosztów, e. pełnomocnictwo - jeśli dotyczy, f. wadium jeżeli wykonawca wnosi wadium w innej formie niż pieniężna, g. oświadczenie wykonawcy dotyczące przesłanek wykluczenia z art. 5k rozporządzenia Rady(UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. EU nr L 229 z 31.7.2014 str1) w brzmieniu nadanym rozporządzeniem Rady (EU) 2022/576 w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie 2. Przystępując do niniejszego postępowania każdy Wykonawca zobowiązany jest wnieść wadium w wysokości 10 000,00 zł. 3. Termin związania ofertą – 90 dni od dnia składania ofert. Wykonawca jest związany ofertą od dnia upływu terminu składania ofert do dnia 19.01.2025 r. 4. Termin realizacji zamówienia (punkt 5.1.3 Szacowany okres obowiązywania): rozpoczęcie: 01.01.2025 r. zakończenie: 31.12.2025 r. – termin wymagany. </cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">50232100</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Żory Aleja Wojska Polskiego </cbc:StreetName>
+               <cbc:AdditionalStreetName>25</cbc:AdditionalStreetName>
+               <cbc:CityName>Żory</cbc:CityName>
+               <cbc:PostalZone>44-240</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2025-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

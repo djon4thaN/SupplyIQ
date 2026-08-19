@@ -1,0 +1,153 @@
+product_id,source_product_id,product_name,product_description,product_category,source_id,source_file_id,source_record_id,collected_at
+prd_0001,1,Product 1,,,src_nist_supplychain,file_nist_001,1,2026-08-19
+prd_0002,2,Product 2,,,src_nist_supplychain,file_nist_001,2,2026-08-19
+prd_0003,3,Product 3,,,src_nist_supplychain,file_nist_001,3,2026-08-19
+prd_0004,4,Product 4,,,src_nist_supplychain,file_nist_001,4,2026-08-19
+prd_0005,5,Product 5,,,src_nist_supplychain,file_nist_001,5,2026-08-19
+prd_0006,6,Product 6,,,src_nist_supplychain,file_nist_001,6,2026-08-19
+prd_0007,7,Product 7,,,src_nist_supplychain,file_nist_001,7,2026-08-19
+prd_0008,8,Product 8,,,src_nist_supplychain,file_nist_001,8,2026-08-19
+prd_0009,9,Product 9,,,src_nist_supplychain,file_nist_001,9,2026-08-19
+prd_0010,10,Product 10,,,src_nist_supplychain,file_nist_001,10,2026-08-19
+prd_0011,1,Product A,,,src_nist_supplychain,file_nist_004,1,2026-08-19
+prd_0012,2,Product B,,,src_nist_supplychain,file_nist_004,2,2026-08-19
+prd_0013,3,Product C,,,src_nist_supplychain,file_nist_004,3,2026-08-19
+prd_0014,4,Product D,,,src_nist_supplychain,file_nist_004,4,2026-08-19
+prd_0015,5,Product E,,,src_nist_supplychain,file_nist_004,5,2026-08-19
+prd_0016,6,Product F,,,src_nist_supplychain,file_nist_004,6,2026-08-19
+prd_0017,7,Product G,,,src_nist_supplychain,file_nist_004,7,2026-08-19
+prd_0018,8,Product H,,,src_nist_supplychain,file_nist_004,8,2026-08-19
+prd_0019,20-0002,GPS Car Navigation Unit - Model 3,"Product Assembly for GPS Car Navigation System Assembly - Model 3 Includes base product only, no packaging or localized components like charging adapters.",,src_nist_supplychain,file_nist_007,20-0002,2026-08-19
+prd_0020,20-0003,"GPS, Front Bezel Assembly","GPS Car Navigation System Front Bezel Assy Includes: Bezel, LCD, gasket and screws",,src_nist_supplychain,file_nist_007,20-0003,2026-08-19
+prd_0021,20-0004,"GPS, Rear Assembly","GPS Car Navigation System Model 3, Rear Panel Assembly",,src_nist_supplychain,file_nist_007,20-0004,2026-08-19
+prd_0022,20-0005,Package Documentation,,,src_nist_supplychain,file_nist_007,20-0005,2026-08-19
+prd_0023,20-0015,"GPS, PCBA, Model 3",Board Assembly. This is the primary PCB assembly that sits at the back of the GPS Car Navigation System Model 3,,src_nist_supplychain,file_nist_007,20-0015,2026-08-19
+prd_0024,30-0085,Packaging,"5"" x 5"" x 5"" white box packaging with images & labels attached. See files tab for artwork to be adhered to box.",,src_nist_supplychain,file_nist_007,30-0085,2026-08-19
+prd_0025,40-0009,"Power Supply, US",Input: 110-250 VAC 50/60HZ. output: 5 VDC + 5%. max: 450 mA. Min: 150 mA LEDs: Power. Charge time aprox. 1 hour.,,src_nist_supplychain,file_nist_007,40-0009,2026-08-19
+prd_0026,40-0011,LCD,,,src_nist_supplychain,file_nist_007,40-0011,2026-08-19
+prd_0027,40-0035,"GPS, Circuit Board",Circuit board for the GPS product,,src_nist_supplychain,file_nist_007,40-0035,2026-08-19
+prd_0028,40-0038,GPS Micro controller,IC CTRLR BASEBAND 32BIT 64-TQFP,,src_nist_supplychain,file_nist_007,40-0038,2026-08-19
+prd_0029,40-0039,USB Connector,"4 CONTACT(S), FEMALE, RIGHT ANGLE TELECOM AND DATACOM CONNECTOR, SURFACE MOUNT, RECEPTACLE",,src_nist_supplychain,file_nist_007,40-0039,2026-08-19
+prd_0030,40-0041,0.1uF Ceramic Chip Capacitor,"CAPACITOR, CERAMIC, MULTILAYER, 16 V, X7R, 0.1 uF, SURFACE MOUNT, 0603",,src_nist_supplychain,file_nist_007,40-0041,2026-08-19
+prd_0031,40-0042,10k Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.0625 W, 5 %, 250 ppm, 10000 ohm, SURFACE MOUNT",,src_nist_supplychain,file_nist_007,40-0042,2026-08-19
+prd_0032,40-0043,1k Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.0625 W, 5 %, 250 ppm, 1000 ohm, SURFACE MOUNT",,src_nist_supplychain,file_nist_007,40-0043,2026-08-19
+prd_0033,40-0044,"1.0uF Ceramic Capacitor, 1206","1.0uF Ceramic Capacitor, 1206",,src_nist_supplychain,file_nist_007,40-0044,2026-08-19
+prd_0034,40-0045,Low-dropout 5.0V 100mA Voltage Regulator,"5 V FIXED POSITIVE LDO REGULATOR, 0.6 V DROPOUT, PDSO8",,src_nist_supplychain,file_nist_007,40-0045,2026-08-19
+prd_0035,40-0046,100ohm Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.1 W, 5 %, 200 ppm, 100 ohm, SURFACE MOUNT, 0603",,src_nist_supplychain,file_nist_007,40-0046,2026-08-19
+prd_0036,40-0047,51k Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.1 W, 5 %, 200 ppm, 51000 ohm, SURFACE MOUNT, 0603",,src_nist_supplychain,file_nist_007,40-0047,2026-08-19
+prd_0037,40-0048,470k Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.1 W, 5 %, 200 ppm, 470000 ohm, SURFACE MOUNT, 0603",,src_nist_supplychain,file_nist_007,40-0048,2026-08-19
+prd_0038,40-0049,500mW NPN Transistor,"1000 mA, 60 V, NPN, Si, SMALL SIGNAL TRANSISTOR",,src_nist_supplychain,file_nist_007,40-0049,2026-08-19
+prd_0039,40-0050,Small-signal PNP Transistor,"200 mA, 40 V, PNP, Si, SMALL SIGNAL TRANSISTOR",,src_nist_supplychain,file_nist_007,40-0050,2026-08-19
+prd_0040,40-0051,470 ohm Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.1 W, 5 %, 200 ppm, 47 ohm, SURFACE MOUNT, 0603",,src_nist_supplychain,file_nist_007,40-0051,2026-08-19
+prd_0041,40-0052,"Tantalum Capacitor 10uF@16V,B pkg","CAPACITOR, TANTALUM, SOLID, POLARIZED, 16 V, 10 uF, SURFACE MOUNT, 1411",,src_nist_supplychain,file_nist_007,40-0052,2026-08-19
+prd_0042,40-0053,"Tantalum Capacitor 4.7uF@4V,A pkg","CAPACITOR, TANTALUM, SOLID, POLARIZED, 10 V, 4.7 uF, SURFACE MOUNT, 1411",,src_nist_supplychain,file_nist_007,40-0053,2026-08-19
+prd_0043,40-0054,Voltage Detector CMOS 4.3V SOT23,"1-CHANNEL POWER SUPPLY SUPPORT CKT, PDSO3",,src_nist_supplychain,file_nist_007,40-0054,2026-08-19
+prd_0044,40-0055,220k Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.1 W, 5 %, 200 ppm, 220000 ohm, SURFACE MOUNT, 0603",,src_nist_supplychain,file_nist_007,40-0055,2026-08-19
+prd_0045,40-0056,1M Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.0625 W, 5 %, 250 ppm, 1000000 ohm, SURFACE MOUNT",,src_nist_supplychain,file_nist_007,40-0056,2026-08-19
+prd_0046,40-0057,"0.01uF Ceramic Chip Capacitor, 0603","CAPACITOR, CERAMIC, MULTILAYER, 50 V, X7R, 0.01 uF, SURFACE MOUNT, 0603",,src_nist_supplychain,file_nist_007,40-0057,2026-08-19
+prd_0047,40-0058,47 ohm Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.1 W, 5 %, 200 ppm, 47 ohm, SURFACE MOUNT, 0603",,src_nist_supplychain,file_nist_007,40-0058,2026-08-19
+prd_0048,40-0059,Small-single NPN Transistor,"100 mA, 45 V, NPN, Si, SMALL SIGNAL TRANSISTOR",,src_nist_supplychain,file_nist_007,40-0059,2026-08-19
+prd_0049,40-0061,N-Chn Enhan-Md MOSFET,"200 mA, 50 V, N-CHANNEL, Si, SMALL SIGNAL, MOSFET",,src_nist_supplychain,file_nist_007,40-0061,2026-08-19
+prd_0050,40-0062,3k Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.0625 W, 5 %, 200 ppm, 3000 ohm, SURFACE MOUNT",,src_nist_supplychain,file_nist_007,40-0062,2026-08-19
+prd_0051,40-0063,Exclusive Or Gate single,"HC/UH SERIES, 2-INPUT XOR GATE, PDSO5",,src_nist_supplychain,file_nist_007,40-0063,2026-08-19
+prd_0052,40-0064,Speaker w/drive circuit 3-15volts,Speaker w/drive circuit 3-15volts,,src_nist_supplychain,file_nist_007,40-0064,2026-08-19
+prd_0053,40-0066,Signal Diode,"0.2 A, 75 V, SILICON, SIGNAL DIODE",,src_nist_supplychain,file_nist_007,40-0066,2026-08-19
+prd_0054,40-0067,2M Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.0625 W, 5 %, 400 ppm, 2000000 ohm, SURFACE MOUNT",,src_nist_supplychain,file_nist_007,40-0067,2026-08-19
+prd_0055,40-0068,P-Chan MOSFET SOT-223,"7.5 A, 30 V, 0.03 ohm, P-CHANNEL, Si, POWER, MOSFET",,src_nist_supplychain,file_nist_007,40-0068,2026-08-19
+prd_0056,40-0069,HE 2 Channel solid state relay (B form),HE 2 Channel solid state relay (B form),,src_nist_supplychain,file_nist_007,40-0069,2026-08-19
+prd_0057,40-0070,"Schottky Diode, 320mV@1mA","0.2 A, 30 V, SILICON, SIGNAL DIODE, TO-236AB",,src_nist_supplychain,file_nist_007,40-0070,2026-08-19
+prd_0058,40-0071,Millmax 0666 Socket for 0.020 pins,"BERYLLIUM COPPER, TIN LEAD (100) OVER NICKEL FINISH, PCB TERMINAL",,src_nist_supplychain,file_nist_007,40-0071,2026-08-19
+prd_0059,40-0072,2.7k Resistor,"RESISTOR, METAL GLAZE/THICK FILM, 0.0625 W, 5 %, 250 ppm, 2700 ohm, SURFACE MOUNT",,src_nist_supplychain,file_nist_007,40-0072,2026-08-19
+prd_0060,40-0073,4.0 MHz Fixed oscillator,4.0 MHz Fixed oscillator,,src_nist_supplychain,file_nist_007,40-0073,2026-08-19
+prd_0061,40-0074,"Miniature Pushbutton Switch, Right Angle","SWITCH, SPST, MOMENTARY, 0.02A, 50VDC, RIGHT ANGLE",,src_nist_supplychain,file_nist_007,40-0074,2026-08-19
+prd_0062,40-0075,Single Logic Level P-Channel FET,"2.3 A, 30 V, 0.2 ohm, P-CHANNEL, Si, POWER, MOSFET",,src_nist_supplychain,file_nist_007,40-0075,2026-08-19
+prd_0063,40-0076,Red/Green SM LED,"DUAL COLOR LED, RED/GREEN, 2.5 mm",,src_nist_supplychain,file_nist_007,40-0076,2026-08-19
+prd_0064,40-0077,Molex 4-pin 0.079 RA Header,"4 CONTACT(S), MALE, RIGHT ANGLE TWO PART BOARD CONNECTOR, SOLDER",,src_nist_supplychain,file_nist_007,40-0077,2026-08-19
+prd_0065,40-0078,IR 40Khz Integrated Receiver Siemen,LOGIC OUTPUT PHOTO DETECTOR,,src_nist_supplychain,file_nist_007,40-0078,2026-08-19
+prd_0066,50-0010,"Screw, M3 x 6, ST, PH, Torx",M3 x 6 Stainless Steel Pan Head Self Tapping Screw with Torx Drive style,,src_nist_supplychain,file_nist_007,50-0010,2026-08-19
+prd_0067,50-0012,"GPS, Front Bezel","Injection molded plastic front cover for GPS Car Navigation System Model 3 Texture: MoldTech MT-11030 - 0.002�depth, 3�_ draft",,src_nist_supplychain,file_nist_007,50-0012,2026-08-19
+prd_0068,50-0016,"GPS, Rear Panel","Injection molded plastic rear panel for GPS Car Navigation System Model 3 Texture: MoldTech MT-11030 - 0.002�depth, 3�_ draft",,src_nist_supplychain,file_nist_007,50-0016,2026-08-19
+prd_0069,50-0080,"Gasket, Screen, 3.5in",,,src_nist_supplychain,file_nist_007,50-0080,2026-08-19
+prd_0070,50-0087,GPS Model 3 US Boxed Product Label,GPS Model 3 US Boxed Product Label White polyester adhesive label with black print,,src_nist_supplychain,file_nist_007,50-0087,2026-08-19
+prd_0071,50-0088,"Box with GPS Logo, 5 in x 5 in x 5 in","5"" x 5"" x 5"" white box packaging with large GPS logo on top of box. See files tab for artwork to be put on box.",,src_nist_supplychain,file_nist_007,50-0088,2026-08-19
+prd_0072,50-0089,"Screw, M2 x 5, ST, PH, Torx",Screw M2 x 5 stainless steel self tapping pan head with Torx drive,,src_nist_supplychain,file_nist_007,50-0089,2026-08-19
+prd_0073,90-0006,Manual - Model 3/500,Quickstart guide for both GPS Model 3 and Model 500,,src_nist_supplychain,file_nist_007,90-0006,2026-08-19
+prd_0074,1,amet,,Software,src_nist_supplychain,file_nist_010,1,2026-08-19
+prd_0075,2,primis in faucibus,,Software,src_nist_supplychain,file_nist_010,2,2026-08-19
+prd_0076,3,arcu,,Software,src_nist_supplychain,file_nist_010,3,2026-08-19
+prd_0077,4,vel arcu,,Software,src_nist_supplychain,file_nist_010,4,2026-08-19
+prd_0078,5,cursus purus EHR,,Software,src_nist_supplychain,file_nist_010,5,2026-08-19
+prd_0079,6,ipsum,,Software,src_nist_supplychain,file_nist_010,6,2026-08-19
+prd_0080,7,tellus Nunc lectus EHR,,Software,src_nist_supplychain,file_nist_010,7,2026-08-19
+prd_0081,8,sit amet,,Software,src_nist_supplychain,file_nist_010,8,2026-08-19
+prd_0082,9,felis,,Software,src_nist_supplychain,file_nist_010,9,2026-08-19
+prd_0083,10,laoreet ipsum EHR,,Software,src_nist_supplychain,file_nist_010,10,2026-08-19
+prd_0084,11,lacus Aliquam rutrum EHR,,Software,src_nist_supplychain,file_nist_010,11,2026-08-19
+prd_0085,12,tellus imperdiet non,,Software,src_nist_supplychain,file_nist_010,12,2026-08-19
+prd_0086,13,dolor,,Software,src_nist_supplychain,file_nist_010,13,2026-08-19
+prd_0087,14,tristique,,Software,src_nist_supplychain,file_nist_010,14,2026-08-19
+prd_0088,15,at,,Software,src_nist_supplychain,file_nist_010,15,2026-08-19
+prd_0089,16,metus eu,,Software,src_nist_supplychain,file_nist_010,16,2026-08-19
+prd_0090,17,a aliquet,,Software,src_nist_supplychain,file_nist_010,17,2026-08-19
+prd_0091,18,natoque penatibus EHR,,Software,src_nist_supplychain,file_nist_010,18,2026-08-19
+prd_0092,19,non,,Software,src_nist_supplychain,file_nist_010,19,2026-08-19
+prd_0093,20,erat Etiam vestibulum,,Software,src_nist_supplychain,file_nist_010,20,2026-08-19
+prd_0094,21,ut mi,,Software,src_nist_supplychain,file_nist_010,21,2026-08-19
+prd_0095,22,libero,,Software,src_nist_supplychain,file_nist_010,22,2026-08-19
+prd_0096,23,lorem auctor quis,,Software,src_nist_supplychain,file_nist_010,23,2026-08-19
+prd_0097,24,Fusce,,Software,src_nist_supplychain,file_nist_010,24,2026-08-19
+prd_0098,25,nulla In tincidunt,,Software,src_nist_supplychain,file_nist_010,25,2026-08-19
+prd_0099,26,tellus lorem,,Software,src_nist_supplychain,file_nist_010,26,2026-08-19
+prd_0100,27,elit elit,,Software,src_nist_supplychain,file_nist_010,27,2026-08-19
+prd_0101,28,primis in,,Software,src_nist_supplychain,file_nist_010,28,2026-08-19
+prd_0102,29,at fringilla,,Software,src_nist_supplychain,file_nist_010,29,2026-08-19
+prd_0103,30,fermentum convallis ligula,,Software,src_nist_supplychain,file_nist_010,30,2026-08-19
+prd_0104,40020,"Vehicle Equipment, Aftermarket",,,src_nist_supplychain,file_nist_013,40020,2026-08-19
+prd_0105,43862,Back-up ER Equip Installation,,,src_nist_supplychain,file_nist_013,43862,2026-08-19
+prd_0106,45874,Forensic Reference Materials,,,src_nist_supplychain,file_nist_013,45874,2026-08-19
+prd_0107,42760,Scientific Supplies,,,src_nist_supplychain,file_nist_013,42760,2026-08-19
+prd_0108,45501,Topeka Lodging,,,src_nist_supplychain,file_nist_013,45501,2026-08-19
+prd_0109,44198,Security Camera System,,,src_nist_supplychain,file_nist_013,44198,2026-08-19
+prd_0110,45892,Controlled Substances,,,src_nist_supplychain,file_nist_013,45892,2026-08-19
+prd_0111,45987,KBI Software/Support,,,src_nist_supplychain,file_nist_013,45987,2026-08-19
+prd_0112,45953,Chemicals/Monitoring Lab,,,src_nist_supplychain,file_nist_013,45953,2026-08-19
+prd_0113,40007,Storage Bldg lease 509 Harrison,,,src_nist_supplychain,file_nist_013,40007,2026-08-19
+prd_0114,38473,HIDTA Deputy Director,,,src_nist_supplychain,file_nist_013,38473,2026-08-19
+prd_0115,45657,Camera and Badge Work,,,src_nist_supplychain,file_nist_013,45657,2026-08-19
+prd_0116,45629,Camera Work,,,src_nist_supplychain,file_nist_013,45629,2026-08-19
+prd_0117,45141,"Services, Access Control and V",,,src_nist_supplychain,file_nist_013,45141,2026-08-19
+prd_0118,40136,Mobile Phone Extraction Device,,,src_nist_supplychain,file_nist_013,40136,2026-08-19
+prd_0119,42657,Gas Chromatograph/Mass Spectrometer,,,src_nist_supplychain,file_nist_013,42657,2026-08-19
+prd_0120,46357,EVT0006375,,,src_nist_supplychain,file_nist_013,46357,2026-08-19
+prd_0121,40922,Badges and Insignia,,,src_nist_supplychain,file_nist_013,40922,2026-08-19
+prd_0122,44853,Automated Biometric Identifica,,,src_nist_supplychain,file_nist_013,44853,2026-08-19
+prd_0123,45655,GREAT BEND LODGING,,,src_nist_supplychain,file_nist_013,45655,2026-08-19
+prd_0124,45828,Buccal DNA Collection Kits,,,src_nist_supplychain,file_nist_013,45828,2026-08-19
+prd_0125,38602,Drug Analysis,,,src_nist_supplychain,file_nist_013,38602,2026-08-19
+prd_0126,40172,15700 College Blvd lease,,,src_nist_supplychain,file_nist_013,40172,2026-08-19
+prd_0127,43049,HIDTA Executive Director,,,src_nist_supplychain,file_nist_013,43049,2026-08-19
+prd_0128,45864,"Financial Mgr, Midwest HIDTA",,,src_nist_supplychain,file_nist_013,45864,2026-08-19
+prd_0129,42175,Elevator Maintenance - KBI,,,src_nist_supplychain,file_nist_013,42175,2026-08-19
+prd_0130,40014,DNA Reagents and Consumables,,,src_nist_supplychain,file_nist_013,40014,2026-08-19
+prd_0131,41676,Architectural Services,,,src_nist_supplychain,file_nist_013,41676,2026-08-19
+prd_0132,44795,Lab Pipette Calibration Maint,,,src_nist_supplychain,file_nist_013,44795,2026-08-19
+prd_0133,43379,Pittsburg Lease,,,src_nist_supplychain,file_nist_013,43379,2026-08-19
+prd_0134,44906,Strategic Intelligence Program,,,src_nist_supplychain,file_nist_013,44906,2026-08-19
+prd_0135,43122,ELISA Drug Detection Kit,,,src_nist_supplychain,file_nist_013,43122,2026-08-19
+prd_0136,45658,Biological Testing Services,,,src_nist_supplychain,file_nist_013,45658,2026-08-19
+prd_0137,45884,CONSUMABLES/REPAIR/TOTAL ASSUR,,,src_nist_supplychain,file_nist_013,45884,2026-08-19
+prd_0138,40605,Service plan for UPLC system,,,src_nist_supplychain,file_nist_013,40605,2026-08-19
+prd_0139,45891,Omada Solutions / IAM Support,,,src_nist_supplychain,file_nist_013,45891,2026-08-19
+prd_0140,45827,Blood Alcohol Collection Kits,,,src_nist_supplychain,file_nist_013,45827,2026-08-19
+prd_0141,45500,Analytical Instruments,,,src_nist_supplychain,file_nist_013,45500,2026-08-19
+prd_0142,45073,Forensic Toxicology Testing,,,src_nist_supplychain,file_nist_013,45073,2026-08-19
+prd_0143,42488,Multiplex Amplification Kit,,,src_nist_supplychain,file_nist_013,42488,2026-08-19
+prd_0144,46160,Lab Supplies,,,src_nist_supplychain,file_nist_013,46160,2026-08-19
+prd_0145,45378,Sexual Assault Kits,,,src_nist_supplychain,file_nist_013,45378,2026-08-19
+prd_0146,42715,HIDTA Program Coordinator,,,src_nist_supplychain,file_nist_013,42715,2026-08-19
+prd_0147,43553,Psychological Services,,,src_nist_supplychain,file_nist_013,43553,2026-08-19
+prd_0148,45408,Webinar-Based Video Training S,,,src_nist_supplychain,file_nist_013,45408,2026-08-19
+prd_0149,45732,GPS LOCATES,,,src_nist_supplychain,file_nist_013,45732,2026-08-19
+prd_0150,43157,"Nikon Cameras, Kits and Suppli",,,src_nist_supplychain,file_nist_013,43157,2026-08-19
+prd_0151,45877,Lodging,,,src_nist_supplychain,file_nist_013,45877,2026-08-19
+prd_0152,45969,KBI Postage,,,src_nist_supplychain,file_nist_013,45969,2026-08-19

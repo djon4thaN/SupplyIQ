@@ -1,0 +1,287 @@
+buyer_id,source_buyer_id,buyer_name,normalized_name,buyer_type,country_code,country_name,source_id,source_file_id,source_record_id,collected_at
+buy_0001,afe16e09-4fc4-4c82-afda-2861bc0ae8ed,HafenCity Hamburg GmbH,hafencity hamburg gmbh,pub-undert,DEU,,src_ted_opendata,file_ted_0001,organisation:ORG-0001,2026-08-19
+buy_0002,7752406978,Gmina Witonia,gmina witonia,la,POL,,src_ted_opendata,file_ted_0002,organisation:ORG-0001,2026-08-19
+buy_0003,5229839000,"ELEKTRO PRIMORSKA podjetje za distribucijo električne energije, d.d.","elektro primorska podjetje za distribucijo električne energije, d.d.",,SVN,,src_ted_opendata,file_ted_0003,organisation:ORG-0001,2026-08-19
+buy_0004,7282246128,Samodzielny Publiczny Zakład Opieki Zdrowotnej Centralny Szpital Kliniczny Uniwersytetu Medycznego w Łodzi,samodzielny publiczny zakład opieki zdrowotnej centralny szpital kliniczny uniwersytetu medycznego w łodzi,la,POL,,src_ted_opendata,file_ted_0004,organisation:ORG-0001,2026-08-19
+buy_0005,118417683,Szpital Bielański im. ks. Jerzego Popiełuszki Samodzielny Publiczny Zakład Opieki Zdrowotnej,szpital bielański im. ks. jerzego popiełuszki samodzielny publiczny zakład opieki zdrowotnej,body-pl,POL,,src_ted_opendata,file_ted_0005,organisation:ORG-0001,2026-08-19
+buy_0006,0245869-9,The Radiation and Nuclear Safety Authority,the radiation and nuclear safety authority,cga,FIN,,src_ted_opendata,file_ted_0006,organisation:ORG-0002,2026-08-19
+buy_0007,6471704471,Gmina Lubomia,gmina lubomia,la,POL,,src_ted_opendata,file_ted_0007,organisation:ORG-0001,2026-08-19
+buy_0008,57322,"SEMITAN, mandataire de Nantes Métropole","semitan, mandataire de nantes métropole",,FRA,,src_ted_opendata,file_ted_0008,organisation:ORG-0002,2026-08-19
+buy_0009,4288063,SPITALUL CLINIC DE RECUPERARE CLUJ-NAPOCA,spitalul clinic de recuperare cluj-napoca,body-pl-la,ROU,,src_ted_opendata,file_ted_0009,organisation:ORG-0004,2026-08-19
+buy_0010,NIP: 8212406047,Gmina Wiśniew,gmina wiśniew,la,POL,,src_ted_opendata,file_ted_0010,organisation:ORG-0001,2026-08-19
+buy_0011,30263544,Staatsbosbeheer,staatsbosbeheer,body-pl,NLD,,src_ted_opendata,file_ted_0011,organisation:ORG-0001,2026-08-19
+buy_0012,REGON 122462192,Babiogórski Park Narodowy z siedzibą w Zawoi,babiogórski park narodowy z siedzibą w zawoi,body-pl,POL,,src_ted_opendata,file_ted_0012,organisation:ORG-0001,2026-08-19
+buy_0013,221964385,COPERNICUS PODMIOT LECZNICZY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,copernicus podmiot leczniczy spółka z ograniczoną odpowiedzialnością,body-pl,POL,,src_ted_opendata,file_ted_0013,organisation:ORG-0001,2026-08-19
+buy_0014,90004585,Sihtasutus Viljandi Haigla,sihtasutus viljandi haigla,body-pl,EST,,src_ted_opendata,file_ted_0014,organisation:ORG-0001,2026-08-19
+buy_0015,1990080635,Krapkowickie Centrum Zdrowia Sp. z o.o.,krapkowickie centrum zdrowia sp. z o.o.,body-pl,POL,,src_ted_opendata,file_ted_0015,organisation:ORG-0001,2026-08-19
+buy_0016,95054920632,"Ministero delle Infrastrutture e dei Trasporti Provveditorato Interregionale per le Opere Pubbliche per la Campania, il Molise, la Puglia e la Basilicata - sede di Napoli","ministero delle infrastrutture e dei trasporti provveditorato interregionale per le opere pubbliche per la campania, il molise, la puglia e la basilicata - sede di napoli",cga,ITA,,src_ted_opendata,file_ted_0016,organisation:ORG-0001,2026-08-19
+buy_0017,5144353000,"LUKA KOPER, pristaniški in logistični sistem, delniška družba","luka koper, pristaniški in logistični sistem, delniška družba",spec-rights-entity,SVN,,src_ted_opendata,file_ted_0017,organisation:ORG-0001,2026-08-19
+buy_0018,368302575,Państwowe Gospodarstwo Wodne Wody Polskie,państwowe gospodarstwo wodne wody polskie,body-pl,POL,,src_ted_opendata,file_ted_0018,organisation:ORG-0001,2026-08-19
+buy_0019,NIP 771-17-33-841,GMINA GRABICA,gmina grabica,body-pl,POL,,src_ted_opendata,file_ted_0019,organisation:ORG-0001,2026-08-19
+buy_0020,6272748738,Gmina Świętochłowice,gmina świętochłowice,la,POL,,src_ted_opendata,file_ted_0020,organisation:ORG-0001,2026-08-19
+buy_0021,55954,LOGELIA CHARENTE,logelia charente,body-pl,FRA,,src_ted_opendata,file_ted_0023,organisation:ORG-0002,2026-08-19
+buy_0022,4540895,SPITALUL CLINIC DR. C. I. PARHON,spitalul clinic dr. c. i. parhon,body-pl-la,ROU,,src_ted_opendata,file_ted_0024,organisation:ORG-0004,2026-08-19
+buy_0023,20006956500089,CC Lacs et Montagnes du Haut-Doubs,cc lacs et montagnes du haut-doubs,body-pl,FRA,,src_ted_opendata,file_ted_0025,organisation:ORG-0001,2026-08-19
+buy_0024,100.Ε00961.001,Γενικό Νοσοκομείο Γρεβενών,γενικό νοσοκομείο γρεβενών,body-pl,GRC,,src_ted_opendata,file_ted_0026,organisation:ORG-0005,2026-08-19
+buy_0025,170747951,Gmina Sztutowo,gmina sztutowo,la,POL,,src_ted_opendata,file_ted_0027,organisation:ORG-0001,2026-08-19
+buy_0026,8961004279,Miejskie Przedsiębiorstwo Komunikacyjne Sp. z o.o. we Wrocławiu,miejskie przedsiębiorstwo komunikacyjne sp. z o.o. we wrocławiu,body-pl,POL,,src_ted_opendata,file_ted_0028,organisation:ORG-0001,2026-08-19
+buy_0027,21060123300302,Ville de Saint Laurent du Var (06),ville de saint laurent du var (06),la,FRA,,src_ted_opendata,file_ted_0029,organisation:ORG-0001,2026-08-19
+buy_0028,NIP: 8952232791,SIM Wrocław Sp. z o.o.,sim wrocław sp. z o.o.,body-pl,POL,,src_ted_opendata,file_ted_0030,organisation:ORG-0001,2026-08-19
+buy_0029,11367810180541,"Junta de Contratación del Ministerio de Inclusión, Seguridad Social y Migraciones","junta de contratación del ministerio de inclusión, seguridad social y migraciones",cga,ESP,,src_ted_opendata,file_ted_0031,organisation:ORG-0001,2026-08-19
+buy_0030,44415,Syndicat Mixte du Lac d'Annecy,syndicat mixte du lac d'annecy,body-pl,FRA,,src_ted_opendata,file_ted_0032,organisation:ORG-0002,2026-08-19
+buy_0031,00610470,Fakultná nemocnica Trenčín,fakultná nemocnica trenčín,body-pl-cga,SVK,,src_ted_opendata,file_ted_0033,organisation:ORG-0002,2026-08-19
+buy_0032,58886,CA du Puy en Velay,ca du puy en velay,body-pl,FRA,,src_ted_opendata,file_ted_0036,organisation:ORG-0002,2026-08-19
+buy_0033,80011990639,Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti,giunta regionale della campania - ufficio speciale centrale acquisti,la,ITA,,src_ted_opendata,file_ted_0037,organisation:ORG-0001,2026-08-19
+buy_0034,000261517,ОБЩИНА КЮСТЕНДИЛ,община кюстендил,la,BGR,,src_ted_opendata,file_ted_0039,organisation:ORG-0001,2026-08-19
+buy_0035,5832104511,Areszt Śledczy w Gdańsku,areszt śledczy w gdańsku,grp-p-aut,POL,,src_ted_opendata,file_ted_0040,organisation:ORG-0001,2026-08-19
+buy_0036,30000420000120,Alcaldía del Ayuntamiento de Gijón,alcaldía del ayuntamiento de gijón,la,ESP,,src_ted_opendata,file_ted_0041,organisation:ORG-0001,2026-08-19
+buy_0037,21920048200012,Ville de Meudon,ville de meudon,la,FRA,,src_ted_opendata,file_ted_0042,organisation:ORG-0001,2026-08-19
+buy_0038,4322742,"Universitatea de Medicina, Farmacie, Stiinte si Tehnologie "" George Emil Palade"" din Targu Mures","universitatea de medicina, farmacie, stiinte si tehnologie "" george emil palade"" din targu mures",la,ROU,,src_ted_opendata,file_ted_0043,organisation:ORG-0004,2026-08-19
+buy_0039,000293976,Wojewódzki Szpital Specjalistyczny w Olsztynie,wojewódzki szpital specjalistyczny w olsztynie,body-pl,POL,,src_ted_opendata,file_ted_0044,organisation:ORG-0001,2026-08-19
+buy_0040,30458850083225,Junta de Gobierno del Ayuntamiento de Oviedo,junta de gobierno del ayuntamiento de oviedo,la,ESP,,src_ted_opendata,file_ted_0045,organisation:ORG-0001,2026-08-19
+buy_0041,NIP 7250028902,Miasto Łódź-Urząd Miasta Łodzi,miasto łódź-urząd miasta łodzi,la,POL,,src_ted_opendata,file_ted_0047,organisation:ORG-0001,2026-08-19
+buy_0042,06369340150,FEDERAZIONE ITALIANA SURFING SCI NAUTICO E WAKEBOARD,federazione italiana surfing sci nautico e wakeboard,spec-rights-entity,ITA,,src_ted_opendata,file_ted_0048,organisation:ORG-0002,2026-08-19
+buy_0043,26000202,Oblastní nemocnice Náchod a.s.,oblastní nemocnice náchod a.s.,body-pl-cga,CZE,,src_ted_opendata,file_ted_0049,organisation:ORG-0003,2026-08-19
+buy_0044,992-80102-38,Landwirtschaftliche Rentenbank,landwirtschaftliche rentenbank,pub-undert-cga,DEU,,src_ted_opendata,file_ted_0051,organisation:ORG-0001,2026-08-19
+buy_0045,15490658242,Fővárosi Állat - és Növénykert,fővárosi állat - és növénykert,body-pl-la,HUN,,src_ted_opendata,file_ted_0052,organisation:ORG-0001,2026-08-19
+buy_0046,FN 90857p,Vereinigte Bühnen Wien GmbH,vereinigte bühnen wien gmbh,ra,AUT,,src_ted_opendata,file_ted_0053,organisation:ORG-0001,2026-08-19
+buy_0047,931934847,Gmina Miasto Oława,gmina miasto oława,la,POL,,src_ted_opendata,file_ted_0054,organisation:ORG-0005,2026-08-19
+buy_0048,PL7282562272,Gmina Nowosolna,gmina nowosolna,la,POL,,src_ted_opendata,file_ted_0055,organisation:ORG-0001,2026-08-19
+buy_0049,503933813,"Infraestruturas de Portugal, S. A.","infraestruturas de portugal, s. a.",body-pl,PRT,,src_ted_opendata,file_ted_0056,organisation:ORG-0001,2026-08-19
+buy_0050,0801.643.533,ASBL CHU HELORA,asbl chu helora,body-pl,BEL,,src_ted_opendata,file_ted_0057,organisation:ORG-0001,2026-08-19
+buy_0051,930090240,4. Wojskowy Szpital Kliniczny z Polikliniką Samodzielny Publiczny Zakład Opieki Zdrowotnej we Wrocławiu,4. wojskowy szpital kliniczny z polikliniką samodzielny publiczny zakład opieki zdrowotnej we wrocławiu,body-pl,POL,,src_ted_opendata,file_ted_0058,organisation:ORG-0001,2026-08-19
+buy_0052,20991960142956,Consejería de Hacienda y Administración Pública,consejería de hacienda y administración pública,ra,ESP,,src_ted_opendata,file_ted_0059,organisation:ORG-0001,2026-08-19
+buy_0053,770979594,Gmina Tuchomie,gmina tuchomie,la,POL,,src_ted_opendata,file_ted_0060,organisation:ORG-0001,2026-08-19
+buy_0054,15725675205,Encs Város Önkormányzata,encs város önkormányzata,ra,HUN,,src_ted_opendata,file_ted_0061,organisation:ORG-0001,2026-08-19
+buy_0055,90006399,sihtasutus Põhja-Eesti Regionaalhaigla,sihtasutus põhja-eesti regionaalhaigla,body-pl,EST,,src_ted_opendata,file_ted_0062,organisation:ORG-0001,2026-08-19
+buy_0056,34200781200023,Sèvre Loire Habitat,sèvre loire habitat,body-pl,FRA,,src_ted_opendata,file_ted_0064,organisation:ORG-0001,2026-08-19
+buy_0057,508820111,Escola Superior Náutica Infante D. Henrique,escola superior náutica infante d. henrique,body-pl,PRT,,src_ted_opendata,file_ted_0065,organisation:ORG-0001,2026-08-19
+buy_0058,9542269625,Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach,górnośląskie centrum medyczne im. prof. leszka gieca śląskiego uniwersytetu medycznego w katowicach,grp-p-aut,POL,,src_ted_opendata,file_ted_0066,organisation:ORG-0001,2026-08-19
+buy_0059,5250005662,Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.,miejskie przedsiębiorstwo wodociągów i kanalizacji w m. st. warszawie s.a.,,POL,,src_ted_opendata,file_ted_0067,organisation:ORG-0001,2026-08-19
+buy_0060,5423224755,25. Wojskowy Oddział Gospodarczy w Białymstoku.,25. wojskowy oddział gospodarczy w białymstoku.,body-pl,POL,,src_ted_opendata,file_ted_0068,organisation:ORG-0001,2026-08-19
+buy_0061,cb599fd3-cfa2-4a66-9366-694e03201150,"Zweckverband Wasserversorgung Kurpfalz, vertreten durch Gt-service Dienstleistungsgesellschaft mbH","zweckverband wasserversorgung kurpfalz, vertreten durch gt-service dienstleistungsgesellschaft mbh",body-pl-la,DEU,,src_ted_opendata,file_ted_0069,organisation:ORG-0001,2026-08-19
+buy_0062,1033.E00922.0001,ΗΛΕΚΤΡΟΝΙΚΟΣ ΕΘΝΙΚΟΣ ΦΟΡΕΑΣ ΚΟΙΝΩΝΙΚΗΣ ΑΣΦΑΛΙΣΗΣ -e-ΕΦΚΑ,ηλεκτρονικοσ εθνικοσ φορεασ κοινωνικησ ασφαλισησ -e-εφκα,body-pl,GRC,,src_ted_opendata,file_ted_0070,organisation:ORG-0001,2026-08-19
+buy_0063,69204158500583,Réunion des Musées Nationaux Gd Palais,réunion des musées nationaux gd palais,body-pl,FRA,,src_ted_opendata,file_ted_0071,organisation:ORG-0001,2026-08-19
+buy_0064,91109303119,Javna ustanova Nacionalni park Plitvička jezera,javna ustanova nacionalni park plitvička jezera,body-pl,HRV,,src_ted_opendata,file_ted_0072,organisation:ORG-0001,2026-08-19
+buy_0065,0500906812,Hulpverleningszone Noord-Limburg,hulpverleningszone noord-limburg,ra,BEL,,src_ted_opendata,file_ted_0073,organisation:ORG-0001,2026-08-19
+buy_0066,18591150001012,CROUS de Lille,crous de lille,body-pl,FRA,,src_ted_opendata,file_ted_0074,organisation:ORG-0001,2026-08-19
+buy_0067,80240283,Tartumaa Arendusselts,tartumaa arendusselts,org-sub,EST,,src_ted_opendata,file_ted_0075,organisation:ORG-0001,2026-08-19
+buy_0068,8131106223,"Skarb Państwa Generalny Dyrektor Dróg Krajowych i Autostrad ul. Wronia 53, 00-874 Warszawa, Prowadzący postępowanie: Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Rzeszowie","skarb państwa generalny dyrektor dróg krajowych i autostrad ul. wronia 53, 00-874 warszawa, prowadzący postępowanie: generalna dyrekcja dróg krajowych i autostrad oddział w rzeszowie",cga,POL,,src_ted_opendata,file_ted_0076,organisation:ORG-0001,2026-08-19
+buy_0069,954-22-69-625,Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach,górnośląskie centrum medyczne im. prof. leszka gieca śląskiego uniwersytetu medycznego w katowicach,body-pl,POL,,src_ted_opendata,file_ted_0077,organisation:ORG-0001,2026-08-19
+buy_0070,25330347300057,SDEEG,sdeeg,body-pl,FRA,,src_ted_opendata,file_ted_0078,organisation:ORG-0001,2026-08-19
+buy_0071,77000223,Lüganuse Vallavalitsus,lüganuse vallavalitsus,la,EST,,src_ted_opendata,file_ted_0079,organisation:ORG-0001,2026-08-19
+buy_0072,991-05636-24,"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz","bundesministerium für umwelt, naturschutz, nukleare sicherheit und verbraucherschutz",cga,DEU,,src_ted_opendata,file_ted_0080,organisation:ORG-0000,2026-08-19
+buy_0073,188607684,Lietuvos bankas,lietuvos bankas,cga,LTU,,src_ted_opendata,file_ted_0081,organisation:ORG-0001,2026-08-19
+buy_0074,13001651200019,MINARM/SGA/Sous-Direction de l'Agence Ministérielle de Gestion (SDPAMG),minarm/sga/sous-direction de l'agence ministérielle de gestion (sdpamg),cga,FRA,,src_ted_opendata,file_ted_0082,organisation:ORG-0001,2026-08-19
+buy_0075,02202330235,CONSORZIO PER LA TUTELA DEI VINI VALPOLICELLA,consorzio per la tutela dei vini valpolicella,org-sub,ITA,,src_ted_opendata,file_ted_0083,organisation:ORG-0001,2026-08-19
+buy_0076,0723631678_3476,SAMUSOCIAL ASBL,samusocial asbl,body-pl-ra,BEL,,src_ted_opendata,file_ted_0084,organisation:ORG-0001,2026-08-19
+buy_0077,21940042100018,Commune de Joinville-le-Pont,commune de joinville-le-pont,la,FRA,,src_ted_opendata,file_ted_0085,organisation:ORG-0001,2026-08-19
+buy_0078,175405647,"""БДЖ-ПЪТНИЧЕСКИ ПРЕВОЗИ"" съкратено ""БДЖ - ПП"" ЕООД","""бдж-пътнически превози"" съкратено ""бдж - пп"" еоод",pub-undert,BGR,,src_ted_opendata,file_ted_0087,organisation:ORG-0001,2026-08-19
+buy_0079,73552003300029,NOV'HABITAT,nov'habitat,org-sub,FRA,,src_ted_opendata,file_ted_0088,organisation:ORG-0001,2026-08-19
+buy_0080,831385737,МЕДИЦИНСКИ УНИВЕРСИТЕТ,медицински университет,body-pl,BGR,,src_ted_opendata,file_ted_0089,organisation:ORG-0001,2026-08-19
+buy_0081,991-80032-33,Bundesanstalt für Immobilienaufgaben,bundesanstalt für immobilienaufgaben,body-pl-cga,DEU,,src_ted_opendata,file_ted_0090,organisation:ORG-0000,2026-08-19
+buy_0082,8421643030,Powiat Bytowski,powiat bytowski,la,POL,,src_ted_opendata,file_ted_0091,organisation:ORG-0001,2026-08-19
+buy_0083,000001258,Uniwersytet Warszawski,uniwersytet warszawski,body-pl,POL,,src_ted_opendata,file_ted_0092,organisation:ORG-0002,2026-08-19
+buy_0084,65042,Rennes Métropole,rennes métropole,body-pl,FRA,,src_ted_opendata,file_ted_0093,organisation:ORG-0002,2026-08-19
+buy_0085,674c1c23-6f18-4c94-b182-56ff9a458846,Verlingue AG,verlingue ag,body-pl-la,CHE,,src_ted_opendata,file_ted_0094,organisation:ORG-0001,2026-08-19
+buy_0086,AJSEROS,Ayuntamiento de Seròs,ayuntamiento de seròs,la,ESP,,src_ted_opendata,file_ted_0095,organisation:ORG-0001,2026-08-19
+buy_0087,6511706371,Gmina Miejska Żory,gmina miejska żory,la,POL,,src_ted_opendata,file_ted_0096,organisation:ORG-0001,2026-08-19
+buy_0088,31936415,Ústredná vojenská nemocnica SNP Ružomberok - FN,ústredná vojenská nemocnica snp ružomberok - fn,body-pl-cga,SVK,,src_ted_opendata,file_ted_0099,organisation:ORG-0002,2026-08-19
+buy_0089,503606251,Instituto Politécnico do Porto,instituto politécnico do porto,body-pl,PRT,,src_ted_opendata,file_ted_0100,organisation:ORG-0001,2026-08-19
+buy_0090,0512766-8,Kouvolan Asunnot Oy,kouvolan asunnot oy,body-pl,FIN,,src_ted_opendata,file_ted_0101,organisation:ORG-0001,2026-08-19
+buy_0091,HRB 114912,AMEOS Klinikum Aschersleben-Staßfurth GmbH,ameos klinikum aschersleben-stassfurth gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0007,2026-08-19
+buy_0092,HRB 110368,AMEOS Klinikum Alfeld GmbH,ameos klinikum alfeld gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0008,2026-08-19
+buy_0093,HRB 115326,AMEOS Klinikum Schönebeck GmbH,ameos klinikum schönebeck gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0009,2026-08-19
+buy_0094,HRB 5045,AMEOS Klinikum Bremerhaven GmbH,ameos klinikum bremerhaven gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0003,2026-08-19
+buy_0095,HRB 5937,AMEOS Krankenhausgesellschaft Vorpommern mbH,ameos krankenhausgesellschaft vorpommern mbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0004,2026-08-19
+buy_0096,HRB 573 EU,AMEOS Krankenhausgesellschaft Ostholstein mbH,ameos krankenhausgesellschaft ostholstein mbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0005,2026-08-19
+buy_0097,HRB 11159,AMEOS Krankenhausgesellschaft Neuburg mbH,ameos krankenhausgesellschaft neuburg mbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0006,2026-08-19
+buy_0098,HRB 113701,AMEOS Klinikum Halberstadt GmbH,ameos klinikum halberstadt gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0010,2026-08-19
+buy_0099,HRB 114397,AMEOS Klinikum Haldensleben GmbH,ameos klinikum haldensleben gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0011,2026-08-19
+buy_0100,HRB 4457,AMEOS Klinikum Bernburg GmbH,ameos klinikum bernburg gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0102,organisation:ORG-0012,2026-08-19
+buy_0101,56102,Groupement Hospitalier de Territoire 79 - CH NIORT,groupement hospitalier de territoire 79 - ch niort,body-pl,FRA,,src_ted_opendata,file_ted_0104,organisation:ORG-0002,2026-08-19
+buy_0102,22192720500197,Conseil Départemental de la Corrèze,conseil départemental de la corrèze,la,FRA,,src_ted_opendata,file_ted_0105,organisation:ORG-0001,2026-08-19
+buy_0103,60162694,Ministerstvo obrany,ministerstvo obrany,cga,CZE,,src_ted_opendata,file_ted_0106,organisation:ORG-0001,2026-08-19
+buy_0104,REGON 180690373,34. Wojskowy Oddział Gospodarczy,34. wojskowy oddział gospodarczy,body-pl,POL,,src_ted_opendata,file_ted_0107,organisation:ORG-0001,2026-08-19
+buy_0105,72210,SICTOM MARSAN,sictom marsan,body-pl,FRA,,src_ted_opendata,file_ted_0108,organisation:ORG-0002,2026-08-19
+buy_0106,276255430,Urząd Miasta Rybnika,urząd miasta rybnika,la,POL,,src_ted_opendata,file_ted_0109,organisation:ORG-0002,2026-08-19
+buy_0107,5382,Valence Romans Agglo,valence romans agglo,la,FRA,,src_ted_opendata,file_ted_0111,organisation:ORG-0002,2026-08-19
+buy_0108,15531230,DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI,directia generala de asistenta sociala a municipiului bucuresti,la,ROU,,src_ted_opendata,file_ted_0112,organisation:ORG-0004,2026-08-19
+buy_0109,430040541,Uniwersytecki Szpital Dziecięcy w Lublinie,uniwersytecki szpital dziecięcy w lublinie,pub-undert,POL,,src_ted_opendata,file_ted_0114,organisation:ORG-0001,2026-08-19
+buy_0110,5220002529,Uniwersyteckie Centrum Kliniczne Warszawskiego Uniwersytetu Medycznego,uniwersyteckie centrum kliniczne warszawskiego uniwersytetu medycznego,body-pl,POL,,src_ted_opendata,file_ted_0115,organisation:ORG-0001,2026-08-19
+buy_0111,5562239217,Szpital Wielospecjalistyczny im. dr. L. Błażka w Inowrocławiu,szpital wielospecjalistyczny im. dr. l. błażka w inowrocławiu,pub-undert,POL,,src_ted_opendata,file_ted_0116,organisation:ORG-0003,2026-08-19
+buy_0112,89819375646,Klinički bolnički centar Osijek,klinički bolnički centar osijek,body-pl-cga,HRV,,src_ted_opendata,file_ted_0119,organisation:ORG-0001,2026-08-19
+buy_0113,1250931972,Szpital Matki Bożej Nieustającej Pomocy,szpital matki bożej nieustającej pomocy,body-pl,POL,,src_ted_opendata,file_ted_0120,organisation:ORG-0004,2026-08-19
+buy_0114,7130005784,Lubelski Węgiel Bogdanka S.A.,lubelski węgiel bogdanka s.a.,,POL,,src_ted_opendata,file_ted_0121,organisation:ORG-0001,2026-08-19
+buy_0115,000193115,ОБЩИНА ВРАЦА,община враца,la,BGR,,src_ted_opendata,file_ted_0122,organisation:ORG-0001,2026-08-19
+buy_0116,53667506,SLOVAKIA TRAVEL,slovakia travel,body-pl-cga,SVK,,src_ted_opendata,file_ted_0123,organisation:ORG-0002,2026-08-19
+buy_0117,471219736,Wojewódzki Specjalistyczny Szpital im. dr Wł. Biegańskiego w Łodzi,wojewódzki specjalistyczny szpital im. dr wł. biegańskiego w łodzi,body-pl,POL,,src_ted_opendata,file_ted_0124,organisation:ORG-0001,2026-08-19
+buy_0118,19308674244,Semmelweis Egyetem,semmelweis egyetem,body-pl,HUN,,src_ted_opendata,file_ted_0125,organisation:ORG-0001,2026-08-19
+buy_0119,21310395500018,VILLE DE MURET,ville de muret,la,FRA,,src_ted_opendata,file_ted_0126,organisation:ORG-0001,2026-08-19
+buy_0120,20006985400012,Communauté d'Agglomération de Poitiers (86),communauté d'agglomération de poitiers (86),body-pl,FRA,,src_ted_opendata,file_ted_0127,organisation:ORG-0001,2026-08-19
+buy_0121,56662,Vienne Condrieu Agglomération,vienne condrieu agglomération,la,FRA,,src_ted_opendata,file_ted_0128,organisation:ORG-0002,2026-08-19
+buy_0122,1182025548,Gmina Stare Babice,gmina stare babice,la,POL,,src_ted_opendata,file_ted_0129,organisation:ORG-0001,2026-08-19
+buy_0123,58839,COMMUNAUTE DE COMMUNES PAYS D'EVIAN VALLEE D'ABONDANCE,communaute de communes pays d'evian vallee d'abondance,la,FRA,,src_ted_opendata,file_ted_0130,organisation:ORG-0002,2026-08-19
+buy_0124,6110003899,Miasto Jelenia Góra,miasto jelenia góra,la,POL,,src_ted_opendata,file_ted_0131,organisation:ORG-0001,2026-08-19
+buy_0125,1100110011,Inkoopsamenwerking Noord Veluwe (ISNV),inkoopsamenwerking noord veluwe (isnv),cga,NLD,,src_ted_opendata,file_ted_0132,organisation:ORG-0001,2026-08-19
+buy_0126,212000-0142,Revisionskontoret,revisionskontoret,ra,SWE,,src_ted_opendata,file_ted_0133,organisation:ORG-0001,2026-08-19
+buy_0127,4305849,"UNIVERSITATEA ""BABES-BOLYAI""","universitatea ""babes-bolyai""",body-pl-cga,ROU,,src_ted_opendata,file_ted_0134,organisation:ORG-0004,2026-08-19
+buy_0128,84838770814,Nacionalna i sveučilišna knjižnica u Zagrebu,nacionalna i sveučilišna knjižnica u zagrebu,body-pl,HRV,,src_ted_opendata,file_ted_0135,organisation:ORG-0001,2026-08-19
+buy_0129,012199305,Rządowa Agencja Rezerw Strategicznych,rządowa agencja rezerw strategicznych,cga,POL,,src_ted_opendata,file_ted_0136,organisation:ORG-0001,2026-08-19
+buy_0130,0876.249.005,Autonoom Gemeentebedrijf Asse,autonoom gemeentebedrijf asse,la,BEL,,src_ted_opendata,file_ted_0137,organisation:ORG-0001,2026-08-19
+buy_0131,82688,Communauté de Communes St Pourçain Sioule Limagne,communauté de communes st pourçain sioule limagne,la,FRA,,src_ted_opendata,file_ted_0138,organisation:ORG-0002,2026-08-19
+buy_0132,6891189975,Powiat Bieszczadzki,powiat bieszczadzki,la,POL,,src_ted_opendata,file_ted_0139,organisation:ORG-0001,2026-08-19
+buy_0133,7743211034,Miasto i Gmina Bodzanów,miasto i gmina bodzanów,la,POL,,src_ted_opendata,file_ted_0140,organisation:ORG-0001,2026-08-19
+buy_0134,24170045900043,COMMUNAUTE DE COMMUNES ILE DE RE,communaute de communes ile de re,body-pl,FRA,,src_ted_opendata,file_ted_0141,organisation:ORG-0001,2026-08-19
+buy_0135,48274107100021,OPH Plaine Commune Habitat,oph plaine commune habitat,body-pl,FRA,,src_ted_opendata,file_ted_0144,organisation:ORG-0001,2026-08-19
+buy_0136,41289292,MINISTERUL APĂRĂRII NAŢIONALE - UNITATEA MILITARĂ 01915 CRISTIAN,ministerul apărării naţionale - unitatea militară 01915 cristian,cga,ROU,,src_ted_opendata,file_ted_0145,organisation:ORG-0004,2026-08-19
+buy_0137,18008901300635,Centre National de la Recherche Scientifique Délégation Ile de France Gif sur Yvette,centre national de la recherche scientifique délégation ile de france gif sur yvette,body-pl,FRA,,src_ted_opendata,file_ted_0147,organisation:ORG-0001,2026-08-19
+buy_0138,970770706,Gmina Wolsztyn,gmina wolsztyn,la,POL,,src_ted_opendata,file_ted_0148,organisation:ORG-0001,2026-08-19
+buy_0139,1231220334,Gmina Lesznowola,gmina lesznowola,la,POL,,src_ted_opendata,file_ted_0149,organisation:ORG-0001,2026-08-19
+buy_0140,272780323,Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzki Szpital Specjalistyczny Nr 3 w Rybniku,samodzielny publiczny zakład opieki zdrowotnej wojewódzki szpital specjalistyczny nr 3 w rybniku,body-pl,POL,,src_ted_opendata,file_ted_0150,organisation:ORG-0001,2026-08-19
+buy_0141,896-000-47-80,Komenda Wojewódzka Policji we Wrocławiu,komenda wojewódzka policji we wrocławiu,cga,POL,,src_ted_opendata,file_ted_0151,organisation:ORG-0001,2026-08-19
+buy_0142,600014665,Secretaria-Geral do Ministério da Administração Interna,secretaria-geral do ministério da administração interna,cga,PRT,,src_ted_opendata,file_ted_0152,organisation:ORG-0001,2026-08-19
+buy_0143,NIP: 6121636326,GMINA MIEJSKA BOLESŁAWIEC,gmina miejska bolesławiec,la,POL,,src_ted_opendata,file_ted_0153,organisation:ORG-0001,2026-08-19
+buy_0144,21830126500011,Ville de la Seyne sur Mer,ville de la seyne sur mer,la,FRA,,src_ted_opendata,file_ted_0155,organisation:ORG-0001,2026-08-19
+buy_0145,510342191,"Entidade de Serviços Partilhados da Administração Pública, I. P.","entidade de serviços partilhados da administração pública, i. p.",cont-ent,PRT,,src_ted_opendata,file_ted_0156,organisation:ORG-0001,2026-08-19
+buy_0146,NIP: 6311078941,SĄD REJONOWY W GLIWICACH,sąd rejonowy w gliwicach,body-pl,POL,,src_ted_opendata,file_ted_0157,organisation:ORG-0001,2026-08-19
+buy_0147,31087770152537,Dirección Gerente del Hospital Universitario Nuestra Señora de Candelaria,dirección gerente del hospital universitario nuestra señora de candelaria,ra,ESP,,src_ted_opendata,file_ted_0158,organisation:ORG-0001,2026-08-19
+buy_0148,2613362,SPITALUL JUDETEAN DE URGENTA PIATRA NEAMT,spitalul judetean de urgenta piatra neamt,body-pl-ra,ROU,,src_ted_opendata,file_ted_0159,organisation:ORG-0004,2026-08-19
+buy_0149,5105498000,Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti,znanstvenoraziskovalni center slovenske akademije znanosti in umetnosti,body-pl,SVN,,src_ted_opendata,file_ted_0160,organisation:ORG-0001,2026-08-19
+buy_0150,00064165,Všeobecná fakultní nemocnice v Praze,všeobecná fakultní nemocnice v praze,body-pl-cga,CZE,,src_ted_opendata,file_ted_0161,organisation:ORG-0001,2026-08-19
+buy_0151,51081180151878,Banco de España,banco de españa,body-pl-cga,ESP,,src_ted_opendata,file_ted_0162,organisation:ORG-0001,2026-08-19
+buy_0152,121292046,ЦЕНТЪР ЗА СПЕШНА МЕДИЦИНСКА ПОМОЩ - СОФИЯ,център за спешна медицинска помощ - софия,body-pl,BGR,,src_ted_opendata,file_ted_0163,organisation:ORG-0001,2026-08-19
+buy_0153,783-14-97-917,Ortopedyczno – Rehabilitacyjny Szpital Kliniczny im. Wiktora Degi Uniwersytetu Medycznego im. Karola Marcinkowskiego w Poznaniu,ortopedyczno – rehabilitacyjny szpital kliniczny im. wiktora degi uniwersytetu medycznego im. karola marcinkowskiego w poznaniu,body-pl-la,POL,,src_ted_opendata,file_ted_0164,organisation:ORG-0001,2026-08-19
+buy_0154,00327646,Mesto Prešov,mesto prešov,la,SVK,,src_ted_opendata,file_ted_0166,organisation:ORG-0002,2026-08-19
+buy_0155,C.P.A.S.,C.P.A.S. de Waterloo,c.p.a.s. de waterloo,la,BEL,,src_ted_opendata,file_ted_0167,organisation:ORG-0001,2026-08-19
+buy_0156,NIP 6783105119,Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o.,szpital specjalistyczny im. ludwika rydygiera w krakowie sp. z o.o.,body-pl,POL,,src_ted_opendata,file_ted_0168,organisation:ORG-0001,2026-08-19
+buy_0157,50485810086581,Dirección de Compras de la Corporación de Radio y Televisión Española S.A.,dirección de compras de la corporación de radio y televisión española s.a.,body-pl-cga,ESP,,src_ted_opendata,file_ted_0169,organisation:ORG-0001,2026-08-19
+buy_0158,4701126,"Universitatea ""Alexandru Ioan Cuza"" Iasi","universitatea ""alexandru ioan cuza"" iasi",body-pl-cga,ROU,,src_ted_opendata,file_ted_0170,organisation:ORG-0004,2026-08-19
+buy_0159,240329870,Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija (PV),akcinė bendrovė klaipėdos valstybinio jūrų uosto direkcija (pv),pub-undert,LTU,,src_ted_opendata,file_ted_0172,organisation:ORG-0001,2026-08-19
+buy_0160,5054621000,SPLOŠNA BOLNIŠNICA NOVO MESTO,splošna bolnišnica novo mesto,body-pl,SVN,,src_ted_opendata,file_ted_0173,organisation:ORG-0001,2026-08-19
+buy_0161,11000201100044,"Ministère de l'Intérieur et des Outre-mer Secrétariat Général Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier SAILMI/SDASEM/BAIP","ministère de l'intérieur et des outre-mer secrétariat général direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier sailmi/sdasem/baip",body-pl-cga,FRA,,src_ted_opendata,file_ted_0174,organisation:ORG-0001,2026-08-19
+buy_0162,09056009,Vantage Towers s.r.o.,vantage towers s.r.o.,body-pl-cga,CZE,,src_ted_opendata,file_ted_0176,organisation:ORG-0003,2026-08-19
+buy_0163,24483298,Gemeente Rotterdam,gemeente rotterdam,body-pl,NLD,,src_ted_opendata,file_ted_0177,organisation:ORG-0001,2026-08-19
+buy_0164,Berichtseinheit-ID 00003302,"Stadt Neumünster- FD Feuerwehr, Rettungsdienst und Katastrophenschutz","stadt neumünster- fd feuerwehr, rettungsdienst und katastrophenschutz",la,DEU,,src_ted_opendata,file_ted_0178,organisation:ORG-0001,2026-08-19
+buy_0165,b32bfed7-08c2-467e-81f3-9619b86f22b7,Klinikum Bielefeld gGmbH,klinikum bielefeld ggmbh,pub-undert-ra,DEU,,src_ted_opendata,file_ted_0179,organisation:ORG-0001,2026-08-19
+buy_0166,13269011531,GRAD VARAŽDIN,grad varaždin,la,HRV,,src_ted_opendata,file_ted_0180,organisation:ORG-0001,2026-08-19
+buy_0167,34138203,Autoritatea pentru Administrarea Sistemului National Antigrindina si de Crestere a Precipitatiilor,autoritatea pentru administrarea sistemului national antigrindina si de crestere a precipitatiilor,body-pl,ROU,,src_ted_opendata,file_ted_0183,organisation:ORG-0004,2026-08-19
+buy_0168,7542563619,Uniwersytecki Szpital Kliniczny w Opolu,uniwersytecki szpital kliniczny w opolu,body-pl,POL,,src_ted_opendata,file_ted_0184,organisation:ORG-0001,2026-08-19
+buy_0169,40171810028461,Presidencia de la Autoridad Portuaria de Bilbao,presidencia de la autoridad portuaria de bilbao,cga,ESP,,src_ted_opendata,file_ted_0185,organisation:ORG-0001,2026-08-19
+buy_0170,21038480147608,Servicio Territorial de Medio Ambiente de Burgos,servicio territorial de medio ambiente de burgos,ra,ESP,,src_ted_opendata,file_ted_0186,organisation:ORG-0001,2026-08-19
+buy_0171,NIP: 8222146582,Gmina Jakubów,gmina jakubów,la,POL,,src_ted_opendata,file_ted_0187,organisation:ORG-0001,2026-08-19
+buy_0172,4577,THONON AGGLOMERATION,thonon agglomeration,body-pl,FRA,,src_ted_opendata,file_ted_0190,organisation:ORG-0002,2026-08-19
+buy_0173,20007186800158,CC des Vallées du Haut Anjou,cc des vallées du haut anjou,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0001,2026-08-19
+buy_0174,21490064900010,COMMUNE CHAMBELLAY,commune chambellay,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0003,2026-08-19
+buy_0175,20005963200014,COMMUNE DE CHENILLE CHAMPTEUSSE,commune de chenille champteusse,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0004,2026-08-19
+buy_0176,20005958200011,COMMUNE D'ERDRE EN ANJOU,commune d'erdre en anjou,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0005,2026-08-19
+buy_0177,21490155500018,COMMUNE DE GREZ NEUVILLE,commune de grez neuville,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0006,2026-08-19
+buy_0178,21490205800012,COMMUNE DE MIRE,commune de mire,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0007,2026-08-19
+buy_0179,21490330400019,COMMUNE DE SCEAUX D'ANJOU,commune de sceaux d'anjou,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0008,2026-08-19
+buy_0180,214 902 660 00015,COMMUNE DE SAINT AUGUSTIN DES BOIS,commune de saint augustin des bois,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0009,2026-08-19
+buy_0181,20007853300011,CENTRE INTERCOMMUNAL D'ACTION SOCIALE DES VALLEES DU HAUT-ANJOU,centre intercommunal d'action sociale des vallees du haut-anjou,body-pl,FRA,,src_ted_opendata,file_ted_0193,organisation:ORG-0010,2026-08-19
+buy_0182,15403337215,Jósa András Múzeum,jósa andrás múzeum,la,HUN,,src_ted_opendata,file_ted_0194,organisation:ORG-0001,2026-08-19
+buy_0183,3153,ALTEAL,alteal,body-pl,FRA,,src_ted_opendata,file_ted_0195,organisation:ORG-0002,2026-08-19
+buy_0184,REGON: 000288366-00028,Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy Oddział w Gliwicach,narodowy instytut onkologii im. marii skłodowskiej-curie - państwowy instytut badawczy oddział w gliwicach,body-pl,POL,,src_ted_opendata,file_ted_0196,organisation:ORG-0001,2026-08-19
+buy_0185,00064203,Fakultní nemocnice v Motole,fakultní nemocnice v motole,body-pl-cga,CZE,,src_ted_opendata,file_ted_0197,organisation:ORG-0001,2026-08-19
+buy_0186,20002341400010,ROUEN METROPOLE HABITAT,rouen metropole habitat,spec-rights-entity,FRA,,src_ted_opendata,file_ted_0198,organisation:ORG-0001,2026-08-19
+buy_0187,A28001352,"Metro de Madrid, S.A.","metro de madrid, s.a.",,ESP,,src_ted_opendata,file_ted_0199,organisation:ORG-0001,2026-08-19
+buy_0188,8951897962,Skarb Państwa - 2. Wojskowy Oddział Gospodarczy,skarb państwa - 2. wojskowy oddział gospodarczy,body-pl,POL,,src_ted_opendata,file_ted_0200,organisation:ORG-0001,2026-08-19
+buy_0189,30011630002163,Consejo de Administración de la Empresa Municipal de Servicios de Medio Ambiente Urbano de Gijón (EMULSA),consejo de administración de la empresa municipal de servicios de medio ambiente urbano de gijón (emulsa),la,ESP,,src_ted_opendata,file_ted_0201,organisation:ORG-0001,2026-08-19
+buy_0190,521-40-04-558,Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji,państwowy instytut medyczny ministerstwa spraw wewnętrznych i administracji,body-pl,POL,,src_ted_opendata,file_ted_0202,organisation:ORG-0001,2026-08-19
+buy_0191,REGON: 000308637,Szpital Specjalistyczny im. Edmunda Biernackiego Mielcu,szpital specjalistyczny im. edmunda biernackiego mielcu,body-pl,POL,,src_ted_opendata,file_ted_0203,organisation:ORG-0001,2026-08-19
+buy_0192,302913276,Viešoji įstaiga CPO LT,viešoji įstaiga cpo lt,cga,LTU,,src_ted_opendata,file_ted_0204,organisation:ORG-0001,2026-08-19
+buy_0193,8e33eef9-05e8-4b0e-81ea-74ea5971d899,Verlingue AG,verlingue ag,body-pl-la,CHE,,src_ted_opendata,file_ted_0205,organisation:ORG-0001,2026-08-19
+buy_0194,9182029131,Gmina Biłgoraj,gmina biłgoraj,ra,POL,,src_ted_opendata,file_ted_0207,organisation:ORG-0001,2026-08-19
+buy_0195,BE 0502713485,Stad Ronse,stad ronse,la,BEL,,src_ted_opendata,file_ted_0208,organisation:ORG-0001,2026-08-19
+buy_0196,41328,Société du Canal de Provence et d'Aménagement de la Région Provençale,société du canal de provence et d'aménagement de la région provençale,la,FRA,,src_ted_opendata,file_ted_0209,organisation:ORG-0002,2026-08-19
+buy_0197,51761493900018,CPAM DU HAINAUT,cpam du hainaut,body-pl,FRA,,src_ted_opendata,file_ted_0210,organisation:ORG-0001,2026-08-19
+buy_0198,1,Abwasserverband Achental - Inntal - Zillertal,abwasserverband achental - inntal - zillertal,body-pl,AUT,,src_ted_opendata,file_ted_0211,organisation:ORG-2254,2026-08-19
+buy_0199,12629279,"Belastingdienst, IUC Belastingdienst","belastingdienst, iuc belastingdienst",cga,NLD,,src_ted_opendata,file_ted_0212,organisation:ORG-0001,2026-08-19
+buy_0200,202218735,ЦЕНТЪР ЗА ГРАДСКА МОБИЛНОСТ ЕАД,център за градска мобилност еад,pub-undert,BGR,,src_ted_opendata,file_ted_0214,organisation:ORG-0001,2026-08-19
+buy_0201,r1890420,RAJA S.A CONSTANTA,raja s.a constanta,ra,ROU,,src_ted_opendata,file_ted_0215,organisation:ORG-0004,2026-08-19
+buy_0202,1007.Ε84610.001,ΔΗΜΟΣ ΠΕΝΤΕΛΗΣ,δημοσ πεντελησ,la,GRC,,src_ted_opendata,file_ted_0216,organisation:ORG-0001,2026-08-19
+buy_0203,BE0206644741,Ville de Verviers,ville de verviers,la,BEL,,src_ted_opendata,file_ted_0218,organisation:ORG-0001,2026-08-19
+buy_0204,4967072,SPITALUL CLINIC DE URGENTA CHIRURGIE PLASTICA REPARATORIE SI ARSURI BUCURESTI,spitalul clinic de urgenta chirurgie plastica reparatorie si arsuri bucuresti,body-pl-ra,ROU,,src_ted_opendata,file_ted_0221,organisation:ORG-0004,2026-08-19
+buy_0205,126532456,МНОГОПРОФИЛНА БОЛНИЦА ЗА АКТИВНО ЛЕЧЕНИЕ - СВИЛЕНГРАД ЕООД,многопрофилна болница за активно лечение - свиленград еоод,body-pl,BGR,,src_ted_opendata,file_ted_0222,organisation:ORG-0001,2026-08-19
+buy_0206,26971041400013,GHT de la Guadeloupe (Cellule marchés)Direction des achats,ght de la guadeloupe (cellule marchés)direction des achats,body-pl,FRA,,src_ted_opendata,file_ted_0223,organisation:ORG-0001,2026-08-19
+buy_0207,692–22–56–461,GMINA LUBIN - Urząd Gminy w Lubinie,gmina lubin - urząd gminy w lubinie,ra,POL,,src_ted_opendata,file_ted_0224,organisation:ORG-0001,2026-08-19
+buy_0208,DE115507791,Deutsche Rentenversicherung Braunschweig-Hannover,deutsche rentenversicherung braunschweig-hannover,body-pl-ra,DEU,,src_ted_opendata,file_ted_0225,organisation:ORG-7001,2026-08-19
+buy_0209,831917834,ТЕХНИЧЕСКИ УНИВЕРСИТЕТ,технически университет,body-pl,BGR,,src_ted_opendata,file_ted_0226,organisation:ORG-0001,2026-08-19
+buy_0210,41932,Ville de Saint-Paul,ville de saint-paul,body-pl,FRA,,src_ted_opendata,file_ted_0227,organisation:ORG-0002,2026-08-19
+buy_0211,931934868,Gmina Oława,gmina oława,la,POL,,src_ted_opendata,file_ted_0228,organisation:ORG-0001,2026-08-19
+buy_0212,NIP: 6832009500,Zakład Gospodarki Komunalnej w Wieliczce spółka z ograniczoną odpowiedzialnością,zakład gospodarki komunalnej w wieliczce spółka z ograniczoną odpowiedzialnością,body-pl,POL,,src_ted_opendata,file_ted_0230,organisation:ORG-0001,2026-08-19
+buy_0213,33558121100026,Le Foyer Rémois (51),le foyer rémois (51),spec-rights-entity,FRA,,src_ted_opendata,file_ted_0231,organisation:ORG-0001,2026-08-19
+buy_0214,4417214,Municipiul Craiova,municipiul craiova,la,ROU,,src_ted_opendata,file_ted_0232,organisation:ORG-0004,2026-08-19
+buy_0215,8181581908,Gmina Ropczyce,gmina ropczyce,la,POL,,src_ted_opendata,file_ted_0233,organisation:ORG-0001,2026-08-19
+buy_0216,HRB 290175,AMEOS Krankenhausgesellschaft Baden mbH,ameos krankenhausgesellschaft baden mbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0001,2026-08-19
+buy_0217,HRB 22637,AMEOS Krankenhausgesellschaft Bremen mbH,ameos krankenhausgesellschaft bremen mbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0002,2026-08-19
+buy_0218,HRB5045,AMEOS Klinikum Bremerhaven GmbH,ameos klinikum bremerhaven gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0003,2026-08-19
+buy_0219,HRB 200817,AMEOS Krankenhausgesellschaft Niedersachsen mbH,ameos krankenhausgesellschaft niedersachsen mbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0005,2026-08-19
+buy_0220,HRB 5776,AMEOS Klinikum Geestland GmbH,ameos klinikum geestland gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0007,2026-08-19
+buy_0221,HRA 461,AMEOS Klinikum Bad Salzuflen GmbH & Co. KG,ameos klinikum bad salzuflen gmbh & co. kg,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0009,2026-08-19
+buy_0222,HRB 1394,AMEOS Krankenhausgesellschaft Holstein mbH,ameos krankenhausgesellschaft holstein mbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0015,2026-08-19
+buy_0223,HRB1459,Klinik für Geriatrie Ratzeburg GmbH,klinik für geriatrie ratzeburg gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0016,2026-08-19
+buy_0224,HRB573EU,AMEOS Krankenhausgesellschaft Ostholstein mbH,ameos krankenhausgesellschaft ostholstein mbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0017,2026-08-19
+buy_0225,HRB 18867,AMEOS Klinika Lübeck GmbH,ameos klinika lübeck gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0018,2026-08-19
+buy_0226,HRB11159,AMEOS Krankenhausgesellschaft Neuburg mbH,ameos krankenhausgesellschaft neuburg mbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0019,2026-08-19
+buy_0227,HRB 8270,AMEOS Klinikum Inntal GmbH,ameos klinikum inntal gmbh,org-sub,DEU,,src_ted_opendata,file_ted_0235,organisation:ORG-0020,2026-08-19
+buy_0228,600084779,Autoridade Tributária e Aduaneira,autoridade tributária e aduaneira,cga,PRT,,src_ted_opendata,file_ted_0236,organisation:ORG-0001,2026-08-19
+buy_0229,412 280 737 20375,SNCF RESEAU,sncf reseau,pub-undert,FRA,,src_ted_opendata,file_ted_0237,organisation:ORG-0001,2026-08-19
+buy_0230,78324830528,OPĆINA NEDELIŠĆE,općina nedelišće,la,HRV,,src_ted_opendata,file_ted_0239,organisation:ORG-0001,2026-08-19
+buy_0231,6922253936,Gmina Polkowice,gmina polkowice,la,POL,,src_ted_opendata,file_ted_0240,organisation:ORG-0001,2026-08-19
+buy_0232,8660001429,Enea Elektrownia Połaniec S.A.,enea elektrownia połaniec s.a.,,POL,,src_ted_opendata,file_ted_0241,organisation:ORG-0001,2026-08-19
+buy_0233,PL 5210417157,Naukowa i Akademicka Sieć Komputerowa - Państwowy Instytut Badawczy,naukowa i akademicka sieć komputerowa - państwowy instytut badawczy,body-pl,POL,,src_ted_opendata,file_ted_0242,organisation:ORG-0001,2026-08-19
+buy_0234,000133634,ОБЩИНА ВЕЛИКО ТЪРНОВО,община велико търново,la,BGR,,src_ted_opendata,file_ted_0243,organisation:ORG-0001,2026-08-19
+buy_0235,3963960,SPITALUL ORASENESC NEGRESTI OAS,spitalul orasenesc negresti oas,body-pl-ra,ROU,,src_ted_opendata,file_ted_0244,organisation:ORG-0004,2026-08-19
+buy_0236,NIP: 6121843775,43 WOJSKOWY ODDZIAŁ GOSPODARCZY,43 wojskowy oddział gospodarczy,not-cont-ent,POL,,src_ted_opendata,file_ted_0246,organisation:ORG-0001,2026-08-19
+buy_0237,REGON 250855512,Gmina Miasto Ostrów Wielkopolski,gmina miasto ostrów wielkopolski,la,POL,,src_ted_opendata,file_ted_0247,organisation:ORG-0001,2026-08-19
+buy_0238,1131144295,Szpital Dziecięcy im. prof. dr. med. Jana Bogdanowicza Samodzielny Publiczny Zakład Opieki Zdrowotnej,szpital dziecięcy im. prof. dr. med. jana bogdanowicza samodzielny publiczny zakład opieki zdrowotnej,body-pl,POL,,src_ted_opendata,file_ted_0249,organisation:ORG-0001,2026-08-19
+buy_0239,30990450142805,Pleno del Ayuntamiento de Borriana,pleno del ayuntamiento de borriana,la,ESP,,src_ted_opendata,file_ted_0251,organisation:ORG-0001,2026-08-19
+buy_0240,5a437eec-b8e3-454e-868d-54a38f990578,"Loyco SA, Conseils en marchés publics","loyco sa, conseils en marchés publics",body-pl-la,CHE,,src_ted_opendata,file_ted_0252,organisation:ORG-0001,2026-08-19
+buy_0241,39d32742-7ee1-4ebd-bc53-40ba35f804a6,"Loyco SA, Conseils en marchés publics","loyco sa, conseils en marchés publics",body-pl-la,CHE,,src_ted_opendata,file_ted_0253,organisation:ORG-0001,2026-08-19
+buy_0242,20003019500115,Métropole Nice Côte d'Azur (06),métropole nice côte d'azur (06),la,FRA,,src_ted_opendata,file_ted_0255,organisation:ORG-0001,2026-08-19
+buy_0243,5420013897,Wojewódzki Inspektorat Weterynarii w Białymstoku,wojewódzki inspektorat weterynarii w białymstoku,la,POL,,src_ted_opendata,file_ted_0256,organisation:ORG-0003,2026-08-19
+buy_0244,1132869037,Szpital Grochowski im. dr med. Rafała Masztaka spółka z ograniczoną odpowiedzialnością,szpital grochowski im. dr med. rafała masztaka spółka z ograniczoną odpowiedzialnością,body-pl,POL,,src_ted_opendata,file_ted_0258,organisation:ORG-0001,2026-08-19
+buy_0245,9910312563,Gmina Popielów,gmina popielów,la,POL,,src_ted_opendata,file_ted_0260,organisation:ORG-0001,2026-08-19
+buy_0246,1567535-0,HUS-yhtymä,hus-yhtymä,ra,FIN,,src_ted_opendata,file_ted_0263,organisation:ORG-0002,2026-08-19
+buy_0247,4548554,Orasul Sannicolau Mare,orasul sannicolau mare,la,ROU,,src_ted_opendata,file_ted_0264,organisation:ORG-0004,2026-08-19
+buy_0248,171929098,"Gemeente Apeldoorn, team Inkoop","gemeente apeldoorn, team inkoop",ra,NLD,,src_ted_opendata,file_ted_0266,organisation:ORG-0001,2026-08-19
+buy_0249,21130084300011,Mairie de la Roque d'Anthéron,mairie de la roque d'anthéron,grp-p-aut,FRA,,src_ted_opendata,file_ted_0267,organisation:ORG-0001,2026-08-19
+buy_0250,151398296,Gmina Krzepice,gmina krzepice,la,POL,,src_ted_opendata,file_ted_0268,organisation:ORG-0001,2026-08-19
+buy_0251,DE121016876,WSW Energie & Wasser AG,wsw energie & wasser ag,,DEU,,src_ted_opendata,file_ted_0270,organisation:ORG-0001,2026-08-19
+buy_0252,12928625880,BJELOVARSKO-BILOGORSKA ŽUPANIJA,bjelovarsko-bilogorska županija,ra,HRV,,src_ted_opendata,file_ted_0271,organisation:ORG-0001,2026-08-19
+buy_0253,41228073720375,SNCF RESEAU,sncf reseau,pub-undert,FRA,,src_ted_opendata,file_ted_0272,organisation:ORG-0001,2026-08-19
+buy_0254,NIP: 8132919313,Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie,uniwersytecki szpital kliniczny im. fryderyka chopina w rzeszowie,body-pl,POL,,src_ted_opendata,file_ted_0273,organisation:ORG-0001,2026-08-19
+buy_0255,46481,Habitat 76,habitat 76,body-pl,FRA,,src_ted_opendata,file_ted_0275,organisation:ORG-0002,2026-08-19
+buy_0256,7292345599,Wojewódzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika w Łodzi,wojewódzkie wielospecjalistyczne centrum onkologii i traumatologii im. m. kopernika w łodzi,body-pl,POL,,src_ted_opendata,file_ted_0276,organisation:ORG-0001,2026-08-19
+buy_0257,15729617211,Tata Város Önkormányzata,tata város önkormányzata,la,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0001,2026-08-19
+buy_0258,15388351111,Tatai Kistérségi Időskorúak Otthona,tatai kistérségi időskorúak otthona,body-pl-la,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0002,2026-08-19
+buy_0259,16755259211,Tatai Bartók Béla Óvoda,tatai bartók béla óvoda,body-pl,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0003,2026-08-19
+buy_0260,16755314211,Tatai Kertvárosi Óvoda,tatai kertvárosi óvoda,body-pl,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0004,2026-08-19
+buy_0261,15384333211,Kuny Domokos Múzeum,kuny domokos múzeum,body-pl,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0005,2026-08-19
+buy_0262,15812852111,Tatai Közös Önkormányzati Hivatal,tatai közös önkormányzati hivatal,body-pl-cga,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0006,2026-08-19
+buy_0263,16761450211,Szociális Alapellátó Intézmény,szociális alapellátó intézmény,body-pl,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0007,2026-08-19
+buy_0264,18606481211,Tatai Városgazda Nonprofit Kft.,tatai városgazda nonprofit kft.,pub-undert-la,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0008,2026-08-19
+buy_0265,13993928211,"Tatai Városkapu Közművelődési, Turisztikai, Pályázatkoordináló és Kommunikációs Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság","tatai városkapu közművelődési, turisztikai, pályázatkoordináló és kommunikációs közhasznú nonprofit zártkörűen működő részvénytársaság",pub-undert-la,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0009,2026-08-19
+buy_0266,16755297211,Tatai Geszti Óvoda,tatai geszti óvoda,body-pl,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0010,2026-08-19
+buy_0267,16761663211,Csillagsziget Bölcsőde,csillagsziget bölcsőde,body-pl,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0011,2026-08-19
+buy_0268,16755266211,Tatai Kincseskert Óvoda,tatai kincseskert óvoda,body-pl,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0012,2026-08-19
+buy_0269,26498825211,Tatai Rend-ház Korlátolt Felelősségű Társaság,tatai rend-ház korlátolt felelősségű társaság,pub-undert-la,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0013,2026-08-19
+buy_0270,25543496211,Tatai Öreg-tó Halászati Korlátolt Felelősségű Társaság,tatai öreg-tó halászati korlátolt felelősségű társaság,pub-undert-la,HUN,,src_ted_opendata,file_ted_0277,organisation:ORG-0014,2026-08-19
+buy_0271,16054368,COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.,compania nationala de administrare a infrastructurii rutiere s.a.,body-pl-cga,ROU,,src_ted_opendata,file_ted_0280,organisation:ORG-0004,2026-08-19
+buy_0272,5057272000,UNIVERZITETNI KLINIČNI CENTER LJUBLJANA,univerzitetni klinični center ljubljana,body-pl,SVN,,src_ted_opendata,file_ted_0282,organisation:ORG-0001,2026-08-19
+buy_0273,241031620,Komunalny Zakład Gospodarki Mieszkaniowej w Katowicach,komunalny zakład gospodarki mieszkaniowej w katowicach,,POL,,src_ted_opendata,file_ted_0284,organisation:ORG-0001,2026-08-19
+buy_0274,779-20-33-466,UNIWERSYTECKI SZPITAL KLINICZNY W POZNANIU,uniwersytecki szpital kliniczny w poznaniu,eu-ins-bod-ag,POL,,src_ted_opendata,file_ted_0285,organisation:ORG-0001,2026-08-19
+buy_0275,21580194500019,Ville de NEVERS,ville de nevers,la,FRA,,src_ted_opendata,file_ted_0286,organisation:ORG-0001,2026-08-19
+buy_0276,24580440600107,Communauté d'Agglomération de NEVERS (Nevers Agglomération),communauté d'agglomération de nevers (nevers agglomération),body-pl-la,FRA,,src_ted_opendata,file_ted_0286,organisation:ORG-0004,2026-08-19
+buy_0277,52232,Département de l'Isère,département de l'isère,body-pl,FRA,,src_ted_opendata,file_ted_0287,organisation:ORG-0002,2026-08-19
+buy_0278,188785847,Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos,policijos departamentas prie lietuvos respublikos vidaus reikalų ministerijos,cga,LTU,,src_ted_opendata,file_ted_0288,organisation:ORG-0001,2026-08-19
+buy_0279,NIP: 521-293-24-55,Szpital Czerniakowski sp. z o.o.,szpital czerniakowski sp. z o.o.,body-pl,POL,,src_ted_opendata,file_ted_0289,organisation:ORG-0001,2026-08-19
+buy_0280,28750006000010,CIGPCIF - Centre Interdépartemental de Gestion de la Petite Couronne de l'Ile de France,cigpcif - centre interdépartemental de gestion de la petite couronne de l'ile de france,la,FRA,,src_ted_opendata,file_ted_0291,organisation:ORG-0001,2026-08-19
+buy_0281,NIP 525 000 91 40,Ośrodek Przetwarzania Informacji – Państwowy Instytut Badawczy,ośrodek przetwarzania informacji – państwowy instytut badawczy,body-pl,POL,,src_ted_opendata,file_ted_0292,organisation:ORG-0001,2026-08-19
+buy_0282,7641023091,Szkoła Policji w Pile,szkoła policji w pile,body-pl,POL,,src_ted_opendata,file_ted_0295,organisation:ORG-0001,2026-08-19
+buy_0283,9210004658,Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Tomaszów,skarb państwa państwowe gospodarstwo leśne lasy państwowe nadleśnictwo tomaszów,body-pl,POL,,src_ted_opendata,file_ted_0296,organisation:ORG-0001,2026-08-19
+buy_0284,70009764,Riigi Kaitseinvesteeringute Keskus,riigi kaitseinvesteeringute keskus,cga,EST,,src_ted_opendata,file_ted_0297,organisation:ORG-0001,2026-08-19
+buy_0285,505335018,Município de Vila Nova de Gaia,município de vila nova de gaia,la,PRT,,src_ted_opendata,file_ted_0298,organisation:ORG-0001,2026-08-19
+buy_0286,7811621544,Szpital Kliniczny im. Karola Jonschera Uniwersytetu Medycznego im. Karola Marcinkowskiego w Poznaniu,szpital kliniczny im. karola jonschera uniwersytetu medycznego im. karola marcinkowskiego w poznaniu,body-pl,POL,,src_ted_opendata,file_ted_0299,organisation:ORG-0001,2026-08-19

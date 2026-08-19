@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="EUR">332</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="EUR">332</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0000</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>OFFER001</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2023-12-29+03:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-11+02:00</cbc:IssueDate>
+                     <cbc:Title languageID="ELL">Προμήθεια Φορητoύ ακτινοσκοπικού C-arm ψηφιακό 30x30cm</cbc:Title>
+                     <cbc:URI>https://cerpp.eprocurement.gov.gr</cbc:URI>
+                     <efac:ContractReference>
+                        <cbc:ID>1</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>ΑΝΑΣΤΑΣΙΟΣ ΔΙΓΚΑΣ Ε.Ε. ΕΙΣΑΓΩΓΗ &amp; ΕΜΠΟΡΙΑ ΙΑΤΡΙΚΩΝ</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.aepp-procurement.gr/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ELL">Ενιαία Αρχή Δημόσιων Συμβάσεων (Ε.Α.ΔΗ.ΣΥ.)</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ΛΕΩΦ. ΘΗΒΏΝ 196-198</cbc:StreetName>
+                           <cbc:CityName>ΑΓ. ΙΩΆΝΝΗΣ ΡΈΝΤΗΣ</cbc:CityName>
+                           <cbc:PostalZone>18233</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">EL302</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>1000.Ε00961.0001</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>0030 2132141216</cbc:Telephone>
+                           <cbc:ElectronicMail>aepp@aepp-procurement.gr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ELL">ΑΝΑΣΤΑΣΙΟΣ ΔΙΓΚΑΣ Ε.Ε. ΕΙΣΑΓΩΓΗ &amp; ΕΜΠΟΡΙΑ ΙΑΤΡΙΚΩΝ</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Τέρμα Καραολή Δημητρίου &amp; Ειρήνης γωνία, 57001, Φράγμα Θέρμης</cbc:StreetName>
+                           <cbc:CityName>ΦΡΑΓΜΑ ΘΕΡΜΗΣ</cbc:CityName>
+                           <cbc:PostalZone>57001</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">EL522</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>997826122</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+30 2310272462</cbc:Telephone>
+                           <cbc:Telefax>+30 2310272462</cbc:Telefax>
+                           <cbc:ElectronicMail>info@digas.gr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.nosgrevenon.gr</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ELL">Γενικό Νοσοκομείο Γρεβενών</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Περιοχή Στρατοπέδου</cbc:StreetName>
+                           <cbc:CityName>Γρεβενά</cbc:CityName>
+                           <cbc:PostalZone>51100</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">EL531</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>100.Ε00961.001</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Βάσω Πολύζου</cbc:Name>
+                           <cbc:Telephone>0030 2462350311</cbc:Telephone>
+                           <cbc:ElectronicMail>pros1@nosgrevenon.gr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ELL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000564-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">6ef73588-b436-44eb-9f6c-c14497ececa8</cbc:ID>
+   <cbc:ContractFolderID>53444dac-0619-420c-b798-736271b10322</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>07:07:30Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">ELL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">health</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">(85) ΠΡΟΜΗΘΕΙΑ AMBU MASK ΑΣΚΟΥΣ ΑΝΑΝΗΨΗΣ ΜΕ ΡΕΖΕΡΒΟΥΑΡ ΟΞΥΓΟΝΟΥ ΠΟΥ ΝΑ ΑΠΟΣΤΕΙΡΩΝΟΝΤΑΙ</cbc:ID>
+      <cbc:Name languageID="ELL">(85) ΠΡΟΜΗΘΕΙΑ AMBU MASK ΑΣΚΟΥΣ ΑΝΑΝΗΨΗΣ ΜΕ ΡΕΖΕΡΒΟΥΑΡ ΟΞΥΓΟΝΟΥ ΠΟΥ ΝΑ ΑΠΟΣΤΕΙΡΩΝΟΝΤΑΙ</cbc:Name>
+      <cbc:Description languageID="ELL">(85) ΠΡΟΜΗΘΕΙΑ AMBU MASK ΑΣΚΟΥΣ ΑΝΑΝΗΨΗΣ ΜΕ ΡΕΖΕΡΒΟΥΑΡ ΟΞΥΓΟΝΟΥ ΠΟΥ ΝΑ ΑΠΟΣΤΕΙΡΩΝΟΝΤΑΙ</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="EUR">332</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">33141620</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">EL531</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="ELL">ΒΕΛΤΙΣΤΗ ΣΧΕΣΗ ΠΟΙΟΤΗΤΑΣ - ΤΙΜΗΣ</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="ELL">ΒΕΛΤΙΣΤΗ ΣΧΕΣΗ ΠΟΙΟΤΗΤΑΣ - ΤΙΜΗΣ</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="ELL">3.4 Προδικαστικές Προσφυγές - Προσωρινή και Οριστική Δικαστική Προστασία Α. Κάθε ενδιαφερόμενος, ο οποίος έχει ή είχε συμφέρον να του ανατεθεί η συγκεκριμένη δημόσια σύμβαση και έχει υποστεί ή ενδέχεται να υποστεί ζημία από εκτελεστή πράξη ή παράλειψη της αναθέτουσας αρχής κατά παράβαση της ενωσιακής ή εσωτερικής νομοθεσίας στον τομέα των δημοσίων συμβάσεων, έχει δικαίωμα να προσφύγει στην Ενιαία Αρχή Δημοσίων Συμβάσεων (Ε.Α.ΔΗ.ΣΥ.), σύμφωνα με τα ειδικότερα οριζόμενα στα άρθρα 346 επ. ν. 4412/2016 και 1 επ. του π.δ. 39/2017, στρεφόμενος με προδικαστική προσφυγή, κατά πράξης ή παράλειψης της αναθέτουσας αρχής, προσδιορίζοντας ειδικώς τις νομικές και πραγματικές αιτιάσεις που δικαιολογούν το αίτημά του . Σε περίπτωση προσφυγής κατά πράξης της αναθέτουσας αρχής, η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι: (α) δέκα (10) ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης στον ενδιαφερόμενο οικονομικό φορέα αν η πράξη κοινοποιήθηκε με ηλεκτρονικά μέσα ή (β) δεκαπέντε (15) ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης σε αυτόν αν χρησιμοποιήθηκαν άλλα μέσα επικοινωνίας, άλλως (γ) δέκα (10) ημέρες από την πλήρη, πραγματική ή τεκμαιρόμενη, γνώση της πράξης που βλάπτει τα συμφέροντα του ενδιαφερόμενου οικονομικού φορέα. Ειδικά για την άσκηση προσφυγής κατά προκήρυξης, η πλήρης γνώση αυτής τεκμαίρεται μετά την πάροδο δεκαπέντε (15) ημερών από τη δημοσίευση στο ΚΗΜΔΗΣ. Σε περίπτωση παράλειψης που αποδίδεται στην αναθέτουσα αρχή, η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι δεκαπέντε (15) ημέρες από την επομένη της συντέλεσης της προσβαλλόμενης παράλειψης . Οι προθεσμίες ως προς την υποβολή των προδικαστικών προσφυγών και των παρεμβάσεων αρχίζουν την επομένη της ημέρας της προαναφερθείσας κατά περίπτωση κοινοποίησης ή γνώσης και λήγουν όταν περάσει ολόκληρη η τελευταία ημέρα και ώρα 23:59:59 και, αν αυτή είναι εξαιρετέα ή Σάββατο, όταν περάσει ολόκληρη η επόμενη εργάσιμη ημέρα και ώρα 23:59:59. Η προδικαστική προσφυγή συντάσσεται υποχρεωτικά με τη χρήση του τυποποιημένου εντύπου του Παραρτήματος Ι του π.δ/τος 39/2017 και κατατίθεται ηλεκτρονικά μέσω της λειτουργικότητας «Επικοινωνία» στην ηλεκτρονική περιοχή του συγκεκριμένου διαγωνισμού, επιλέγοντας την ένδειξη «Προδικαστική Προσφυγή» σύμφωνα με το άρθρο 18 της Κ.Υ.Α. Προμήθειες και Υπηρεσίες. Για το παραδεκτό της άσκησης της προδικαστικής προσφυγής κατατίθεται παράβολο από τον προσφεύγοντα υπέρ του Ελληνικού Δημοσίου, σύμφωνα με όσα ορίζονται στο άρθρο 363 του ν. 4412/2016. Η επιστροφή του παραβόλου στον προσφεύγοντα γίνεται: α) σε περίπτωση ολικής ή μερικής αποδοχής της προσφυγής του, β) όταν η αναθέτουσα αρχή ανακαλεί την προσβαλλόμενη πράξη ή προβαίνει στην οφειλόμενη ενέργεια πριν από την έκδοση της απόφασης της Ε.Α.ΔΗ.ΣΥ επί της προσφυγής, γ) σε περίπτωση παραίτησης του προσφεύγοντος από την προσφυγή του έως και δέκα (10) ημέρες από την κατάθεση της προσφυγής. Η προθεσμία για την άσκηση της προδικαστικής προσφυγής και η άσκησή της κωλύουν τη σύναψη της σύμβασης επί ποινή ακυρότητας, η οποία διαπιστώνεται με απόφαση της Ε.Α.ΔΗ.ΣΥ. μετά από άσκηση προδικαστικής προσφυγής, σύμφωνα με τα άρθρα 368 του ν. 4412/2016 και 20 του π.δ. 39/2017. Όμως, μόνη η άσκηση της προδικαστικής προσφυγής δεν κωλύει την πρόοδο της διαγωνιστικής διαδικασίας, υπό την επιφύλαξη χορήγησης από το Κλιμάκιο μέτρων προσωρινής προστασίας, σύμφωνα με τα άρθρα 366 παρ. 1-2 ν. 4412/2016 και 15 παρ. 1-4 του π.δ. 39/2017. Η προηγούμενη παράγραφος δεν εφαρμόζεται στην περίπτωση που, κατά τη διαδικασία σύναψης της παρούσας σύμβασης, υποβληθεί μόνο μία (1) προσφορά.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="ELL">(85) ΠΡΟΜΗΘΕΙΑ AMBU MASK ΑΣΚΟΥΣ ΑΝΑΝΗΨΗΣ ΜΕ ΡΕΖΕΡΒΟΥΑΡ ΟΞΥΓΟΝΟΥ ΠΟΥ ΝΑ ΑΠΟΣΤΕΙΡΩΝΟΝΤΑΙ</cbc:Name>
+         <cbc:Description languageID="ELL">(85) ΠΡΟΜΗΘΕΙΑ AMBU MASK ΑΣΚΟΥΣ ΑΝΑΝΗΨΗΣ ΜΕ ΡΕΖΕΡΒΟΥΑΡ ΟΞΥΓΟΝΟΥ ΠΟΥ ΝΑ ΑΠΟΣΤΕΙΡΩΝΟΝΤΑΙ</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:EstimatedOverallContractQuantity unitCode="H87">3</cbc:EstimatedOverallContractQuantity>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">332</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">33141620</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">EL531</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

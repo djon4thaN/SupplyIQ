@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1860000.00</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">2767500.00</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">2090385.00</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <cac:FinancingParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:FinancingParty>
+                     <cac:PayerParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:PayerParty>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">1860000.00</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>4 Idea Karol Sitarski</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-09-27Z</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-03Z</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego oraz uzyskaniem pozwolenia  na budowę dla zadania pn. Budowa osiedla Wojszyce 1</cbc:Title>
+                     <efac:ContractReference>
+                        <cbc:ID>01SIM/10/2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>4 Idea Karol Sitarski</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                     <efac:SubContractor>
+                        <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+                        <efac:MainContractor>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </efac:MainContractor>
+                     </efac:SubContractor>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://simwroclaw.pl/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">SIM Wrocław Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Fabryczna 10</cbc:StreetName>
+                           <cbc:AdditionalStreetName>ul. Fabryczna 10</cbc:AdditionalStreetName>
+                           <cbc:CityName>Wrocław</cbc:CityName>
+                           <cbc:PostalZone>53-609</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL514</cbc:CountrySubentityCode>
+                           <cac:AddressLine>
+                              <cbc:Line>ul. Fabryczna 10</cbc:Line>
+                           </cac:AddressLine>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP: 8952232791</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON: 389616060</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>603-769-832</cbc:Telephone>
+                           <cbc:ElectronicMail>zamowienia@simwroclaw.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://platformazakupowa.pl/strona/kontakt</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Open Nexus Sp. zo.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Bolesława Krzywoustego 3</cbc:StreetName>
+                           <cbc:CityName>Poznań</cbc:CityName>
+                           <cbc:PostalZone>61-144</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL415</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>7792363577</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.gov.pl/web/uzp/kontakt2</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL913</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">4 IDEA KAROL SITARSKI</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Złota 15/U5</cbc:StreetName>
+                           <cbc:CityName>Kielce</cbc:CityName>
+                           <cbc:PostalZone>25-015</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL721</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6572771351</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Podwykonawca</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>xxxx</cbc:StreetName>
+                           <cbc:CityName>xxx</cbc:CityName>
+                           <cbc:PostalZone>xx-xxx</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL721</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>xxxxxxxxxx</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000057-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">c352258f-6dc7-4cf6-84b6-0702c2369e7b</cbc:ID>
+   <cbc:ContractFolderID>a6c6e098-8b5a-4b79-bf6f-dc1cd56b8aa6</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31+01:00</cbc:IssueDate>
+   <cbc:IssueTime>08:21:10+01:00</cbc:IssueTime>
+   <cbc:VersionID>02</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2024-12-31+01:00</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode>POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">hc-am</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>art. 152 ustawy prawo zamówień publicznych</cbc:ID>
+      </cac:ProcurementLegislationDocumentReference>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">neg-w-call</cbc:ProcedureCode>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">1/NZO/2024</cbc:ID>
+      <cbc:Name languageID="POL">Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego oraz uzyskaniem pozwolenia  na budowę dla zadania pn. Budowa osiedla Wojszyce 1</cbc:Name>
+      <cbc:Description languageID="POL">Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego oraz
+uzyskaniem pozwolenia na budowę dla zadania pn. Budowa osiedla Wojszyce 1
+Opis: Przedmiotem zamówienia jest wykonanie kompleksowej dokumentacji projektowej tj.
+projektu budowlanego i wykonawczego oraz specyfikacji technicznych wykonania i odbioru
+robót budowalnych wraz z przedmiarami (kosztorysami ofertowymi) oraz kosztorysami
+inwestorskimi dla zadania inwestycyjnego pn. Budowa osiedle Wojszyce 1 wraz z uzyskaniem
+wszelkich niezbędnych uzgodnień, opinii, decyzji oraz ostatecznym pozwoleniem na budowę
+dla powyższego zadania, które pozwolą Inwestorowi kompleksowo zrealizować ww.
+inwestycję oraz sprawowaniem przez Wykonawcę nadzoru autorskiego. Szczegółowy opis
+przedmiotu zamówienia znajduje się w Opisie Potrzeb i Wymagań.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71320000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:FiscalLegislationDocumentReference>
+            <cbc:ID>generated_id</cbc:ID>
+         </cac:FiscalLegislationDocumentReference>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">zgodnie z Opisem Potrzeb i Wymagań</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">60</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Specjalista ds. zieleni (Z)</cbc:Name>
+                  <cbc:Description languageID="POL">20</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Projektant w specjalności inżynieryjnej
+drogowej (D)</cbc:Name>
+                  <cbc:Description languageID="POL">20</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Odwołanie wnosi się do Prezesa KIO. Odwołujący
+przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej lub postaci
+elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej,
+przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z
+jego treścią przed upływem tego terminu. Domniemywa się, że Zamawiający mógł zapoznać
+się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie
+odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia
+przy użyciu środków komunikacji elektronicznej. 2.Odwołanie wnosi się w terminie: -10 dni od
+dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego
+wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji
+elektronicznej; -15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej
+podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w
+pkt 1. -Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie
+zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia
+publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia
+dokumentów zamówienia na stronie internetowej. -Odwołanie w przypadkach innych niż
+określone w ust. 5 i 6 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy
+zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach
+stanowiących podstawę jego wniesienia. -Jeżeli Zamawiający mimo takiego obowiązku nie
+przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty, odwołanie wnosi się
+nie później niż w terminie: 1) 30 dni od dnia publikacji w Dzienniku Urzędowym Unii
+Europejskiej ogłoszenia o udzieleniu zamówienia, 2) 6 miesięcy od dnia zawarcia umowy,
+jeżeli Zamawiający nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia. Na orzeczenie KIO oraz postanowienie Prezesa KIO stronom oraz
+uczestnikom postępowania odwoławczego przysługuje skarga do Sądu Okręgowego w
+Warszawie – sądu zamówień publicznych.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">1/NZO/2024</cbc:ID>
+         <cbc:Name languageID="POL">Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego oraz uzyskaniem pozwolenia na budowę dla zadania pn. Budowa osiedla Wojszyce 1</cbc:Name>
+         <cbc:Description languageID="POL">Wykonanie kompleksowej
+dokumentacji projektowej tj. projektu budowlanego i wykonawczego oraz specyfikacji
+technicznych wykonania i odbioru robót budowalnych wraz z przedmiarami
+(kosztorysami ofertowymi) oraz kosztorysami inwestorskimi dla zadania inwestycyjnego
+pn. Budowa osiedle Wojszyce 1 (zwana dalej Dokumentacją lub Dokumentacją
+projektową) wraz z uzyskaniem wszelkich niezbędnych uzgodnień, opinii, decyzji oraz
+ostatecznym pozwoleniem na budowę dla powyższego zadania, które pozwolą
+Inwestorowi kompleksowo zrealizować ww. inwestycję oraz sprawowaniem przez
+Wykonawcę nadzoru autorskiego.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71320000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">12</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

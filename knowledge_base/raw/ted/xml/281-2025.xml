@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1003622.4</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">1676298.24</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">1337472</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">ins-fund</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">1083456</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">1003622.4</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">1003622.4</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>NAJKORZYSTNIEJSZA OFERTA DLA CZĘŚCI II ZAMOWIENIA</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>UMOWA DLA CZĘŚCI II ZAMÓWIENIA GO.75.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>ZUO International Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://www.bip.wolsztyn.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-00b57f84-08b2-4ac3-83fd-fc55509f7991</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Wolsztyn</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Rynek 1 </cbc:StreetName>
+                           <cbc:CityName>Wolsztyn</cbc:CityName>
+                           <cbc:PostalZone>64-200</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL417</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>970770706</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 683474530</cbc:Telephone>
+                           <cbc:ElectronicMail>um@wolsztyn.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://epuap.gov.pl/wps/portal/strefa-klienta/katalog-spraw/inne-sprawy-urzedowe/zamowienia-publiczne/odwolanie-do-krajowej-izby-odwolawczej/UZP</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Sekretariat Biura Odwołań</cbc:Name>
+                           <cbc:Telephone>(22) 458 78 01</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">ZUO International Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Słubicka 50</cbc:StreetName>
+                           <cbc:CityName>Kunowice</cbc:CityName>
+                           <cbc:PostalZone>69-100</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL431</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>598 158 02 28</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 885 762 766</cbc:Telephone>
+                           <cbc:ElectronicMail>agnieszka.nowak@sireco.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000281-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">c6c8466e-bf96-43b5-b5fc-eec896e7c272</cbc:ID>
+   <cbc:ContractFolderID>be828453-465f-4126-831e-83042bf2e247</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-30Z</cbc:IssueDate>
+   <cbc:IssueTime>10:52:28Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://bip.wolsztyn.pl/m,77,zamowienia-publiczne.html</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">611047-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">GO.271.8.2024</cbc:ID>
+      <cbc:Name languageID="POL">Zagospodarowanie odpadów zbieranych selektywnie z terenu gm.Wolsztyn  w roku 2025</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest kompleksowa usługa zagospodarowania odpadów komunalnych polegająca na:
+1)	przejęciu danej frakcji odpadów komunalnych (stosownie do części zamówienia) przez wykonawcę od podmiotu działającego w imieniu i na rzecz Zamawiającego,
+2)	transporcie danej frakcji odpadów komunalnych (stosownie do części zamówienia, sposobu realizacji zamówienia),
+3)	przetworzeniu przyjętych odpadów komunalnych w procesach odzysku (R) i/lub unieszkodliwiania (D), w zapewnionym przez wykonawcę miejscu zagospodarowania odpadów komunalnych , 
+- zwana dalej łącznie, wraz z wszystkimi powiązanymi usługami i obowiązkami, „usługą zagospodarowania odpadów  zbieranych selektywnie z terenu gm.Wolsztyn  w roku 2025”.
+Zamawiający dokonał podziału zamówienia na części w sposób wskazany w Rozdziale I ust. 3 OPZ.
+Zamówienie zostało podzielone na następujące części:
+1)	cześć I - usługa zagospodarowania odpadów z tworzyw sztucznych,
+2)	część II - usługa zagospodarowania odpadów wielkogabarytowych.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90510000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90514000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90512000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CityName>Wolsztyn</cbc:CityName>
+            <cbc:PostalZone>64-200</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL417</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">cena brutto oferty </cbc:Name>
+                  <cbc:Description languageID="POL">Waga 60.  W ramach kryterium „Cena”, oferty zostaną ocenione w oparciu o „cenę sumaryczną” obejmującą swym zakresem zakres podstawowy oraz opcyjnie zamówienia, podaną przez Wykonawcę w treści oferty</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Kryterium środowiskowe</cbc:Name>
+                  <cbc:Description languageID="POL">Waga 40.  Kryterium środowiskowe . W ramach kryterium „środowiskowego” premiowane będzie zobowiązanie się przez wykonawcę do realizacji zamówienia, w zakresie transportu odpadów komunalnych z PZO-PUNKT ZBIERANIA ODPADÓW do miejsca przekazania odpadów pojazdami o normie emisji spalin wyższej niż minimalnie wymagana, tj. pojazdami z normą emisji spalin EURO 5 lub EURO 6.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Odwołanie wnosi się w terminie:
+1)	10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej,
+2)	15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w pkt 1).
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">GO.271.8.2024_CZESC_1</cbc:ID>
+         <cbc:Name languageID="POL">Część 1 - usługa zagospodarowania odpadów z tworzyw sztucznych</cbc:Name>
+         <cbc:Description languageID="POL">Opis części I - usługa zagospodarowania odpadów z tworzyw sztucznych.
+Cześć I obejmuje usługę zagospodarowania odpadów z tworzyw sztucznych i metali o kodzie 15 01 02. Szacowana maksymalna wielkość strumienia ww. odpadów (w zakresie zamówienia podstawowego ) –  1100 Mg.
+Przedmiotem zamówienia jest kompleksowa usługa zagospodarowania odpadów komunalnych polegająca na:
+1)	przejęciu danej frakcji odpadów komunalnych (stosownie do części zamówienia) przez wykonawcę od podmiotu działającego w imieniu i na rzecz Zamawiającego,
+2)	transporcie danej frakcji odpadów komunalnych (stosownie do części zamówienia, sposobu realizacji zamówienia),
+3)	przetworzeniu przyjętych odpadów komunalnych w procesach odzysku (R) i/lub unieszkodliwiania (D), w zapewnionym przez wykonawcę miejscu zagospodarowania odpadów komunalnych , 
+- zwana dalej łącznie, wraz z wszystkimi powiązanymi usługami i obowiązkami, „usługą zagospodarowania odpadów  zbieranych selektywnie z terenu gm.Wolsztyn  w roku 2025”.
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">Postępowanie o udzielenie zamówienia publicznego prowadzone jest na platformie eZamowienia.
+1.Korzystanie z Platformy e Zamówienia jest bezpłatne. 
+2. Wykonawca zamierzający wziąć udział w postępowaniu o udzielenie zamówienia publicznego musi posiadać konto podmiotu „Wykonawca” na Platformie e-Zamówienia. Szczegółowe informacje na temat zakładania kont podmiotów oraz zasady i warunki korzystania z Platformy e-Zamówienia określa Regulamin Platformy e-Zamówienia, dostępny na stronie internetowej https://ezamowienia.gov.pl oraz informacje zamieszczone w zakładce „Centrum Pomocy”. 
+3. Przeglądanie i pobieranie publicznej treści dokumentacji postępowania nie wymaga posiadania konta na Platformie e-Zamówienia ani logowania.
+Postępowanie prowadzone jest w trybie przetargu nieograniczonego w rozumieniu art. 132 ustawy Pzp, przy zastosowaniu procedury, o której mowa w art. 139 ustawy Pzp (tzw. procedura odwrócona).
+Zamawiający działając na podstawie art. 139 ust. 2 Pzp. przewiduje żądanie oświadczenia, o którym mowa w art. 125 ust. 1 ustawy Pzp wyłącznie od wykonawcy, którego oferta zostanie najwyżej oceniona. 
+Warunki udziału w postępowaniu oraz podstawy wykluczenia z postępowania opisane są w dokumentach zamówienia (tj. odpowiednio w punkcie 7  i punkcie 8 rozdziału II SWZ).
+</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90510000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90514000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90512000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL417</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">12</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">1.	Zamawiający, na podstawie art. 441 ustawy Pzp., przewiduje możliwość skorzystania z prawa opcji, w zakresie:
+1)	zwiększenia ilości odpadów podlegających zagospodarowaniu w toku realizacji zamówienia, poprzez zmianę wysokości wynagrodzenia, o którym mowa w §7 ust. 1 umowy lub 2 (w brzmieniu pierwotnym) o nie więcej niż 20% sumy tych kwot,
+2)	nabycia usługi zagospodarowania odpadów komunalnych, która będzie realizowana maksymalnie przez okres dodatkowych 3 miesięcy, względem podstawowego okresu świadczenia usług. Na podstawie prawa opcji, Zamawiający ma prawo do jednostronnego wydłużenia okresu świadczenia usług maksymalnie o 3 miesiące, mieszczących się w okresie następującym po zakończeniu okresu podstawowego (terminowego lub przedterminowego).
+2.	Zamawiający zastrzega sobie możliwość skorzystania z prawa opcji (w całości lub w części) w przypadku, gdy będzie to leżeć w interesie Zamawiającego i wynikać z jego bieżących potrzeb.
+3.	Warunki skorzystania z prawa opcji określonego powyżej w ust. 1 pkt 1):
+1)	Zamawiający ma prawo wielokrotnie korzystać z prawa opcji, jednak do wyczerpania maksymalnego zakresu prawa opcji, określonego w ust. 1 pkt 1) niniejszego paragrafu; 
+4.	Skorzystanie z opcji na podstawie ust. 1 pkt 2 nastąpi na następujących zasadach:
+1)	może dotyczyć maksymalnie okresu 3 miesięcy lub okresu krótszego,
+2)	Zamawiający jest uprawniony do kilkukrotnego skorzystania z prawa opcji, przy czym suma okresów objętych każdorazowym skorzystaniem z tego prawa, nie może przekroczyć 3 miesięcy, a każdy z okresów, o który wydłużony zostanie okres świadczenia usług przez Wykonawcę nie może być krótszy niż 1 miesiąc,
+Szczegółowe zapisy dotyczące  praw opcji, w tym warunki skorzystania z praw opcji opisane są w Postanowieniach Umowy stanowiących załącznik do SWZ.
+2.Zamawiający w oparciu o art. 214 ust. 1 pkt 7 ustawy Pzp  przewiduje możliwość udzielenia Wykonawcy zamówienia polegającego na powtórzeniu podobnych usług do przedmiotu zamówienia podstawowego, w szczególności:
+1)	usługi zagospodarowania odpadów komunalnych w okresie innym niż realizacja zamówienia podstawowego,
+2)	usługi zagospodarowania innych frakcji odpadów niż przewidziane zamówieniem podstawowym,
+3)	usługi transportu odpadów komunalnych.
+</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">cena brutto oferty </cbc:Name>
+                  <cbc:Description languageID="POL">Waga 60.  W ramach kryterium „Cena”, oferty zostaną ocenione w oparciu o „cenę sumaryczną” obejmującą swym zakresem zakres podstawowy oraz opcyjnie zamówienia, podaną przez Wykonawcę w treści oferty</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Kryterium środowiskowe</cbc:Name>
+                  <cbc:Description languageID="POL">Waga 40.  Kryterium środowiskowe . W ramach kryterium „środowiskowego” premiowane będzie zobowiązanie się przez wykonawcę do realizacji zamówienia, w zakresie transportu odpadów komunalnych z PZO-PUNKT ZBIERANIA ODPADÓW do miejsca przekazania odpadów pojazdami o normie emisji spalin wyższej niż minimalnie wymagana, tj. pojazdami z normą emisji spalin EURO 5 lub EURO 6.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Odwołanie wnosi się w terminie:
+1)	10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej,
+2)	15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w pkt 1).
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">GO.271.8.2024_CZESC_2</cbc:ID>
+         <cbc:Name languageID="POL">2)	część II - usługa zagospodarowania odpadów wielkogabarytowych.</cbc:Name>
+         <cbc:Description languageID="POL">Opis części II - usługa zagospodarowania odpadów wielkogabarytowych.
+część II obejmującą usługę zagospodarowania odpadów wielkogabarytowych o kodzie 20 03 07. Szacowana maksymalna wielkość strumienia ww. odpadów (w zakresie zamówienia podstawowego ) –  700  Mg.
+Przedmiotem zamówienia jest kompleksowa usługa zagospodarowania odpadów komunalnych polegająca na:
+1)	przejęciu danej frakcji odpadów komunalnych (stosownie do części zamówienia) przez wykonawcę od podmiotu działającego w imieniu i na rzecz Zamawiającego,
+2)	transporcie danej frakcji odpadów komunalnych (stosownie do części zamówienia, sposobu realizacji zamówienia),
+3)	przetworzeniu przyjętych odpadów komunalnych w procesach odzysku (R) i/lub unieszkodliwiania (D), w zapewnionym przez wykonawcę miejscu zagospodarowania odpadów komunalnych , 
+- zwana dalej łącznie, wraz z wszystkimi powiązanymi usługami i obowiązkami, „usługą zagospodarowania odpadów  zbieranych selektywnie z terenu gm.Wolsztyn  w roku 2025”.
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">Postępowanie o udzielenie zamówienia publicznego prowadzone jest na platformie eZamowienia.
+1.Korzystanie z Platformy e Zamówienia jest bezpłatne. 
+2. Wykonawca zamierzający wziąć udział w postępowaniu o udzielenie zamówienia publicznego musi posiadać konto podmiotu „Wykonawca” na Platformie e-Zamówienia. Szczegółowe informacje na temat zakładania kont podmiotów oraz zasady i warunki korzystania z Platformy e-Zamówienia określa Regulamin Platformy e-Zamówienia, dostępny na stronie internetowej https://ezamowienia.gov.pl oraz informacje zamieszczone w zakładce „Centrum Pomocy”. 
+3. Przeglądanie i pobieranie publicznej treści dokumentacji postępowania nie wymaga posiadania konta na Platformie e-Zamówienia ani logowania.
+Postępowanie prowadzone jest w trybie przetargu nieograniczonego w rozumieniu art. 132 ustawy Pzp, przy zastosowaniu procedury, o której mowa w art. 139 ustawy Pzp (tzw. procedura odwrócona).
+Zamawiający działając na podstawie art. 139 ust. 2 Pzp. przewiduje żądanie oświadczenia, o którym mowa w art. 125 ust. 1 ustawy Pzp wyłącznie od wykonawcy, którego oferta zostanie najwyżej oceniona. 
+Warunki udziału w postępowaniu oraz podstawy wykluczenia z postępowania opisane są w dokumentach zamówienia (tj. odpowiednio w punkcie 7  i punkcie 8 rozdziału II SWZ).
+</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90510000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90514000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90512000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL417</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">12</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">1.	Zamawiający, na podstawie art. 441 ustawy Pzp., przewiduje możliwość skorzystania z prawa opcji, w zakresie:
+1)	zwiększenia ilości odpadów podlegających zagospodarowaniu w toku realizacji zamówienia, poprzez zmianę wysokości wynagrodzenia, o którym mowa w §7 ust. 1 umowy lub 2 (w brzmieniu pierwotnym) o nie więcej niż 20% sumy tych kwot,
+2)	nabycia usługi zagospodarowania odpadów komunalnych, która będzie realizowana maksymalnie przez okres dodatkowych 3 miesięcy, względem podstawowego okresu świadczenia usług. Na podstawie prawa opcji, Zamawiający ma prawo do jednostronnego wydłużenia okresu świadczenia usług maksymalnie o 3 miesiące, mieszczących się w okresie następującym po zakończeniu okresu podstawowego (terminowego lub przedterminowego).
+2.	Zamawiający zastrzega sobie możliwość skorzystania z prawa opcji (w całości lub w części) w przypadku, gdy będzie to leżeć w interesie Zamawiającego i wynikać z jego bieżących potrzeb.
+3.	Warunki skorzystania z prawa opcji określonego powyżej w ust. 1 pkt 1):
+1)	Zamawiający ma prawo wielokrotnie korzystać z prawa opcji, jednak do wyczerpania maksymalnego zakresu prawa opcji, określonego w ust. 1 pkt 1) niniejszego paragrafu; 
+4.	Skorzystanie z opcji na podstawie ust. 1 pkt 2 nastąpi na następujących zasadach:
+1)	może dotyczyć maksymalnie okresu 3 miesięcy lub okresu krótszego,
+2)	Zamawiający jest uprawniony do kilkukrotnego skorzystania z prawa opcji, przy czym suma okresów objętych każdorazowym skorzystaniem z tego prawa, nie może przekroczyć 3 miesięcy, a każdy z okresów, o który wydłużony zostanie okres świadczenia usług przez Wykonawcę nie może być krótszy niż 1 miesiąc,
+Szczegółowe zapisy dotyczące  praw opcji, w tym warunki skorzystania z praw opcji opisane są w Postanowieniach Umowy stanowiących załącznik do SWZ.
+2. Zamawiający w oparciu o art. 214 ust. 1 pkt 7 ustawy Pzp  przewiduje możliwość udzielenia Wykonawcy zamówienia polegającego na powtórzeniu podobnych usług do przedmiotu zamówienia podstawowego, w szczególności:
+1)	usługi zagospodarowania odpadów komunalnych w okresie innym niż realizacja zamówienia podstawowego,
+2)	usługi zagospodarowania innych frakcji odpadów niż przewidziane zamówieniem podstawowym,
+3)	usługi transportu odpadów komunalnych.
+</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

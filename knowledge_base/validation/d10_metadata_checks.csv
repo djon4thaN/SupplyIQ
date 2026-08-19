@@ -1,0 +1,7 @@
+check_name,status,detail
+data_dictionary_has_supplier_projects,passed,
+entity_index_covers_processed_tables,passed,
+relationship_ids_unique,passed,
+capability_matrix_has_required_examples,passed,
+document_index_has_normalized_paths,passed,
+hybrid_limits_explicit,passed,

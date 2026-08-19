@@ -1,0 +1,132 @@
+issue_id,entity_type,entity_ids,normalized_name,country_code,source_ids,issue_type,severity,assessment,action_taken,notes
+ent_0001,buyer,buy_0094|buy_0218,ameos klinikum bremerhaven gmbh,DEU,HRB 5045|HRB5045,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0002,buyer,buy_0097|buy_0226,ameos krankenhausgesellschaft neuburg mbh,DEU,HRB 11159|HRB11159,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0003,buyer,buy_0096|buy_0224,ameos krankenhausgesellschaft ostholstein mbh,DEU,HRB 573 EU|HRB573EU,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0004,buyer,buy_0058|buy_0069,górnośląskie centrum medyczne im. prof. leszka gieca śląskiego uniwersytetu medycznego w katowicach,POL,9542269625|954-22-69-625,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0005,buyer,buy_0240|buy_0241,"loyco sa, conseils en marchés publics",CHE,5a437eec-b8e3-454e-868d-54a38f990578|39d32742-7ee1-4ebd-bc53-40ba35f804a6,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0006,buyer,buy_0229|buy_0253,sncf reseau,FRA,412 280 737 20375|41228073720375,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0007,buyer,buy_0085|buy_0193,verlingue ag,CHE,674c1c23-6f18-4c94-b182-56ff9a458846|8e33eef9-05e8-4b0e-81ea-74ea5971d899,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0008,supplier,sup_0001,supplier 1,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0009,supplier,sup_0002,supplier 2,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0010,supplier,sup_0003,supplier 3,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0011,supplier,sup_0004,supplier 4,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0012,supplier,sup_0005,supplier 5,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0013,supplier,sup_0006,supplier 1,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0014,supplier,sup_0007,supplier 2,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0015,supplier,sup_0008,supplier 3,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0016,supplier,sup_0009,supplier 4,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0017,supplier,sup_0010,supplier 5,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0018,supplier,sup_0011,supplier 6,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0019,supplier,sup_0012,supplier 7,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0020,supplier,sup_0013,supplier 8,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0021,supplier,sup_0014,ante corp.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0022,supplier,sup_0015,arcu packaging,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0023,supplier,sup_0016,at auctor co,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0024,supplier,sup_0017,cubilia electronics,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0025,supplier,sup_0018,egestas engineering,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0026,supplier,sup_0019,egetem,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0027,supplier,sup_0020,eleifend,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0028,supplier,sup_0021,non enim electronics,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0029,supplier,sup_0022,est electronics corp.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0030,supplier,sup_0023,eu sem electronics,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0031,supplier,sup_0024,tempor milling,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0032,supplier,sup_0025,fringilla electronics,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0033,supplier,sup_0026,hendrerit electronics,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0034,supplier,sup_0027,imperdiet electronics,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0035,supplier,sup_0028,justo inc.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0036,supplier,sup_0029,laoreet,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0037,supplier,sup_0030,lectus labeling,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0038,supplier,sup_0031,aenean printing,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0039,supplier,sup_0032,elementum sci,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0040,supplier,sup_0033,luctus aliquet,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0041,supplier,sup_0034,malesuada limited,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0042,supplier,sup_0035,mauris quis circuits,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0043,supplier,sup_0036,nam llc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0044,supplier,sup_0037,microchips corp.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0045,supplier,sup_0038,access limited,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0046,supplier,sup_0039,nunc ltd,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0047,supplier,sup_0040,vulputate foundation,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0048,supplier,sup_0041,praesent corporation,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0049,supplier,sup_0042,sodales,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0050,supplier,sup_0043,ante dictum llc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0051,supplier,sup_0044,magna llc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0052,supplier,sup_0045,sem eget massa industries,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0053,supplier,sup_0046,magna ut tincidunt foundation,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0054,supplier,sup_0047,lorem consulting,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0055,supplier,sup_0048,mattis cras llp,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0056,supplier,sup_0049,luctus lobortis class company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0057,supplier,sup_0050,et rutrum institute,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0058,supplier,sup_0051,orci phasellus dapibus company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0059,supplier,sup_0052,ac llc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0060,supplier,sup_0053,aliquam erat volutpat associates,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0061,supplier,sup_0054,amet incorporated,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0062,supplier,sup_0055,amet ultricies sem institute,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0063,supplier,sup_0056,consequat auctor nunc company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0064,supplier,sup_0057,dapibus quam quis incorporated,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0065,supplier,sup_0058,dis inc.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0066,supplier,sup_0059,dis parturient incorporated,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0067,supplier,sup_0060,donec dignissim industries,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0068,supplier,sup_0061,donec tincidunt company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0069,supplier,sup_0062,dui industries,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0070,supplier,sup_0063,dui suspendisse consulting,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0071,supplier,sup_0064,est tempor bibendum llc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0072,supplier,sup_0065,et ipsum cursus ltd,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0073,supplier,sup_0066,fringilla est industries,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0074,supplier,sup_0067,hendrerit pc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0075,supplier,sup_0068,iaculis llc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0076,supplier,sup_0069,id company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0077,supplier,sup_0070,inceptos hymenaeos mauris llc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0078,supplier,sup_0071,integer urna vivamus corp.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0079,supplier,sup_0072,ipsum suspendisse company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0080,supplier,sup_0073,lacus quisque imperdiet pc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0081,supplier,sup_0074,ligula aliquam erat incorporated,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0082,supplier,sup_0075,lobortis quis institute,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0083,supplier,sup_0076,mi enim condimentum inc.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0084,supplier,sup_0077,mi lacinia industries,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0085,supplier,sup_0078,molestie arcu company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0086,supplier,sup_0079,mus proin corporation,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0087,supplier,sup_0080,neque institute,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0088,supplier,sup_0081,neque sed sem llp,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0089,supplier,sup_0082,netus llp,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0090,supplier,sup_0083,nonummy fusce foundation,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0091,supplier,sup_0084,nulla donec non corp.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0092,supplier,sup_0085,nulla interdum corp.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0093,supplier,sup_0086,nulla semper associates,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0094,supplier,sup_0087,orci tincidunt adipiscing inc.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0095,supplier,sup_0088,pede praesent eu inc.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0096,supplier,sup_0089,per inceptos llp,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0097,supplier,sup_0090,pharetra sed industries,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0098,supplier,sup_0091,phasellus at company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0099,supplier,sup_0092,quis pede suspendisse inc.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0100,supplier,sup_0093,quisque porttitor eros inc.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0101,supplier,sup_0094,risus_odio,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0102,supplier,sup_0095,sed consequat auctor ltd,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0103,supplier,sup_0096,sed turpis nec company,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0104,supplier,sup_0097,sodales at llp,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0105,supplier,sup_0098,taciti industries,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0106,supplier,sup_0099,tempus corporation,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0107,supplier,sup_0100,tempus mauris erat llp,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0108,supplier,sup_0101,ut erat sed llc,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0109,supplier,sup_0102,velit sed inc.,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0110,supplier,sup_0103,vestibulum hotel,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0111,supplier,sup_0104,vitae diam incorporated,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0112,supplier,sup_0105,vitae odio pipette,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0113,supplier,sup_0106,volutpat nulla dignissim corporation,,src_nist_supplychain,missing_country,medium,confirmed_gap,none,Source value was not available; record retained unchanged.
+ent_0114,supplier,sup_0254|sup_0566|sup_0593,aesculap chifa sp. z o.o.,POL,7880008829|REGON: 630002936|788-00-08-829,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0115,supplier,sup_0124|sup_0283,baxter polska sp. z o.o.,POL,8271818828|730920652,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0116,supplier,sup_0128|sup_0364,fresenius kabi polska sp. z o.o.,POL,5212936353|5212935353,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0117,supplier,sup_0554|sup_0555,jcs,FRA,1488603-1-4-1|1488603-1-6-1,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0118,supplier,sup_0464|sup_0465|sup_0467|sup_0468,mooland transports,FRA,1507275-1-1-1|1507275-1-2-1|1507275-1-4-1|1507275-1-3-2,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0119,supplier,sup_0552|sup_0553,plg,FRA,1488603-1-2-1|1488603-1-3-1,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0120,supplier,sup_0266|sup_0310,powszechny zakład ubezpieczeń spółka akcyjna,POL,526-025-10-49|5260251049,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0121,supplier,sup_0210|sup_0470,proxiserve,FRA,33487372602490|33487372601435,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0122,supplier,sup_0152|sup_0153,"rexel, specializirana trgovina z elektrotehničnimi materiali in storitvami, d.o.o.",SVN,5003555000|nimat-501,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0123,supplier,sup_0130|sup_0331,salus international sp. z o.o.,POL,6340125442|271059470,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0124,supplier,sup_0299|sup_0300|sup_0302,socotec equipements,FRA,1510895-1-1-1|1510895-1-2-1|1510895-1-5-1,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0125,supplier,sup_0001|sup_0006,supplier 1,,1|1,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0126,supplier,sup_0002|sup_0007,supplier 2,,2|2,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0127,supplier,sup_0003|sup_0008,supplier 3,,3|3,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0128,supplier,sup_0004|sup_0009,supplier 4,,4|4,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0129,supplier,sup_0005|sup_0010,supplier 5,,5|5,identifier_format_duplicate,medium,likely_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0130,supplier,sup_0288|sup_0549,zarys international group spółka z ograniczoną odpowiedzialnością spółka komandytowa,POL,273295877|648 19 97 718,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.
+ent_0131,supplier,sup_0143|sup_0192,αναστασιοσ διγκασ ε.ε. εισαγωγη & εμπορια ιατρικων,GRC,997826122|OFFER001,same_name_country,medium,possible_duplicate,none,No name-only merge; requires authoritative identifier review.

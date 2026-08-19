@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<ext:UBLExtensions>
+						<ext:UBLExtension>
+							<ext:ExtensionContent>
+								<efext:EformsExtension>
+
+								<efac:NoticeResult><efac:LotResult><cbc:ID schemeName="result">RES-0001</cbc:ID><cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode><efbc:DPSTerminationIndicator>false</efbc:DPSTerminationIndicator><efac:LotTender><cbc:ID schemeName="tender">TEN-0001</cbc:ID></efac:LotTender><efac:SettledContract><cbc:ID schemeName="contract">CON-0001</cbc:ID></efac:SettledContract><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0000</cbc:ID></efac:TenderLot></efac:LotResult><efac:LotTender>
+                    
+                
+                    
+                <cbc:ID schemeName="tender">TEN-0001</cbc:ID><efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator><cac:LegalMonetaryTotal>
+                        
+                        
+                    <cbc:PayableAmount currencyID="EUR">390412.8</cbc:PayableAmount></cac:LegalMonetaryTotal><efac:SubcontractingTerm>
+                         
+                    <efbc:TermCode listName="applicability">not-known</efbc:TermCode></efac:SubcontractingTerm><efac:TenderingParty><cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID></efac:TenderingParty><efac:TenderLot><cbc:ID schemeName="Lot">LOT-0000</cbc:ID></efac:TenderLot><efac:TenderReference><cbc:ID>COMPAGNIE GENERALE DE MAINTENANCE IMMOBILIERE</cbc:ID></efac:TenderReference></efac:LotTender><efac:SettledContract><cbc:ID schemeName="contract">CON-0001</cbc:ID><cbc:IssueDate>2024-12-09+01:00</cbc:IssueDate><cbc:Title languageID="FRA">Entretien de la robinetterie</cbc:Title><efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator><efac:ContractReference><cbc:ID>24-077s</cbc:ID></efac:ContractReference><efac:LotTender><cbc:ID schemeName="tender">TEN-0001</cbc:ID></efac:LotTender></efac:SettledContract><efac:TenderingParty>
+                    
+                    
+                    
+                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID><efac:Tenderer>
+                        
+                        
+                    <cbc:ID schemeName="organization">ORG-0007</cbc:ID></efac:Tenderer></efac:TenderingParty></efac:NoticeResult><efac:NoticeSubType><cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode></efac:NoticeSubType><efac:Organizations><efac:Organization>
+                    
+                    
+                <efac:Company>
+                        
+                        
+                        
+                        
+                        
+                        
+                    <cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0001</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">Avenue-Web Systèmes</cbc:Name></cac:PartyName><cac:PostalAddress>
+                               
+                        <cbc:CityName>Seyssinet-Pariset</cbc:CityName><cbc:PostalZone>38170</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRK24</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">EFBCEB3C-E181-0FA5-AAD01F2375474E98</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>+33480041260</cbc:Telephone><cbc:ElectronicMail>publications-joue@aws-france.com</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                    
+                <efac:Company>
+                         
+                        
+                        
+                        
+                        
+                        
+                    <cbc:WebsiteURI>https://www.logelia.fr</cbc:WebsiteURI><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0002</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">LOGELIA CHARENTE</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                 
+                        <cbc:StreetName>10 impasse d'Austerlitz</cbc:StreetName><cbc:AdditionalStreetName>Cs 32518</cbc:AdditionalStreetName><cbc:CityName>Angouleme Cedex</cbc:CityName><cbc:PostalZone>16025</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRI31</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">55954</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                               
+                        <cbc:Name>PUCEK Olivier</cbc:Name><cbc:JobTitle>Directeur Général</cbc:JobTitle><cbc:Telephone>0545386600</cbc:Telephone><cbc:ElectronicMail>marches@logelia.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                    
+                <efac:Company>
+                        
+                        
+                        
+                        
+                        
+                        
+                    <cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">LOGELIA CHARENTE</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>10 impasse d'Austerlitz</cbc:StreetName><cbc:CityName>Angouleme Cedex</cbc:CityName><cbc:PostalZone>16025</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRI31</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">1865327</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0545386600</cbc:Telephone><cbc:ElectronicMail>marches@logelia.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                    
+                <efac:Company>
+                        
+                        
+                        
+                        
+                        
+                        
+                    <cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">Tribunal administratif de Poitiers</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                  
+                        <cbc:Postbox>541</cbc:Postbox><cbc:StreetName>15, rue de Blossac</cbc:StreetName><cbc:AdditionalStreetName>Hôtel Gilbert</cbc:AdditionalStreetName><cbc:CityName>Poitiers</cbc:CityName><cbc:PostalZone>86020</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRI34</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">EFBCEB6E-F85C-42EE-CA7323F60F271A3D</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                              
+                        <cbc:Telephone>0549607919</cbc:Telephone><cbc:Telefax>0549606809</cbc:Telefax><cbc:ElectronicMail>greffe.ta-poitiers@juradm.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                    
+                <efac:Company>
+                        
+                        
+                        
+                        
+                        
+                        
+                    <cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">Tribunal administratif de Poitiers</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                  
+                        <cbc:Postbox>541</cbc:Postbox><cbc:StreetName>15, rue de Blossac</cbc:StreetName><cbc:AdditionalStreetName>Hôtel Gilbert</cbc:AdditionalStreetName><cbc:CityName>Poitiers</cbc:CityName><cbc:PostalZone>86020</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRI34</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">EFBCEB7E-CA87-8958-E11855636F33A619</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                              
+                        <cbc:Telephone>0549607919</cbc:Telephone><cbc:Telefax>0549606809</cbc:Telefax><cbc:ElectronicMail>greffe.ta-poitiers@juradm.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                    
+                <efac:Company>
+                        
+                        
+                        
+                        
+                        
+                        
+                    <cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0006</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">Tribunal administratif de Poitiers</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                  
+                        <cbc:Postbox>541</cbc:Postbox><cbc:StreetName>15, rue de Blossac</cbc:StreetName><cbc:AdditionalStreetName>Hôtel Gilbert</cbc:AdditionalStreetName><cbc:CityName>Poitiers</cbc:CityName><cbc:PostalZone>86020</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRI34</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">EFBCEB8E-EC9F-782A-B70F9DE2B760FCF2</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                              
+                        <cbc:Telephone>0549607919</cbc:Telephone><cbc:Telefax>0549606809</cbc:Telefax><cbc:ElectronicMail>greffe.ta-poitiers@juradm.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization>
+                    
+                        
+                    
+                    
+                <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator><efac:UltimateBeneficialOwner><cbc:ID schemeName="ubo">UBO-0007</cbc:ID></efac:UltimateBeneficialOwner><efac:Company>
+                        
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    <efbc:CompanySizeCode listName="economic-operator-size">large</efbc:CompanySizeCode><cac:PartyIdentification>
+                            
+                        <cbc:ID schemeName="organization">ORG-0007</cbc:ID></cac:PartyIdentification><cac:PartyName>
+                            
+                        <cbc:Name languageID="FRA">COMPAGNIE GENERALE DE MAINTENANCE IMMOBILIERE</cbc:Name></cac:PartyName><cac:PostalAddress>
+                                
+                        <cbc:StreetName>4 Rue Du Galus</cbc:StreetName><cbc:CityName>Merignac</cbc:CityName><cbc:PostalZone>33700</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">FRI12</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeName="eu">1532649-1-0-1</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact>
+                             
+                        <cbc:Telephone>0557923535</cbc:Telephone><cbc:ElectronicMail>marchepublic@cgmi.fr</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:UltimateBeneficialOwner>
+                    
+                    
+                    
+                <cbc:ID schemeName="ubo">UBO-0007</cbc:ID><efac:Nationality>
+                        
+                    <cbc:NationalityID>FRA</cbc:NationalityID></efac:Nationality></efac:UltimateBeneficialOwner></efac:Organizations><efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000043-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+							</ext:ExtensionContent>
+						</ext:UBLExtension>
+					</ext:UBLExtensions>
+					<cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+					<cbc:CustomizationID>eforms-sdk-1.10</cbc:CustomizationID>
+				<cbc:ID schemeName="notice-id">f16f9448-addb-44e5-866f-cbd655555454</cbc:ID><cbc:ContractFolderID>4a35515d-a029-4dff-94cb-12d11bcb88a2</cbc:ContractFolderID><cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate><cbc:IssueTime>15:30:01+01:00</cbc:IssueTime><cbc:VersionID>01</cbc:VersionID><cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain><cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode><cbc:NoticeLanguageCode>FRA</cbc:NoticeLanguageCode><cac:ContractingParty><cbc:BuyerProfileURI>http://agysoft.marches-publics.info</cbc:BuyerProfileURI><cac:ContractingPartyType><cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode></cac:ContractingPartyType><cac:ContractingActivity><cbc:ActivityTypeCode listName="authority-activity">hc-am</cbc:ActivityTypeCode></cac:ContractingActivity><cac:Party><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0002</cbc:ID></cac:PartyIdentification><cac:ServiceProviderParty>
+				
+				
+			<cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party>
+					
+				<cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0001</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party></cac:ContractingParty><cac:TenderingProcess><cbc:ProcedureCode languageID="FRA" listName="procurement-procedure-type">open</cbc:ProcedureCode><cac:ProcessJustification>
+						 
+					<cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode></cac:ProcessJustification></cac:TenderingProcess><cac:ProcurementProject><cbc:ID>2024.FCS.07</cbc:ID><cbc:Name languageID="FRA">Entretien de la robinetterie</cbc:Name><cbc:Description languageID="FRA">L'accord-cadre sera exécuté par l'émission de bons de commande.
+Les prestations sont réglées par des prix unitaires et forfaitaires.
+Les montants estimatifs sont indicatifs et comprennent la totalité des périodes de reconduction</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:RequestedTenderTotal><cbc:EstimatedOverallContractAmount currencyID="EUR">2268000</cbc:EstimatedOverallContractAmount></cac:RequestedTenderTotal><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">50513000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">50513000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification></cac:ProcurementProject><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0000</cbc:ID><cac:TenderingTerms><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cac:AwardingTerms><cac:AwardingCriterion>
+                                
+                            
+                                
+                            <cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>40</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Valeur technique de l'offre</cbc:Description></cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+                                    
+                                    
+                                    
+                                <ext:UBLExtensions>
+                                        
+                                    <ext:UBLExtension>
+                                            
+                                        <ext:ExtensionContent>
+                                                
+                                            <efext:EformsExtension>
+                                                    
+                                                <efac:AwardCriterionParameter>
+                                                        
+                                                            
+                                                        
+                                                    <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode><efbc:ParameterNumeric>60</efbc:ParameterNumeric></efac:AwardCriterionParameter></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode><cbc:Description languageID="FRA">Prix</cbc:Description></cac:SubordinateAwardingCriterion></cac:AwardingCriterion></cac:AwardingTerms><cac:AdditionalInformationParty>
+					
+				<cac:PartyIdentification>
+						
+						
+					<cbc:ID schemeName="touchpoint">ORG-0003</cbc:ID></cac:PartyIdentification></cac:AdditionalInformationParty><cac:AppealTerms><cac:AppealInformationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0006</cbc:ID></cac:PartyIdentification></cac:AppealInformationParty><cac:AppealReceiverParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0004</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification>
+						
+					<cbc:ID schemeName="organization">ORG-0005</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms></cac:TenderingTerms><cac:TenderingProcess><cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator><cac:NoticeDocumentReference><cbc:ID>577956-2024</cbc:ID></cac:NoticeDocumentReference><cac:AuctionTerms>
+				
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem>
+                
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">S-PF-1532649</cbc:ID><cbc:Name languageID="FRA">Entretien de la robinetterie</cbc:Name><cbc:Description languageID="FRA">L'accord-cadre sera exécuté par l'émission de bons de commande.
+Les prestations sont réglées par des prix unitaires et forfaitaires.
+Les montants estimatifs sont indicatifs et comprennent la totalité des périodes de reconduction</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">50513000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">50513000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:PlannedPeriod>
+						  
+					<cbc:StartDate>2025-01-01+01:00</cbc:StartDate><cbc:EndDate>2026-01-02+01:00</cbc:EndDate></cac:PlannedPeriod><cac:ContractExtension>
+                             
+                                
+                            
+                        <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric><cac:Renewal>
+                                    
+                                <cac:Period>
+                                        
+                                    <cbc:Description languageID="FRA">Le contrat  est susceptible d'être reconduit dans les conditions du cahier des charges</cbc:Description></cac:Period></cac:Renewal></cac:ContractExtension></cac:ProcurementProject></cac:ProcurementProjectLot><cac:TenderResult><cbc:AwardDate>2000-01-01Z</cbc:AwardDate></cac:TenderResult></ContractAwardNotice>

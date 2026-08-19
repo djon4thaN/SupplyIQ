@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+	<ext:UBLExtensions>
+		<ext:UBLExtension>
+			<ext:ExtensionContent>
+				<efext:EformsExtension>
+
+					<efbc:TransmissionDate>2024-12-31+01:00</efbc:TransmissionDate>
+					<efbc:TransmissionTime>09:42:32+01:00</efbc:TransmissionTime>
+
+					
+
+					<efac:NoticeResult>
+
+						<cbc:TotalAmount currencyID="EUR">3564982.27</cbc:TotalAmount>
+						
+
+						<efac:LotResult>
+	<!-- OPT-322 - LotResult Technical Identifier - RES-NNNN -->
+	<cbc:ID>RES-0003</cbc:ID>
+	<!-- BT-142 - Winner Chosen - Stato di selezione dei vincitori - Stato Lotto -->
+	<cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+
+	
+
+	
+								<efac:LotTender>
+									<!-- OPT-320 -->
+									<cbc:ID>TEN-0001</cbc:ID>
+								</efac:LotTender>
+	
+
+	
+							<efac:SettledContract>
+								<!-- OPT-315 - Contract Identifier Reference Del tipo CON-XXXX -->
+								<cbc:ID>CON-0003</cbc:ID>
+							</efac:SettledContract>
+
+	<efac:TenderLot>
+		<!-- BT-13713 - Result Lot Identifier - L'identificatore del lotto di risultato -->
+		<cbc:ID>LOT-0003</cbc:ID>
+	</efac:TenderLot>
+
+</efac:LotResult>
+
+						<efac:LotTender>
+	<cbc:ID>TEN-0001</cbc:ID>
+	
+					<cbc:RankCode>1</cbc:RankCode>
+	
+					<efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+	
+	
+					<cac:LegalMonetaryTotal>
+						<cbc:PayableAmount currencyID="EUR">2243086.84</cbc:PayableAmount>
+					</cac:LegalMonetaryTotal>
+	<efac:TenderingParty>
+		<cbc:ID>TPA-0001</cbc:ID>
+	</efac:TenderingParty>
+	<efac:TenderLot>
+		<cbc:ID>LOT-0003</cbc:ID>
+	</efac:TenderLot>
+	<efac:TenderReference>
+		<cbc:ID>PI002603-24 - Lotto n.3</cbc:ID>
+	</efac:TenderReference>
+</efac:LotTender>
+
+						<efac:SettledContract>
+	<!-- OPT-316 - Contract Technical Identifier - Del tipo CON-XXXX-->
+	<cbc:ID>CON-0003</cbc:ID>
+	<!-- BT-1451 - Winner Decision Date - Data Aggiudicazione -->
+	<cbc:AwardDate>2024-12-30+01:00</cbc:AwardDate>
+	<!-- BT-145 - Contract Conclusion Date -->
+	<cbc:IssueDate>2024-12-31+01:00</cbc:IssueDate>
+	
+				<efac:ContractReference>
+				<!-- BT-150 - Contract Identifier - Titolo Del Contratto - Testo libero. capire come comporlo e che maxlen ha -->
+					<cbc:ID>Contratto :  - Lotto n.3</cbc:ID>
+				</efac:ContractReference>
+	
+								<efac:LotTender>
+									<!-- BT-3202 -->
+									<cbc:ID>TEN-0001</cbc:ID>
+								</efac:LotTender>
+	
+			<efac:Funding>
+				<!-- BT-5011 - Identificativo dei fondi UE -->
+				<efbc:FinancingIdentifier>FESR 2021-2027</efbc:FinancingIdentifier><!-- BT-722 - Programma Fondi UE --><cbc:FundingProgramCode listName="eu-funded">ERDF</cbc:FundingProgramCode><!-- BT-6110 - Dettagli Fondi UE --><cbc:Description languageID="ITA">FESR 2021-2027</cbc:Description></efac:Funding>
+</efac:SettledContract>
+
+						<efac:TenderingParty>
+	<cbc:ID>TPA-0001</cbc:ID>
+	<cbc:Name>RTI BRIGANTE ENGINEERING - Istemi s.a.s. - GEO 3D - CAMPANIA SONDA SRL - GEOSVEVA DI DI CARLO LUIGI - Neotes srl - D'Urso Gerardo - GILETTI DEFERICO - Antonio Fontanella - Francesco Cuccurullo</cbc:Name>
+	<efac:Tenderer>
+		<cbc:ID>ORG-0010</cbc:ID>
+		<efbc:GroupLeadIndicator>true</efbc:GroupLeadIndicator>
+	</efac:Tenderer>
+	<efac:Tenderer>
+                        <cbc:ID>ORG-0004</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer><efac:Tenderer>
+                        <cbc:ID>ORG-0005</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer><efac:Tenderer>
+                        <cbc:ID>ORG-0006</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer><efac:Tenderer>
+                        <cbc:ID>ORG-0007</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer><efac:Tenderer>
+                        <cbc:ID>ORG-0008</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer><efac:Tenderer>
+                        <cbc:ID>ORG-0009</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer><efac:Tenderer>
+                        <cbc:ID>ORG-0011</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer><efac:Tenderer>
+                        <cbc:ID>ORG-0012</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer><efac:Tenderer>
+                        <cbc:ID>ORG-0013</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer>
+</efac:TenderingParty>
+
+					</efac:NoticeResult>
+
+					<efac:NoticeSubType>
+						<!-- OPP-070 - Notice SubType -->
+						<cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+					</efac:NoticeSubType>
+
+					<efac:Organizations>
+
+						<efac:Organization>
+	
+	
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0001</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Napoli</cbc:CityName>
+			
+					<!-- BT-512 - Codice Postale -->
+					<cbc:PostalZone>80125</cbc:PostalZone>
+					<!-- BT-507 - NUTS -->
+				    <cbc:CountrySubentityCode listName="nuts">ITI43</cbc:CountrySubentityCode>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>80011990639</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>Elisabetta Nulveni</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>0817966111</cbc:Telephone>
+			<!-- BT-739 - Fax -->
+<cbc:Telefax>0817964412</cbc:Telefax>
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>centraleacquisti@pec.regione.campania.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0002</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">TAR Campania - Napoli</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>NAPOLI</cbc:CityName>
+			
+					<!-- BT-512 - Codice Postale -->
+					<cbc:PostalZone>80133</cbc:PostalZone>
+					<!-- BT-507 - NUTS -->
+				    <cbc:CountrySubentityCode listName="nuts">ITF33</cbc:CountrySubentityCode>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>94028990631</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>TAR Campania - Napoli</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>0817817100</cbc:Telephone>
+			
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>tarna-segrprotocolloamm@ga-cert.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0003</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">ANAC AUTORITA NAZIONALE ANTICORRUZIONE</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Roma</cbc:CityName>
+			
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>97584460584</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>ANAC AUTORITA NAZIONALE ANTICORRUZIONE</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>06367231</cbc:Telephone>
+			
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>protocollo@pec.anticorruzione.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0004</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">Istemi S.R.L.</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Mercato San Severino</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>84085</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>04629350655</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>Istemi S.R.L.</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>089890390</cbc:Telephone>
+			<!-- BT-739 - Fax -->
+<cbc:Telefax>0898422173</cbc:Telefax>
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>gareistemi@pec.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0005</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">Neotes srl</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Battipaglia</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>84091</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>03641800655</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>Neotes srl</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>0828370195</cbc:Telephone>
+			<!-- BT-739 - Fax -->
+<cbc:Telefax>0828679811</cbc:Telefax>
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>neotes@pec.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0006</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">CAMPANIA SONDA SRL</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Agropoli</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>84043</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>01755510656</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>CAMPANIA SONDA SRL</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>0974843403</cbc:Telephone>
+			<!-- BT-739 - Fax -->
+<cbc:Telefax>0974843280</cbc:Telefax>
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>campanisondasrl@pec.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0007</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">Francesco Cuccurullo</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Pagani</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>84016</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>CCCFNC75M29C129X</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>Francesco Cuccurullo</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>3386883867</cbc:Telephone>
+			<!-- BT-739 - Fax -->
+<cbc:Telefax>0810604581</cbc:Telefax>
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>francescocuccurullo@epap.sicurezzapostale.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0008</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">GEOSVEVA DI DI CARLO LUIGI</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Lucera</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>71036</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>DCRLGU81A09D643E</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>GEOSVEVA DI DI CARLO LUIGI</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>0881318166</cbc:Telephone>
+			
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>geosvevalaboratori@mailcertificata.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0009</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">GEO 3D</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Rieti</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>02100</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>00937950574</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>GEO 3D</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>0746 221363</cbc:Telephone>
+			<!-- BT-739 - Fax -->
+<cbc:Telefax>0746 221363</cbc:Telefax>
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>info@pec.geo-3d.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0010</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">BRIGANTE ENGINEERING</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Napoli</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>80122</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>06388171214</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>BRIGANTE ENGINEERING</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>0817611477</cbc:Telephone>
+			
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>info@brigante-engineering.com</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0011</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">Antonio Fontanella</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Gragnano</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>80054</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>FNTNTN94D02L845I</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>Antonio Fontanella</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>3343632879</cbc:Telephone>
+			
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>antonio.fontanella@ingpec.eu</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0012</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">GILETTI DEFERICO</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Triggiano</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>70019</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>01031180571</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>GILETTI DEFERICO</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>3473787052</cbc:Telephone>
+			
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>federicogiletti@gmail.com</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization><efac:Organization>
+	
+	<efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+	<efac:Company>
+		
+		<cac:PartyIdentification>
+			<!-- OPT-200 - ID Org-->
+			<cbc:ID>ORG-0013</cbc:ID>
+		</cac:PartyIdentification>
+		<cac:PartyName>
+			<!-- BT-500 - Nome ufficiale -->
+			<cbc:Name languageID="ITA">D'Urso Gerardo</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<!-- BT-513 - Località -->
+			<cbc:CityName>Solofra</cbc:CityName>
+			<!-- BT-512 - Codice Postale -->
+<cbc:PostalZone>83029</cbc:PostalZone>
+			<cac:Country>
+				<!-- BT-514 - Paese - default ITA-->
+				<cbc:IdentificationCode listName="country">ITA</cbc:IdentificationCode>
+			</cac:Country>
+		</cac:PostalAddress>
+		<!-- BT-501 - Numero di registrazione -->
+		<cac:PartyLegalEntity>
+			<cbc:CompanyID>DRSGRD65C10A509K</cbc:CompanyID>
+		</cac:PartyLegalEntity>
+		<cac:Contact>
+			<cbc:Name>D'Urso Gerardo</cbc:Name>
+			<!-- BT-503 - Telefono -->
+			<cbc:Telephone>0825531447</cbc:Telephone>
+			<!-- BT-739 - Fax -->
+<cbc:Telefax>0825531447</cbc:Telefax>
+			<!-- BT-506 - E-mail -->
+			<cbc:ElectronicMail>dursogeo@libero.it</cbc:ElectronicMail>
+		</cac:Contact>
+	</efac:Company>
+</efac:Organization>
+
+					</efac:Organizations>
+
+				<efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000067-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+			</ext:ExtensionContent>
+		</ext:UBLExtension>
+	</ext:UBLExtensions>
+
+	<cbc:UBLVersionID>2.3</cbc:UBLVersionID> <!-- costante -->
+	<cbc:CustomizationID>eforms-sdk-1.9</cbc:CustomizationID>
+	<cbc:ID schemeName="notice-id">8de8d590-42ce-48dd-9230-a3ac574efd26</cbc:ID>
+	<!-- BT-04 - Procedure Identifier ( UID generato dalla piattaforma ) - Codice Appalto -->
+	<cbc:ContractFolderID>8de8d590-42ce-48dd-9230-a3ac574efd26</cbc:ContractFolderID>
+	<cbc:IssueDate>2024-12-31Z</cbc:IssueDate> <!-- Notice Dispatch Date - generato a runtime -->
+	<cbc:IssueTime>09:42:32Z</cbc:IssueTime>   <!-- Notice Dispatch Date - generato a runtime -->
+	<cbc:VersionID>04</cbc:VersionID> <!-- Progressivo Contract Award notice -->
+	<!-- BT-738 - Notice Preferred Publication Date - generato a runtime -->
+	<cbc:RequestedPublicationDate>2024-12-31Z</cbc:RequestedPublicationDate>
+	<!-- BT-01-notice - Base giuridica della procedura -->
+	<cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+
+	<!-- BT-02- Notice Type -->
+	<cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+	<cbc:NoticeLanguageCode listName="language">ITA</cbc:NoticeLanguageCode> <!-- costante -->
+
+	<!-- Esprime il role Buyer -->
+	<cac:ContractingParty>
+		<!-- BT-508 - Buyer Profile URL -->
+<cbc:BuyerProfileURI>http://www.regione.campania.it/ </cbc:BuyerProfileURI>
+		
+		<cac:ContractingPartyType>
+			<!-- BT-11 - Buyer Legal Type - Forma giuridica del committente -->
+			<cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+		</cac:ContractingPartyType>
+
+		<!-- BT-740 - Buyer Contracting Type -->
+		
+		
+		<cac:ContractingActivity>
+			<!-- BT-10 - Activity Authority - Attività dell'amministrazione aggiudicatrice --> <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+		</cac:ContractingActivity>
+		<cac:Party>
+			<cac:PartyIdentification>
+				<!-- ID — Acquirente -->
+				<cbc:ID>ORG-0001</cbc:ID>
+			</cac:PartyIdentification>
+			<cac:ServiceProviderParty>
+				<cac:Party>
+					<cac:PartyIdentification>
+						<!-- ID - ANAC -->
+						<cbc:ID>ORG-0003</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:Party>
+			</cac:ServiceProviderParty>
+		</cac:Party>
+	</cac:ContractingParty>
+
+	<cac:TenderingProcess>
+		<ext:UBLExtensions>
+			<ext:UBLExtension>
+				<ext:ExtensionContent>
+					<efext:EformsExtension>
+						<!-- BT-634 - La procedura o il lotto in questione, annullata/o o senza esito, sarà indetta/o nuovamente -->
+						<efbc:ProcedureRelaunchIndicator>false</efbc:ProcedureRelaunchIndicator>
+					</efext:EformsExtension>
+				</ext:ExtensionContent>
+			</ext:UBLExtension>
+		</ext:UBLExtensions>
+		<!-- BT-105 - Tipo di procedura -->
+		<cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+		
+		<cac:ProcessJustification>
+												 <!-- BT-106 - La procedura è accelerata -->
+												 <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode></cac:ProcessJustification>
+	</cac:TenderingProcess>
+
+	<cac:ProcurementProject>
+		<cbc:ID>0 - generica</cbc:ID>
+		<!-- BT-21 - Titolo procedura -->
+		<cbc:Name languageID="ITA">Proc. n. 3776-AP-2024- AQ indagini Sarno</cbc:Name>
+		<!-- BT-24 - Descrizione procedura -->
+		<cbc:Description languageID="ITA">Procedura di gara aperta telematica, ai sensi degli artt. 25 e 71 del D.lgs. n. 36/2023 da aggiudicarsi secondo il criterio dell’offerta economicamente più vantaggiosa ai sensi dell’art.108 del D.lgs. n. 36/2023, per la conclusione di un Accordo Quadro, articolato in n. 3 lotti geografici, con un unico operatore economico per ciascun lotto, ai sensi dell’art. 59, comma 3, D.lgs. n. 36/2023, per l’affidamento di Lavori e Servizi inerenti all’esecuzione di indagini geologiche, geognostiche, geotecniche, geofisiche, ambientali, strutturali, archeologiche etc. e l’espletamento di Servizi Tecnici a supporto delle attività oggetto dell’appalto inerenti all’elaborazione di piani di utilizzo, piani di indagini e di caratterizzazione ambientale, attribuzione caratteristiche pericolosità rifiuti, assistenza archeologica, rilievi di tratti tombati, batimetrici etc., direzione lavori e coordinamento della sicurezza in fase di esecuzione delle indagini“, individuati nell’ambito del “Programma strategico di riqualificazione ambientale e contrasto al rischio idraulico del fiume Sarno”, di supporto e/o integrativi alle varie progettazioni finanziate.</cbc:Description>
+		<!-- BT-23 - Natura dell'appalto / Tipo di appalto -->
+		<cbc:ProcurementTypeCode listName="contract-nature">works</cbc:ProcurementTypeCode>
+
+		
+				<cac:RequestedTenderTotal><!-- BT-27 - Valore stimato lotto -->
+					<cbc:EstimatedOverallContractAmount currencyID="EUR">23448062.10</cbc:EstimatedOverallContractAmount>
+				</cac:RequestedTenderTotal>
+
+		<cac:MainCommodityClassification>
+			<!-- BT-26 + BT-262 - Tipo di Classificatore/ Classificazione principale -->
+			<cbc:ItemClassificationCode listName="cpv">45120000</cbc:ItemClassificationCode>
+		</cac:MainCommodityClassification>
+	</cac:ProcurementProject>
+
+	<!-- 1..N - Tutti i lotti della gara -->
+	<cac:ProcurementProjectLot>
+	<cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+
+	<cac:TenderingTerms>
+
+		<!-- (BT-60-Lot) - L'appalto è finanziato almeno in parte da fondi dell'Unione europea -->
+		<cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+		<cac:AwardingTerms>
+			<cac:AwardingCriterion>
+				<!-- BT-543 - Descrizione del metodo da utilizzare se la ponderazione non può essere espressa da criteri
+					"Punteggio Economico: XX - Punteggio Tecnico: YY" -->
+				<cbc:CalculationExpression languageID="ITA">Punteggio Economico: 20.00 - Punteggio Tecnico: 80.00</cbc:CalculationExpression>
+				<cac:SubordinateAwardingCriterion>
+					<cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+					<cbc:Description languageID="ITA">Offerta economicamente più vantaggiosa</cbc:Description>
+				</cac:SubordinateAwardingCriterion>
+			</cac:AwardingCriterion>
+		</cac:AwardingTerms>
+
+		<!-- (OPT-301) AdditionalInformationParty -->
+		
+		
+		<!-- Organismo di ricorso. -->
+		<cac:AppealTerms>
+			<cac:AppealReceiverParty>
+				<cac:PartyIdentification>
+					<cbc:ID>ORG-0002</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AppealReceiverParty>
+		</cac:AppealTerms>
+
+	</cac:TenderingTerms>
+
+	<cac:TenderingProcess>
+		<!-- BT-115 - GPA Coverage - L'appalto è soggetto all'accordo sugli appalti pubblici - costante -->
+		
+					<cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+		
+					<cac:AuctionTerms>
+						<!-- BT-767 - Viene utilizzata un’asta elettronica -->
+						<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+					</cac:AuctionTerms>
+				
+		<cac:ContractingSystem>
+							<!-- (BT-765-Lot) - è una procedura negoziata all'interno di un accordo quadro -->
+							<cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+						</cac:ContractingSystem>
+						<cac:ContractingSystem>
+							<!-- BT-766-Lot - è coinvolto un sistema dinamico di acquisizione -->
+							<cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+						</cac:ContractingSystem>
+	</cac:TenderingProcess>
+
+	<cac:ProcurementProject>
+		<!--(BT-22-Lot) - numero lotto -->
+		<cbc:ID>3</cbc:ID>
+		<!-- Descrizione (BT-24-Lot) - descrizione lotto -->
+		<cbc:Name languageID="ITA">Versante orientale del Vesuvio e canale Conte Sarno</cbc:Name>
+		<!-- Descrizione (BT-24-Lot) - descrizione lotto -->
+		<cbc:Description languageID="ITA">Versante orientale del Vesuvio e canale Conte Sarno</cbc:Description>
+		<!-- BT-23 - lo stesso usato per la gara -->
+		<cbc:ProcurementTypeCode listName="contract-nature">works</cbc:ProcurementTypeCode>
+
+		
+				<cac:RequestedTenderTotal>
+					<!-- BT-27 - Valore stimato lotto -->
+					<cbc:EstimatedOverallContractAmount currencyID="EUR">3626955.63</cbc:EstimatedOverallContractAmount>
+				</cac:RequestedTenderTotal>
+
+		<cac:MainCommodityClassification>
+			<!-- CPV del lotto in caso di alcuni modelli in cui è richiesto o verrà utilizzata la CPV di procedura -->
+			<cbc:ItemClassificationCode listName="cpv">45120000</cbc:ItemClassificationCode>
+		</cac:MainCommodityClassification>
+	</cac:ProcurementProject>
+
+</cac:ProcurementProjectLot>
+
+	<cac:TenderResult>
+		<!-- BT-1451 -->
+		<cbc:AwardDate>2024-12-30Z</cbc:AwardDate>
+	</cac:TenderResult>
+
+</ContractAwardNotice>

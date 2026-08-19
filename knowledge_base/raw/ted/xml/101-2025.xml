@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">8047512</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">8047512</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta Remondis</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-04+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Umowa na odbiór i zagospodarowanie odpadów komunalnych</cbc:Title>
+                     <efac:ContractReference>
+                        <cbc:ID>Umowa na odbiór i zagospodarowanie odpadów komunalnych</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Remondis Sp. z o.o. Oddział w Łodzi </cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">33</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.gminanowosolna.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://platformazakupowa.pl/pn/gminanowosolna</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Nowosolna</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Rynek Nowosolna 1</cbc:StreetName>
+                           <cbc:CityName>Łódź</cbc:CityName>
+                           <cbc:PostalZone>92-703</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL712</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PL7282562272</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Urząd Gminy Nowosolna</cbc:Name>
+                           <cbc:Telephone>+48 426164500</cbc:Telephone>
+                           <cbc:Telefax>+48 426164544</cbc:Telefax>
+                           <cbc:ElectronicMail>s.rudzinski@ugnowosolna.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://www.uzp.gov.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://odwolania@uzp.gov.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17A</cbc:StreetName>
+                           <cbc:Department>Departament Odwołań</cbc:Department>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Departament Odwołań</cbc:Name>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:Telefax>+48 224587800</cbc:Telefax>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.remondis-polska.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://lodz@remondis.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Remondis Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Zbąszyska 6</cbc:StreetName>
+                           <cbc:Department>Oddział w Łodzi</cbc:Department>
+                           <cbc:CityName>Łódź</cbc:CityName>
+                           <cbc:PostalZone>91-342</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL711</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>7280132515</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Oddział w Łodzi</cbc:Name>
+                           <cbc:Telephone>+48 6809162</cbc:Telephone>
+                           <cbc:Telefax>+48 6809162</cbc:Telefax>
+                           <cbc:ElectronicMail>lodz@remondis.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000101-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">9c0f60d9-446e-4e8f-8b02-0944392486e2</cbc:ID>
+   <cbc:ContractFolderID>e42ef53c-4284-455f-897f-042fc513d619</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>09:59:09Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-social</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://platformazakupowa.pl/pn/gminanowosolna</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>Ustawa z dnia 11 września 2019 r. Prawo zamówień publicznych</cbc:ID>
+         <cbc:DocumentDescription languageID="POL">Postępowanie o udzielenie zamówienia publicznego prowadzone jest w trybie przetargu nieograniczonego</cbc:DocumentDescription>
+      </cac:ProcurementLegislationDocumentReference>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>LocalLegalBasis</cbc:ID>
+         <cbc:DocumentDescription languageID="POL">2.1.	Postępowanie o udzielenie zamówienia publicznego prowadzone jest w trybie przetargu nieograniczonego na podstawie  art. 129 ust. 1 pkt 1 oraz art. 132 i nast. ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz.U. z 2024 r. poz. 1320)</cbc:DocumentDescription>
+      </cac:ProcurementLegislationDocumentReference>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>CrossBorderLaw</cbc:ID>
+         <cbc:DocumentDescription languageID="POL">Prawo zamówień publicznych</cbc:DocumentDescription>
+      </cac:ProcurementLegislationDocumentReference>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:Description languageID="POL">2.1.	Postępowanie o udzielenie zamówienia publicznego prowadzone jest w trybie przetargu nieograniczonego.</cbc:Description>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">687627-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">ZPUB.271.1.2.2024</cbc:ID>
+      <cbc:Name languageID="POL">ODBIÓR I ZAGOSPODAROWANIE ODPADÓW KOMUNALNYCH Z TERENU GMINY NOWOSOLNA</cbc:Name>
+      <cbc:Description languageID="POL">3.1.	Przedmiotem zamówienia jest odbiór i zagospodarowanie odpadów komunalnych z terenu  Gminy Nowosolna od właścicieli nieruchomości, na których zamieszkują mieszkańcy, od właścicieli nieruchomości na których nie zamieszkują mieszkańcy a powstają odpady komunalne oraz od właścicieli nieruchomości na których znajdują się domki letniskowe lub inne nieruchomości wykorzystywane na cele rekreacyjno – wypoczynkowe wykorzystywane jedynie przez  część  roku oraz z Punktu Selektywnej Zbiórki Odpadów Komunalnych, w okresie od 01.01.2025 r. do 31.12.2026 r. Pozostałe postanowienia zawierają dokumenty zamówienia.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">7.1.	Z postępowania o udzielenie zamówienia publicznego wyklucza się Wykonawcę, w stosunku do którego zachodzi którakolwiek z okoliczności, o których mowa w art. 108 ust. 1 Ustawy, tj. 
+1) będącego osobą fizyczną, którego prawomocnie skazano za przestępstwo:
+a) udziału w zorganizowanej grupie przestępczej albo związku mającym na celu popełnienie przestępstwa lub przestępstwa skarbowego, o którym mowa w art. 258 Kodeksu karnego,
+b) handlu ludźmi, o którym mowa w art. 189a Kodeksu karnego,
+c) o którym mowa w art. 228-230a, art. 250a Kodeksu karnego, w art. 46-48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz.U. z 2023 r. poz. 2048 oraz z 2024 r. poz. 1166) lub w art. 54 ust. 1-4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2024 r. poz. 930),
+d) finansowania przestępstwa o charakterze terrorystycznym, o którym mowa w art. 165a Kodeksu karnego, lub przestępstwo udaremniania lub utrudniania stwierdzenia przestępnego pochodzenia pieniędzy lub ukrywania ich pochodzenia, o którym mowa w art. 299 Kodeksu karnego,
+e) o charakterze terrorystycznym, o którym mowa w art. 115 § 20 Kodeksu karnego, lub mające na celu popełnienie tego przestępstwa,
+f) powierzenia wykonywania pracy małoletniemu cudzoziemcowi, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1745),
+g) przeciwko obrotowi gospodarczemu, o których mowa w art. 296-307 Kodeksu karnego, przestępstwo oszustwa, o którym mowa w art. 286 Kodeksu karnego, przestępstwo przeciwko wiarygodności dokumentów, o których mowa w art. 270-277d Kodeksu karnego, lub przestępstwo skarbowe,
+h) o którym mowa w art. 9 ust. 1 i 3 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej
+- lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+2) jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo-akcyjnej lub prokurenta prawomocnie skazano za przestępstwo, o którym mowa w pkt 1;
+3) wobec którego wydano prawomocny wyrok sądu lub ostateczną decyzję administracyjną o zaleganiu z uiszczeniem podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne, chyba że wykonawca odpowiednio przed upływem terminu do składania wniosków o dopuszczenie do udziału w postępowaniu albo przed upływem terminu składania ofert dokonał płatności należnych podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłaty tych należności;
+4) wobec którego prawomocnie orzeczono zakaz ubiegania się o zamówienia publiczne;
+5) jeżeli zamawiający może stwierdzić, na podstawie wiarygodnych przesłanek, że wykonawca zawarł z innymi wykonawcami porozumienie mające na celu zakłócenie konkurencji, w szczególności jeżeli należąc do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, złożyli odrębne oferty, oferty częściowe lub wnioski o dopuszczenie do udziału w postępowaniu, chyba że wykażą, że przygotowali te oferty lub wnioski niezależnie od siebie;
+6) jeżeli, w przypadkach, o których mowa w art. 85 ust. 1 Ustawy, doszło do zakłócenia konkurencji wynikającego z wcześniejszego zaangażowania tego wykonawcy lub podmiotu, który należy z wykonawcą do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, chyba że spowodowane tym zakłócenie konkurencji może być wyeliminowane w inny sposób niż przez wykluczenie wykonawcy z udziału w postępowaniu o udzielenie zamówienia.
+7.2.	Dodatkowo z postępowania o udzielenie zamówienia Zamawiający wykluczy Wykonawcę, w stosunku do którego zachodzi okoliczność wskazana w art. 109 ust. 1 pkt 4) Ustawy tj. w stosunku do którego otwarto likwidację, ogłoszono upadłość, którego aktywami zarządza likwidator lub sąd, zawarł układ z wierzycielami, którego działalność gospodarcza jest zawieszona albo znajduje się on w innej tego rodzaju sytuacji wynikającej z podobnej procedury przewidzianej w przepisach miejsca wszczęcia tej procedury.
+7.3.	Zamawiający, na podstawie przepisów art. 7 ust. 1 Ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspierania agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz.U. z 2024 r. poz. 507) zwanej dalej „ustawą o szczególnych rozwiązaniach” wykluczy z postępowania:
+7.3.1.	Wykonawcę wymienionego w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisanego na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3;
+7.3.2.	Wykonawcę, którego beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu 
+(Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843) jest osoba wymieniona w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisana na listę lub będąca takim beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile została wpisana na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ustawy o szczególnych rozwiązaniach;
+7.3.3.	Wykonawcę, którego jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120 z późn. zm.), jest podmiot wymieniony w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24 lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ustawy o szczególnych rozwiązaniach;
+7.4.	Zamawiający, na mocy przepisu art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 229 z 31.7.2014, str. 1), dalej: rozporządzenie 833/2014, w brzmieniu nadanym  rozporządzeniem  Rady (UE) 2022/576 w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 111 z 8.4.2022, str. 1), dalej: rozporządzenie 2022/576,  które ustanawiają zakaz udziału rosyjskich wykonawców w zamówieniach publicznych i koncesjach udzielanych we wszystkich państwach członkowskich Unii Europejskiej, wykluczy z postępowania Wykonawców, :
+7.4.1.	będących obywatelami rosyjskimi, osobami fizycznymi lub prawnymi, podmiotami lub organami z siedzibą w Rosji;
+7.4.2.	będących osobami prawnymi, podmiotami lub organami, do których prawa własności bezpośrednio lub pośrednio w ponad 50 % należą do obywateli rosyjskich lub osób fizycznych lub prawnych, podmiotów lub organów z siedzibą w Rosji;
+7.4.3.	będących osobami fizycznymi lub prawnymi, podmiotami lub organami działającymi w imieniu lub pod kierunkiem:
+a.	obywateli rosyjskich lub osób fizycznych lub prawnych, podmiotów lub organów z siedzibą w Rosji lub
+b.	osób prawnych, podmiotów lub organów, do których prawa własności bezpośrednio lub pośrednio w ponad 50 % należą do obywateli rosyjskich lub osób fizycznych lub prawnych, podmiotów lub organów z siedzibą w Rosji,
+7.4.4.	będących podwykonawcami, dostawcami i podmiotami, na których zdolności polega się w rozumieniu dyrektyw w sprawie zamówień publicznych, w przypadku gdy przypada na nich ponad 10 % wartości zamówienia, jeżeli taki podwykonawca, dostawca, podmiot, na którego zdolności wykonawca polega, należy do którejkolwiek z kategorii podmiotów wymienionych w punktach 7.4.1. – 7.4.3. SWZ.
+Pozostałe postanowienia w tym zakresie zawiera pkt 7 SWZ.</cbc:Note>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="PLN">8983455</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90511100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90513100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90514000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">34928480</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="POL">7.3.	Zamawiający, na podstawie przepisów art. 7 ust. 1 Ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspierania agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz.U. z 2024 r. poz. 507) zwanej dalej „ustawą o szczególnych rozwiązaniach” wykluczy z postępowania:
+7.3.1.	Wykonawcę wymienionego w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisanego na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3;
+7.3.2.	Wykonawcę, którego beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu 
+(Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843) jest osoba wymieniona w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisana na listę lub będąca takim beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile została wpisana na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ustawy o szczególnych rozwiązaniach;
+7.3.3.	Wykonawcę, którego jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120 z późn. zm.), jest podmiot wymieniony w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24 lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ustawy o szczególnych rozwiązaniach;</cbc:Description>
+         <cac:Address>
+            <cbc:StreetName>ul. Rynek Nowosona 1</cbc:StreetName>
+            <cbc:CityName>Łódź</cbc:CityName>
+            <cbc:PostalZone>92-703</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL712</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="fsr">false</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">dec-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>0.6</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-threshold">max-pass</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>0.6</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">cena</cbc:Name>
+                  <cbc:Description languageID="POL">Ad.1) Cena oferty będzie wynikała z „Ceny brutto oferty”, zapisanej w pkt 6. Formularza ofertowego. Ze wszystkich wartości  Ci  złożonych ofert, Zamawiający przyjmie wartość najmniejszą , jako C minimum . Punktacja za cenę oferty ustalona jest w sposób następujący:
+                                                  C minimum
+                              C  =      -------------------   x 100 punktów x 60%
+				C i 
+C i   -  Cena badanej oferty (z  Formularza  ofertowego) </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">dec-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>0.4</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-threshold">max-pass</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>0.4</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">cena</cbc:Name>
+                  <cbc:Description languageID="POL">Ad.2) Aspekty środowiskowe będą oceniane na podstawie Wykazu pojazdów przystosowanych do odbioru odpadów komunalnych dostępnych Wykonawcy w celu realizacji zamówienia. Maksymalna ilość punktów przyznana w tym kryterium to 40 pkt. Wykonawca jest zobowiązany do wypełnienia ww. wykazu, który stanowi treść Formularza oferty, gdyż na tej podstawie Zamawiający będzie przyznawał punkty w tym kryterium. Punkty będą przyznawane w następujący sposób:
+1)	jeżeli Wykonawca w złożonym wykazie - określonym w pkt 7 Formularza oferty - pojazdów przystosowanych do odbioru odpadów komunalnych wykaże, że posiada jeden pojazd, który spełnia normę emisji spalin Euro 6 – otrzyma 0 pkt,
+2)	jeżeli Wykonawca w złożonym wykazie - określonym w pkt 7 Formularza oferty - pojazdów przystosowanych do odbioru odpadów komunalnych wykaże, że posiada dwa pojazdy, które spełniają normę emisji spalin Euro 6 – otrzyma 10 pkt,
+3)	jeżeli Wykonawca w złożonym wykazie - określonym w pkt 7 Formularza oferty - pojazdów przystosowanych do odbioru odpadów komunalnych wykaże, że posiada trzy pojazdy, które spełniają normę emisji spalin Euro 6 – otrzyma 20 pkt,
+4)	jeżeli Wykonawca w złożonym wykazie - określonym w pkt 7 Formularza oferty - pojazdów przystosowanych do odbioru odpadów komunalnych wykaże, że posiada  co najmniej trzy pojazdy które spełniają normę emisji spalin Euro 6 oraz co najmniej jeden pojazd nisko- lub zeroemisyjny – otrzyma 40 pkt.
+Niewypełnienie Wykazu pojazdów przystosowanych do odbioru odpadów komunalnych zawartego w pkt 7 Formularza oferty, będzie podstawą do odrzucenia oferty Wykonawcy z postępowania, jako niezgodnej z treścią SWZ.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">24.1.	Środki ochrony prawnej zawarte są w  dziale IX ustawy.
+24.2.	Odwołanie przysługuje na: 
+24.2.a) niezgodną z przepisami ustawy czynność zamawiającego, podjętą w postępowaniu 
+o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, w tym na projektowane postanowienie umowy; 
+24.2.b) zaniechanie czynności w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, do której zamawiający był obowiązany na podstawie ustawy; 
+24.3.	Odwołanie wnosi się:
+a)	 w terminie 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącego podstawę jego wniesienia , jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej,
+b)	15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącego        podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż        określony w pkt. 24.3.a). 
+24.4.	Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym UE lub zamieszczenia dokumentów zamówienia na stronie internetowej.
+24.5.	Odwołanie wobec czynności innych niż określone w punktach 24.2 i 24.3 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.
+24.6.	Odwołanie wnosi się do prezesa krajowej izby odwoławczej.
+24.7.	Pisma w postepowaniu odwoławczym wnosi się w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej, z tym, że odwołanie i przystąpienie do postepowania odwoławczego, wniesione w postaci elektronicznej, wymagają opatrzenia podpisem zaufanym. 
+24.8.	Pisma w formie pisemnej wnosi się za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012r. – Prawo pocztowe, osobiście, za pośrednictwem posłańca, 
+a pisma w postaci elektronicznej wnosi się przy użyciu środków komunikacji elektronicznej.
+24.9.	Odwołujący przekazuje zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.
+24.10.	Domniemywa się, że zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
+24.11.	 Odwołanie zawiera: 
+1) 	imię i nazwisko albo nazwę, miejsce zamieszkania albo siedzibę, numer telefonu oraz adres poczty elektronicznej odwołującego oraz imię i nazwisko przedstawiciela (przedstawicieli); 
+2) 	nazwę i siedzibę zamawiającego, numer telefonu oraz adres poczty elektronicznej 
+    	zamawiającego; 
+3) 	numer powszechnego elektronicznego systemu ewidencji ludności (PESEL) lub NIP     odwołującego będącego osobą fizyczną, jeżeli jest on obowiązany do jego posiadania albo  
+    	posiada go nie mając takiego obowiązku; 
+4) 	numer w krajowym rejestrze sądowym, a w przypadku jego braku – numer w innym     właściwym rejestrze, ewidencji lub nip odwołującego niebędącego osobą fizyczną, który
+    	nie ma obowiązku wpisu we właściwym rejestrze lub ewidencji, jeżeli jest on obowiązany     do jego posiadania; 
+5) 	określenie przedmiotu zamówienia; 
+6) 	wskazanie numeru ogłoszenia w przypadku zamieszczenia w biuletynie zamówień     publicznych albo publikacji w dzienniku urzędowym unii europejskiej; 
+7) 	wskazanie czynności lub zaniechania czynności zamawiającego, której zarzuca się     niezgodność z przepisami ustawy; 
+8) 	zwięzłe przedstawienie zarzutów; 
+9) 	żądanie co do sposobu rozstrzygnięcia odwołania; 
+10) 	wskazanie okoliczności faktycznych i prawnych uzasadniających wniesienie odwołania
+      	oraz dowodów na poparcie przytoczonych okoliczności; 
+11) 	podpis odwołującego albo jego przedstawiciela lub przedstawicieli; 
+12) 	wykaz załączników.
+24.12. Do odwołania dołącza się: 
+a) 	dowód uiszczenia wpisu od odwołania w wymaganej wysokości; 
+b) 	dowód przesłania kopii odwołania zamawiającemu; 
+c) 	dokument potwierdzający umocowanie do reprezentowania odwołującego.
+24.13. Na orzeczenie krajowej izby odwoławczej oraz postanowienie prezesa krajowej izby odwoławczej, o którym mowa w art. 519 ust. 1 ustawy, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga sądu, którą wnosi się do sądu okręgowego w warszawie – sądu zamówień publicznych za pośrednictwem prezesa krajowej izby odwoławczej  w terminie 14 dni od dnia doręczenia orzeczenia izby lub postanowienia prezesa izby. O którym mowa w art. 519 ust. 1, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – prawo pocztowe jest równoważne z jej wniesieniem. </cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cac:SubsequentProcessTenderRequirement>
+               <cbc:Name>buyer-categories</cbc:Name>
+            </cac:SubsequentProcessTenderRequirement>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">ZPUB.271.1.2.2024</cbc:ID>
+         <cbc:Name languageID="POL">ODBIÓR I ZAGOSPODAROWANIE ODPADÓW KOMUNALNYCH Z TERENU GMINY NOWOSOLNA</cbc:Name>
+         <cbc:Description languageID="POL">3.1.	Przedmiotem zamówienia jest odbiór i zagospodarowanie odpadów komunalnych z terenu  Gminy Nowosolna od właścicieli nieruchomości, na których zamieszkują mieszkańcy, od właścicieli nieruchomości na których nie zamieszkują mieszkańcy a powstają odpady komunalne oraz od właścicieli nieruchomości na których znajdują się domki letniskowe lub inne nieruchomości wykorzystywane na cele rekreacyjno – wypoczynkowe wykorzystywane jedynie przez  część  roku oraz z Punktu Selektywnej Zbiórki Odpadów Komunalnych, w okresie od 01.01.2025 r. do 31.12.2026 r.
+Pozostałe postanowienia zawierają dokumenty zamówienia.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:EstimatedOverallContractQuantity unitCode="TNE">2500</cbc:EstimatedOverallContractQuantity>
+         <cbc:Note languageID="POL">8.1. 	O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy:
+8.1.1.	Spełniają warunki udziału w postępowaniu o których mowa w art. 112 ust. 2 Ustawy dotyczące::  
+a)	zdolności do występowania w obrocie gospodarczym - zamawiający odstępuje od postawienia warunku w tym zakresie.
+b)	uprawień do prowadzenia określonej działalności gospodarczej lub zawodowej, jeśli wynika to z odrębnych przepisów - Zamawiający uzna, że Wykonawca spełnia ww. warunki, jeżeli Wykonawca posiada uprawnienia w zakresie prowadzonej działalności, w szczególności:
+b.1) aktualny wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości z terenu gminy Nowosolna prowadzonego przez Wójta Gminy Nowosolna,
+b.2) wpis do bazy rejestru (podmiotów wprowadzających produkty, produkty w opakowaniach i gospodarujących odpadami) w zakresie niezbędnym do realizacji zamówienia,
+c)	sytuacji ekonomicznej lub finansowej – 
+c.1) Zamawiający uzna, że Wykonawca spełnia ww. warunek, jeżeli Wykonawca wykaże, że jest ubezpieczony od odpowiedzialności cywilnej w zakresie prowadzonej działalności związanej z przedmiotem zamówienia na sumę gwarancyjną nie mniejszą niż 1 000 000 PLN.
+d)	zdolności technicznej lub zawodowej - Zamawiający uzna, że Wykonawca spełnia ww. warunek, jeżeli: 
+d.1) Wykonawca wykonał w okresie ostatnich 3 lat  przed dniem upływu terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, co najmniej dwie usługi polegające na odbiorze i zagospodarowaniu od właścicieli nieruchomości co najmniej 2 000 Mg odpadów komunalnych w sposób ciągły przez min. 12 miesięcy – wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których usługi te zostały wykonane oraz załączeniem dokumentów określających, czy te usługi zostały wykonane należycie, przy czym dowodami o których mowa, są referencje bądź inne dokumenty wystawione przez podmiot, na rzecz którego te usługi były wykonywane, a jeżeli z uzasadnionej przyczyny o obiektywnym charakterze Wykonawca nie jest w stanie uzyskać tych dokumentów – oświadczenie Wykonawcy,
+d.2) Wykonawca dysponuje co najmniej:
+d.2.1) dwoma pojazdami przystosowanymi do odbioru zmieszanych odpadów komunalnych,
+d.2.2) dwoma pojazdami przystosowanymi do odbierania selektywnie zebranych odpadów komunalnych,
+d.2.3) jednym pojazdem do odbioru odpadów bez funkcji kompaktującej – które spełniają wymagania, o których mowa w rozporządzeniu Ministra Środowiska w sprawie szczegółowych wymagań odbierania odpadów komunalnych od właścicieli nieruchomości wraz z podstawą do ich dysponowania.
+Informacje w zakresie warunków określone w pkt d.1 – d.2) należy podać w załącznikach  
+nr 4a – 4b do SWZ. 
+9.	W przypadku gdy Wykonawca wykonywał w ramach jednego kontraktu/umowy większy zakres usług, dla potrzeb niniejszego zamówienia zobowiązany jest wyodrębnić rodzajowo i podać wartość usług, o których mowa powyżej.
+9.1.	W przypadku złożenia przez Wykonawców dokumentów zawierających kwoty wyrażone w innych walutach niż PLN, dla potrzeb oceny spełniania warunku określonego powyżej, Zamawiający, jako kurs przeliczeniowy waluty przyjmie średni kurs danej waluty publikowany przez Narodowy Bank Polski w dniu publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej. Jeżeli w dniu publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, Narodowy Bank Polski nie publikuje średniego kursu danej waluty, za podstawę przeliczenia przyjmuje się średni kurs waluty publikowany pierwszego dnia, po dniu publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, w którym zostanie on opublikowany.
+9.2.	Oceniając zdolność techniczną lub zawodową, zamawiający może, na każdym etapie postępowania, uznać, że wykonawca nie posiada wymaganych zdolności, jeżeli posiadanie przez wykonawcę sprzecznych interesów, w szczególności zaangażowanie zasobów technicznych lub zawodowych wykonawcy w inne przedsięwzięcia gospodarcze wykonawcy może mieć negatywny wpływ na realizację zamówienia.  
+9.3.	W przypadku wykazywania spełnienia warunków przez wykonawców wspólnie ubiegających się o udzielenie zamówienia (konsorcjum, spółka cywilna) stosuje się postanowienia pkt 11 i nast. SWZ.
+9.4.	Wykonawca może w celu potwierdzenia spełnienia warunków udziału w postępowaniu, w stosownych sytuacjach oraz w odniesieniu do konkretnego zamówienia, lub jego części, polegać na zdolnościach technicznych lub zawodowych lub sytuacji finansowej lub ekonomicznej innych podmiotów, niezależnie od charakteru prawnego łączących go z nim stosunków prawnych.
+9.5. 	Wykonawca, który polega na zdolnościach lub sytuacji podmiotów udostępniających zasoby, składa wraz z ofertą, zobowiązanie podmiotu udostępniającego zasoby do oddania mu do dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia lub inny podmiotowy środek dowodowy potwierdzający, że wykonawca realizując zamówienie, będzie dysponował niezbędnymi zasobami tych podmiotów (wzór zobowiązania stanowi załącznik nr 5 do SWZ).
+9.6.	Zobowiązanie podmiotu udostępniającego zasoby, o którym mowa w pkt. 9.5 SWZ, potwierdza, że stosunek łączący wykonawcę z podmiotami udostępniającymi zasoby gwarantuje rzeczywisty dostęp do tych zasobów oraz określa w szczególności: 
+9.6.1)   zakres dostępnych wykonawcy zasobów podmiotu udostępniającego zasoby; 
+9.6.2) sposób i okres udostępnienia wykonawcy i wykorzystania przez niego zasobów podmiotu udostępniającego te zasoby przy wykonywaniu zamówienia; 
+9.6.3) czy i w jakim zakresie podmiot udostępniający zasoby, na zdolnościach którego wykonawca polega w odniesieniu do warunków udziału w postępowaniu dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia, zrealizuje usługi, których wskazane zdolności dotyczą.
+9.7. 	Zamawiający ocenia, czy udostępniane wykonawcy przez podmioty udostępniające zasoby, zdolności techniczne lub zawodowe lub ich sytuacja finansowa lub ekonomiczna, pozwalają na wykazanie przez wykonawcę spełniania warunków udziału w postępowaniu, o których mowa w pkt. 8.1.1.d) SWZ,  a także bada, czy nie zachodzą wobec tego podmiotu podstawy wykluczenia, które zostały przewidziane względem wykonawcy.
+9.8. 	Jeżeli zdolności techniczne lub zawodowe, sytuacja ekonomiczna lub finansowa podmiotu udostępniającego zasoby nie potwierdzają spełniania przez wykonawcę warunków udziału w postępowaniu lub zachodzą wobec tego podmiotu podstawy wykluczenia, zamawiający żąda, aby wykonawca w terminie określonym przez zamawiającego zastąpił ten podmiot innym podmiotem lub podmiotami albo wykazał, że samodzielnie spełnia warunki udziału 
+w postępowaniu.
+9.9. 	Wykonawca nie może, po upływie terminu składania ofert, powoływać się na zdolności lub sytuację podmiotów udostępniających zasoby, jeżeli na etapie składania ofert nie polegał on w danym zakresie na zdolnościach lub sytuacji podmiotów udostępniających zasoby.
+9.10. W odniesieniu do warunków dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia wykonawcy mogą polegać na zdolnościach podmiotów udostępniających zasoby, jeżeli podmioty te wykonają usługi, do realizacji których te zasoby są wymagane.
+</cbc:Note>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="environmental-impact">pollu-prev</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="gpp-criteria">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="PLN">8983455</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90000000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90511100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90513100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90514000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">34928480</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Gmina Nowosolna</cbc:StreetName>
+               <cbc:CityName>Gmina Nowosolna</cbc:CityName>
+               <cbc:PostalZone>92-701</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL712</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2026-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

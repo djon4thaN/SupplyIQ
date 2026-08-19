@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">889126.5</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">754126.5</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">754126.5</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <cac:FinancingParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:FinancingParty>
+                     <cac:PayerParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:PayerParty>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">135000</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">135000</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <cac:FinancingParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:FinancingParty>
+                     <cac:PayerParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:PayerParty>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0003</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">no-rece</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">754126.5</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>pakiet nr 1 Środki kontrastowe i cieniujące - Salus International spółka z ograniczoną odpowiedzialnością</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">135000</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>pakiet nr 2 Środek kontrastowy - Urtica Sp. z o. o.</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-10+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-13+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">pakiet nr 1 Środki kontrastowe i cieniujące</cbc:Title>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>pakiet nr 1 Środki kontrastowe i cieniujące</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     <cbc:AwardDate>2024-12-10+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-13+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">pakiet nr 2 Środek kontrastowy</cbc:Title>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>pakiet nr 2 Środek kontrastowy</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>SALUS INTERNATIONAL Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     <cbc:Name>Urtica Sp. z o. o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.szpital.rybnik.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://platformazakupowa.pl/pn/szpital.rybnik</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzki Szpital Specjalistyczny Nr 3 w Rybniku</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Energetyków 46</cbc:StreetName>
+                           <cbc:Department>Dział Zamówień Publicznych i Zaopatrzenia</cbc:Department>
+                           <cbc:CityName>Rybnik</cbc:CityName>
+                           <cbc:PostalZone>44-200</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>272780323</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 324291288</cbc:Telephone>
+                           <cbc:Telefax>+48 324291225</cbc:Telefax>
+                           <cbc:ElectronicMail>zp@szpital.rybnik.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.uzp.gov.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>www.uzp.gov.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Sekretariat Biura Odwołań</cbc:Name>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:Telefax>+48 224587800</cbc:Telefax>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">SALUS INTERNATIONAL Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Pułaskiego 9</cbc:StreetName>
+                           <cbc:CityName>Katowice</cbc:CityName>
+                           <cbc:PostalZone>40-273</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>271059470</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48327885576</cbc:Telephone>
+                           <cbc:Telefax>+48327885576</cbc:Telefax>
+                           <cbc:ElectronicMail>przetargi@salusint.com.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Urtica Sp. z o. o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Krzemieniecka 120</cbc:StreetName>
+                           <cbc:CityName>Wrocław</cbc:CityName>
+                           <cbc:PostalZone>54-613</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL514</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>932081801</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48717908382</cbc:Telephone>
+                           <cbc:Telefax>+48717908382</cbc:Telefax>
+                           <cbc:ElectronicMail>przetargi@urtica.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000284-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">0b9d625a-9aaa-41c3-b26f-9111a87b1049</cbc:ID>
+   <cbc:ContractFolderID>514487f3-9261-4ec1-a0b1-d0ada2000010</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>10:31:14Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://platformazakupowa.pl/pn/szpital.rybnik</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">health</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <ext:UBLExtensions>
+         <ext:UBLExtension>
+            <ext:ExtensionContent>
+               <efext:EformsExtension>
+                  <efbc:ProcedureRelaunchIndicator>false</efbc:ProcedureRelaunchIndicator>
+               </efext:EformsExtension>
+            </ext:ExtensionContent>
+         </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">659978-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">LAS-145-PN/47-2024.AR</cbc:ID>
+      <cbc:Name languageID="POL">Dostawy środków kontrastowych</cbc:Name>
+      <cbc:Description languageID="POL">1. Przedmiotem zamówienia są dostawy środków kontrastowych. 2. Szczegółowy opis przedmiotu zamówienia zawierają załącznik: 1) „Formularz cenowy” – załącznik nr 1.1.a -1.1.c do SWZ, 2) Projektowane postanowienia umowy, które zostaną wprowadzone do treści umowy /postanowienia
+umowy – załącznik nr 2 do SWZ.
+UWAGA:
+– Zamawiający wymaga wyceny jednostki miary wskazanej w formularzu cenowym – podana w kolumnie „cena jednostki miary netto” cena musi dotyczyć tej jednostki. Nie dopuszcza się zmiany jednostki miary (np. z „fiol.” na „amp” lub odwrotnie). Zamawiający zwraca uwagę, iż wprowadzanie przez wykonawcę w formularzu cenowym dodatkowych kolumn może prowadzić do sytuacji braku jednoznaczności oferty lub obliczenia ceny oferty w sposób odmienny od określonego przez zamawiającego w punkcie X, a w konsekwencji – do odrzucenia oferty. – Zamawiający nie wymaga dołączania formularzy cenowych dla pakietów przetargowych, na które
+wykonawca nie składa oferty. Zamawiający dopuszcza możliwość składania ofert częściowych, a zatem przedmiot zamówienia podzielony jest na 3 odrębne części (pakiety). Zamawiający dopuszcza możliwość składania ofert na wybrane części (pakiety), lecz nie dopuszcza możliwości składania ofert na dowolnie wybrane pozycje w danej części (w danym pakiecie), w poszczególnych częściach (pakietach) musi być wyceniony pełen zakres podany przez Zamawiającego. Zamawiający informuje, iż zgodnie z art. 139 ustawy Pzp najpierw dokona badania i oceny ofert, a następnie kwalifikacji podmiotowej Wykonawcy, którego oferta została najwyżej oceniona w danym pakiecie, w zakresie braku podstaw do wykluczenia oraz spełniania warunków udziału w postępowaniu.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL"> I. PODMIOTOWE ŚRODKI DOWODOWE
+1. Do oferty każdy Wykonawca musi dołączyć:1.1 Oświadczenie na formularzu Jednolitego Europejskiego Dokumentu Zamówienia (dalej: „JEDZ”) - Załącznik nr 3 do SWZ w formacie pdf sporządzone zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/17 z dnia 5 stycznia 2016 r.
+Oświadczenie JEDZ stanowi dowód potwierdzający brak podstaw wykluczenia, spełnianie warunków udziału w postępowaniu, odpowiednio na dzień składania ofert, tymczasowo zastępujący wymagane przez Zamawiającego podmiotowe środki dowodowe. Wykonawca może wykorzystać JEDZ złożony w odrębnym postępowaniu o udzielenie zamówienia, jeżeli potwierdzi, że informacje w nim zawarte pozostają prawidłowe. Uwaga! W przypadku wspólnego ubiegania się o zamówienie przez Wykonawców, JEDZ, składa każdy z Wykonawców. Oświadczenia te potwierdzają brak podstaw wykluczenia oraz spełnianie warunków udziału w postępowaniu w zakresie, w jakim każdy z Wykonawców wykazuje spełnianie warunków udziału w postępowaniu. Wykonawca, w przypadku polegania na zdolnościach lub sytuacji podmiotów udostępniających zasoby, przedstawia, wraz z oświadczeniem, także JEDZ podmiotu udostępniającego zasoby, potwierdzające brak podstaw wykluczenia tego podmiotu oraz odpowiednio spełnianie warunków udziału w postępowaniu, w zakresie, w jakim Wykonawca powołuje się na jego zasoby. 1.2 Oświadczenie dot. brak podstaw wykluczenia na podstawie art. 5k Rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014r. oraz art. 7 ust 1 ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego - wzór załącznika nr 4 do SWZ. 1.3 Zobowiązanie podmiotu udostępniającego zasoby do oddania Wykonawcy do dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia lub inny podmiotowy środek dowodowy potwierdzający, że Wykonawca realizując zamówienie, będzie dysponował niezbędnymi zasobami tych podmiotów – w przypadku, gdy Wykonawca polega na zdolnościach lub sytuacji podmiotów udostępniających zasoby - wzór załącznika nr 5 do SWZ. 1.4 Oświadczenie, z którego wynika, które dostawy wykonają poszczególni wykonawcy – dotyczy wykonawców wspólnie ubiegających się o udzielenie zamówienia w przypadku, o którym mowa w art. 117 ust. 2 i 3 PZP - wzór załącznika nr 8 do SWZ.
+1.5 W celu potwierdzenia, że osoba działająca w imieniu wykonawcy jest umocowana do jego reprezentowania, zamawiający wymaga od wykonawcy złożenia odpisu lub informacji z Krajowego Rejestru Sądowego, Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub innego właściwego rejestru. Wykonawca nie jest zobowiązany do złożenia dokumentów, o których mowa w zdaniu 1, jeżeli zamawiający może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, o ile wykonawca wskazał dane umożliwiające dostęp do tych dokumentów (stosowne oświadczenie znajduje się w treści oferty – załącznik nr 1 do SWZ). Jeżeli w imieniu wykonawcy działa osoba, której umocowanie do jego reprezentowania nie wynika z dokumentów, o których mowa w zadaniu 1 powyżej, zamawiający wymaga od wykonawcy złożenia oprócz dokumentu określonego w zdaniu 1 powyżej, pełnomocnictwa lub innego dokumentu potwierdzającego umocowanie do reprezentowania Wykonawcy. Pełnomocnictwo przekazuje się zgodnie z zasadami wskazanymi w rozdziale XII pkt 18 i 19 Powyższe dotyczy również osoby działającej w imieniu Wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego. 2. Na wezwanie:Zamawiający przed wyborem najkorzystniejszej oferty, wezwie Wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, nie krótszym niż 10 dni, aktualnych na dzień złożenia następujących podmiotowych środków dowodowych: 2.1 Dotyczących braku podstaw wykluczenia: 1) informacji z Krajowego Rejestru Karnego w zakresie: a) art. 108 ust. 1 pkt. 1 i 2 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, b) art. 108 ust. 1 pkt. 4 ustawy, dotyczącej orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka karnego, - sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem; 2) oświadczenia Wykonawcy, w zakresie art. 108 ust. 1 pkt 5 ustawy Pzp, o braku przynależności do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2020 r. poz. 1076 i 1086), z innym wykonawcą, który złożył odrębną ofertę, ofertę częściową w postępowaniu, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty, oferty częściowej w postępowaniu niezależnie od innego Wykonawcy należącego do tej samej grupy kapitałowej; – wzór załącznika nr 6 do SWZ. UWAGA! W przypadku złożenia w niniejszym postępowaniu jednej oferty w zakresie danego pakietu zamawiający odstąpi od wzywania wykonawcy do złożenia dokumentu, o którym mowa w pkt 2.1.23) odpisu lub informacji z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, w zakresie art. 109 ust. 1 pkt 4 ustawy, sporządzonych nie wcześniej niż 3 miesiące przed jej złożeniem, jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji; 4) oświadczenia Wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1 ustawy Pzp, w zakresie podstaw wykluczenia z postępowania wskazanych przez zamawiającego, o których mowa w: a) art. 108 ust. 1 pkt 3 ustaw Pzp, b) art. 108 ust. 1 pkt 4 ustawy Pzp, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego, c) art. 108 ust. 1 pkt 5 ustawy Pzp, dotyczących zawarcia z innymi wykonawcami porozumienia mającego na celu zakłócenie konkurencji, d) art. 108 ust. 1 pkt 6 ustawy Pzp, - wzór załącznika nr 4 do SWZ. 2.2 Dotyczących spełnienia warunków udziału w postępowaniu: 1) aktualne zezwolenie na obrót hurtowy produktami leczniczymi lub na wytwarzanie lub import produktu leczniczego będącego przedmiotem zamówienia, zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne (t.j. Dz.U. z 2021, poz. 1977 ze zm.). 3. Podmiot udostępniający zasoby na zasadach określonych w art. 118 PZP: 1. Wykonawca może w celu potwierdzenia spełnienia warunków udziału w postępowaniu, w stosownych sytuacjach oraz w odniesieniu do konkretnego zamówienia, lub jego części, polegać na zdolnościach technicznych lub zawodowych lub sytuacji finansowej lub ekonomicznej podmiotów udostępniających zasoby, niezależnie od charakteru prawnego łączących go z nimi stosunków prawnych. 2. W odniesieniu do warunków dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia wykonawcy mogą polegać na zdolnościach podmiotów udostępniających zasoby, jeśli podmioty te wykonają roboty budowlane lub usługi, do realizacji których te zdolności są wymagane 3. Wykonawca, który polega na zdolnościach lub sytuacji podmiotów udostępniających zasoby, składa wraz z ofertą zobowiązanie podmiotu udostępniającego zasoby do oddania mu do dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia lub inny podmiotowy środek dowodowy potwierdzający, że Wykonawca realizując zamówienie, będzie dysponował niezbędnymi zasobami tych podmiotów. 4. Zobowiązanie podmiotu udostępniającego zasoby, o którym mowa w pkt 3, potwierdza, że stosunek łączący wykonawcę z podmiotami udostępniającymi zasoby gwarantuje rzeczywisty dostęp do tych zasobów oraz określa w szczególności: 1) zakres dostępnych wykonawcy zasobów podmiotu udostępniającego zasoby; 2) sposób i okres udostępnienia wykonawcy i wykorzystania przez niego zasobów podmiotu udostępniającego te zasoby przy wykonywaniu zamówienia; 3) czy i w jakim zakresie podmiot udostępniający zasoby, na zdolnościach którego wykonawca polega w odniesieniu do warunków udziału w postępowaniu dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia, zrealizuje roboty budowlane lub usługi, których wskazane zdolności dotyczą. 5. Podmiot, który zobowiązał się do udostępnienia zasobów, odpowiada solidarnie z wykonawcą, który polega na jego sytuacji finansowej lub ekonomicznej, za szkodę poniesioną przez Zamawiającego powstałą wskutek nieudostępnienia tych zasobów, chyba że za nieudostępnienie zasobów podmiot ten nie ponosi winy. 6. Wykonawca nie może, po upływie terminu składania ofert, powoływać się na zdolności lub sytuację podmiotów udostępniających zasoby, jeżeli na etapie składania ofert nie polegał on w danym zakresie na zdolnościach lub sytuacji podmiotów udostępniających zasoby. UWAGA! Zamawiający nie wzywa do złożenia podmiotowych środków dowodowych, jeżeli: 1) może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, w szczególności rejestrów publicznych, o ile wykonawca wskazał w jednolitym dokumencie dane umożliwiające dostęp do tych środków; 2) podmiotowym środkiem dowodowym jest oświadczenie, którego treść odpowiada zakresowi oświadczenia, o którym mowa w art. 125 ust. 1 PZP; Wykonawca nie jest zobowiązany do złożenia podmiotowych środków dowodowych, które Zamawiający posiada, jeżeli Wykonawca wskaże te środki oraz potwierdzi ich prawidłowość i aktualność.  Dokumenty podmiotów zagranicznych:Jeżeli Wykonawca ma siedzibę lub miejsce zamieszkania poza granicami RP -  zamiast: 1) Informacji z Krajowego Rejestru Karnego, o której mowa w niniejszym rozdziale pkt 2.1.3) – składa informację z odpowiedniego rejestru, takiego jak rejestr sądowy, albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany przez właściwy organ sądowy lub administracyjny kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania nie ma przepisów o oświadczeniu pod przysięgą, złożone przed organem sądowym lub administracyjnym, notariuszem, organem samorządu zawodowego lub gospodarczego, właściwym ze względu na siedzibę lub miejsce zamieszkania Wykonawcy,z zastosowaniem określonych powyżej terminów wystawienia dokumentów.  PRZEDMIOTOWE ŚRODKI DOWODOWE - nie dotyczy </cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">33696000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:StreetName>ul. Energetyków 14</cbc:StreetName>
+            <cbc:CityName>Rybnik</cbc:CityName>
+            <cbc:PostalZone>44-200</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">1.	Wykonawca określi wszystkie ceny, zgodnie z Formularzami cenowymi - Opisem przedmiotu zamówienia – Załącznik nr 1 do SWZ – w zależności od części na jaką składana jest oferta.
+2.	Wyliczoną cenę z Formularza cenowego/Formularzy cenowych Wykonawca przeniesie do Formularza ofertowego – Załącznik nr 1 do SWZ.
+3.	Pod pojęciem ceny Zamawiający rozumie cenę w rozumieniu art. 3 ust. 1 pkt 1 i ust. 2 ustawy z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług (tj. Dz. U. z 2023 r. poz. 168), nawet jeżeli jest płacona na rzecz osoby niebędącej przedsiębiorcą. 
+4.	Wszystkie wartości muszą być liczone z dokładnością do dwóch miejsc po przecinku, chyba, że w formularzu cenowym dla danego pakietu Zamawiający dopuścił inaczej.
+5.	Cenę należy wyliczyć w sposób następujący:
+Ilość x cena jednostkowa = wartość netto; Wartość netto x stawka VAT = wartość podatku VAT; Wartość netto + wartość podatku VAT = wartość brutto
+Wykonawca określi cenę za cały przedmiot zamówienia uwzględniając wszystkie elementy zamówienia wymienione w SWZ i załącznikach. 
+6.	Prawidłowe ustalenie podatku VAT należy do obowiązków Wykonawcy, zgodnie z przepisami ustawy o podatku od towarów i usług oraz podatku akcyzowym. 
+7.	Zastosowanie przez Wykonawcę stawki podatku VAT niezgodnej z obowiązującymi przepisami spowoduje odrzucenie oferty. 
+8.	Jeżeli została złożona oferta, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług (t. j. Dz. U. z 2024 r. poz. 361), dla celów zastosowania kryterium ceny lub kosztu Zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć. W takim przypadku Wykonawca ma obowiązek w ofercie:
+1)	poinformowania Zamawiającego, że wybór jego oferty będzie prowadził do powstania u Zamawiającego obowiązku podatkowego;
+2)	wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do powstania obowiązku podatkowego; 
+3)	wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym Zamawiającego, bez kwoty podatku;
+4)	wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą Wykonawcy, będzie miała zastosowanie.
+9.	Cena w formularzu oferty musi uwzględniać wszystkie wymagania niniejszej SWZ oraz obejmować wszystkie koszty, jakie Wykonawca poniesie z tytułu należytej oraz zgodnej z obowiązującymi przepisami realizacji przedmiotu zamówienia.
+10.	Rozliczenie między Zamawiającym a Wykonawcą będzie prowadzone w złotych polskich. 
+11.	Zamawiający nie dopuszcza rozliczeń związanych z wykonaniem umowy o udzielenie zamówienia publicznego w walutach obcych.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Środki ochrony prawnej przysługują Wykonawcy, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę, w wyniku naruszenia przez Zamawiającego przepisów Pzp na zasadach określonych w Dziale IX Ustawy Pzp.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Pakier nr 1</cbc:ID>
+         <cbc:Name languageID="POL">Środki kontrastowe i cieniujące</cbc:Name>
+         <cbc:Description languageID="POL">Specyfikację dostaw zawiera załącznik nr 1.1 do niniejszej Specyfikacji Warunków Zamówienia („Formularz cenowy”). Pozostałe warunki zamówienia określone są w załączniku nr 2 do specyfikacji warunków zamówienia („Projektowane postanowienia umowy”, w sprawie zamówienia publicznego, które zostaną wprowadzone do treści umowy).</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">33696000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>ul. Energetyków 46</cbc:StreetName>
+               <cbc:CityName>Rybnik</cbc:CityName>
+               <cbc:PostalZone>44-200</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2026-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">Zamawiający zgodnie art. 441 ust. 1 przewiduje możliwość skorzystania z prawa opcji zwiększającego zakres zamówienia w zakresie tego pakietu o maksymalnie 20% wartości podstawowej. W celu uruchomienia prawa opcji Zamawiający złoży Wykonawcy pisemne oświadczenie woli w przedmiocie skorzystania z prawa opcji w określonym zakresie. Zamawiający ma prawo wielokrotnie korzystać z prawa opcji po zrealizowaniu zakresu podstawowego zamówienia – jednak do wyczerpania maksymalnego zakresu prawa opcji. Uruchomienie opcji nie będzie wymagało zmiany umowy, tym samym nie wymaga zawarcia aneksu do umowy. W momencie złożenia oświadczenia o skorzystaniu z prawa opcji następuje zaciągnięcie przez Zamawiającego zobowiązania finansowego w wysokości wynikającej z zakresu dostaw objętego realizowaną na mocy danego oświadczenia opcją; Prawo opcji jest jednostronnym uprawnieniem Zamawiającego, z którego może, ale nie ma obowiązku skorzystać w ramach realizacji przedmiotu zamówienia. W przypadku nie skorzystania przez Zamawiającego z prawa opcji Wykonawcy nie przysługują żadne roszczenia z tego tytułu. Jeżeli Zamawiający skorzysta z prawa opcji obowiązkiem umownym wykonawcy jest wykonanie świadczenia w zakresie objętym wykorzystanym prawem opcji na warunkach takich jak zamówienie podstawowe, w tym w szczególności - cena jednostkowa przedmiotu zamówienia objętego prawem opcji nie może być wyższa niż cena jednostkowa w ramach zamówienia podstawowego.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">1.	Wykonawca określi wszystkie ceny, zgodnie z Formularzami cenowymi - Opisem przedmiotu zamówienia – Załącznik nr 1 do SWZ – w zależności od części na jaką składana jest oferta.
+2.	Wyliczoną cenę z Formularza cenowego/Formularzy cenowych Wykonawca przeniesie do Formularza ofertowego – Załącznik nr 1 do SWZ.
+3.	Pod pojęciem ceny Zamawiający rozumie cenę w rozumieniu art. 3 ust. 1 pkt 1 i ust. 2 ustawy z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług (tj. Dz. U. z 2023 r. poz. 168), nawet jeżeli jest płacona na rzecz osoby niebędącej przedsiębiorcą. 
+4.	Wszystkie wartości muszą być liczone z dokładnością do dwóch miejsc po przecinku, chyba, że w formularzu cenowym dla danego pakietu Zamawiający dopuścił inaczej.
+5.	Cenę należy wyliczyć w sposób następujący:
+Ilość x cena jednostkowa = wartość netto; Wartość netto x stawka VAT = wartość podatku VAT; Wartość netto + wartość podatku VAT = wartość brutto
+Wykonawca określi cenę za cały przedmiot zamówienia uwzględniając wszystkie elementy zamówienia wymienione w SWZ i załącznikach. 
+6.	Prawidłowe ustalenie podatku VAT należy do obowiązków Wykonawcy, zgodnie z przepisami ustawy o podatku od towarów i usług oraz podatku akcyzowym. 
+7.	Zastosowanie przez Wykonawcę stawki podatku VAT niezgodnej z obowiązującymi przepisami spowoduje odrzucenie oferty. 
+8.	Jeżeli została złożona oferta, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług (t. j. Dz. U. z 2024 r. poz. 361), dla celów zastosowania kryterium ceny lub kosztu Zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć. W takim przypadku Wykonawca ma obowiązek w ofercie:
+1)	poinformowania Zamawiającego, że wybór jego oferty będzie prowadził do powstania u Zamawiającego obowiązku podatkowego;
+2)	wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do powstania obowiązku podatkowego; 
+3)	wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym Zamawiającego, bez kwoty podatku;
+4)	wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą Wykonawcy, będzie miała zastosowanie.
+9.	Cena w formularzu oferty musi uwzględniać wszystkie wymagania niniejszej SWZ oraz obejmować wszystkie koszty, jakie Wykonawca poniesie z tytułu należytej oraz zgodnej z obowiązującymi przepisami realizacji przedmiotu zamówienia.
+10.	Rozliczenie między Zamawiającym a Wykonawcą będzie prowadzone w złotych polskich. 
+11.	Zamawiający nie dopuszcza rozliczeń związanych z wykonaniem umowy o udzielenie zamówienia publicznego w walutach obcych.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Środki ochrony prawnej przysługują Wykonawcy, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę, w wyniku naruszenia przez Zamawiającego przepisów Pzp na zasadach określonych w Dziale IX Ustawy Pzp.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Pakier nr 2</cbc:ID>
+         <cbc:Name languageID="POL">Środek kontrastowy </cbc:Name>
+         <cbc:Description languageID="POL">Specyfikację dostaw zawiera załącznik nr 1.1 do niniejszej Specyfikacji Warunków Zamówienia („Formularz cenowy”). Pozostałe warunki zamówienia określone są w załączniku nr 2 do specyfikacji warunków zamówienia („Projektowane postanowienia umowy”, w sprawie zamówienia publicznego, które zostaną wprowadzone do treści umowy).</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">33696000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>ul. Energetyków 46</cbc:StreetName>
+               <cbc:CityName>Rybnik</cbc:CityName>
+               <cbc:PostalZone>44-200</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2026-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">Zamawiający zgodnie art. 441 ust. 1 przewiduje możliwość skorzystania z prawa opcji zwiększającego zakres zamówienia w zakresie tego pakietu o maksymalnie 20% wartości podstawowej. W celu uruchomienia prawa opcji Zamawiający złoży Wykonawcy pisemne oświadczenie woli w przedmiocie skorzystania z prawa opcji w określonym zakresie. Zamawiający ma prawo wielokrotnie korzystać z prawa opcji po zrealizowaniu zakresu podstawowego zamówienia – jednak do wyczerpania maksymalnego zakresu prawa opcji. Uruchomienie opcji nie będzie wymagało zmiany umowy, tym samym nie wymaga zawarcia aneksu do umowy. W momencie złożenia oświadczenia o skorzystaniu z prawa opcji następuje zaciągnięcie przez Zamawiającego zobowiązania finansowego w wysokości wynikającej z zakresu dostaw objętego realizowaną na mocy danego oświadczenia opcją; Prawo opcji jest jednostronnym uprawnieniem Zamawiającego, z którego może, ale nie ma obowiązku skorzystać w ramach realizacji przedmiotu zamówienia. W przypadku nie skorzystania przez Zamawiającego z prawa opcji Wykonawcy nie przysługują żadne roszczenia z tego tytułu. Jeżeli Zamawiający skorzysta z prawa opcji obowiązkiem umownym wykonawcy jest wykonanie świadczenia w zakresie objętym wykorzystanym prawem opcji na warunkach takich jak zamówienie podstawowe, w tym w szczególności - cena jednostkowa przedmiotu zamówienia objętego prawem opcji nie może być wyższa niż cena jednostkowa w ramach zamówienia podstawowego.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">1.	Wykonawca określi wszystkie ceny, zgodnie z Formularzami cenowymi - Opisem przedmiotu zamówienia – Załącznik nr 1 do SWZ – w zależności od części na jaką składana jest oferta.
+2.	Wyliczoną cenę z Formularza cenowego/Formularzy cenowych Wykonawca przeniesie do Formularza ofertowego – Załącznik nr 1 do SWZ.
+3.	Pod pojęciem ceny Zamawiający rozumie cenę w rozumieniu art. 3 ust. 1 pkt 1 i ust. 2 ustawy z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług (tj. Dz. U. z 2023 r. poz. 168), nawet jeżeli jest płacona na rzecz osoby niebędącej przedsiębiorcą. 
+4.	Wszystkie wartości muszą być liczone z dokładnością do dwóch miejsc po przecinku, chyba, że w formularzu cenowym dla danego pakietu Zamawiający dopuścił inaczej.
+5.	Cenę należy wyliczyć w sposób następujący:
+Ilość x cena jednostkowa = wartość netto; Wartość netto x stawka VAT = wartość podatku VAT; Wartość netto + wartość podatku VAT = wartość brutto
+Wykonawca określi cenę za cały przedmiot zamówienia uwzględniając wszystkie elementy zamówienia wymienione w SWZ i załącznikach. 
+6.	Prawidłowe ustalenie podatku VAT należy do obowiązków Wykonawcy, zgodnie z przepisami ustawy o podatku od towarów i usług oraz podatku akcyzowym. 
+7.	Zastosowanie przez Wykonawcę stawki podatku VAT niezgodnej z obowiązującymi przepisami spowoduje odrzucenie oferty. 
+8.	Jeżeli została złożona oferta, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług (t. j. Dz. U. z 2024 r. poz. 361), dla celów zastosowania kryterium ceny lub kosztu Zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć. W takim przypadku Wykonawca ma obowiązek w ofercie:
+1)	poinformowania Zamawiającego, że wybór jego oferty będzie prowadził do powstania u Zamawiającego obowiązku podatkowego;
+2)	wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do powstania obowiązku podatkowego; 
+3)	wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym Zamawiającego, bez kwoty podatku;
+4)	wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą Wykonawcy, będzie miała zastosowanie.
+9.	Cena w formularzu oferty musi uwzględniać wszystkie wymagania niniejszej SWZ oraz obejmować wszystkie koszty, jakie Wykonawca poniesie z tytułu należytej oraz zgodnej z obowiązującymi przepisami realizacji przedmiotu zamówienia.
+10.	Rozliczenie między Zamawiającym a Wykonawcą będzie prowadzone w złotych polskich. 
+11.	Zamawiający nie dopuszcza rozliczeń związanych z wykonaniem umowy o udzielenie zamówienia publicznego w walutach obcych.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Środki ochrony prawnej przysługują Wykonawcy, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę, w wyniku naruszenia przez Zamawiającego przepisów Pzp na zasadach określonych w Dziale IX Ustawy Pzp.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">Pakier nr 3</cbc:ID>
+         <cbc:Name languageID="POL">Środki kontrastowe</cbc:Name>
+         <cbc:Description languageID="POL">Specyfikację dostaw zawiera załącznik nr 1.1 do niniejszej Specyfikacji Warunków Zamówienia („Formularz cenowy”). Pozostałe warunki zamówienia określone są w załączniku nr 2 do specyfikacji warunków zamówienia („Projektowane postanowienia umowy”, w sprawie zamówienia publicznego, które zostaną wprowadzone do treści umowy).</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">33696000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>ul. Energetyków 46</cbc:StreetName>
+               <cbc:CityName>Rybnik</cbc:CityName>
+               <cbc:PostalZone>44-200</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2026-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">Zamawiający zgodnie art. 441 ust. 1 przewiduje możliwość skorzystania z prawa opcji zwiększającego zakres zamówienia w zakresie tego pakietu o maksymalnie 20% wartości podstawowej. W celu uruchomienia prawa opcji Zamawiający złoży Wykonawcy pisemne oświadczenie woli w przedmiocie skorzystania z prawa opcji w określonym zakresie. Zamawiający ma prawo wielokrotnie korzystać z prawa opcji po zrealizowaniu zakresu podstawowego zamówienia – jednak do wyczerpania maksymalnego zakresu prawa opcji. Uruchomienie opcji nie będzie wymagało zmiany umowy, tym samym nie wymaga zawarcia aneksu do umowy. W momencie złożenia oświadczenia o skorzystaniu z prawa opcji następuje zaciągnięcie przez Zamawiającego zobowiązania finansowego w wysokości wynikającej z zakresu dostaw objętego realizowaną na mocy danego oświadczenia opcją; Prawo opcji jest jednostronnym uprawnieniem Zamawiającego, z którego może, ale nie ma obowiązku skorzystać w ramach realizacji przedmiotu zamówienia. W przypadku nie skorzystania przez Zamawiającego z prawa opcji Wykonawcy nie przysługują żadne roszczenia z tego tytułu. Jeżeli Zamawiający skorzysta z prawa opcji obowiązkiem umownym wykonawcy jest wykonanie świadczenia w zakresie objętym wykorzystanym prawem opcji na warunkach takich jak zamówienie podstawowe, w tym w szczególności - cena jednostkowa przedmiotu zamówienia objętego prawem opcji nie może być wyższa niż cena jednostkowa w ramach zamówienia podstawowego.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

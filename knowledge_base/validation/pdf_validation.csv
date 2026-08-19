@@ -1,0 +1,3 @@
+document_id,file_path,opens_with_pdfinfo,page_count,text_extraction_test,language_code,hash_sha256,relevance,license_status,limitations
+doc_0001,pdf/original/finance_ni_contract_management_principles_procedures_2017.pdf,true,63,passed,en,d883a09823c307923d84ad0b65c17a8957d1859653b0360610fc191263bb451c,passed,open_reuse_with_attribution,Jurisdiction-specific Northern Ireland public procurement guidance; issued 2017; not universal legal advice.
+doc_0002,pdf/original/uk_standard_selection_questionnaire_2016.pdf,true,38,passed,en,5affbd4988b7e4a79bdaf285f13bff7d566a05c015ef064aa857ba7634f09af7,passed,open_reuse_with_attribution,"Historic 2016 guidance under Public Contracts Regulations 2015; use as contextual reference, not current legal guidance."

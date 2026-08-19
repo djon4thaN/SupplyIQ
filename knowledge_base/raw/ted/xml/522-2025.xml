@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efbc:TransmissionDate>2024-12-31+00:00</efbc:TransmissionDate>
+          <efbc:TransmissionTime>07:08:22+00:00</efbc:TransmissionTime>
+          <efac:NoticeResult>
+            <cbc:TotalAmount currencyID="EUR">241800</cbc:TotalAmount>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0001</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              </efac:LotTender>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+              </efac:LotTender>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID> Life Technologies (1091457-8)</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>Roche Diagnostics Oy (1947409-7)</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+              <cbc:IssueDate>2024-12-20Z</cbc:IssueDate>
+              <efac:ContractReference>
+                <cbc:ID>HUS 036-2024 qPCR-laitteistot</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+          </efac:NoticeResult>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>http://www.oikeus.fi/markkinaoikeus</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="FIN">Markkinaoikeus</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Radanrakentajantie 5</cbc:StreetName>
+                  <cbc:CityName>Helsinki</cbc:CityName>
+                  <cbc:PostalZone>00520</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">3006157-6</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+358 295643300</cbc:Telephone>
+                  <cbc:ElectronicMail>markkinaoikeus@oikeus.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efbc:AcquiringCPBIndicator>false</efbc:AcquiringCPBIndicator>
+              <efbc:AwardingCPBIndicator>false</efbc:AwardingCPBIndicator>
+              <efac:Company>
+                <cbc:WebsiteURI>http://www.hus.fi</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="FIN">HUS-yhtymä</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>PL 445 (Uutistie 3 C, 01770 Vantaa)</cbc:StreetName>
+                  <cbc:CityName>HUS</cbc:CityName>
+                  <cbc:PostalZone>00029</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">1567535-0</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Suomen Hankintajuristit Asianajotoimisto Oy</cbc:Name>
+                  <cbc:Telephone>+358 400383842</cbc:Telephone>
+                  <cbc:ElectronicMail>info@hankintajuristit.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="FIN">Life Technologies </cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:CityName>Espoo</cbc:CityName>
+                  <cbc:PostalZone>02101</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">1091457-8</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>040 5540747</cbc:Telephone>
+                  <cbc:ElectronicMail>nordic.tenders.lifetech@thermofisher.com</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="FIN">Roche Diagnostics Oy</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:CityName>Espoo</cbc:CityName>
+                  <cbc:PostalZone>02100</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">1947409-7</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>0503762783</cbc:Telephone>
+                  <cbc:ElectronicMail>heikki.ahola@roche.com</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>http://hankintailmoitukset.fi</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="FIN">Hansel Oy (Hilma)</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Mannerheiminaukio 1a</cbc:StreetName>
+                  <cbc:CityName>Helsinki</cbc:CityName>
+                  <cbc:PostalZone>00100</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">FI09880841</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>eSender</cbc:Name>
+                  <cbc:Telephone>029 55 636 30</cbc:Telephone>
+                  <cbc:ElectronicMail>tekninen@hankintailmoitukset.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000522-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.10</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">a9a1d8df-ba2b-4d12-a4a2-b7c4771e3e7c</cbc:ID>
+  <cbc:ContractFolderID>a4a9a969-9957-4e34-90c8-e7c653b06b5c</cbc:ContractFolderID>
+  <cbc:IssueDate>2024-12-31+00:00</cbc:IssueDate>
+  <cbc:IssueTime>07:07:14+00:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>FIN</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">ra</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">health</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingProcess>
+    <cbc:Description languageID="FIN">Hankinnassa noudatetaan lakia julkisista hankinnoista ja käyttöoikeussopimuksista (1397/2016, hankintalaki). Kyseessä on EU-kynnysarvon ylittävä hankinta, ja hankintamenettelynä on hankintalain 32 §:n mukainen avoin menettely.
+
+TARJOUSTEN KÄSITTELY
+Menettelyn vaiheet ovat seuraavat:
+
+Hankintayksikkö
+1. Avaa tarjoukset
+2. Tarkastaa tarjoajan soveltuvuutta koskevat vastaukset
+3. Tarkastaa tarjousten tarjouspyynnön mukaisuuden 
+4. Vertailee tarjoukset
+5. Pyytää ja tarkastaa kilpailun voittajan soveltuvuutta koskevat todistukset ja selvitykset
+6. Tekee hankintapäätöksen ja antaa päätöksen tiedoksi kaikille tarjoajille
+7. Solmii sopimuksen valitun tarjoajan kanssa.
+
+TARJOUSKILPAILUSSA KÄYTETTÄVÄ KIELI
+Hankinta-asiakirjat ovat saatavilla suomen kielellä. Mikäli tarjoaja tarvitsee dokumentit muulla kielellä, tarjoaja vastaa itse käännättämisestä ja sen kustannuksista. Tarjoukset on laadittava muilta osin suomen kielellä, paitsi tuotteisiin sekä niiden valmistukseen ja jakeluun liittyvät tuote-esitteet, sertifikaatit, todistukset ja vastaavat hyväksytään myös englanninkielisinä. 
+
+RINNAKKAISET TARJOUKSET
+Rinnakkaiset tarjoukset ovat sallittuja. Mikäli tarjoaja antaa rinnakkaisen tarjouksen, niin tarjoajan tulee tehdä rinnakkainen tarjous siten, että se täyttää tarjouspyynnön kaikki vaatimukset ja tarjouksen mukana vaaditut liitteet. Rinnakkainen tarjous on aina erillinen oma tarjouksensa. Rinnakkaisia tarjouksia saa antaa enintään yhden (1) kappaleen.
+
+OSATARJOUKSET
+Osatarjoukset eivät ole sallittuja.</cbc:Description>
+    <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+    <cac:NoticeDocumentReference>
+      <cbc:ID schemeName="notice-id-ref">8967e0f8-3a0d-4330-88d6-9e4d600cc1bc-01</cbc:ID>
+    </cac:NoticeDocumentReference>
+    <cac:ProcessJustification>
+      <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+    </cac:ProcessJustification>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID schemeName="InternalID">HUS 036-2024</cbc:ID>
+    <cbc:Name languageID="FIN">qPCR -laitteistot</cbc:Name>
+    <cbc:Description languageID="FIN">HUS-yhtymä pyytää tarjouksia kvantitatiivisista Real Time PCR (qPCR) -laitteistoista. qPCR-tutkimuksia käytetään yhä laajemmin erilaisissa perinnöllisten ja syöpäkudoksen geenimuutosten tutkimuksissa sekä syövän jäännöstautitutkimuksissa.
+
+Hankittavien qPCR-laitteistojen käyttötarkoitus on laajentaa diagnostisen laboratorion omavalmisteanalytiikan vaatimukset täyttävän qPCR-tuotannon kapasiteettia. Laitteelta ei edellytetä CE-IVD-merkintää, vaan esimerkiksi RUO-merkintä on riittävä.
+
+Hankittavien qPCR-laitteistojen tulee mahdollistaa sekä 96 - että 384 -kuoppalevyformaattisten PCR-levyjen vaihtoehtoisen käytön vaihtoblokkeja hyödyntäen. 
+
+Hankittavan qPCR–laitteiston tai siihen liitetyn tietokoneen/palvelimen tulee kyetä vastaanottamaan ulkoisen järjestelmän tuottamia työlistoja, joissa laitteelle tuodaan sarjan ajotiedot, sisältäen vähintään potilastunnisteet, niiden sijainti kuoppalevyllä, sekä käytettävät merkkiaineet. Näitä näytetunnisteita vastaavat tulokset tulee voida siirtää laitteelta tai siihen liitetyltä tietokoneelta/palvelimelta ulkopuolista käsittelyä varten esim. .txt, .CSV tai Excel -muodossa. 
+
+Hankintaan sisältyy kaksi (2) qPCR–laitteistoa sisältäen laitteen lisäksi tarvittavan työaseman/tietokoneen ja analyysi-, tiedonkäsittely- ja tiedontulkintaohjelmistot sekä laitteiden takuuajan jälkeisen huollon sopimusajaksi. Hankinta sisältää myös kaksi (2) tilaajan toimesta vaihdettavaa vaihtoblokkia niin, että kummallakin laitteella on mahdollista analysoida sekä 96- että 384-paikkaisia kuoppalevyjä. Tämän lisäksi tarjoajan tulee tarjota optiona kahden (2) vastaavan laitekokonaisuuden hankkimiseen vuosien 2025–2027 aikana.
+
+Hankittavien qPCR–laitteistojen tulee soveltua diagnostisessa omavalmisteanalytiikassa muodostuvan qPCR-tiedon tuottamiseen, tallentamiseen, hallintaan ja käsittelyyn terveydenhuollossa paikallisen ja EU-lainsäädännön edellyttämällä tavalla.
+
+qPCR–laitteistot sijoitetaan HUS:n Genetiikan laboratorioon osoitteeseen Topeliuksenkatu 32, 00290 Helsinki. 
+
+Kyseessä on kokonaishankinta, jossa hankinnan kohteena on qPCR – laitteistokokonaisuus, joka koostuu kahden samanlaisen qPCR – laitteiston, kahden vaihtoblokin ja niille tarkoitetun huoltosopimuksen muodostamasta kokonaisuudesta, eikä hankintaa voida jakaa osiin. Hankinnassa valitaan yksi (1) toimittaja. 
+
+Hankintayksikön tarkoituksena on tilata qPCR-laitteistokokonaisuus mahdollisimman pian. Tarjouspyynnöllä esitetty on vain tiedoksi annettava tavoite, eikä suunniteltu aikataulu sido hankintayksikköä. Tarkempi aikataulu sovitaan tilauksen tekemisen yhteydessä. 
+
+Sopimukseen sisältyy optio hankkia 2 (kaksi) lisälaitekokonaisuutta vuosina 2025–2027 huoltosopimuksineen. Hankintayksikkö päättää mahdollisesta option hankkimisesta erikseen. Hankinnan kohde ja sitä koskevat vaatimukset on kuvattu yksityiskohtaisesti tarjouspyynnössä ja sen liitteissä.</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+    <cbc:Note languageID="FIN">Hankintaan sisältyvät myös kaikki laitteiston tarkoituksenmukaista käyttöä edellyttävät ohjelmistot sekä huolto liitteenä olevan huoltosopimuksen mukaisesti. 
+
+Optiona varataan kahden (2) lisälaitteen hankinta sopimuksen voimaantuloa seuraavan kahden (2) vuoden aikana huoltosopimuksineen. Tilaaja päättää option käyttämisestä erikseen. Optio on Tilaajan oikeus, ei velvollisuus. Tilaaja päättää mihin Tilaajan toimipisteeseen Tilaajan toiminta-alueella optio-oikeuden tarkoittama laitetoimitus sijoitetaan.</cbc:Note>
+    <cac:RequestedTenderTotal>
+      <cbc:EstimatedOverallContractAmount currencyID="EUR">320000</cbc:EstimatedOverallContractAmount>
+    </cac:RequestedTenderTotal>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+    <cac:RealizedLocation>
+      <cac:Address>
+        <cbc:StreetName>Topeliuksenkatu 32</cbc:StreetName>
+        <cbc:CityName>Helsinki</cbc:CityName>
+        <cbc:PostalZone>00290</cbc:PostalZone>
+        <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+        <cac:Country>
+          <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:Address>
+    </cac:RealizedLocation>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="FIN">Hinta</cbc:Name>
+            <cbc:Description languageID="FIN">Parhaan tarjouksen valintaperusteena on kokonaistaloudellinen edullisuus. Kokonaistaloudellisen edullisuuden perusteena on halvin kokonaisvertailuhinta.
+
+Kokonaisvertailuhinta muodostui seuraavasti:
+
+qPCR-laitteiston kpl-hinta kerrottuna 2:lla
++
+Ylläpitosopimuksen vuosihinta tasolla 2, kerrottuna 4:llä
++
+C. Hinnanlisäys vuosihintaan ylläpitosopimuksen korottamisesta tasolle 3, kerrottuna 4:llä
++
+D. Optiona tarjottavan qPCR-laitteiston kpl-hinta, kerrottuna 2:lla.
+
+Tarjoajan antamista hinnoista yllä kuvatusti muodostuneet hinnat A, B, C ja D lasketaan yhteen, jolloin summaksi saadaan kokonaisvertailuhinta.
+</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AppealTerms>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">HUS 036-2024</cbc:ID>
+      <cbc:Name languageID="FIN">qPCR -laitteistot</cbc:Name>
+      <cbc:Description languageID="FIN">HUS-yhtymä pyytää tarjouksia kvantitatiivisista Real Time PCR (qPCR) -laitteistoista. qPCR-tutkimuksia käytetään yhä laajemmin erilaisissa perinnöllisten ja syöpäkudoksen geenimuutosten tutkimuksissa sekä syövän jäännöstautitutkimuksissa.
+
+Hankittavien qPCR-laitteistojen käyttötarkoitus on laajentaa diagnostisen laboratorion omavalmisteanalytiikan vaatimukset täyttävän qPCR-tuotannon kapasiteettia. Laitteelta ei edellytetä CE-IVD-merkintää, vaan esimerkiksi RUO-merkintä on riittävä.
+
+Hankittavien qPCR-laitteistojen tulee mahdollistaa sekä 96 - että 384 -kuoppalevyformaattisten PCR-levyjen vaihtoehtoisen käytön vaihtoblokkeja hyödyntäen. 
+
+Hankittavan qPCR–laitteiston tai siihen liitetyn tietokoneen/palvelimen tulee kyetä vastaanottamaan ulkoisen järjestelmän tuottamia työlistoja, joissa laitteelle tuodaan sarjan ajotiedot, sisältäen vähintään potilastunnisteet, niiden sijainti kuoppalevyllä, sekä käytettävät merkkiaineet. Näitä näytetunnisteita vastaavat tulokset tulee voida siirtää laitteelta tai siihen liitetyltä tietokoneelta/palvelimelta ulkopuolista käsittelyä varten esim. .txt, .CSV tai Excel -muodossa. 
+
+Hankintaan sisältyy kaksi (2) qPCR–laitteistoa sisältäen laitteen lisäksi tarvittavan työaseman/tietokoneen ja analyysi-, tiedonkäsittely- ja tiedontulkintaohjelmistot sekä laitteiden takuuajan jälkeisen huollon sopimusajaksi. Hankinta sisältää myös kaksi (2) tilaajan toimesta vaihdettavaa vaihtoblokkia niin, että kummallakin laitteella on mahdollista analysoida sekä 96- että 384-paikkaisia kuoppalevyjä. Tämän lisäksi tarjoajan tulee tarjota optiona kahden (2) vastaavan laitekokonaisuuden hankkimiseen vuosien 2025–2027 aikana.
+
+Hankittavien qPCR–laitteistojen tulee soveltua diagnostisessa omavalmisteanalytiikassa muodostuvan qPCR-tiedon tuottamiseen, tallentamiseen, hallintaan ja käsittelyyn terveydenhuollossa paikallisen ja EU-lainsäädännön edellyttämällä tavalla.
+
+qPCR–laitteistot sijoitetaan HUS:n Genetiikan laboratorioon osoitteeseen Topeliuksenkatu 32, 00290 Helsinki. 
+
+Kyseessä on kokonaishankinta, jossa hankinnan kohteena on qPCR – laitteistokokonaisuus, joka koostuu kahden samanlaisen qPCR – laitteiston, kahden vaihtoblokin ja niille tarkoitetun huoltosopimuksen muodostamasta kokonaisuudesta, eikä hankintaa voida jakaa osiin. Hankinnassa valitaan yksi (1) toimittaja. 
+
+Hankintayksikön tarkoituksena on tilata qPCR-laitteistokokonaisuus mahdollisimman pian. Tarjouspyynnöllä esitetty on vain tiedoksi annettava tavoite, eikä suunniteltu aikataulu sido hankintayksikköä. Tarkempi aikataulu sovitaan tilauksen tekemisen yhteydessä. 
+
+Sopimukseen sisältyy optio hankkia 2 (kaksi) lisälaitekokonaisuutta vuosina 2025–2027 huoltosopimuksineen. Hankintayksikkö päättää mahdollisesta option hankkimisesta erikseen. Hankinnan kohde ja sitä koskevat vaatimukset on kuvattu yksityiskohtaisesti tarjouspyynnössä ja sen liitteissä.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="FIN">Hankintaan sisältyvät myös kaikki laitteiston tarkoituksenmukaista käyttöä edellyttävät ohjelmistot sekä huolto liitteenä olevan huoltosopimuksen mukaisesti. 
+
+Optiona varataan kahden (2) lisälaitteen hankinta sopimuksen voimaantuloa seuraavan kahden (2) vuoden aikana huoltosopimuksineen. Tilaaja päättää option käyttämisestä erikseen. Optio on Tilaajan oikeus, ei velvollisuus. Tilaaja päättää mihin Tilaajan toimipisteeseen Tilaajan toiminta-alueella optio-oikeuden tarkoittama laitetoimitus sijoitetaan.</cbc:Note>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="social-objective">hum-right</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="social-objective">work-cond</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">320000</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:StreetName>Topeliuksenkatu 32</cbc:StreetName>
+          <cbc:CityName>Helsinki</cbc:CityName>
+          <cbc:PostalZone>00290</cbc:PostalZone>
+          <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:TenderResult>
+    <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+  </cac:TenderResult>
+</ContractAwardNotice>

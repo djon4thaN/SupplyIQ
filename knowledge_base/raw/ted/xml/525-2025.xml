@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">8110545</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">8110545</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta 01</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-13+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">DZP/597/2024</cbc:Title>
+                     <efac:ContractReference>
+                        <cbc:ID>DZP/597/2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Roche Diagnostics Polska Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.usk.opole.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://usk-opole.logintrade.net</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Uniwersytecki Szpital Kliniczny w Opolu</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Aleja Wincentego Witosa 26</cbc:StreetName>
+                           <cbc:Department>Dział Zamówień Publicznych </cbc:Department>
+                           <cbc:CityName>Opole </cbc:CityName>
+                           <cbc:PostalZone>45-401</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL524</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>7542563619</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Dział Zamówień Publicznych </cbc:Name>
+                           <cbc:Telephone>774520114</cbc:Telephone>
+                           <cbc:ElectronicMail>zamowienia@usk.opole.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Roche Diagnostics Polska Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Domaniewska 28</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5272322068</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000525-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">b3cc617f-c9e5-48f6-9b26-102508c10dcf</cbc:ID>
+   <cbc:ContractFolderID>a42e612c-6dc2-4cb2-bc76-400fbb584fcb</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>09:34:55Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://bip.usk.opole.pl</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">health</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">686077-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">DZP/2-23/233/121/2024</cbc:ID>
+      <cbc:Name languageID="POL">Zakup i dostawa  odczynników wraz z dzierżawą systemu biochemiczno-immunologicznego na okres 36 miesięcy w tym: – Dwa automatyczne systemy biochemiczno-immunologiczne /z modułem ISE/ – Sorter próbek zintegrowany z systemami biochemiczno-immunochemicznymi – stacja do uzdatniania wody jako wyposażenie systemu oraz dostosowanie pomieszczeń laboratoryjnych w celu wdrożenia systemu .</cbc:Name>
+      <cbc:Description languageID="POL">Zakup i dostawa  odczynników wraz z dzierżawą systemu biochemiczno-immunologicznego na okres 36 miesięcy w tym: – Dwa automatyczne systemy biochemiczno-immunologiczne /z modułem ISE/ – Sorter próbek zintegrowany z systemami biochemiczno-immunochemicznymi – stacja do uzdatniania wody jako wyposażenie systemu oraz dostosowanie pomieszczeń laboratoryjnych w celu wdrożenia systemu .</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">Szczegółowe informacje zostały udostępnione w Specyfikacji
+Warunków Zamówienia i Opisie Przedmiotu Zamówienia. Zamawiający zgodnie z art. 139
+Pzp, przewiduje tzw. „procedurę odwróconą”, tj. najpierw dokona badania i oceny ofert, a
+następnie dokona kwalifikacji podmiotowej wykonawcy, którego oferta została najwyżej
+oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału w
+postępowaniu. Zamawiający wykluczy z postępowania Wykonawcę na podstawie art. 108 pzp
+i art. 7.1.ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie
+przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa
+narodowego. 1.Wykaz oświadczeń składanych przez Wykonawcę w celu wstępnego
+potwierdzenia, że nie podlega on wykluczeniu oraz spełnia warunki udziału w postępowaniu.
+1.1 Na podstawie art.139 ust.2 Pzp, Wykonawca, którego oferta została oceniona najwyżej na wezwanie przedstawi oświadczenia o niepodleganiu wykluczeniu, w zakresie wskazanym
+przez zamawiającego. 1.2. Oświadczenia, o których mowa w ust. 1, składa się na: -
+formularzu jednolitego europejskiego dokumentu zamówienia, - oświadczeniu własnym w
+zakresie braku podstaw wykluczenia na podstawie art. 7 ust.1 ustawy z dnia 13 kwietnia 2022
+Szczegółowe informacje zostały udostępnione w Specyfikacji Warunków Zamówienia i Opisie
+Przedmiotu Zamówienia. Zamawiający zgodnie z art. 139 Pzp, przewiduje tzw. „procedurę
+odwróconą”, tj. najpierw dokona badania i oceny ofert, a następnie dokona kwalifikacji
+podmiotowej wykonawcy, którego oferta została najwyżej oceniona, w zakresie braku podstaw
+wykluczenia oraz spełniania warunków udziału w postępowaniu. Zamawiający wykluczy z
+postępowania Wykonawcę na podstawie art. 108 pzp i art. 7.1.ustawy z dnia 13 kwietnia 2022
+r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę
+oraz służących ochronie bezpieczeństwa narodowego. 1.Wykaz oświadczeń składanych przez
+Wykonawcę w celu wstępnego potwierdzenia, że nie podlega on wykluczeniu oraz spełnia
+warunki udziału w postępowaniu. 1.1 Na podstawie art.139 ust.2 Pzp, Wykonawca, którego
+oferta została oceniona najwyżej na wezwanie przedstawi oświadczenia o niepodleganiu
+wykluczeniu, w zakresie wskazanym przez zamawiającego. 1.2. Oświadczenia, o których
+mowa w ust. 1, składa się na: - formularzu jednolitego europejskiego dokumentu zamówienia,
+- oświadczeniu własnym w zakresie braku podstaw wykluczenia na podstawie art. 7 ust.1
+ustawy z dnia 13 kwietnia 2022. 1.	W celu potwierdzenia zgodności oferowanych dostaw z wymaganymi cechami lub kryteriami określonymi w opisie przedmiotu zamówienia lub kryteriami oceny ofert należy załączyć: 
+a)	instrukcje, katalogi, itp., potwierdzające spełnienie warunków określonych dla przedmiotu zamówienia, zawartych w załączniku nr 1 do SWZ. 
+b)	Oświadczenie, że oferowany system biochemiczno - immunologiczny  oraz zaoferowane odczynniki i materiały zużywalne, określone w załączniku nr 1, posiadają ważne świadectwa dopuszczenia do obrotu na rynku polskim, w oparciu o obowiązujące w tym zakresie przepisy prawa.
+Zamawiający przewiduje możliwość przeprowadzenie wizji lokalnej  w terminie 18.10.2024 r.
+Zapraszamy zainteresowanych wykonawców o podanej godzinie 10.00 do Sali 04 bloku D. 
+Termin związania z ofertą - 11.02.2025 r.
+</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">33696500</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="POL">PL</cbc:Description>
+         <cac:Address>
+            <cbc:StreetName>Aleja Wincentego Witosa 26</cbc:StreetName>
+            <cbc:CityName>Opole</cbc:CityName>
+            <cbc:PostalZone>45-401</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL524</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">cena</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Jakość systemu biochemiczno-immunologicznego</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Odwołanie wnosi się w terminie 10 dni od dnia publikacji
+ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów
+zamówienia na stronie internetowej oraz w terminie 10 dni od dnia przekazania informacji o
+czynności zamawiającego stanowiącej podstawę jego wniesienia</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">DZP/2-23/233/121/2024</cbc:ID>
+         <cbc:Name languageID="POL">Zakup i dostawa  odczynników wraz z dzierżawą systemu biochemiczno-immunologicznego na okres 36 miesięcy w tym: – Dwa automatyczne systemy biochemiczno-immunologiczne /z modułem ISE/ – Sorter próbek zintegrowany z systemami biochemiczno-immunochemicznymi – stacja do uzdatniania wody jako wyposażenie systemu oraz dostosowanie pomieszczeń laboratoryjnych w celu wdrożenia systemu .</cbc:Name>
+         <cbc:Description languageID="POL">Zakup i dostawa  odczynników wraz z dzierżawą systemu biochemiczno-immunologicznego na okres 36 miesięcy w tym: – Dwa automatyczne systemy biochemiczno-immunologiczne /z modułem ISE/ – Sorter próbek zintegrowany z systemami biochemiczno-immunochemicznymi – stacja do uzdatniania wody jako wyposażenie systemu oraz dostosowanie pomieszczeń laboratoryjnych w celu wdrożenia systemu .</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">33696500</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CityName>Opole</cbc:CityName>
+               <cbc:CountrySubentityCode listName="nuts">PL524</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

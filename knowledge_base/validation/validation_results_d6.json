@@ -1,0 +1,125 @@
+{
+  "phase": "D6",
+  "generated_at": "2026-08-19",
+  "status": "validated_with_gaps",
+  "checks_total": 23,
+  "checks_passed": 23,
+  "checks_failed": 0,
+  "checks": [
+    {
+      "check": "currency codes",
+      "status": "pass",
+      "detail": "['BGN', 'CHF', 'CZK', 'EUR', 'HUF', 'PLN', 'RON', 'SEK']"
+    },
+    {
+      "check": "country codes",
+      "status": "pass",
+      "detail": "['AUT', 'BEL', 'BGR', 'CHE', 'CZE', 'DEU', 'ESP', 'EST', 'FIN', 'FRA', 'GRC', 'HRV', 'HUN', 'ITA', 'LTU', 'NLD', 'POL', 'PRT', 'ROU', 'SVK', 'SVN', 'SWE']"
+    },
+    {
+      "check": "monetary parse",
+      "status": "pass",
+      "detail": "all populated values decimal"
+    },
+    {
+      "check": "currency present with value",
+      "status": "pass",
+      "detail": "0 missing"
+    },
+    {
+      "check": "no negative values",
+      "status": "pass",
+      "detail": "0 negative"
+    },
+    {
+      "check": "buyer names",
+      "status": "pass",
+      "detail": "286/286"
+    },
+    {
+      "check": "buyer countries",
+      "status": "pass",
+      "detail": "286/286"
+    },
+    {
+      "check": "supplier names",
+      "status": "pass",
+      "detail": "594/594"
+    },
+    {
+      "check": "TED supplier countries",
+      "status": "pass",
+      "detail": "all TED suppliers populated"
+    },
+    {
+      "check": "CPV formats",
+      "status": "pass",
+      "detail": "218/218"
+    },
+    {
+      "check": "category foreign keys",
+      "status": "pass",
+      "detail": "0 orphan"
+    },
+    {
+      "check": "award supplier currencies",
+      "status": "pass",
+      "detail": "0 mismatches"
+    },
+    {
+      "check": "award supplier values",
+      "status": "pass",
+      "detail": "0 mismatches"
+    },
+    {
+      "check": "CSV width monetary_profile.csv",
+      "status": "pass",
+      "detail": "26 records"
+    },
+    {
+      "check": "CSV duplicates monetary_profile.csv",
+      "status": "pass",
+      "detail": "0 exact duplicates"
+    },
+    {
+      "check": "CSV width monetary_outliers.csv",
+      "status": "pass",
+      "detail": "29 records"
+    },
+    {
+      "check": "CSV duplicates monetary_outliers.csv",
+      "status": "pass",
+      "detail": "0 exact duplicates"
+    },
+    {
+      "check": "CSV width entity_quality.csv",
+      "status": "pass",
+      "detail": "131 records"
+    },
+    {
+      "check": "CSV duplicates entity_quality.csv",
+      "status": "pass",
+      "detail": "0 exact duplicates"
+    },
+    {
+      "check": "CSV width category_quality.csv",
+      "status": "pass",
+      "detail": "218 records"
+    },
+    {
+      "check": "CSV duplicates category_quality.csv",
+      "status": "pass",
+      "detail": "0 exact duplicates"
+    },
+    {
+      "check": "CSV width d6_metrics.csv",
+      "status": "pass",
+      "detail": "10 records"
+    },
+    {
+      "check": "CSV duplicates d6_metrics.csv",
+      "status": "pass",
+      "detail": "0 exact duplicates"
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1480846.08</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">1480846.08</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-20+01:00</cbc:IssueDate>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>CRU.864.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Miejskie Przedsiębiorstwo Usług komunalnych w Świętochłowicach Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">33</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.swietochlowice.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Świętochłowice</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Katowicka 54</cbc:StreetName>
+                           <cbc:Department>Urząd Miejski w Świętochłowicach</cbc:Department>
+                           <cbc:CityName>Świętochłowice</cbc:CityName>
+                           <cbc:PostalZone>41-600</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6272748738</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48323491800</cbc:Telephone>
+                           <cbc:ElectronicMail>um@swietochlowice.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://kio.uzp.gov.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48224587801</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://mpuk.eu/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Miejskie Przedsiębiorstwo Usług Komunalnych w Świętochłowicach Sp. z o.o. </cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Łagiewnicka 76</cbc:StreetName>
+                           <cbc:CityName>Świętochłowice</cbc:CityName>
+                           <cbc:PostalZone>41-608</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6272754354</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48323451570</cbc:Telephone>
+                           <cbc:ElectronicMail>sekretariat@mpuk.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000037-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">fe6837ce-e32c-4387-8f8e-8645bea5d917</cbc:ID>
+   <cbc:ContractFolderID>260d5337-d175-4458-83e3-b20ab28bc39e</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-30Z</cbc:IssueDate>
+   <cbc:IssueTime>14:43:26Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-social</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://platformazakupowa.pl/pn/um_swietochlowice</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">INZP.271.28.2024</cbc:ID>
+      <cbc:Name languageID="POL">Utrzymanie zieleni niskiej i wysokiej w pasach drogowych na terenie miasta Świętochłowice</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest świadczenie usługi polegającej na całorocznym utrzymaniu zieleni niskiej i wysokiej w obrębie dróg powiatowych, gminnych oraz wewnętrznych będących w zarządzie Prezydenta Miasta Świętochłowice.
+Zamówienie obejmuje:
+1)	utrzymanie czystości na terenach zieleni w pasie drogowym poprzez usuwanie wszelkich zanieczyszczeń, w tym m.in.: zbieranie śmieci (wszelkiego rodzaju opakowań, papierów, puszek, butelek, szkła, worków, folii, niedopałków, kapsli, gruzu. itp.), gałęzi, palików, posuszu, kamieni, zwierzęcych odchodów, resztek pokarmów, porzuconych lub zgubionych ładunków i odpadów mało i wielkogabarytowych, oraz innych zanieczyszczeń wynikających z ruchu pieszego i kołowego w tym powstałych w wyniku wypadków i kolizji drogowych. 
+2)	wiosenne wygrabienie liści oraz uschniętych traw z powierzchni trawników oraz skupin krzewów i żywopłotów wraz z obszarami zadrzewionymi,
+3)	czterokrotne koszenie trawników w okresie od marca do listopada, 
+4)	usuwanie samosiewów drzew, odrostów korzeniowych i chwastów wokół drzew, krzewów, słupów oświetleniowych, znaków drogowych, barier oraz obiektów małej architektury, 
+5)	pielęgnację oraz formowanie żywopłotów i krzewów wraz z pieleniem,
+6)	likwidację przedeptów i ubytków trawy wraz z odtworzeniem zdewastowanych trawników,
+7)	jesienne wygrabienie liści.
+8)	jesienna obsada cebulkami krokusa wskazanych terenów.
+9)	likwidację przedeptów i ubytków trawy wraz z odtworzeniem zdewastowanych trawników,
+10)	oznakowanie i zabezpieczanie miejsca wykonywania prac oraz zapewnienie bezpieczeństwa pracy.
+11)	wycinkę wraz z frezowaniem pnia, cięcia pielęgnacyjne, sanitarne oraz techniczne drzew, 
+w tym w trybie awaryjnym, oraz usuwanie krzewów.
+12)	zakup od Zamawiającego drewna z wycinki,
+13)	pielęgnację nasadzonych drzew i krzewów,
+14)	wymianę i uzupełnianie palików i wiązań na drzewach nie objętych pielęgnacją.
+15)	nasadzenie drzew. 
+16)	usuwanie odrostów na drzewach.
+17)	sadzenie krzewów.
+18)	przesadzanie drzew.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77310000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77342000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77314100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90400000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90600000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77211500</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77211400</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">77340000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:StreetName>Katowicka 54</cbc:StreetName>
+            <cbc:CityName>Świętochłowice</cbc:CityName>
+            <cbc:PostalZone>41-600</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Informacje o terminach odwołania: 1. Środki ochrony prawnej określone w niniejszym dziale przysługują wykonawcy, uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy. 2. Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15, oraz Rzecznikowi Małych i Średnich Przedsiębiorców. 3. Postępowanie odwoławcze jest prowadzone w języku polskim. 4. Wszystkie dokumenty przedstawia się w języku polskim, a jeżeli zostały sporządzone w języku obcym, strona oraz uczestnik postępowania odwoławczego, który się na nie powołuje, przedstawia ich tłumaczenie na język polski. W uzasadnionych przypadkach Izba może żądać przedstawienia tłumaczenia dokumentu na język polski poświadczonego przez tłumacza przysięgłego. 5. Odwołanie przysługuje na: 1) niezgodną z przepisami ustawy czynność zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, w tym na projektowane postanowienie umowy; 2) zaniechanie czynności w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, do której zamawiający był
+obowiązany na podstawie ustawy; 3) zaniechanie przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania konkursu na podstawie ustawy, mimo że zamawiający był do tego obowiązany. 6. Odwołanie wnosi się do Prezesa Izby. 7. Odwołujący przekazuje kopię odwołania zamawiającemu przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu. 8. Domniemywa się, że
+zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej. 9. Odwołanie zawiera: 1) imię i nazwisko albo nazwę, miejsce zamieszkania albo siedzibę, numer telefonu oraz adres poczty elektronicznej odwołującego oraz imię i nazwisko przedstawiciela (przedstawicieli); 2) nazwę i siedzibę
+zamawiającego, numer telefonu oraz adres poczty elektronicznej zamawiającego; 3) numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub NIP odwołującego będącego osobą fizyczną, jeżeli jest on obowiązany do jego posiadania albo posiada go nie mając takiego obowiązku; 4) numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku - numer w innym właściwym rejestrze, ewidencji lub NIP odwołującego niebędącego
+osobą fizyczną, który nie ma obowiązku wpisu we właściwym rejestrze lub ewidencji, jeżeli jest on obowiązany do jego posiadania; 5) określenie przedmiotu zamówienia; 6) wskazanie numeru ogłoszenia w przypadku zamieszczenia w Biuletynie Zamówień Publicznych albo publikacji w Dzienniku Urzędowym Unii Europejskiej; 7) wskazanie czynności lub zaniechania czynności zamawiającego, której zarzuca się niezgodność z przepisami ustawy; 8) zwięzłe
+przedstawienie zarzutów; 9) żądanie co do sposobu rozstrzygnięcia odwołania; 10) wskazanie okoliczności faktycznych i prawnych uzasadniających wniesienie odwołania oraz dowodów na poparcie przytoczonych okoliczności; 11) podpis odwołującego albo jego przedstawiciela lub przedstawicieli; 12) wykaz załączników. 10. Do odwołania dołącza się: 1) dowód uiszczenia wpisu od odwołania w wymaganej wysokości; 2) dowód przesłania kopii odwołania
+zamawiającemu; 3) dokument potwierdzający umocowanie do reprezentowania odwołującego. 11. Odwołanie podlega rozpoznaniu, jeżeli: 1) nie zawiera braków formalnych; 2) uiszczono wpis w wymaganej wysokości. 12. Wpis uiszcza się najpóźniej do dnia upływu terminu do wniesienia odwołania. 13. Odwołanie wnosi się w przypadku zamówień, których wartość jest równa albo przekracza progi unijne, w terminie: 1) 10 dni od dnia przekazania informacji o
+czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej, 2) 15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w pkt 1; 14. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub konkurs lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne; 15. Odwołanie w przypadkach innych niż określone w ust. 13 i 14 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było
+powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne; 16. Zamawiający przesyła niezwłocznie, nie później niż w terminie 2 dni od dnia otrzymania, kopię odwołania innym wykonawcom uczestniczącym w postępowaniu o udzielenie zamówienia, a jeżeli odwołanie dotyczy treści ogłoszenia o zamówieniu lub dokumentów zamówienia, zamieszcza ją również na stronie internetowej, na której jest zamieszczone ogłoszenie o zamówieniu lub są udostępniane dokumenty zamówienia, wzywając wykonawców do przystąpienia do postępowania odwoławczego. 17. Wykonawca może zgłosić przystąpienie do postępowania odwoławczego w terminie 3 dni od dnia otrzymania kopii odwołania, wskazując stronę, do której przystępuje, i interes w uzyskaniu rozstrzygnięcia na korzyść strony, do której przystępuje. 18. Zgłoszenie przystąpienia doręcza się Prezesowi Izby, a jego kopię przesyła zamawiające</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">INZP.271.28.2024</cbc:ID>
+         <cbc:Name languageID="POL">Utrzymanie zieleni niskiej i wysokiej w pasach drogowych na terenie miasta Świętochłowice</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest świadczenie usługi polegającej na całorocznym utrzymaniu zieleni niskiej i wysokiej w obrębie dróg powiatowych, gminnych oraz wewnętrznych będących w zarządzie Prezydenta Miasta Świętochłowice.
+Zamówienie obejmuje:
+1)	utrzymanie czystości na terenach zieleni w pasie drogowym poprzez usuwanie wszelkich zanieczyszczeń, w tym m.in.: zbieranie śmieci (wszelkiego rodzaju opakowań, papierów, puszek, butelek, szkła, worków, folii, niedopałków, kapsli, gruzu. itp.), gałęzi, palików, posuszu, kamieni, zwierzęcych odchodów, resztek pokarmów, porzuconych lub zgubionych ładunków i odpadów mało i wielkogabarytowych, oraz innych zanieczyszczeń wynikających z ruchu pieszego i kołowego w tym powstałych w wyniku wypadków i kolizji drogowych. 
+2)	wiosenne wygrabienie liści oraz uschniętych traw z powierzchni trawników oraz skupin krzewów i żywopłotów wraz z obszarami zadrzewionymi,
+3)	czterokrotne koszenie trawników w okresie od marca do listopada, 
+4)	usuwanie samosiewów drzew, odrostów korzeniowych i chwastów wokół drzew, krzewów, słupów oświetleniowych, znaków drogowych, barier oraz obiektów małej architektury, 
+5)	pielęgnację oraz formowanie żywopłotów i krzewów wraz z pieleniem,
+6)	likwidację przedeptów i ubytków trawy wraz z odtworzeniem zdewastowanych trawników,
+7)	jesienne wygrabienie liści.
+8)	jesienna obsada cebulkami krokusa wskazanych terenów.
+9)	likwidację przedeptów i ubytków trawy wraz z odtworzeniem zdewastowanych trawników,
+10)	oznakowanie i zabezpieczanie miejsca wykonywania prac oraz zapewnienie bezpieczeństwa pracy.
+11)	wycinkę wraz z frezowaniem pnia, cięcia pielęgnacyjne, sanitarne oraz techniczne drzew, 
+w tym w trybie awaryjnym, oraz usuwanie krzewów.
+12)	zakup od Zamawiającego drewna z wycinki,
+13)	pielęgnację nasadzonych drzew i krzewów,
+14)	wymianę i uzupełnianie palików i wiązań na drzewach nie objętych pielęgnacją.
+15)	nasadzenie drzew. 
+16)	usuwanie odrostów na drzewach.
+17)	sadzenie krzewów.
+18)	przesadzanie drzew.
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77310000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77342000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77314100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90400000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90600000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77211500</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77211400</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">77340000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CityName>Świętochłowice</cbc:CityName>
+               <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

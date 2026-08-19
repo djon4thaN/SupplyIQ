@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efbc:TransmissionDate>2024-12-20+01:00</efbc:TransmissionDate>
+          <efbc:TransmissionTime>11:39:38+01:00</efbc:TransmissionTime>
+          <efac:NoticeResult>
+            <efbc:OverallApproximateFrameworkContractsAmount currencyID="HUF">172589250.00</efbc:OverallApproximateFrameworkContractsAmount>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0001</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:AppealRequestsStatistics>
+                <efbc:StatisticsCode listName="review-type">complainants</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:AppealRequestsStatistics>
+              <efac:AppealRequestsStatistics>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:AppealRequestsStatistics>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7686</cbc:ID>
+              </efac:LotTender>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7710</cbc:ID>
+              </efac:LotTender>
+              <efac:FrameworkAgreementValues>
+                <efbc:ReestimatedValueAmount currencyID="HUF">71250000.00</efbc:ReestimatedValueAmount>
+              </efac:FrameworkAgreementValues>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">part-req</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-micro</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-small</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-med</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-verif-inad</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-verif-inad-low</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-verif</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0002</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:AppealRequestsStatistics>
+                <efbc:StatisticsCode listName="review-type">complainants</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:AppealRequestsStatistics>
+              <efac:AppealRequestsStatistics>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:AppealRequestsStatistics>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7694</cbc:ID>
+              </efac:LotTender>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7718</cbc:ID>
+              </efac:LotTender>
+              <efac:FrameworkAgreementValues>
+                <efbc:ReestimatedValueAmount currencyID="HUF">36750000.00</efbc:ReestimatedValueAmount>
+              </efac:FrameworkAgreementValues>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">part-req</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-micro</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-small</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-med</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-verif-inad</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-verif-inad-low</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-verif</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0003</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:AppealRequestsStatistics>
+                <efbc:StatisticsCode listName="review-type">complainants</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:AppealRequestsStatistics>
+              <efac:AppealRequestsStatistics>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:AppealRequestsStatistics>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7702</cbc:ID>
+              </efac:LotTender>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7726</cbc:ID>
+              </efac:LotTender>
+              <efac:FrameworkAgreementValues>
+                <efbc:ReestimatedValueAmount currencyID="HUF">64589250.00</efbc:ReestimatedValueAmount>
+              </efac:FrameworkAgreementValues>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">part-req</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-micro</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-small</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-med</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-verif-inad</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-verif-inad-low</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-no-verif</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-7686</cbc:ID>
+              <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+              <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+              <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="HUF">71250000.00</cbc:PayableAmount>
+              </cac:LegalMonetaryTotal>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>EKR001353842024/7686</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-7710</cbc:ID>
+              <efbc:TenderRankedIndicator>false</efbc:TenderRankedIndicator>
+              <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>EKR001353842024/7710</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-7694</cbc:ID>
+              <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+              <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+              <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="HUF">36750000.00</cbc:PayableAmount>
+              </cac:LegalMonetaryTotal>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>EKR001353842024/7694</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-7718</cbc:ID>
+              <efbc:TenderRankedIndicator>false</efbc:TenderRankedIndicator>
+              <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0004</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>EKR001353842024/7718</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-7702</cbc:ID>
+              <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+              <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+              <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="HUF">64589250.00</cbc:PayableAmount>
+              </cac:LegalMonetaryTotal>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0005</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>EKR001353842024/7702</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-7726</cbc:ID>
+              <efbc:TenderRankedIndicator>false</efbc:TenderRankedIndicator>
+              <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+              <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+              </efac:SubcontractingTerm>
+              <efac:TenderingParty>
+                <cbc:ID schemeName="tendering-party">TPA-0006</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>EKR001353842024/7726</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+              <cbc:AwardDate>2024-12-06+01:00</cbc:AwardDate>
+              <cbc:IssueDate>2024-12-17+01:00</cbc:IssueDate>
+              <cbc:URI>https://ekr.gov.hu/ekr-szerzodestar/hu/szerzodesLista?eljarasAzon=EKR001353842024</cbc:URI>
+              <efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator>
+              <efac:ContractReference>
+                <cbc:ID>1</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7686</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+              <cbc:AwardDate>2024-12-06+01:00</cbc:AwardDate>
+              <cbc:IssueDate>2024-12-17+01:00</cbc:IssueDate>
+              <cbc:URI>https://ekr.gov.hu/ekr-szerzodestar/hu/szerzodesLista?eljarasAzon=EKR001353842024</cbc:URI>
+              <efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator>
+              <efac:ContractReference>
+                <cbc:ID>2</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7694</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+              <cbc:AwardDate>2024-12-06+01:00</cbc:AwardDate>
+              <cbc:IssueDate>2024-12-17+01:00</cbc:IssueDate>
+              <cbc:URI>https://ekr.gov.hu/ekr-szerzodestar/hu/szerzodesLista?eljarasAzon=EKR001353842024</cbc:URI>
+              <efbc:ContractFrameworkIndicator>false</efbc:ContractFrameworkIndicator>
+              <efac:ContractReference>
+                <cbc:ID>3</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID schemeName="tender">TEN-7702</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0004</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0005</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0006</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+          </efac:NoticeResult>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efbc:AcquiringCPBIndicator>false</efbc:AcquiringCPBIndicator>
+              <efbc:AwardingCPBIndicator>false</efbc:AwardingCPBIndicator>
+              <efac:Company>
+                <cbc:WebsiteURI>https://josamuzeum.hu</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HUN">Jósa András Múzeum</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Benczúr t Tér 21</cbc:StreetName>
+                  <cbc:CityName>Nyíregyháza</cbc:CityName>
+                  <cbc:PostalZone>4400</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HU323</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>15403337215</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Reszlerné János Judit</cbc:Name>
+                  <cbc:Telephone>+36 42315722</cbc:Telephone>
+                  <cbc:Telefax>+36 42315722</cbc:Telefax>
+                  <cbc:ElectronicMail>regeszet.osztalyvezeto@josamuzeum.hu</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://josamuzeum.hu</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HUN">Dr. Herbák Henrietta ügyvéd</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Toldi Miklós Utca 7.</cbc:StreetName>
+                  <cbc:CityName>Budapest</cbc:CityName>
+                  <cbc:PostalZone>1029</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HU110</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>55078623241</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Herbák Henrietta</cbc:Name>
+                  <cbc:Telephone>+36 302272404</cbc:Telephone>
+                  <cbc:ElectronicMail>h.herbak@gmail.com</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+              <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+              <efac:UltimateBeneficialOwner>
+                <cbc:ID schemeName="ubo">UBO-0005</cbc:ID>
+              </efac:UltimateBeneficialOwner>
+              <efac:Company>
+                <efbc:CompanySizeCode listName="economic-operator-size">small</efbc:CompanySizeCode>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HUN">Salisbury Régészeti Korlátolt Felelősségű Társaság</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Víg Utca 57</cbc:StreetName>
+                  <cbc:CityName>Budaörs</cbc:CityName>
+                  <cbc:PostalZone>2040</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HU120</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>11718873213</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+36 304117002</cbc:Telephone>
+                  <cbc:ElectronicMail>titkarsag@salisburykft.hu</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0006</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HUN">Mecenatura Betéti Társaság</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Böszörményi Út 101. 1/5.</cbc:StreetName>
+                  <cbc:CityName>Debrecen</cbc:CityName>
+                  <cbc:PostalZone>4032</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HU321</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>25021202209</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+36 204283338</cbc:Telephone>
+                  <cbc:ElectronicMail>mecenatura.bt@gmail.com</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://kozbeszerzes.hu</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HUN">Közbeszerzési Hatóság Közbeszerzési Döntőbizottság</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Riadó u. 5</cbc:StreetName>
+                  <cbc:CityName>Budapest</cbc:CityName>
+                  <cbc:PostalZone>1026</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HU110</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>15329190-2-41</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+36 18828592</cbc:Telephone>
+                  <cbc:Telefax>+36 18828593</cbc:Telefax>
+                  <cbc:ElectronicMail>dontobizottsag@kt.hu</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://kozbeszerzes.hu</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="HUN">Közbeszerzési Hatóság</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Riadó utca 5.</cbc:StreetName>
+                  <cbc:CityName>Budapest</cbc:CityName>
+                  <cbc:PostalZone>1026</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">HU110</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>EKRSZ_40664534</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+36 18828635</cbc:Telephone>
+                  <cbc:ElectronicMail>hirdetmeny@kt.hu</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:UltimateBeneficialOwner>
+              <cbc:ID schemeName="ubo">UBO-0005</cbc:ID>
+              <efac:Nationality>
+                <cbc:NationalityID>HUN</cbc:NationalityID>
+              </efac:Nationality>
+            </efac:UltimateBeneficialOwner>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000379-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">055353b5-7c4d-4784-8648-dfe174b25d16</cbc:ID>
+  <cbc:ContractFolderID>09deb8e3-a8be-4c3c-ad35-a4dbed61fe6d</cbc:ContractFolderID>
+  <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+  <cbc:IssueTime>16:35:11+01:00</cbc:IssueTime>
+  <cbc:VersionID>02</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>HUN</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cbc:BuyerProfileURI>https://ekr.gov.hu</cbc:BuyerProfileURI>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">rcr</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingProcess>
+    <cbc:Description languageID="HUN">Részenként megadva a II.2.5) Értékelési/Odaítélési szempontokban.</cbc:Description>
+    <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+    <cac:NoticeDocumentReference>
+      <cbc:ID schemeName="ojs-notice-id">554305-2024</cbc:ID>
+    </cac:NoticeDocumentReference>
+    <cac:ProcessJustification>
+      <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+    </cac:ProcessJustification>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID schemeName="InternalID">EKR001353842024</cbc:ID>
+    <cbc:Name languageID="HUN">Régészeti feltáráshoz kapcsolódó feladatok ellátás</cbc:Name>
+    <cbc:Description languageID="HUN">Régészeti feltáráshoz kapcsolódó feladatok ellátása vállalkozási szerződés keretében, 3 részben: 1. RÉSZ: Régészeti feltárásokon, kapcsolódó kisegítői feladatok ellátása, legfeljebb 150 000 régészetileg pozitív m² mennyiségben 2. RÉSZ: Régészeti feltárásokhoz kapcsolódó geodéziai és térinformatikai feladatok ellátása, legfeljebb 150 000 régészetileg pozitív m² mennyiségben 3. RÉSZ: Régészeti leletvizsgálati feladatok ellátása Régészeti leletvizsgálati feladatok: mosás, tisztítás legfeljebb 420 db M30-as rekesz mennyiségben Régészeti leletvizsgálati feladatok ellátása: Restaurálás: kerámiaanyag válogatása és ragasztása legfeljebb 118 db M30-as rekesz mennyiségben Régészeti leletvizsgálati feladatok ellátása: Restaurálás: kerámiatárgyak kiegészítése, fém-, fa- és az ún. finom leletek restaurálása (pl. bőr, textil) legfeljebb 200 munkaóra mennyiségben Régészeti leletvizsgálati feladatok ellátása: Nyilvántartásba való vétel legfeljebb 60000 db lelet mennyiségben Régészeti leletvizsgálati feladatok ellátása: Állatcsont-meghatározás legfeljebb 108 db M30-as rekesz mennyiségben Régészeti leletvizsgálati feladatok ellátása: Embercsont egyed meghatározás legfeljebb 300 db egyed mennyiségben Régészeti leletvizsgálati feladatok ellátása: Archeobotanika, flótálás legfeljebb 100 kg mennyiségben Restaurált leletek csomagolása, 37*25*18 cm (kerámia, kő, fém, patics számára, 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba, legfeljebb 800 db Restaurált leletek csomagolása, 60*41*29 cm (embercsontoknak), 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba, legfeljebb 150 db Restaurált leletek csomagolása, 54*36*23 cm (állatcsontoknak), 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba, legfeljebb 200 db. Az eljárás részenként egy ajánlattevővel kötendő Kbt. 105. § (1) a) szerinti keretmegállapodás megkötésére irányul. A keretmegállapodás alapján szerződés kizárólag a keretmegállapodás időtartama alatt köthető, és a keretmegállapodás alapján részenként beszerzett mennyiség nem haladhatja meg a keretmegállapodásban részenként előirányzott teljes mennyiséget. Jelen felhívás alapján verseny valósul meg. Nyertes ajánlattevőként szerződő fél teljesítése során keletkező bármely tudományos eredmény, vizsgálati eredmény, térinformatikai állomány, bármely más eredmény, alkotás, termék felett Ajánlatkérő korlátlan és kizárólagos, harmadik személynek átengedhető felhasználási jogokat szerez. A teljesítést a hatályos jogszabályok és a teljesítés idején hatályos szakmai protokollok alapján kell végzeni. Ajánlattevőként szerződő fél köteles a szerződéskötésig ajánlatkérőnek bemutatni, ill. a keretmegállapodás hatálya alatt érvényben tartani az 1. rész tekintetében min. 5 000 000 Ft/év limit határú, min. 1 000 000 Ft/káreseményre a 2. rész tekintetében min. 5 000 000 Ft/év limit határú, min. 1 000 000 Ft/káreseményre a 3. rész tekintetében min. 5 000 000 Ft/év limit határú, min. 1 000 000 Ft/káreseményre vonatkozó, közbeszerzés tárgya szerinti tárgyú felelősségbiztosítását. A biztosítási kötvény benyújtásának elmaradása ajánlattevő keretmegállapodástól megkötésétől való visszalépésének minősül a Kbt. 131. § (4) bekezdése alapján. Az ajánlattevők egy vagy több vagy valamennyi részre nyújthatnak be ajánlatot. A részletes követelményeket a közbeszerzési dokumentumok tartalmazzák.</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cbc:Note languageID="HUN">1.) Nyertes ajánlattevő az alábbi egységárakkal nyújtotta be ajánlatát: 1. rész Ajánlattevő neve: Salisbury Régészeti Korlátolt Felelősségű Társaság Székhelye: 2040 Budaörs Víg Utca 57 1. Ajánlati ár: Régészeti feltárásokon, kapcsolódó kisegítői feladatok ellátása (nettó Forint /régészetileg pozitív m2-ben megadva): 475 2. rész Ajánlattevő neve: Salisbury Régészeti Korlátolt Felelősségű Társaság Székhelye: 2040 Budaörs Víg Utca 57 1. Ajánlati ár: Régészeti feltárásokhoz kapcsolódó geodéziai és térinformatikai feladatok ellátása (nettó Ft/régészetileg pozitív m2-ben megadva): 245 3. rész 1. Ajánlati ár: Leletvizsgálati feladatok: mosás, tisztítás (nettó Ft/M30-as rekeszben megadva):35 000 2. Ajánlati ár: Leletvizsgálati feladatok: Restaurálás: kerámiaanyag válogatása és ragasztása (nettó Ft/M30-as rekeszben megadva): 95 000 3. Ajánlati ár: Leletvizsgálati feladatok: Restaurálás: kerámiatárgyak kiegészítése, fém-, fa- és az ún. finom leletek restaurálása (pl. bőr, textil) (nettó Forint/fő/munkaórában megadva): 9 000 4. Ajánlati ár: Leletvizsgálati feladatok: Nyilvántartásba való vétel (egy darab leletre vonatkoztatva nettó Forint/lelet/db-ban megadva): 400 5. Ajánlati ár: Leletvizsgálati feladatok: Állatcsont-meghatározás (nettó Ft/M30-as rekeszben megadva):45 000 6. Ajánlati ár: Leletvizsgálati feladatok: Embercsont egyed meghatározás (egyedre vonatkoztatva nettó Ft/egyedben megadva):6 000 7. Ajánlati ár: Leletvizsgálati feladatok: Archeobotanika, flótálás (nettó Ft/kg-ban megadva):11 250 8. Ajánlati ár: Restaurált leletek csomagolása, 37*25*18 cm doboz (nettó Ft/dobozban megadva):3 750 9. Ajánlati ár: Restaurált leletek csomagolása, 60*41*29 cm doboz (nettó Ft/dobozban megadva):6 875 10. Ajánlati ár: Restaurált leletek csomagolása, 54*36*23 cm doboz (nettó Ft/dobozban megadva):5 315 2.) Az eljárás során környezetvédelmi vagy szociális szempontok nem kerültek figyelembe vételre.</cbc:Note>
+    <cac:RequestedTenderTotal>
+      <cbc:EstimatedOverallContractAmount currencyID="HUF">191368266.00</cbc:EstimatedOverallContractAmount>
+    </cac:RequestedTenderTotal>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">71351914</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+    <cac:TenderingTerms>
+      <ext:UBLExtensions>
+        <ext:UBLExtension>
+          <ext:ExtensionContent>
+            <efext:EformsExtension>
+              <efac:StrategicProcurement>
+                <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+              </efac:StrategicProcurement>
+            </efext:EformsExtension>
+          </ext:ExtensionContent>
+        </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cbc:Description languageID="HUN">1. II.2.5) Értékelési szempontok ponthoz: 1. Ajánlati ár: Régészeti feltárásokon, kapcsolódó kisegítői feladatok ellátása (nettó Forint/régészetileg pozitív m2-ben megadva) 2. Felhívás III.1.3 M.2.1 pont szerinti régész szakember 24 hónapon felüli többlet tapasztalata (egész hónapban megadva, min. 0 hó, max. 12 hó) A 2. értékelési szemponthoz csatolni kell a szakember által aláírt önéletrajzot oly módon (szakmai tapasztalatot év/hónap bontásban, a végzett tevékenység megjelölésével), hogy az értékelési szempontra tett megajánlás megállapítható legyen. A 2. számú értékelési szempontra megajánlani kívánt szakember nevét az ajánlatban kötelező feltüntetni, annak elmulasztása a Kbt. 71. § (8) bekezdés b) pontjára figyelemmel az ajánlat érvénytelenségét eredményezi. Ajánlatkérő a kezdő és a befejező hónapot is beleszámítja a szakmai tapasztalat időtartamába. Ajánlatkérő a tört hónapokat nem veszi figyelembe a tapasztalat számítása során. Ajánlatkérő a szakemberek tekintetében a párhuzamos szakmai tapasztalatokat csak egyszer veszi figyelembe. Az önéletrajzban az értékelési szempontra bemutatott szakmai tapasztalatot egyértelműen el kell különíteni az M2. alkalmassági követelmény igazolására bemutatott szakmai tapasztalattól. Az ajánlatok értékelése során a pontszámok megadása a legkedvezőbb értékhez képest fordított arányosítással (1. értékelési szempont: ajánlati ár és egyenes arányosítással (2. értékelési szempont: szakember többlet tapasztalata) történik, 0-100 pont között: 1. értékelési szempont: P = Alegjobb / Avizsgált * (Pmax - Pmin) + Pmin P: a vizsgált ajánlati elem adott szempontra vonatkozó pontszáma Pmax: a pontskála felső határa Pmin: a pontskála alsó határa Alegjobb: a legelőnyösebb (legalacsonyabb megajánlást tartalmazó) ajánlat tartalmi eleme Avizsgált: a vizsgált ajánlat tartalmi eleme 2. értékelési szempont: P = Avizsgált / Alegjobb * (Pmax - Pmin) + Pmin P: a vizsgált ajánlati elem adott szempontra vonatkozó pontszáma Pmax: a pontskála felső határa Pmin: a pontskála alsó határa Alegjobb: a legelőnyösebb (legmagasabb megajánlást tartalmazó) ajánlat tartalmi eleme Avizsgált: a vizsgált ajánlat tartalmi eleme A legkedvezőbb ajánlat kapja a maximális 100 pontot, a többi ajánlat a legkedvezőbb ajánlathoz viszonyítva a fentiek szerint arányosan kevesebb pontot kap. Az ajánlatkérő a pontozást a kerekítés szabályai szerint két tizedes jegyig végzi el. Az egyes értékelési szempontokra elért pontok a megadott súlyszámokkal kerülnek felszorzásra, majd ajánlatonként összeadásra. Az az ajánlat a legjobb ár-érték arányt megjelenítő, amelynek összpontszáma a legnagyobb. Ajánlatkérő rögzíti, hogy az értékelési szempontok 1. pontja esetében a legalacsonyabb értéket tekinti a legkedvezőbb ajánlatnak, a 2. értékelési szempont esetében a legmagasabbat. Az eljárás nyertese az az ajánlattevő, aki az értékelési szempontok szerint a legjobb ár-érték arány megjelenítő ajánlatot tette és ajánlata érvényes. Pontszám egyenlőség esetén az alacsonyabb ajánlati ár jelenti az előnyösebb ajánlatot. A 2. értékelési szempont tekintetében a Kbt. 77. § (1) bekezdés alapján az ajánlatkérő a maximum értéket 12 hónapban határozza meg, mint az ajánlat legkedvezőbb szintét, amelyre és az annál még kedvezőbb (magasabb) vállalásokra egyaránt az értékelési ponthatár felső határával azonos számú pontot ad. A képletbe abban az esetben is a legkedvezőbbként meghatározott értéket helyettesíti be Ajánlatkérő, ha a legkedvezőbb ajánlat tartalmi eleme ezen értéknél kedvezőbb. 0 hónap megajánlása esetén Ajánlatkérő 0 pontot ad. 2. Ajánlati ár meghatározása, elszámolás egysége: Régészetileg pozitív terület négyzetméter alapú elszámolása. Az elszámolás vonatkozásában régészetileg pozitív eredményű feltárásnak, azaz régészetileg pozitív négyzetméternek ásatási felszínenkénti elszámolásban azok a felületek minősülnek, amelyek az előkerült és kibontott régészeti objektumok külső kontúrvonalától számított, a régészeti szakmai protokollban meghatározott távolságban húzott határoló vonallal lehatároltak, illetve az egyes objektumok köré így húzott vonalak által a humuszolt területen belül kijelölt poligonok területére esnek.</cbc:Description>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">2. Felhívás III.1.3 M.2.1 pont szerinti régész szakember 24 hónapon felüli többlet tapasztalata (egész hónapban megadva, min. 0 hó, max. 12 hó)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>90</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">1. Ajánlati ár: Régészeti feltárásokon, kapcsolódó kisegítői feladatok ellátása (nettó Forint/régészetileg pozitív m2-ben megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cac:PresentationPeriod>
+          <cbc:Description languageID="HUN">Kbt. 148-149. § szerint.</cbc:Description>
+        </cac:PresentationPeriod>
+        <cac:AppealInformationParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealInformationParty>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">EKR001353842024/1</cbc:ID>
+      <cbc:Name languageID="HUN">Régészeti feltárásokon kisegítői feladatok</cbc:Name>
+      <cbc:Description languageID="HUN">1. RÉSZ: Régészeti feltárásokon, kapcsolódó kisegítői feladatok ellátása, legfeljebb 150 000 régészetileg pozitív m² mennyiségben A lelőhely humuszolásának felügyeletének (a régészeti objektumok kijelölése) és szakmai ellenőrzésének elősegítése. Ezt követően közreműködés a régészeti jelenségek finombontásában (in situ bontás) előkerült leletanyag objektumonkénti és típusonkénti szétválogatásában és csomagolásában, illetve nagyobb csomagolási egységenként tételes lista készítésében. Közreműködés a régészeti jelenségek rajzos és fotós rögzítésében, ami az objektumokról folt-, metszet-, részlet- és felszínfotó és méretarányos rajz készítését, fotószkenneléséhez szükséges pontok lehelyezését, drónnal készített ortofotó és ehhez szükséges értelmező skiccrajzok készítése. A kötelező dokumentumok naprakész vezetésében való részvétel. Az adott lelőhely vonatkozásában elvárt szakmai protokoll- és jogszabályoknak megfelelő szerint feladatok teljesítése a terepi ásatási napló és a terepi objektumleírás, továbbá fotó- és rajzmutatók készítésében. A terepi munka előbbiekben sorolt feladatai mellett segítség nyújtás a munka szervezésében és irányításában (koordinálási feladatok), valamint a szakmai protokollok és a jogszabály által előírt előrehaladási- és a zárójelentések, azok mellékleteinek elkészítésében való részvétel. A feladatokat az ásatásvezető régész irányításával és az általa jelzett módon szükséges végezni. Szakmai stáb: ásatási gyakorlattal rendelkező 1-4 fő csapatonként, 1 fő régésszel, amelyet előzetesen napi szinten az ásatásvezető régész határoz meg. Az 1 fő régész koordinálja a stábot. Az eljárás részenként egy ajánlattevővel kötendő Kbt. 105. § (1) a) szerinti keretmegállapodás megkötésére irányul. A keretmegállapodás alapján szerződés kizárólag a keretmegállapodás időtartama alatt köthető, és a keretmegállapodás alapján részenként beszerzett mennyiség nem haladhatja meg a keretmegállapodásban részenként előirányzott teljes mennyiséget. Nyertes ajánlattevőként szerződő fél teljesítése során keletkező bármely tudományos eredmény, vizsgálati eredmény, térinformatikai állomány, bármely más eredmény, alkotás, termék felett Ajánlatkérő korlátlan és kizárólagos, harmadik személynek átengedhető felhasználási jogokat szerez. A teljesítést a hatályos jogszabályok és a teljesítés idején hatályos szakmai protokollok alapján kell végezni. További előírásokat a közbeszerzési dokumentumok tartalmazzák.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="HUF">87450000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">71351914</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HU323</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:PlannedPeriod>
+        <cbc:DurationMeasure unitCode="MONTH">24</cbc:DurationMeasure>
+      </cac:PlannedPeriod>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+        <cac:Renewal>
+          <cac:Period>
+            <cbc:Description languageID="HUN">Amennyiben a II.2.7 pontban meghatározott időtartam alatt a keretösszeg előreláthatóan nem fog kimerülni, úgy ajánlatkérőként szerződő fél jogosult a keretmegállapodást a nyertes ajánlattevőként szerződő félhez címzett legkésőbb a keretmegállapodás határozott időtartama megszűnését megelőző 30. napig közölt egyoldalú írásbeli jognyilatkozattal, legfeljebb 12 hónap időtartamra meghosszabbítani a Kbt. 141. § (4) bekezdés a) pontjára tekintettel.</cbc:Description>
+          </cac:Period>
+        </cac:Renewal>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+    <cac:TenderingTerms>
+      <ext:UBLExtensions>
+        <ext:UBLExtension>
+          <ext:ExtensionContent>
+            <efext:EformsExtension>
+              <efac:StrategicProcurement>
+                <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+              </efac:StrategicProcurement>
+            </efext:EformsExtension>
+          </ext:ExtensionContent>
+        </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cbc:Description languageID="HUN">1. II.2.5) Értékelési szempontok ponthoz: 1. Ajánlati ár: Régészeti feltárásokhoz kapcsolódó geodéziai és térinformatikai feladatok ellátása (nettó Ft/régészetileg pozitív m2-ben megadva) 2. Felhívás III.1.3 M.2 pont szerinti szakember 24 hónapon felüli többlet tapasztalata (egész hónapban megadva, min. 0 hó, max. 12 hó) A 2. értékelési szemponthoz csatolni kell a szakember által aláírt önéletrajzot oly módon (szakmai tapasztalatot év/hónap bontásban, a végzett tevékenység megjelölésével), hogy az értékelési szempontra tett megajánlás megállapítható legyen. A 2. számú értékelési szempontra megajánlani kívánt szakember nevét az ajánlatban kötelező feltüntetni, annak elmulasztása a Kbt. 71. § (8) bekezdés b) pontjára figyelemmel az ajánlat érvénytelenségét eredményezi. Ajánlatkérő a kezdő és a befejező hónapot is beleszámítja a szakmai tapasztalat időtartamába. Ajánlatkérő a tört hónapokat nem veszi figyelembe a tapasztalat számítása során. Ajánlatkérő a szakemberek tekintetében a párhuzamos szakmai tapasztalatokat csak egyszer veszi figyelembe. Az önéletrajzban az értékelési szempontra bemutatott szakmai tapasztalatot egyértelműen el kell különíteni az M2. alkalmassági követelmény igazolására bemutatott szakmai tapasztalattól. Az ajánlatok értékelése során a pontszámok megadása a legkedvezőbb értékhez képest fordított arányosítással (1. értékelési szempont: ajánlati ár és egyenes arányosítással (2. értékelési szempont: szakember többlet tapasztalata) történik, 0-100 pont között: 1. értékelési szempont: P = Alegjobb / Avizsgált * (Pmax - Pmin) + Pmin P: a vizsgált ajánlati elem adott szempontra vonatkozó pontszáma Pmax: a pontskála felső határa Pmin: a pontskála alsó határa Alegjobb: a legelőnyösebb (legalacsonyabb megajánlást tartalmazó) ajánlat tartalmi eleme Avizsgált: a vizsgált ajánlat tartalmi eleme 2. értékelési szempont: P = Avizsgált / Alegjobb * (Pmax - Pmin) + Pmin P: a vizsgált ajánlati elem adott szempontra vonatkozó pontszáma Pmax: a pontskála felső határa Pmin: a pontskála alsó határa Alegjobb: a legelőnyösebb (legmagasabb megajánlást tartalmazó) ajánlat tartalmi eleme Avizsgált: a vizsgált ajánlat tartalmi eleme A legkedvezőbb ajánlat kapja a maximális 100 pontot, a többi ajánlat a legkedvezőbb ajánlathoz viszonyítva a fentiek szerint arányosan kevesebb pontot kap. Az ajánlatkérő a pontozást a kerekítés szabályai szerint két tizedes jegyig végzi el. Az egyes értékelési szempontokra elért pontok a megadott súlyszámokkal kerülnek felszorzásra, majd ajánlatonként összeadásra. Az az ajánlat a legjobb ár-érték arányt megjelenítő, amelynek összpontszáma a legnagyobb. Ajánlatkérő rögzíti, hogy az értékelési szempontok 1. pontja esetében a legalacsonyabb értéket tekinti a legkedvezőbb ajánlatnak, a 2. értékelési szempont esetében a legmagasabbat. Az eljárás nyertese az az ajánlattevő, aki az értékelési szempontok szerint a legjobb ár-érték arány megjelenítő ajánlatot tette és ajánlata érvényes. Pontszám egyenlőség esetén az alacsonyabb ajánlati ár jelenti az előnyösebb ajánlatot. A 2. értékelési szempont tekintetében a Kbt. 77. § (1) bekezdés alapján az ajánlatkérő a maximum értéket 12 hónapban határozza meg, mint az ajánlat legkedvezőbb szintét, amelyre és az annál még kedvezőbb (magasabb) vállalásokra egyaránt az értékelési ponthatár felső határával azonos számú pontot ad. A képletbe abban az esetben is a legkedvezőbbként meghatározott értéket helyettesíti be Ajánlatkérő, ha a legkedvezőbb ajánlat tartalmi eleme ezen értéknél kedvezőbb. 0 hónap megajánlása esetén Ajánlatkérő 0 pontot ad. 2. Ajánlati ár meghatározása, elszámolás egysége: Régészetileg pozitív terület négyzetméter alapú elszámolása. Az elszámolás vonatkozásában régészetileg pozitív eredményű feltárásnak, azaz régészetileg pozitív négyzetméternek ásatási felszínenkénti elszámolásban azok a felületek minősülnek, amelyek az előkerült és kibontott régészeti objektumok külső kontúrvonalától számított, a régészeti szakmai protokollban meghatározott távolságban húzott határoló vonallal lehatároltak, illetve az egyes objektumok köré így húzott vonalak által a humuszolt területen belül kijelölt poligonok területére esnek.</cbc:Description>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">2. Felhívás III.1.3 M.2 pont szerinti szakember 24 hónapon felüli többlet tapasztalata (egész hónapban megadva, min. 0 hó, max. 12 hó)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>90</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">1. Ajánlati ár: Régészeti feltárásokhoz kapcsolódó geodéziai és térinformatikai feladatok ellátása (nettó Ft/régészetileg pozitív m2-ben megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cac:PresentationPeriod>
+          <cbc:Description languageID="HUN">Kbt. 148-149. § szerint.</cbc:Description>
+        </cac:PresentationPeriod>
+        <cac:AppealInformationParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealInformationParty>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">EKR001353842024/2</cbc:ID>
+      <cbc:Name languageID="HUN">Geodéziai és térinformatikai feladatok ellátása</cbc:Name>
+      <cbc:Description languageID="HUN">2. RÉSZ: Régészeti feltárásokhoz kapcsolódó geodéziai és térinformatikai feladatok ellátása, legfeljebb 150 000 régészetileg pozitív m² mennyiségben Terepi geodézia Szükség esetén az ásatási területek határainak kitűzése, a feltárandó lelőhelyek, lelőhelyrészek gépi humuszolás előtti terepmodellezése. A humuszolt, nyesett felületek terepmodellezése és felmérése, régészeti érintettség területének számítása (szakmai protokoll szerinti régészetileg pozitív és negatív területek). Szükség esetén a feldolgozás alapját képező országos rendszerhez illesztett koordinátaháló kitűzése, földtömegszámítás. A régészeti jelenségek részletes, háromdimenziós felmérése, a fotószkenneléshez lehelyezett pontok és egyéb szükség szerinti pontok bemérése (pl. metszetpontok). A felmérésről készült geodéziai adatszolgáltatás (koordinátajegyzék, régészeti érintettség területének számítása az adott lelőhelyre vonatkozó aktuális szakmai protokollok alapján). Térinformatikai feldolgozás A régészeti feltáráson készített digitális felvételek szakmai protokoll szerinti átnevezése és mappákba történő rendszerezése. Az ásatási napló és az objektumlapok digitalizálása (begépelése és legalább 300 dpi felbontású szkennelése), adatbázisba való feltöltése (EMIR vagy Access) és a protokoll szerinti mutatók elkészítése. Az ásatásvezető régész segítése a szakmai beszámolók, valamint a lelőhelybejelentő adatlapok és a hozzá tartozó topográfiai térképek elkészítésében. A régészeti jelenség folt-, metszet-, részlet- és felszínrajzainak szakmai protokoll szerinti digitálizálása (vektorizálása) QGIS vagy ArcGIS programokban és adatbázisba való feltöltése (EMIR vagy Access). A vektorizált rajzokból összesítő rajzok és térképek szerkesztése. A lelőhelyszintű összefüggések szakszerű megjelenítése érdekében tematikus térképek (például korszakok szerint) készítése. A régészeti feltárás egy éves dokumentációjának szakmai protokoll szerinti mappába rendezése a digitális példányok esetében, valamint szerkesztése, a nyomtatott példányoknál elvárt szempontok szerinti strukturálása és összefűzése. Az eljárás részenként egy ajánlattevővel kötendő Kbt. 105. § (1) a) szerinti keretmegállapodás megkötésére irányul. A keretmegállapodás alapján szerződés kizárólag a keretmegállapodás időtartama alatt köthető, és a keretmegállapodás alapján részenként beszerzett mennyiség nem haladhatja meg a keretmegállapodásban részenként előirányzott teljes mennyiséget. Nyertes ajánlattevőként szerződő fél teljesítése során keletkező bármely tudományos eredmény, vizsgálati eredmény, térinformatikai állomány, bármely más eredmény, alkotás, termék felett Ajánlatkérő korlátlan és kizárólagos, harmadik személynek átengedhető felhasználási jogokat szerez. A teljesítést a hatályos jogszabályok és a teljesítés idején hatályos szakmai protokollok alapján kell végezni. További előírásokat a közbeszerzési dokumentumok tartalmazzák.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="HUF">46200000.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">71351914</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HU323</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:PlannedPeriod>
+        <cbc:DurationMeasure unitCode="MONTH">24</cbc:DurationMeasure>
+      </cac:PlannedPeriod>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+        <cac:Renewal>
+          <cac:Period>
+            <cbc:Description languageID="HUN">Amennyiben a II.2.7 pontban meghatározott időtartam alatt a keretösszeg előreláthatóan nem fog kimerülni, úgy ajánlatkérőként szerződő fél jogosult a keretmegállapodást a nyertes ajánlattevőként szerződő félhez címzett legkésőbb a keretmegállapodás határozott időtartama megszűnését megelőző 30. napig közölt egyoldalú írásbeli jognyilatkozattal, legfeljebb 12 hónap időtartamra meghosszabbítani a Kbt. 141. § (4) bekezdés a) pontjára tekintettel.</cbc:Description>
+          </cac:Period>
+        </cac:Renewal>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+    <cac:TenderingTerms>
+      <ext:UBLExtensions>
+        <ext:UBLExtension>
+          <ext:ExtensionContent>
+            <efext:EformsExtension>
+              <efac:StrategicProcurement>
+                <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+              </efac:StrategicProcurement>
+            </efext:EformsExtension>
+          </ext:ExtensionContent>
+        </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cbc:Description languageID="HUN">1. II.2.5) Értékelési szempontok ponthoz: 1. Ajánlati ár: Leletvizsgálati feladatok: mosás, tisztítás (nettó Ft/M30-as rekeszben megadva); súlyszám: 20 2. Ajánlati ár: Leletvizsgálati feladatok: Restaurálás: kerámiaanyag válogatása és ragasztása (nettó Ft/M30-as rekeszben megadva); súlyszám: 20 3. Ajánlati ár: Leletvizsgálati feladatok: Restaurálás: kerámiatárgyak kiegészítése, fém-, fa- és az ún. finom leletek restaurálása (pl. bőr, textil) (nettó Forint/fő/munkaórában megadva); súlyszám: 20 4. Ajánlati ár: Leletvizsgálati feladatok: Nyilvántartásba való vétel (egy darab leletre vonatkoztatva nettó Forint/lelet/db-ban megadva); súlyszám: 8 5. Ajánlati ár: Leletvizsgálati feladatok: Állatcsont-meghatározás (nettó Ft/M30-as rekeszben megadva); súlyszám: 4 6. Ajánlati ár: Leletvizsgálati feladatok: Embercsont egyed meghatározás (egyedre vonatkoztatva nettó Ft/egyedben megadva); súlyszám: 4 7. Ajánlati ár: Leletvizsgálati feladatok: Archeobotanika, flótálás (nettó Ft/kg-ban megadva); súlyszám: 4 8. Restaurált leletek csomagolása, 37*25*18 cm (kerámia, kő, fém, patics számára, 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba (nettó Ft/dobozban megadva) ;súlyszám: 4. 9. Restaurált leletek csomagolása, 60*41*29 cm (embercsontoknak), 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba (nettó Ft/dobozban megadva); súlyszám: 4. 10. Restaurált leletek csomagolása, 54*36*23 cm (állatcsontoknak), 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba (nettó Ft/dobozban megadva); súlyszám: 4. 11. Restaurálási dokumentáció elkészítése (lelet átvételét követő egész hónapban megadva, min. 3 hónap, max. 6 hónap); súlyszám: 4. Az ajánlatok értékelése során a pontszámok megadása a legkedvezőbb értékhez képest fordított arányosítással történik, 0-100 pont között: P = Alegjobb / Avizsgált * (Pmax - Pmin) + Pmin P: a vizsgált ajánlati elem adott szempontra vonatkozó pontszáma Pmax: a pontskála felső határa Pmin: a pontskála alsó határa Alegjobb: a legelőnyösebb (legalacsonyabb megajánlást tartalmazó) ajánlat tartalmi eleme Avizsgált: a vizsgált ajánlat tartalmi eleme A legkedvezőbb ajánlat kapja a maximális 100 pontot, a többi ajánlat a legkedvezőbb ajánlathoz viszonyítva a fentiek szerint arányosan kevesebb pontot kap. Az ajánlatkérő a pontozást a kerekítés szabályai szerint két tizedes jegyig végzi el. Az egyes értékelési szempontokra elért pontok a megadott súlyszámokkal kerülnek felszorzásra, majd ajánlatonként összeadásra. Az az ajánlat a legjobb ár-érték arányt megjelenítő, amelynek összpontszáma a legnagyobb. Ajánlatkérő rögzíti, hogy valamennyi értékelési szempontok esetében a legalacsonyabb értéket tekinti a legkedvezőbb ajánlatnak. Az eljárás nyertese az az ajánlattevő, aki az értékelési szempontok szerint a legjobb ár-érték arány megjelenítő ajánlatot tette és ajánlata érvényes. Pontszám egyenlőség esetén az alacsonyabb ajánlati ár jelenti az előnyösebb ajánlatot. A 11. értékelési szempont tekintetében a Kbt. 77. § (1) bekezdés alapján az ajánlatkérő a minimum értéket 3 hónapban határozza meg, mint az ajánlat legkedvezőbb szintét, amelyre és az annál még kedvezőbb (alacsonyabb) vállalásokra egyaránt az értékelési ponthatár felső határával azonos számú pontot ad. A maximum értéknél (6 hónap) kedvezőtlenebb (magasabb) ajánlat esetén az ajánlat érvénytelen.</cbc:Description>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>4</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">11. Restaurálási dokumentáció elkészítése (lelet átvételét követő egész hónapban megadva, min. 3 hónap, max. 6 hónap)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">1. Ajánlati ár: Leletvizsgálati feladatok: mosás, tisztítás (nettó Ft/M30-as rekeszben megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">2. Ajánlati ár: Leletvizsgálati feladatok: Restaurálás: kerámiaanyag válogatása és ragasztása (nettó Ft/M30-as rekeszben megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">3. Ajánlati ár: Leletvizsgálati feladatok: Restaurálás: kerámiatárgyak kiegészítése, fém-, fa- és az ún. finom leletek restaurálása (pl. bőr, textil) (nettó Forint/fő/munkaórában megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>8</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">4. Ajánlati ár: Leletvizsgálati feladatok: Nyilvántartásba való vétel (egy darab leletre vonatkoztatva nettó Forint/lelet/db-ban megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>4</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">5. Ajánlati ár: Leletvizsgálati feladatok: Állatcsont-meghatározás (nettó Ft/M30-as rekeszben megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>4</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">6. Ajánlati ár: Leletvizsgálati feladatok: Embercsont egyed meghatározás (egyedre vonatkoztatva nettó Ft/egyedben megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>4</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">7. Ajánlati ár: Leletvizsgálati feladatok: Archeobotanika, flótálás (nettó Ft/kg-ban megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>4</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">8. Ajánlati ár: Restaurált leletek csomagolása, 37*25*18 cm doboz (nettó Ft/dobozban megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>4</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">9. Ajánlati ár: Restaurált leletek csomagolása, 60*41*29 cm doboz (nettó Ft/dobozban megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>4</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="HUN">10. Ajánlati ár: Restaurált leletek csomagolása, 54*36*23 cm doboz (nettó Ft/dobozban megadva)</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:AppealTerms>
+        <cac:PresentationPeriod>
+          <cbc:Description languageID="HUN">Kbt. 148-149. § szerint.</cbc:Description>
+        </cac:PresentationPeriod>
+        <cac:AppealInformationParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealInformationParty>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">EKR001353842024/3</cbc:ID>
+      <cbc:Name languageID="HUN">Régészeti leletvizsgálati feladatok ellátása</cbc:Name>
+      <cbc:Description languageID="HUN">3. RÉSZ: Régészeti leletvizsgálati feladatok ellátása Régészeti leletvizsgálati feladatok: mosás, tisztítás legfeljebb 420 db M30-as rekesz mennyiségben Régészeti leletvizsgálati feladatok ellátása: Restaurálás: kerámiaanyag válogatása és ragasztása legfeljebb 118 db M30-as rekesz mennyiségben Régészeti leletvizsgálati feladatok ellátása: Restaurálás: kerámiatárgyak kiegészítése, fém-, fa- és az ún. finom leletek restaurálása (pl. bőr, textil) legfeljebb 200 munkaóra mennyiségben Régészeti leletvizsgálati feladatok ellátása: Nyilvántartásba való vétel legfeljebb 60000 db lelet mennyiségben Régészeti leletvizsgálati feladatok ellátása: Állatcsont-meghatározás legfeljebb 108 db M30-as rekesz mennyiségben Régészeti leletvizsgálati feladatok ellátása: Embercsont egyed meghatározás legfeljebb 300 db egyed mennyiségben Régészeti leletvizsgálati feladatok ellátása: Archeobotanika, flótálás legfeljebb 100 kg mennyiségben Restaurált leletek csomagolása, 37*25*18 cm (kerámia, kő, fém, patics számára, 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba, legfeljebb 800 db Restaurált leletek csomagolása, 60*41*29 cm (embercsontoknak), 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba, legfeljebb 150 db Restaurált leletek csomagolása, 54*36*23 cm (állatcsontoknak), 1230g/m2 Eskaboard (vagy ezzel egyenértékű), 120g/m2 felhőpapír, kötészeti vászon anyagú egységdobozokba, legfeljebb 200 db. Amennyiben bárhol az eljárást megindító felhívásban, a közbeszerzési dokumentumokban az ajánlatkérő típusokat, gyártmányokat adott meg, úgy azt a műszaki paraméterek, ill. a tárgy jellegének egyértelmű meghatározása, könnyebb beazonosítása érdekében adta meg, és minden esetben „azzal egyenértékű” típus és gyártmány is érthető. Az egyenértékűséget az ajánlattevőnek az ajánlatban igazolnia kell, megjelölve az adott tételt, adatlappal, alátámasztó dokumentummal igazolva az egyenértékűséget. 1. Mosás, tisztítás A régészeti feltárásokon előkerült régészeti leletanyag mosása, tisztítása, restauráláshoz és vizsgálatokhoz történő előkészítése. A leletanyagok restaurálásáról, illetve az ennek során végzett műveletekről, felhasznált anyagokról restaurálási napló vezetése. A leletanyag elszállítása, majd az elkészült leletanyag visszaszállítása (átadás-átvétel jegyzőkönyvvel) a Jósa András Múzeumban használt szabványdobozokban (ld. fentebb megadva), leletkísérővel (leletenként és stratigráfiai egységenként különcsomagolva) történő ellátással és feliratozással. A szilikát régészeti leletanyag (kerámia, kályhacsempe, üveg), továbbá állatcsont, embercsont és kő régészeti leletanyag mosása, szükség szerinti vegyszeres oldószerrel való tisztítása. A tisztítást követően a különböző lelettípusonként és stratigráfiai egységenként külön történő szárítás (min. 15 C fokos átlaghőmérsékletű helyiségben) kötelező. A feladatokat az ásatásvezető régész ellenőrzi. 2. Restaurálás A leletanyag elszállítása, majd az elkészült leletanyag visszaszállítása (átadás-átvétel jegyzőkönyvvel) a Jósa András Múzeumban használt szabványdobozokban (ld. fentebb megadva), leletkísérővel történő ellátással és feliratozással. A kerámiaanyag esetében válogatás, ragasztás és a kiegészíthető kerámiatárgyak kiegészítése és szükség esetén retusálása, a fém-, a fa- és az ún. finom leletek (pl. bőr, textil stb.) esetében tisztítása, konzerválása, valamint restaurálási dokumentáció (a kiegészített kerámiatárgyakról, továbbá a fém-, a fa- és az ún. finom leletekről külön adatlap) elkészítése szükséges, a szakmai protokoll alapján. A feladatokat az ásatásvezető régész ellenőrzi. 3. Nyilvántartásba való vétel A régészeti leletek azonosítása a leletek restaurálását és selejtezését követően lehetséges egyedi azonosítóval történő ellátással. Az azonosítóval való ellátás a leletek leltározását és szakmai leírását jelenti. A számformátum eleget tesz annak a kritériumnak, mely lehetővé teszi az egyes leletek egyedi és egyértelmű azonosítását és maradéktalanul lehetővé teszi a feldolgozáshoz szükséges tudományos-szakmai hozzáférést. A leletek egyedi azonosítóval való ellátása az alábbi formátum: 2021.1.1., ahol: - az első rész (első 4 számjegy): Évszám - a második rész: 1 - n-ig terjedő szám: A leleteket magába foglaló stratigráfia egység, esetleg lelőhely száma . a harmadik rész: 1 - n-ig terjedő szám: Tételszám Ebben a rendszerben az egyes tételeken belüli darabszám a leltári(szakmai) leírásban kerül megadásra. Az egyes tételek szakmai leírását a megrendelő által az EMIR adatbázisba felhasználói jogosultsággal felruházott, kizárólag régész diplomával rendelkező szakember végezheti. Az azonosító számokat jól olvasható számjegyekkel kézzel, vagy géppel kell a tárgyakra ráírni, olyan festékanyaggal vagy tintával, mely nem vízoldékony, nem bomlékony, egészségre nem ártalmas és a műtárgyat nem károsító anyag. A leltárba vett leletekről gyarapodási napló vezetése. 4. Állatcsont-meghatározás A leletanyag elszállítása, majd az elkészült leletanyag visszaszállítása (átadás-átvétel jegyzőkönyvvel) a Jósa András Múzeumban használt szabványdobozokban (ld. fentebb megadva), leletkísérővel történő ellátással és feliratozással. Az állatcsont-anyag régészeti lelőhelyenként és régészeti stratigráfiai egységenként az archeozoológiai protokoll szerinti tételes meghatározása, a speciális darabok (megmunkálás, vágás stb.) kiemelése, külön csomagolása és dokumentálása, fotózása, valamint lelőhelyenkénti és korszakonkénti szöveges értékelés elkészítése. A feladatokat az ásatásvezető régész ellenőrzi. Folytatás a VI.1.10) További információk pontban.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="HUN">5. Embercsont-meghatározás A leletanyag elszállítása, majd az elkészült leletanyag visszaszállítása (átadás-átvétel jegyzőkönyvvel) a Jósa András Múzeumban használt szabványdobozokban (ld. fentebb), leletkísérővel történő ellátással és feliratozással. Az embercsont-anyag egyedenkénti az antropológiai protokoll szerinti tételes meghatározása, a speciális darabok (törés, betegség nyomok stb.) dokumentálása, fotózása, valamint lelőhelyenkénti és korszakonkénti szöveges értékelés elkészítése. A feladatokat az ásatásvezető régész ellenőrzi. 6. Archeobotanika, flótálás A földminta-anyag elszállítása, majd az archeobotanikai anyag visszaszállítása megfelelő csomagolásban (sértetlen, nem lehet szennyezett, koszos, égett, ázott), leletkísérővel történő ellátással és feliratozással. Az földminta-anyag különböző nagyságú szűrőkön vízzel történő átmosása. Az archeobotanikai anyag leválogatása, a nem archeobotanikai anyag külön történő elcsomagolása. A leválogatott archeobotanikai anyag az archeobotanikai protokoll szerinti tételes meghatározása, a speciális tételek dokumentálása, fotózása, valamint lelőhelyenkénti és korszakonkénti szöveges értékelés elkészítése. A feladatokat az ásatásvezető régész ellenőrzi. Az eljárás részenként egy ajánlattevővel kötendő Kbt. 105. § (1) a) szerinti keretmegállapodás megkötésére irányul. A keretmegállapodás alapján szerződés kizárólag a keretmegállapodás időtartama alatt köthető, és a keretmegállapodás alapján részenként beszerzett mennyiség nem haladhatja meg a keretmegállapodásban részenként előirányzott teljes mennyiséget. Nyertes ajánlattevőként szerződő fél teljesítése során keletkező bármely tudományos eredmény, vizsgálati eredmény, térinformatikai állomány, bármely más eredmény, alkotás, termék felett Ajánlatkérő korlátlan és kizárólagos, harmadik személynek átengedhető felhasználási jogokat szerez. A teljesítést a hatályos jogszabályok és a teljesítés idején hatályos szakmai protokollok alapján kell végezni. További előírásokat a közbeszerzési dokumentumok tartalmazzák.</cbc:Note>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="HUF">57718266.00</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">71351914</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">HU323</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">HUN</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:PlannedPeriod>
+        <cbc:DurationMeasure unitCode="MONTH">24</cbc:DurationMeasure>
+      </cac:PlannedPeriod>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+        <cac:Renewal>
+          <cac:Period>
+            <cbc:Description languageID="HUN">Amennyiben a II.2.7 pontban meghatározott időtartam alatt a keretösszeg előreláthatóan nem fog kimerülni, úgy ajánlatkérőként szerződő fél jogosult a keretmegállapodást a nyertes ajánlattevőként szerződő félhez címzett legkésőbb a keretmegállapodás határozott időtartama megszűnését megelőző 30. napig közölt egyoldalú írásbeli jognyilatkozattal, legfeljebb 12 hónap időtartamra meghosszabbítani a Kbt. 141. § (4) bekezdés a) pontjára tekintettel.</cbc:Description>
+          </cac:Period>
+        </cac:Renewal>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:TenderResult>
+    <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+  </cac:TenderResult>
+</ContractAwardNotice>

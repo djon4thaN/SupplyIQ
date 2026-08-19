@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">5368320.61</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">5368320.61</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>oferta MZO-KOSZ</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-09+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Świadczenie usługi odbioru i transportu odpadów komunalnych powstających na nieruchomościach, na których zamieszkują mieszkańcy na terenie Gminy Miasto Ostrów Wielkopolski oraz prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK) na terenie miasta Ostrowa Wielkopolskiego</cbc:Title>
+                     <efac:ContractReference>
+                        <cbc:ID>WRM.RZP.271.33.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Konsorcjum MZO KOSZ</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        <efbc:GroupLeadIndicator>true</efbc:GroupLeadIndicator>
+                     </efac:Tenderer>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.umostrow.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://ezamowienia.gov.pl/pl/</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Miasto Ostrów Wielkopolski</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>al. Powstańców Wielkopolskich 18</cbc:StreetName>
+                           <cbc:CityName>Ostrów Wielkopolski</cbc:CityName>
+                           <cbc:PostalZone>63-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL416</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON 250855512</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Referat Zamówień Publicznych</cbc:Name>
+                           <cbc:Telephone>+48 625822301</cbc:Telephone>
+                           <cbc:ElectronicMail>zp@umostrow.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.gov.pl/web/uzp/krajowa-izba-odwolawcza</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON 010828091</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:Telefax>+48 224587800</cbc:Telefax>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Zakład Oczyszczania i Gospodarki Odpadami „MZO” S.A.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Staroprzygodzka 138</cbc:StreetName>
+                           <cbc:CityName>Ostrów Wielkopolski</cbc:CityName>
+                           <cbc:PostalZone>63-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL416</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6221001188</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Firma Usługowa KOSZ Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Wylotowa 57</cbc:StreetName>
+                           <cbc:CityName>Ostrów Wielkopolski</cbc:CityName>
+                           <cbc:PostalZone>63-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL416</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6220110461</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000483-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">50add04d-4c4a-40a7-a16e-eb833d82794e</cbc:ID>
+   <cbc:ContractFolderID>bcf771d9-59fc-4b2b-9520-eb91d4253dcd</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-30Z</cbc:IssueDate>
+   <cbc:IssueTime>10:55:05Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>LocalLegalBasis</cbc:ID>
+         <cbc:DocumentDescription languageID="POL">Zamówienie udzielane jest w trybie zamówienia z wolnej ręki na podstawie art. 214 ust. 1 pkt 7 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych. </cbc:DocumentDescription>
+      </cac:ProcurementLegislationDocumentReference>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">neg-wo-call</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">690232-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="direct-award-justification">repetition</cbc:ProcessReasonCode>
+         <cbc:ProcessReason languageID="POL">Wykonywanie usługi polegającej na odbiorze i transporcie odpadów komunalnych od właścicieli nieruchomości, na których zamieszkują mieszkańcy z terenu Gminy Miasto Ostrów Wielkopolski oraz usług obejmujących prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK) na terenie miasta Ostrowa
+Wielkopolskiego, postanowiono udzielić w trybie zamówienia z wolnej ręki na podstawie art. 214 ust. 1 pkt 7 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (t.j. Dz. U. z 2024 r., poz. 1320). Ustawa z dnia 11 września 2019 r. Prawo zamówień publicznych (t.j. Dz. U. z 2024 r., poz. 1320) art. 214 ust. 1 enumeratywnie wylicza okoliczności, w których Zamawiający może udzielić zamówienia z wolnej ręki. Jedną z przesłanek jest możliwość udzielenia, w okresie 3 lat od dnia udzielenia zamówienia podstawowego, dotychczasowemu wykonawcy usług lub robót budowlanych, zamówienia polegającego na powtórzeniu podobnych usług lub robót budowlanych, jeżeli takie zamówienie było przewidziane w ogłoszeniu o zamówieniu dla zamówienia podstawowego i jest zgodne z jego przedmiotem
+oraz całkowita wartość tego zamówienia została uwzględniona przy obliczaniu jego wartości. Zamówienie podstawowe po rozstrzygnięciu postępowania prowadzonego w trybie przetargu nieograniczonego zostało udzielone w dniu 23.06.2023 r. na podstawie umowy nr WRM.RZP.272.015.2023. Uzasadnienie faktyczne wyboru trybu zamówienia z wolnej ręki Zamawiający udziela zamówienia z wolnej ręki z uwagi na spełnienie wszystkich warunków wynikających z art. 214 ust. 1 pkt 7 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (t.j. Dz. U. z 2024 r., poz. 1320). 1. Zamówienie podstawowe zostało udzielone w trybie przetargu nieograniczonego pod nazwą „Odbiór i transport odpadów komunalnych od właścicieli nieruchomości, na których zamieszkują mieszkańcy z terenu Gminy Miasto Ostrów Wielkopolski oraz usługa obejmująca utworzenie i prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK) na terenie miasta Ostrowa Wielkopolskiego”. 2.
+Od udzielenia zamówienia podstawowego nie minęły trzy lata. Zamawiający udzielił zamówienia podstawowego zgodnie z umową nr WRM.RZP.272.015.2023 w dniu 23.06.2023 r. 3. Zamówienie będzie powierzone do wykonania Wykonawcy zamówienia podstawowego tj. Konsorcjum MZO KOSZ, które tworzą Zakład Oczyszczania i Gospodarki Odpadami „MZO” S.A., ul. Staroprzygodzka 138, 63-400 Ostrów Wielkopolski oraz Firma Usługowa KOSZ Sp. z o.o., ul. Wylotowa 57, 63-400 Ostrów Wielkopolski. 4. Wartość szacunkowa zamówienia podstawowego wynosiła 3 888 888,89 zł netto (słownie: trzy miliony osiemset osiemdziesiąt osiem tysięcy i osiemset osiemdziesiąt osiem złotych 89/100). 5. W ogłoszeniu o zamówieniu nr 2023/S 076-22671 przewidziano zamówienia polegające na powtórzeniu usług, łącznie do
+wysokości 400% wartości zamówienia, tj. 15 555 555,56 zł netto. Do zamówienia podstawowego udzielono zamówienia, których wartość określono na (wartość podpisanych umów): - 4 623 447,81 zł netto (4 993 323,64 zł brutto), - 4 301 619,72 zł netto (4 645 749,30 zł brutto). Wartość aktualnego zadania określono na 4 722 733,61 netto (5 100 552,30 zł brutto). Aktualna szacowana wartość zamówień z wolnej ręki wynosi 13 647 800,69 zł netto, co stanowi 87,7% z kwoty 15 555 555,56 zł netto. 6. Udzielenie zamówień było przewidziane w ramach zamówienia podstawowego jako zamówienie polegające na powtórzeniu usług łącznie do wysokości 400% wartości przedmiotu zamówienia. Udzielenie zamówienia jest zgodne z przedmiotem zamówienia podstawowego i polega na powtórzeniu tożsamych usług
+jakie były wykonane w ramach zamówienia podstawowego tj. odbiór i transport odpadów komunalnych od właścicieli nieruchomości, na których zamieszkują mieszkańcy z terenu Gminy Miasto Ostrów Wielkopolski oraz usługa obejmujących prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK) na terenie miasta Ostrowa Wielkopolskiego. Całkowita wartość tego zamówienia została uwzględniona przy obliczaniu jego wartości.</cbc:ProcessReason>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">WRM.RZP.271.33.2024</cbc:ID>
+      <cbc:Name languageID="POL">Odbiór i transport odpadów komunalnych oraz usługa obejmująca prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK)</cbc:Name>
+      <cbc:Description languageID="POL">1. Przedmiotem zamówienia jest świadczenie usługi odbioru i transportu odpadów komunalnych od właścicieli nieruchomości, na których zamieszkują mieszkańcy z terenu Gminy Miasto Ostrów Wielkopolski oraz usługa obejmująca prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK) na terenie miasta Ostrowa Wielkopolskiego. 
+2. Krótki opis przedmiotu zamówienia opisany został w punkcie 5.1. "Część zamówienia".</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">cena 100%</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:AppealTerms>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">WRM.RZP.271.33.2024</cbc:ID>
+         <cbc:Name languageID="POL">Odbiór i transport odpadów komunalnych oraz usługa obejmująca prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK).</cbc:Name>
+         <cbc:Description languageID="POL">1. Przedmiotem zamówienia jest świadczenie usługi odbioru i transportu odpadów komunalnych od właścicieli nieruchomości, na których zamieszkują mieszkańcy z terenu Gminy Miasto Ostrów Wielkopolski oraz usługa obejmująca prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK) na terenie miasta Ostrowa Wielkopolskiego. 
+2. Wykonawca zobowiązany jest do odbierania i transportu: 
+a) niesegregowanych (zmieszanych) odpadów komunalnych, 
+b) odpadów komunalnych zbieranych w sposób selektywny „u źródła” z podziałem na: papier, tworzywa sztuczne, opakowania wielomateriałowe, metale (z zastrzeżeniem, że odpady te zbierane będą łącznie w jednym rodzaju worka lub pojemnika), szkło, bioodpady stanowiące odpady komunalne, 
+c) odpadów komunalnych zbieranych w sposób selektywny w jednostkach wymienionych w załączniku nr 2 i nr 3 z podziałem na: przeterminowane leki, zużyte baterie i akumulatory. 
+3. System odbierania i transportu odpadów komunalnych nie obejmuje odpadów komunalnych powstających w wyniku prowadzenia działalności gospodarczej. 
+4. Wykonawca jest zobowiązany wyposażyć wszystkie pojazdy używane do realizacji zamówienia, w urządzenia zapewniające bieżący monitoring pracy bazujący na GPS 
+5. Wykonawca prowadził będzie na terenie Gminy Miasto Ostrów Wielkopolski dwa Punkty Selektywnego Zbierania Odpadów Komunalnych (PSZOK). 
+Szczegółowy zakres usługi opisuje załącznik Opis przedmiotu zamówienia.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">Termin wykonania zamówienia od daty podpisania umowy do 30.06.2025 r., jednak nie wcześniej niż od dnia 1 lipca 2024 r.</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90511000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90511300</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90512000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90513100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CityName>Ostrów Wielkopolski</cbc:CityName>
+               <cbc:PostalZone>63-400</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL416</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2025-06-30+02:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

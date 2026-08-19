@@ -1,0 +1,14 @@
+{
+  "phase": "D7 extension World Bank",
+  "status": "validated_with_gaps",
+  "checks": {
+    "raw_full_file_present": true,
+    "selected_rows_300": true,
+    "contracts_288": true,
+    "audit_workbook_present": true,
+    "no_inspect_in_manifest": true,
+    "manifest_hashes_complete": true
+  },
+  "passed": 6,
+  "total": 6
+}

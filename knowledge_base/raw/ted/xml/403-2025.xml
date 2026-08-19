@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">2363376.96</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <cac:FinancingParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:FinancingParty>
+                     <cac:PayerParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:PayerParty>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">2363376.96</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>oferta nr 1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-20+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>oferta nr 1</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efbc:AcquiringCPBIndicator>false</efbc:AcquiringCPBIndicator>
+                     <efbc:AwardingCPBIndicator>true</efbc:AwardingCPBIndicator>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Biłgoraj</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Tadeusza Kościuszki 88</cbc:StreetName>
+                           <cbc:CityName>Biłgoraj</cbc:CityName>
+                           <cbc:PostalZone>23-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>9182029131</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48846882830</cbc:Telephone>
+                           <cbc:ElectronicMail>sekretariat@gminabilgoraj.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48224587800</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Sąd Polubowny przy Prokuratorii Generalnej Rzeczypospolitej Polskiej</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Hoża 76/78</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>00-682</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262883664</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48224587800</cbc:Telephone>
+                           <cbc:ElectronicMail>sp@prokuratoria.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Łąkowa 13</cbc:StreetName>
+                           <cbc:CityName>Biłgoraj</cbc:CityName>
+                           <cbc:PostalZone>23-400</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>9180000956</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>sekretariat@gminabilgoraj.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000403-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">6e1900d4-6c79-42af-84f9-ac582f78fe05</cbc:ID>
+   <cbc:ContractFolderID>da25f538-35b9-430d-8a94-a5c66ec52f87</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>07:42:00Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">ra</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:Description languageID="POL">1. W postępowaniu o udzielenie zamówienia komunikacja między
+Zamawiającym, a Wykonawcami odbywa się przy użyciu Platformy zakupowej lub poczty
+elektronicznej. 2. Zgłoszenie do postępowania wymaga zalogowania Wykonawcy do Systemu
+na subdomenie Gminy Biłgoraj: https://gminabilgoraj.ezamawiajacy.pl lub https://oneplace.marketplanet.pl
+3. Ofertę składa się pod rygorem nieważności, w formie elektronicznej. 4.Ofertę składa się, pod rygorem nieważności, w formie elektronicznej w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz.
+57), z zastrzeżeniem formatów, o których mowa w art. 66 ust. 1 ustawy Pzp, z uwzględnieniem rodzaju przekazywanych danych. 5. Do terminu składania ofert należy złożyć (zaleca się złożyć dokumenty jednocześnie, podczas czynności złożenia oferty): 1) Formularz
+ofertowy– do wykorzystania wzór (druk), stanowiący Załącznik nr 3 do SWZ (przy czym
+Wykonawca może sporządzić ofertę wg innego wzorca, powinna ona wówczas obejmować
+dane wymagane dla oferty w SWZ i załącznikach) 2) Formularz asortymentowo cenowy załącznik nr 3a do SWZ 3) Oświadczenie JEDZ, o których mowa w rozdziale 8.1 SWZ;
+4) Oświadczenie, o którym mowa w pkt 8.2 SWZ; 5) Oświadczenie, o którym mowa w pkt 8.3
+SWZ(jeżeli dotyczy), 6) Zobowiązanie lub inne dokumenty, o których mowa w pkt 9.4 SWZ
+(jeżeli dotyczy). 7) Oświadczenie, o którym mowa w pkt 9.13. SWz (jeżeli dotyczy) 8)
+Potwierdzenie umocowania do działania w imieniu Wykonawcy lub podmiotu
+udostępniającego zasoby: a) Zamawiający w celu potwierdzenia, że osoba działająca w
+imieniu Wykonawcy lub podmiotu udostępniającego zasoby jest umocowana do jego
+reprezentowania, żąda złożenia wraz z ofertą odpisu lub informacji z Krajowego Rejestru
+Sądowego, Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub innego
+właściwego rejestru; b) Wykonawca lub podmiot udostępniający zasoby nie jest zobowiązany
+do złożenia dokumentów, o których mowa w lit a), jeżeli Zamawiający może je uzyskać za
+pomocą bezpłatnych i ogólnodostępnych baz danych, o ile wykonawca wskazał dane
+umożliwiające dostęp do tych dokumentów. c) jeżeli w imieniu Wykonawcy lub podmiotu
+udostępniającego zasoby działa osoba, której umocowanie do jego reprezentowania nie
+wynika z dokumentów, o których mowa w lit a), Zamawiający żąda od Wykonawcy lub
+podmiotu udostępniającego zasoby złożenia wraz z ofertą pełnomocnictwa lub innego
+dokumentu potwierdzającego umocowanie do reprezentowania Wykonawcy. 9)
+Pełnomocnictwo do reprezentowania Wykonawców wspólnie ubiegających się o udzielenie
+zamówienia w postępowaniu o udzielenie zamówienia albo do reprezentowania ich w
+postępowaniu i zawarcia umowy w sprawie zamówienia publicznego (jeżeli dotyczy).
+Pełnomocnictwo, o którym mowa w rozdziale 13.4 pkt 8) lit c) i pkt 9) SWZ składa się w
+postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym. W przypadku
+gdy pełnomocnictwo zostało sporządzone jako dokument w postaci papierowej i opatrzone
+własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone
+kwalifikowanym podpisem elektronicznym, poświadczającym zgodność cyfrowego
+odwzorowania z dokumentem w postaci papierowej. Poświadczenia zgodności cyfrowego
+odwzorowania z dokumentem w postaci papierowej dokonuje mocodawca. Poświadczenia
+zgodności cyfrowego odwzorowania pełnomocnictwa z dokumentem w postaci papierowej
+może dokonać również notariusz. Zamawiający informuje, iż
+na podstawie art. 139 ust. 1 ustawy Pzp może najpierw dokonać badania i oceny ofert, a
+następnie dokonać kwalifikacji podmiotowej Wykonawcy, którego oferta została najwyżej
+oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału w
+postępowaniu. Zamawiający nie dopuszcza składania ofert częściowych. 11. Zamawiający przewiduje
+możliwość wprowadzania zmian do zawartej umowy na podstawie art. 454-455 ustawy Pzp i
+postanowień Projektu umowy (załącznik nr 2 do SWZ). Zgodnie z art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 
+27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1), dalej „RODO”, Zamawiający 
+informuje, że: 
+1)	Jest administratorem danych osobowych Wykonawcy oraz osób, których dane Wykonawca przekazał w niniejszym postępowaniu;
+2)	dane osobowe Wykonawcy przetwarzane będą na podstawie art. 6 ust. 1 lit. c RODO w celu związanym z postępowaniem o udzielenie zamówienia publicznego na zadanie pn.: „Odbiór 
+i zagospodarowanie odpadów z nieruchomości zamieszkałych, utworzenie i prowadzenie Punktu Selektywnego Zbierania Odpadów Komunalnych (PSZOK) oraz zagospodarowanie odpadów dostarczanych do PSZOK, z terenu Gminy Biłgoraj od 1 stycznia 2025 r. do 
+31 grudnia 2025 r.“ prowadzonym w trybie przetargu nieograniczonego;
+Pozostałe zapisy w SWZ</cbc:Description>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">594904-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">ZP.271.2.12.2024</cbc:ID>
+      <cbc:Name languageID="POL">Odbiór i zagospodarowanie  odpadów komunalnych z nieruchomości zamieszkałych, utworzenie i prowadzenie Punktu Selektywnego Zbierania Odpadów Komunalnych (PSZOK) oraz zagospodarowanie odpadów dostarczanych do PSZOK, z terenu Gminy Biłgoraj od 1 stycznia 2025 r. do 31 grudnia 2025 r.”
+</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest:
+1.	Usługa na odbiór i zagospodarowanie całej ilości odpadów komunalnych od właścicieli nieruchomości zamieszkałych na terenie gminy Biłgoraj od dnia 01 stycznia 2025 roku do 31 grudnia 2025 roku 
+z następujących miejscowości: Andrzejówka, Brodziaki, Bukowa, Ciosmy, Cyncynopol, Dąbrowica, Dereźnia Majdańska, Dereźnia Solska, Dereźnia Zagrody, Dyle, Edwardów, Gromada, Hedwiżyn, Ignatówka, Jachosze, Kajetanówka, Kolonia Sól, Korczów, Korytków Duży, Majdan Gromadzki, Nadrzecze, Nowy Bidaczów, Okrągłe, Podlesie, Rapy Dylańskie, Ratwica, Ruda Solska, Ruda Zagrody, Smólsko Duże, Smólsko Małe, Sól, Stary Bidaczów, Wola Dereźniańska Wola Duża, Wola Mała, Wolaniny, Zagrody Dąbrowickie, Zagumnie, Żelebsko.
+2.	Utworzenie i prowadzenie na terenie Gminy lub Miasta Biłgoraj Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK), przyjmowanie, zbieranie i zagospodarowywanie dostarczonych przez mieszkańców lub zarządców nieruchomości zamieszkałych odpadów komunalnych. PSZOK będzie miejscem zbiórki i czasowego magazynowania. Odpady zebrane w PSZOK będą przekazywane do instalacji odzysku lub unieszkodliwiania odpadów zgodnie z hierarchią sposobu postępowania 
+z odpadami, o której mowa w art. 17 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz.U. 2023 poz.1587).
+Szacowana ilość odpadów komunalnych wynosi 2 116 Mg
+Szczegółowy opis przedmiotu zamówienia znajduje się w Załącznikach Nr 1 i Nr 1a do SWZ 
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">1.Każdy Wykonawca może złożyć tylko jedną ofertę. Złożenie więcej
+niż jednej oferty spowoduje odrzucenie wszystkich ofert złożonych przez Wykonawcę. 2.
+Ofertę składa się, pod rygorem nieważności, w formie elektronicznej w formatach danych
+określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o
+informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz.
+57), z zastrzeżeniem formatów, o których mowa w art. 66 ust. 1 ustawy Pzp, z
+uwzględnieniem rodzaju przekazywanych danych. 3. Sposób złożenia oferty w tym
+zaszyfrowania oferty opisany został w Instrukcji użytkownika. Wykonawca zobowiązany jest
+do zapoznania się z treścią ww. Instrukcji przed złożeniem oferty. Składając ofertę
+Wykonawca akceptuje treść ww. Instrukcji</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="POL">teren Gminy Biłgoraj</cbc:Description>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-fixed">fix-tot</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">cena</cbc:Name>
+                  <cbc:Description languageID="POL">Punkty za kryterium „Cena” zostaną obliczone według wzoru:
+		Cn
+Pc = 	------- x 60 pkt 
+	   Cb
+	gdzie,
+Pc - ilość punktów za kryterium cena,
+Cn - najniższa cena ofertowa spośród ofert nieodrzuconych,
+Cb – cena oferty badanej.
+W kryterium „Cena”, oferta z najniższą ceną otrzyma 60 punktów a pozostałe oferty po matematycznym przeliczeniu w odniesieniu do najniższej ceny odpowiednio mniej. Końcowy wynik powyższego działania zostanie zaokrąglony do dwóch miejsc po przecinku.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-fixed">fix-tot</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">termin płatności faktur</cbc:Name>
+                  <cbc:Description languageID="POL">Kryterium „Termin płatności faktur”  zostaną obliczone według następującego wzoru:
+		Termin płatności faktur z oferty
+	PT = --------------------------------------------------------x 40 pkt
+		Najdłuższy termin płatności faktur
+gdzie:	
+PT	- 	ilość punktów za kryterium termin płatności faktur,
+Ocena kryterium dokonana zostanie na podstawie informacji zamieszczonej przez Wykonawcę w formularzu ofertowym. Wykonawca zobowiązany jest wpisać w formularzu ofertowym oferowany termin płatności faktur. Termin płatności faktur liczony jest w dniach:
+- minimalny termin płatności: 7 dni,
+- maksymalny termin płatności: 30 dni.
+Oferta Wykonawcy, który zaoferuje termin płatności krótszy niż 7 dni zostanie odrzucona.
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">POUCZENIE O ŚRODKACH OCHRONY PRAWNEJ
+23.1	Środki ochrony prawnej przewidziane są w dziale IX ustawy Pzp.
+23.2	Środkami ochrony prawnej są odwołanie i skarga do sądu.
+23.3	Środki ochrony prawnej przysługują wykonawcy oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy. Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o konkursie 
+oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15 ustawy Pzp oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+23.4	Odwołanie przysługuje na:
+1)	niezgodną z przepisami ustawy czynność zamawiającego, podjętą w postępowaniu 
+o udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+2)	zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której zamawiający był obowiązany na podstawie ustawy;
+3)	zaniechanie przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania konkursu na podstawie ustawy, mimo że zamawiający był do tego obowiązany.
+23.5	Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. Odwołujący przekazuje zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu. Domniemywa się, że zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
+23.6	Terminy wnoszenia odwołań.
+1)	Odwołanie wnosi się w terminie:
+a)	10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej,
+b)	15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a.
+2. 	Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub konkurs lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej.
+3. 	Odwołanie w przypadkach innych niż określone w pkt 1 i 2 wnosi 
+się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest mniejsza niż progi unijne.
+4. 	Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty lub nie zaprosił wykonawcy do złożenia oferty w ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się nie później niż w terminie:
+a)	30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia 
+o udzieleniu zamówienia, a w przypadku udzielania zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki – ogłoszenia o wyniku postępowania  albo ogłoszenia o udzieleniu zamówienia zawierającego uzasadnienie udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki; 
+b)	6 miesięcy od dnia zawarcia umowy, jeżeli zamawiający nie opublikował w dzienniku Urzędowym Unii Europejskiej  ogłoszenia o udzieleniu zamówienia.
+23.7	Odwołanie zawiera:
+1)	imię i nazwisko albo nazwę, miejsce zamieszkania albo siedzibę, numer telefonu oraz adres poczty elektronicznej odwołującego oraz imię i nazwisko przedstawiciela (przedstawicieli);
+2)	nazwę i siedzibę zamawiającego, numer telefonu oraz adres poczty elektronicznej zamawiającego;
+3)	numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub NIP odwołującego będącego osobą fizyczną, jeżeli jest on obowiązany do jego posiadania albo posiada go nie mając takiego obowiązku;
+4)	numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku - numer w innym właściwym rejestrze, ewidencji lub NIP odwołującego niebędącego osobą fizyczną, który nie ma obowiązku wpisu we właściwym rejestrze lub ewidencji, jeżeli jest on obowiązany do jego posiadania;
+5)	określenie przedmiotu zamówienia;
+6)	wskazanie numeru ogłoszenia w przypadku zamieszczenia w Biuletynie Zamówień Publicznych albo publikacji w Dzienniku Urzędowym Unii Europejskiej;
+7)  	wskazanie czynności lub zaniechania czynności zamawiającego, której zarzuca się niezgodność z przepisami ustawy, lub wskazanie zaniechania przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania konkursu na podstawie ustawy;
+8)	zwięzłe przedstawienie zarzutów;
+9)	żądanie co do sposobu rozstrzygnięcia odwołania;
+10)	wskazanie okoliczności faktycznych i prawnych uzasadniających wniesienie odwołania oraz dowodów na poparcie przytoczonych okoliczności;
+11)	podpis odwołującego albo jego przedstawiciela lub przedstawicieli;
+12)	wykaz załączników.
+Do odwołania dołącza się:
+1)	dowód uiszczenia wpisu od odwołania w wymaganej wysokości;
+2) 	dowód przekazania odpowiednio odwołania albo jego kopii zamawiającemu;
+3)	dokument potwierdzający umocowanie do reprezentowania odwołującego.
+23.8	Na orzeczenie Izby stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. Skargę wnosi się do Sądu Okręgowego w Warszawie - sądu zamówień publicznych.
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0004</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Odbiór i zagospodarowanie  odpadów komunalnych z nieruchomości zamieszkałych, utworzenie i prowadzenie Punktu Selektywnego Zbierania Odpadów Komunalnych (PSZOK) oraz zagospodarowanie odpadów dostarczanych do PSZOK, z terenu Gminy Biłgoraj od 1 stycznia 2025 r. do 31 grudnia 2025 r.”
+</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest:
+1.	Usługa na odbiór i zagospodarowanie całej ilości odpadów komunalnych od właścicieli nieruchomości zamieszkałych na terenie gminy Biłgoraj od dnia 01 stycznia 2025 roku do 31 grudnia 2025 roku 
+z następujących miejscowości: Andrzejówka, Brodziaki, Bukowa, Ciosmy, Cyncynopol, Dąbrowica, Dereźnia Majdańska, Dereźnia Solska, Dereźnia Zagrody, Dyle, Edwardów, Gromada, Hedwiżyn, Ignatówka, Jachosze, Kajetanówka, Kolonia Sól, Korczów, Korytków Duży, Majdan Gromadzki, Nadrzecze, Nowy Bidaczów, Okrągłe, Podlesie, Rapy Dylańskie, Ratwica, Ruda Solska, Ruda Zagrody, Smólsko Duże, Smólsko Małe, Sól, Stary Bidaczów, Wola Dereźniańska Wola Duża, Wola Mała, Wolaniny, Zagrody Dąbrowickie, Zagumnie, Żelebsko.
+2.	Utworzenie i prowadzenie na terenie Gminy lub Miasta Biłgoraj Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK), przyjmowanie, zbieranie i zagospodarowywanie dostarczonych przez mieszkańców lub zarządców nieruchomości zamieszkałych odpadów komunalnych. PSZOK będzie miejscem zbiórki i czasowego magazynowania. Odpady zebrane w PSZOK będą przekazywane do instalacji odzysku lub unieszkodliwiania odpadów zgodnie z hierarchią sposobu postępowania 
+z odpadami, o której mowa w art. 17 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz.U. 2023 poz.1587).
+Szacowana ilość odpadów komunalnych wynosi 2 116 Mg
+Szczegółowy opis przedmiotu zamówienia znajduje się w Załącznikach Nr 1 i Nr 1a do SWZ 
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">teren Gminy Biłgoraj</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL812</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2025-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

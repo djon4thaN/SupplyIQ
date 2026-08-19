@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1542636.06</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">1542636.06</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta nr 1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-20+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-27+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>RZP.272.39.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>JARPER sp. z o. o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://lesznowola.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://ezamowienia.gov.pol</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Lesznowola</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Gminna 60</cbc:StreetName>
+                           <cbc:Department>Urząd Gminy Lesznowola</cbc:Department>
+                           <cbc:CityName>Lesznowola</cbc:CityName>
+                           <cbc:PostalZone>05-506</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL913</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>1231220334</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Referat Zamówień Publicznych</cbc:Name>
+                           <cbc:Telephone>+48 227089113</cbc:Telephone>
+                           <cbc:ElectronicMail>rzp@lesznowola.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Prezes Krajowej Izby Odwoławczej</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL913</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Miasta Warszawa ( PL911)</cbc:Name>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">JARPER sp. z o. o. </cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Krakowska 108 A</cbc:StreetName>
+                           <cbc:CityName>Wólka Kosowska </cbc:CityName>
+                           <cbc:PostalZone>05-552</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL913</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>017434857</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>227561666</cbc:Telephone>
+                           <cbc:ElectronicMail>jarper@jarper.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000282-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">0449af0a-1ce0-4f5c-b4b2-4956f7e0d885</cbc:ID>
+   <cbc:ContractFolderID>2321bf5d-054d-43ce-aeee-2a48360acf23</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>10:30:18Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://ezamowienia.gov.pl</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">665766-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="POL">Udostępnienie i obsługa Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK) oraz zagospodarowanie segregowanych odpadów komunalnych dostarczanych przez mieszkańców Gminy Lesznowola</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest udostępnienie i obsługa Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK) oraz zagospodarowanie segregowanych odpadów komunalnych dostarczonych przez mieszkańców Gminy Lesznowola w okresie od dnia 2 stycznia 2025 r. do dnia 31 grudnia 2025 r.
+Udostępnienie i obsługa Punktu Selektywnej Zbiórki Odpadów Komunalnych oraz zagospodarowanie (poddanie odzyskowi, recyklingowi oraz unieszkodliwianiu) selektywnie zebranych odpadów komunalnych i dostarczonych przez mieszkańców Gminy Lesznowola do PSZOK musi się odbywać w sposób zapewniający osiągnięcie odpowiednich poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami oraz ograniczenie masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania, zgodnie z zapisami ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawy z dnia 14 grudnia 2012 r. o odpadach, Rozporządzenia Ministra Środowiska z dnia 14 grudnia 2016 r. w sprawie poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami niektórych frakcji odpadów komunalnych, Wojewódzkiego Planu Gospodarki Odpadami oraz Regulaminu utrzymania czystości i porządku na terenie Gminy Lesznowola.
+W ramach zamówienia Wykonawca zobowiązany jest do odbioru i zagospodarowania każdej ilości selektywnie zebranych odpadów komunalnych, dostarczonych do PSZOK przez mieszkańców Gminy Lesznowola.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">Oferta musi zawierać następujące oświadczenia i dokumenty:
+a)Formularz ofertowy sporządzony według formularza stanowiącego Załącznik nr 1 do SWZ.
+W formularzu ofertowym Wykonawca zobowiązany jest podać:
+łączną cenę ofertową brutto za cały okres realizacji zamówienia, która będzie wynikać z wypełnionego Formularza cenowego – stanowiącego Załącznik nr 2 do SWZ (należy dołączyć do oferty),
+ilość zatrudnionych przez Wykonawcę osób bezrobotnych, o których mowa w art. 96 ust. 2 pkt 2, lit a) ustawy Prawo zamówień publicznych, zameldowanych na terenie Gminy Lesznowola.
+W/w informacje są niezbędne dla dokonania przez Zamawiającego oceny ofert według kryteriów oceny określonych w Rozdziale VI pkt 22 SWZ.
+b)Oświadczenie, o który mowa w art. 125 ust. 1 ustawy Pzp, sporządzone na formularzu Jednolitego Europejskiego Dokumentu Zamówienia, zwanego „JEDZ”, zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia. Oświadczenie to stanowi dowód potwierdzający brak podstaw wykluczenia oraz spełnianie warunków udziału w postępowaniu, na dzień składania ofert, tymczasowo zastępujący wymagane podmiotowe środki dowodowe, wskazane w pkt 10.3. SWZ (oryginał w postaci elektronicznej, opatrzony kwalifikowanym podpisem elektronicznym) – sporządzone według wzoru stanowiącego Załącznik nr 3/3A do SWZ.
+- W przypadku wspólnego ubiegania się o zamówienie przez Wykonawców (Konsorcjum, Spółka Cywilna) JEDZ składa każdy z Wykonawców wspólnie ubiegających się o zamówienie. Dokumenty te potwierdzają brak podstaw wykluczenia z postepowania w zakresie, w którym Wykonawca zobowiązany jest wykazać brak podstaw wykluczenia z postepowania oraz spełnianie warunków udziału w postępowaniu.
+- W przypadku, gdy Wykonawca powołuje się na zasoby innych podmiotów, Wykonawca składa JEDZ dotyczące tych podmiotów.
+Dokumenty te potwierdzają brak podstaw wykluczenia z postepowania w zakresie, w którym Wykonawca zobowiązany jest wykazać brak podstaw wykluczenia z postepowania oraz spełnianie warunków udziału w postępowaniu, w zakresie w jakim Wykonawca powołuje się na zasoby tych podmiotów.
+- Zamawiający nie wymaga złożenia JEDZ dla Podwykonawcy/ów.
+c) Oświadczenie Wykonawcy dotyczące przesłanek wykluczenia z art. 5k rozporządzenia 833/2014 z dnia 31.07.2014 r. - sporządzone wg. wzoru stanowiącego Załącznik nr 4 do SWZ.
+d) W przypadku, gdy oferta została podpisana przez inną osobę niż umocowana w dokumencie rejestrowym Wykonawcy, do oferty należy dołączyć dokument 
+(np. pełnomocnictwo, umowa spółki cywilnej) potwierdzający, że oferta została złożona przez osobę umocowaną do reprezentowania Wykonawcy. 
+e) Wykonawca, który polega na zdolnościach lub sytuacji podmiotów udostępniających zasoby, składa, wraz z ofertą, zobowiązanie podmiotu udostępniającego zasoby do oddania mu do dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia – wg. wzoru stanowiącego Załącznik nr 8 do SWZ lub inny podmiotowy środek dowodowy potwierdzający, że Wykonawca realizując zamówienie, będzie dysponował niezbędnymi zasobami tych podmiotów;
+Zobowiązanie podmiotu udostępniającego zasoby, o którym mowa powyżej, potwierdza, że stosunek łączący wykonawcę z podmiotami udostępniającymi zasoby gwarantuje rzeczywisty dostęp do tych zasobów oraz określa w szczególności:
+1) zakres dostępnych wykonawcy zasobów podmiotu udostępniającego zasoby; 
+2) sposób i okres udostępnienia wykonawcy i wykorzystania przez niego zasobów podmiotu udostępniającego te zasoby przy wykonywaniu zamówienia; 
+3) czy i w jakim zakresie podmiot udostępniający zasoby, na zdolnościach którego wykonawca polega w odniesieniu do warunków udziału w postępowaniu dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia, zrealizuje roboty budowlane lub usługi, których wskazane zdolności dotyczą.
+f) Wykonawca, w przypadku polegania na zdolnościach lub sytuacji podmiotów udostępniających zasoby, przedstawia, wraz z oświadczeniem, o którym mowa w pkt 10.1. ppkt b), także oświadczenie podmiotu udostępniającego zasoby, potwierdzające brak podstaw wykluczenia tego podmiotu oraz odpowiednio spełnianie warunków udziału w postępowaniu w zakresie, w jakim wykonawca powołuje się na jego zasoby – wg. wzoru stanowiącego Załącznik nr 3/3A do SWZ.
+g) Wykonawcy wspólnie ubiegający się o udzielenie zamówienia (Konsorcjum, Spółka Cywilna) dołączają do oferty oświadczenie, z którego będzie wynikać, które części zamówienia wykonają poszczególni Wykonawcy – wg. wzoru stanowiącego Załącznik nr 7 do SWZ, w przypadkach o których mowa w pkt 12 SWZ.
+h) Wypełniony FORMULARZ CENOWY – wg. wzoru stanowiącego Załącznik 2 do SWZ. </cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="POL">1.zdolności do występowania w obrocie gospodarczym:
+Zamawiający nie precyzuje w tym zakresie wymagań, których spełnianie Wykonawca zobowiązany jest wykazać w sposób szczególny. 
+2.uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów:
+Wykonawca musi posiadać uprawnienia do wykonywania działalności polegającej na odbiorze i zagospodarowaniu odpadów komunalnych zgodnie z przepisami ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (t.j. Dz. U z 2024 r. 
+poz. 399) i ustawy z dnia 14 grudnia 2012 r. o odpadach (t.j. Dz. U z 2023 r. poz. 1587 
+ze zm.).
+3.sytuacji ekonomicznej lub finansowej: Zamawiający nie precyzuje w tym zakresie wymagań, których spełnianie Wykonawca zobowiązany jest wykazać w sposób szczególny.
+4. zdolności technicznej lub zawodowej:
+1) warunek dotyczący posiadania doświadczenia:
+Wykonawca musi wykazać, że w ciągu ostatnich 3 lat przed upływem terminu składania ofert o udzielenie zamówienia, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie wykonał lub wykonuje co najmniej jedno zamówienie polegające na odbiorze  i zagospodarowaniu odpadów komunalnych trwające nieprzerwanie przez okres co najmniej 12 miesięcy.
+2)warunek dotyczący potencjału technicznego:
+1. Wykonawca musi wykazać, iż dysponuje do wykonania zamówienia następującym potencjałem technicznym: 
+- co najmniej 1 samochodem spełniającym europejski standard emisji spalin minimum EURO 5, przystosowanym do odbierania selektywnie zebranych odpadów komunalnych oraz transportu kontenerów o poj. 5 – 10 m3 oraz pojemników typu „mulda” o poj. 1,5 do 3,5 m3.
+Pojazd winien być trwale i czytelnie oznakowany (nazwa firmy, dane adresowe i nr telefonu), zarejestrowany i dopuszczony do ruchu.
+2. Wykonawca musi wykazać, iż dysponuje bazą magazynowo - transportową spełniającą wymagania Rozporządzenia Ministra Środowiska z dnia 11 stycznia 2013 r. w sprawie szczególnych wymagań w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości (Dz. U. z 2013 r., poz.122)
+3) warunek dotyczący osób skierowanych przez Wykonawcę do realizacji zamówienia:
+Zamawiający nie precyzuje w tym zakresie wymagań, których spełnianie Wykonawca zobowiązany jest wykazać w sposób szczególny.</cbc:Description>
+         <cac:Address>
+            <cbc:StreetName>ul. Gminna 60</cbc:StreetName>
+            <cbc:CityName>Lesznowola</cbc:CityName>
+            <cbc:PostalZone>05-506</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL913</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">.</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Cena ofertowa brutto – 60 % Ocena ofert według kryterium „Cena ofertowa brutto” (C)
+będzie dokonana na podstawie wzoru określonego w SWZ (najniższa cena ofertowa brutto
+spośród ofert badanych podzielone przez cena ofertowa brutto z oferty badanej następnie
+pomnożone przez 60 pkt).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Zatrudnienie przy realizacji zamówienia osób bezrobotnych, o których mowa w art. 96 ust. 2 pkt 2, lit a) ustawy Prawo zamówień publicznych, zameldowanych na terenie Gminy Lesznowola - 40 %. Ilość punktów w kryterium „Zatrudnienie przy realizacji zamówienia osób bezrobotnych, o których mowa w art. 96 ust. 2 pkt 2, lit a) ustawy Prawo zamówień publicznych, zameldowanych na terenie Gminy Lesznowola” - 40 % zostanie przyznana w następujący sposób:
+1. zatrudnienie 1 osoby bezrobotnej, zameldowanej na terenie Gminy Lesznowola - 20 pkt
+2. zatrudnienie 2 osób bezrobotnych, zameldowanych na terenie Gminy Lesznowola - 40 pkt</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">RZP.271.37.2024</cbc:ID>
+         <cbc:Name languageID="POL">Udostępnienie i obsługa Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK) oraz zagospodarowanie segregowanych odpadów komunalnych dostarczanych przez mieszkańców Gminy Lesznowola</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest udostępnienie i obsługa Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK) oraz zagospodarowanie segregowanych odpadów komunalnych dostarczonych przez mieszkańców Gminy Lesznowola w okresie od dnia 2 stycznia 2025 r. do dnia 31 grudnia 2025 r.
+Udostępnienie i obsługa Punktu Selektywnej Zbiórki Odpadów Komunalnych oraz zagospodarowanie (poddanie odzyskowi, recyklingowi oraz unieszkodliwianiu) selektywnie zebranych odpadów komunalnych i dostarczonych przez mieszkańców Gminy Lesznowola do PSZOK musi się odbywać w sposób zapewniający osiągnięcie odpowiednich poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami oraz ograniczenie masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania, zgodnie z zapisami ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawy z dnia 14 grudnia 2012 r. o odpadach, Rozporządzenia Ministra Środowiska z dnia 14 grudnia 2016 r. w sprawie poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami niektórych frakcji odpadów komunalnych, Wojewódzkiego Planu Gospodarki Odpadami oraz Regulaminu utrzymania czystości i porządku na terenie Gminy Lesznowola.
+W ramach zamówienia Wykonawca zobowiązany jest do odbioru i zagospodarowania każdej ilości selektywnie zebranych odpadów komunalnych, dostarczonych do PSZOK przez mieszkańców Gminy Lesznowola.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL913</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="DAY">90</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

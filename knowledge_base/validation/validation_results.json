@@ -1,0 +1,320 @@
+{
+  "phase": "D3",
+  "generated_at": "2026-08-19",
+  "status": "validated_with_gaps",
+  "checks_total": 62,
+  "checks_passed": 62,
+  "checks_failed": 0,
+  "checks": [
+    {
+      "check": "UTF-8 e abertura: suppliers.csv",
+      "status": "pass",
+      "detail": "106 registros, 12 colunas"
+    },
+    {
+      "check": "snake_case: suppliers.csv",
+      "status": "pass",
+      "detail": "supplier_id, source_supplier_id, supplier_name, normalized_name, country_code, country_name, supplier_type, supplier_status, source_id, source_file_id, source_record_id, collected_at"
+    },
+    {
+      "check": "duplicidade exata: suppliers.csv",
+      "status": "pass",
+      "detail": "0 duplicidades"
+    },
+    {
+      "check": "proveniencia source_id: suppliers.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "proveniencia source_file_id: suppliers.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "placeholders proibidos: suppliers.csv",
+      "status": "pass",
+      "detail": "0 celulas"
+    },
+    {
+      "check": "CSV injection: suppliers.csv",
+      "status": "pass",
+      "detail": "0 celulas iniciadas por =, +, - ou @"
+    },
+    {
+      "check": "datas ISO 8601: suppliers.csv",
+      "status": "pass",
+      "detail": "formato YYYY-MM-DD"
+    },
+    {
+      "check": "UTF-8 e abertura: products.csv",
+      "status": "pass",
+      "detail": "152 registros, 9 colunas"
+    },
+    {
+      "check": "snake_case: products.csv",
+      "status": "pass",
+      "detail": "product_id, source_product_id, product_name, product_description, product_category, source_id, source_file_id, source_record_id, collected_at"
+    },
+    {
+      "check": "duplicidade exata: products.csv",
+      "status": "pass",
+      "detail": "0 duplicidades"
+    },
+    {
+      "check": "proveniencia source_id: products.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "proveniencia source_file_id: products.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "placeholders proibidos: products.csv",
+      "status": "pass",
+      "detail": "0 celulas"
+    },
+    {
+      "check": "CSV injection: products.csv",
+      "status": "pass",
+      "detail": "0 celulas iniciadas por =, +, - ou @"
+    },
+    {
+      "check": "datas ISO 8601: products.csv",
+      "status": "pass",
+      "detail": "formato YYYY-MM-DD"
+    },
+    {
+      "check": "UTF-8 e abertura: projects.csv",
+      "status": "pass",
+      "detail": "19 registros, 11 colunas"
+    },
+    {
+      "check": "snake_case: projects.csv",
+      "status": "pass",
+      "detail": "project_id, source_project_id, project_name, project_description, project_status, country_code, country_name, source_id, source_file_id, source_record_id, collected_at"
+    },
+    {
+      "check": "duplicidade exata: projects.csv",
+      "status": "pass",
+      "detail": "0 duplicidades"
+    },
+    {
+      "check": "proveniencia source_id: projects.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "proveniencia source_file_id: projects.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "placeholders proibidos: projects.csv",
+      "status": "pass",
+      "detail": "0 celulas"
+    },
+    {
+      "check": "CSV injection: projects.csv",
+      "status": "pass",
+      "detail": "0 celulas iniciadas por =, +, - ou @"
+    },
+    {
+      "check": "datas ISO 8601: projects.csv",
+      "status": "pass",
+      "detail": "formato YYYY-MM-DD"
+    },
+    {
+      "check": "UTF-8 e abertura: supplier_products.csv",
+      "status": "pass",
+      "detail": "186 registros, 8 colunas"
+    },
+    {
+      "check": "snake_case: supplier_products.csv",
+      "status": "pass",
+      "detail": "supplier_product_id, supplier_id, product_id, relationship_type, relationship_description, source_id, source_file_id, source_record_id"
+    },
+    {
+      "check": "duplicidade exata: supplier_products.csv",
+      "status": "pass",
+      "detail": "0 duplicidades"
+    },
+    {
+      "check": "proveniencia source_id: supplier_products.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "proveniencia source_file_id: supplier_products.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "placeholders proibidos: supplier_products.csv",
+      "status": "pass",
+      "detail": "0 celulas"
+    },
+    {
+      "check": "CSV injection: supplier_products.csv",
+      "status": "pass",
+      "detail": "0 celulas iniciadas por =, +, - ou @"
+    },
+    {
+      "check": "UTF-8 e abertura: product_projects.csv",
+      "status": "pass",
+      "detail": "154 registros, 8 colunas"
+    },
+    {
+      "check": "snake_case: product_projects.csv",
+      "status": "pass",
+      "detail": "product_project_id, product_id, project_id, relationship_type, relationship_description, source_id, source_file_id, source_record_id"
+    },
+    {
+      "check": "duplicidade exata: product_projects.csv",
+      "status": "pass",
+      "detail": "0 duplicidades"
+    },
+    {
+      "check": "proveniencia source_id: product_projects.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "proveniencia source_file_id: product_projects.csv",
+      "status": "pass",
+      "detail": "todas as referencias registradas"
+    },
+    {
+      "check": "placeholders proibidos: product_projects.csv",
+      "status": "pass",
+      "detail": "0 celulas"
+    },
+    {
+      "check": "CSV injection: product_projects.csv",
+      "status": "pass",
+      "detail": "0 celulas iniciadas por =, +, - ou @"
+    },
+    {
+      "check": "ID unico: suppliers.csv.supplier_id",
+      "status": "pass",
+      "detail": "106 IDs"
+    },
+    {
+      "check": "ID unico: products.csv.product_id",
+      "status": "pass",
+      "detail": "152 IDs"
+    },
+    {
+      "check": "ID unico: projects.csv.project_id",
+      "status": "pass",
+      "detail": "19 IDs"
+    },
+    {
+      "check": "ID unico: supplier_products.csv.supplier_product_id",
+      "status": "pass",
+      "detail": "186 IDs"
+    },
+    {
+      "check": "ID unico: product_projects.csv.product_project_id",
+      "status": "pass",
+      "detail": "154 IDs"
+    },
+    {
+      "check": "FK supplier_products.supplier_id",
+      "status": "pass",
+      "detail": "0 orfaos esperados"
+    },
+    {
+      "check": "FK supplier_products.product_id",
+      "status": "pass",
+      "detail": "0 orfaos esperados"
+    },
+    {
+      "check": "FK product_projects.product_id",
+      "status": "pass",
+      "detail": "0 orfaos esperados"
+    },
+    {
+      "check": "FK product_projects.project_id",
+      "status": "pass",
+      "detail": "0 orfaos esperados"
+    },
+    {
+      "check": "raw checksum: file_nist_001",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/01 Basic Sample Data Set Small/products.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_002",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/01 Basic Sample Data Set Small/projects.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_003",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/01 Basic Sample Data Set Small/suppliers.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_004",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/02 Interconnected Sample Data Set Small/products.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_005",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/02 Interconnected Sample Data Set Small/projects.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_006",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/02 Interconnected Sample Data Set Small/suppliers.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_007",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/GPS Manufacturer/GPS_products.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_008",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/GPS Manufacturer/GPS_projects.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_009",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/GPS Manufacturer/GPS_suppliers.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_010",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/Medical Software/medical_products.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_011",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/Medical Software/medical_projects.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_012",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/Medical Software/medical_suppliers.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_013",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/Small Government Entity/SGE_products.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_014",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/Small Government Entity/SGE_projects.csv"
+    },
+    {
+      "check": "raw checksum: file_nist_015",
+      "status": "pass",
+      "detail": "raw/nist/SampleDataSets/Small Government Entity/SGE_suppliers.csv"
+    }
+  ]
+}

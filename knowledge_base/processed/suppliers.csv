@@ -1,0 +1,880 @@
+supplier_id,source_supplier_id,supplier_name,normalized_name,country_code,country_name,supplier_type,supplier_status,source_id,source_file_id,source_record_id,collected_at
+sup_0001,1,Supplier 1,supplier 1,,,,,src_nist_supplychain,file_nist_003,1,2026-08-19
+sup_0002,2,Supplier 2,supplier 2,,,,,src_nist_supplychain,file_nist_003,2,2026-08-19
+sup_0003,3,Supplier 3,supplier 3,,,,,src_nist_supplychain,file_nist_003,3,2026-08-19
+sup_0004,4,Supplier 4,supplier 4,,,,,src_nist_supplychain,file_nist_003,4,2026-08-19
+sup_0005,5,Supplier 5,supplier 5,,,,,src_nist_supplychain,file_nist_003,5,2026-08-19
+sup_0006,1,Supplier 1,supplier 1,,,,,src_nist_supplychain,file_nist_006,1,2026-08-19
+sup_0007,2,Supplier 2,supplier 2,,,,,src_nist_supplychain,file_nist_006,2,2026-08-19
+sup_0008,3,Supplier 3,supplier 3,,,,,src_nist_supplychain,file_nist_006,3,2026-08-19
+sup_0009,4,Supplier 4,supplier 4,,,,,src_nist_supplychain,file_nist_006,4,2026-08-19
+sup_0010,5,Supplier 5,supplier 5,,,,,src_nist_supplychain,file_nist_006,5,2026-08-19
+sup_0011,6,Supplier 6,supplier 6,,,,,src_nist_supplychain,file_nist_006,6,2026-08-19
+sup_0012,7,Supplier 7,supplier 7,,,,,src_nist_supplychain,file_nist_006,7,2026-08-19
+sup_0013,8,Supplier 8,supplier 8,,,,,src_nist_supplychain,file_nist_006,8,2026-08-19
+sup_0014,Ante Corp.,Ante Corp.,ante corp.,,,,,src_nist_supplychain,file_nist_009,Ante Corp.,2026-08-19
+sup_0015,Arcu Packaging,Arcu Packaging,arcu packaging,,,,,src_nist_supplychain,file_nist_009,Arcu Packaging,2026-08-19
+sup_0016,At Auctor Co,At Auctor Co,at auctor co,,,,,src_nist_supplychain,file_nist_009,At Auctor Co,2026-08-19
+sup_0017,Cubilia Electronics,Cubilia Electronics,cubilia electronics,,,,,src_nist_supplychain,file_nist_009,Cubilia Electronics,2026-08-19
+sup_0018,Egestas Engineering,Egestas Engineering,egestas engineering,,,,,src_nist_supplychain,file_nist_009,Egestas Engineering,2026-08-19
+sup_0019,EGETEM,EGETEM,egetem,,,,,src_nist_supplychain,file_nist_009,EGETEM,2026-08-19
+sup_0020,Eleifend,Eleifend,eleifend,,,,,src_nist_supplychain,file_nist_009,Eleifend,2026-08-19
+sup_0021,Non Enim Electronics,Non Enim Electronics,non enim electronics,,,,,src_nist_supplychain,file_nist_009,Non Enim Electronics,2026-08-19
+sup_0022,Est Electronics Corp.,Est Electronics Corp.,est electronics corp.,,,,,src_nist_supplychain,file_nist_009,Est Electronics Corp.,2026-08-19
+sup_0023,Eu Sem Electronics,Eu Sem Electronics,eu sem electronics,,,,,src_nist_supplychain,file_nist_009,Eu Sem Electronics,2026-08-19
+sup_0024,Tempor Milling,Tempor Milling,tempor milling,,,,,src_nist_supplychain,file_nist_009,Tempor Milling,2026-08-19
+sup_0025,Fringilla Electronics,Fringilla Electronics,fringilla electronics,,,,,src_nist_supplychain,file_nist_009,Fringilla Electronics,2026-08-19
+sup_0026,Hendrerit Electronics,Hendrerit Electronics,hendrerit electronics,,,,,src_nist_supplychain,file_nist_009,Hendrerit Electronics,2026-08-19
+sup_0027,Imperdiet Electronics,Imperdiet Electronics,imperdiet electronics,,,,,src_nist_supplychain,file_nist_009,Imperdiet Electronics,2026-08-19
+sup_0028,Justo Inc.,Justo Inc.,justo inc.,,,,,src_nist_supplychain,file_nist_009,Justo Inc.,2026-08-19
+sup_0029,Laoreet,Laoreet,laoreet,,,,,src_nist_supplychain,file_nist_009,Laoreet,2026-08-19
+sup_0030,Lectus Labeling,Lectus Labeling,lectus labeling,,,,,src_nist_supplychain,file_nist_009,Lectus Labeling,2026-08-19
+sup_0031,Aenean Printing,Aenean Printing,aenean printing,,,,,src_nist_supplychain,file_nist_009,Aenean Printing,2026-08-19
+sup_0032,Elementum SCI,Elementum SCI,elementum sci,,,,,src_nist_supplychain,file_nist_009,Elementum SCI,2026-08-19
+sup_0033,Luctus Aliquet,Luctus Aliquet,luctus aliquet,,,,,src_nist_supplychain,file_nist_009,Luctus Aliquet,2026-08-19
+sup_0034,Malesuada Limited,Malesuada Limited,malesuada limited,,,,,src_nist_supplychain,file_nist_009,Malesuada Limited,2026-08-19
+sup_0035,Mauris Quis Circuits,Mauris Quis Circuits,mauris quis circuits,,,,,src_nist_supplychain,file_nist_009,Mauris Quis Circuits,2026-08-19
+sup_0036,Nam LLC,Nam LLC,nam llc,,,,,src_nist_supplychain,file_nist_009,Nam LLC,2026-08-19
+sup_0037,Microchips Corp.,Microchips Corp.,microchips corp.,,,,,src_nist_supplychain,file_nist_009,Microchips Corp.,2026-08-19
+sup_0038,Access Limited,Access Limited,access limited,,,,,src_nist_supplychain,file_nist_009,Access Limited,2026-08-19
+sup_0039,Nunc Ltd,Nunc Ltd,nunc ltd,,,,,src_nist_supplychain,file_nist_009,Nunc Ltd,2026-08-19
+sup_0040,Vulputate Foundation,Vulputate Foundation,vulputate foundation,,,,,src_nist_supplychain,file_nist_009,Vulputate Foundation,2026-08-19
+sup_0041,Praesent Corporation,Praesent Corporation,praesent corporation,,,,,src_nist_supplychain,file_nist_009,Praesent Corporation,2026-08-19
+sup_0042,Sodales,Sodales,sodales,,,,,src_nist_supplychain,file_nist_009,Sodales,2026-08-19
+sup_0043,31001,Ante Dictum LLC,ante dictum llc,,,,,src_nist_supplychain,file_nist_012,31001,2026-08-19
+sup_0044,12011,Magna LLC,magna llc,,,,,src_nist_supplychain,file_nist_012,12011,2026-08-19
+sup_0045,59663,Sem Eget Massa Industries,sem eget massa industries,,,,,src_nist_supplychain,file_nist_012,59663,2026-08-19
+sup_0046,30272,Magna Ut Tincidunt Foundation,magna ut tincidunt foundation,,,,,src_nist_supplychain,file_nist_012,30272,2026-08-19
+sup_0047,43057,Lorem Consulting,lorem consulting,,,,,src_nist_supplychain,file_nist_012,43057,2026-08-19
+sup_0048,95787,Mattis Cras LLP,mattis cras llp,,,,,src_nist_supplychain,file_nist_012,95787,2026-08-19
+sup_0049,21629,Luctus Lobortis Class Company,luctus lobortis class company,,,,,src_nist_supplychain,file_nist_012,21629,2026-08-19
+sup_0050,81659,Et Rutrum Institute,et rutrum institute,,,,,src_nist_supplychain,file_nist_012,81659,2026-08-19
+sup_0051,40189,Orci Phasellus Dapibus Company,orci phasellus dapibus company,,,,,src_nist_supplychain,file_nist_012,40189,2026-08-19
+sup_0052,AC_LLC,Ac LLC,ac llc,,,,,src_nist_supplychain,file_nist_015,AC_LLC,2026-08-19
+sup_0053,ALIQUAM_ER,Aliquam Erat Volutpat Associates,aliquam erat volutpat associates,,,,,src_nist_supplychain,file_nist_015,ALIQUAM_ER,2026-08-19
+sup_0054,AMET_INCOR,Amet Incorporated,amet incorporated,,,,,src_nist_supplychain,file_nist_015,AMET_INCOR,2026-08-19
+sup_0055,AMET_ULTRI,Amet Ultricies Sem Institute,amet ultricies sem institute,,,,,src_nist_supplychain,file_nist_015,AMET_ULTRI,2026-08-19
+sup_0056,CONSEQUAT_,Consequat Auctor Nunc Company,consequat auctor nunc company,,,,,src_nist_supplychain,file_nist_015,CONSEQUAT_,2026-08-19
+sup_0057,DAPIBUS_QU,Dapibus Quam Quis Incorporated,dapibus quam quis incorporated,,,,,src_nist_supplychain,file_nist_015,DAPIBUS_QU,2026-08-19
+sup_0058,DIS_INC.,Dis Inc.,dis inc.,,,,,src_nist_supplychain,file_nist_015,DIS_INC.,2026-08-19
+sup_0059,DIS_PARTUR,Dis Parturient Incorporated,dis parturient incorporated,,,,,src_nist_supplychain,file_nist_015,DIS_PARTUR,2026-08-19
+sup_0060,DONEC_DIGN,Donec Dignissim Industries,donec dignissim industries,,,,,src_nist_supplychain,file_nist_015,DONEC_DIGN,2026-08-19
+sup_0061,VITAE_DIAM,Donec Tincidunt Company,donec tincidunt company,,,,,src_nist_supplychain,file_nist_015,VITAE_DIAM,2026-08-19
+sup_0062,DUI_INDUST,Dui Industries,dui industries,,,,,src_nist_supplychain,file_nist_015,DUI_INDUST,2026-08-19
+sup_0063,DUI_SUSPEN,Dui Suspendisse Consulting,dui suspendisse consulting,,,,,src_nist_supplychain,file_nist_015,DUI_SUSPEN,2026-08-19
+sup_0064,EST_TEMPOR,Est Tempor Bibendum LLC,est tempor bibendum llc,,,,,src_nist_supplychain,file_nist_015,EST_TEMPOR,2026-08-19
+sup_0065,ET_IPSUM_C,Et Ipsum Cursus Ltd,et ipsum cursus ltd,,,,,src_nist_supplychain,file_nist_015,ET_IPSUM_C,2026-08-19
+sup_0066,FRINGILLA_,Fringilla Est Industries,fringilla est industries,,,,,src_nist_supplychain,file_nist_015,FRINGILLA_,2026-08-19
+sup_0067,HENDRERIT_,Hendrerit PC,hendrerit pc,,,,,src_nist_supplychain,file_nist_015,HENDRERIT_,2026-08-19
+sup_0068,IACULIS_LL,Iaculis LLC,iaculis llc,,,,,src_nist_supplychain,file_nist_015,IACULIS_LL,2026-08-19
+sup_0069,ID_COMPANY,Id Company,id company,,,,,src_nist_supplychain,file_nist_015,ID_COMPANY,2026-08-19
+sup_0070,INCEPTOS_H,Inceptos Hymenaeos Mauris LLC,inceptos hymenaeos mauris llc,,,,,src_nist_supplychain,file_nist_015,INCEPTOS_H,2026-08-19
+sup_0071,INTEGER_UR,Integer Urna Vivamus Corp.,integer urna vivamus corp.,,,,,src_nist_supplychain,file_nist_015,INTEGER_UR,2026-08-19
+sup_0072,IPSUM_SUSP,Ipsum Suspendisse Company,ipsum suspendisse company,,,,,src_nist_supplychain,file_nist_015,IPSUM_SUSP,2026-08-19
+sup_0073,LACUS_QUIS,Lacus Quisque Imperdiet PC,lacus quisque imperdiet pc,,,,,src_nist_supplychain,file_nist_015,LACUS_QUIS,2026-08-19
+sup_0074,LIGULA_ALI,Ligula Aliquam Erat Incorporated,ligula aliquam erat incorporated,,,,,src_nist_supplychain,file_nist_015,LIGULA_ALI,2026-08-19
+sup_0075,LOBORTIS_Q,Lobortis Quis Institute,lobortis quis institute,,,,,src_nist_supplychain,file_nist_015,LOBORTIS_Q,2026-08-19
+sup_0076,MI_ENIM_CO,Mi Enim Condimentum Inc.,mi enim condimentum inc.,,,,,src_nist_supplychain,file_nist_015,MI_ENIM_CO,2026-08-19
+sup_0077,MI_LACINIA,Mi Lacinia Industries,mi lacinia industries,,,,,src_nist_supplychain,file_nist_015,MI_LACINIA,2026-08-19
+sup_0078,MOLESTIE_A,Molestie Arcu Company,molestie arcu company,,,,,src_nist_supplychain,file_nist_015,MOLESTIE_A,2026-08-19
+sup_0079,MUS_PROIN_,Mus Proin Corporation,mus proin corporation,,,,,src_nist_supplychain,file_nist_015,MUS_PROIN_,2026-08-19
+sup_0080,NEQUE_INST,Neque Institute,neque institute,,,,,src_nist_supplychain,file_nist_015,NEQUE_INST,2026-08-19
+sup_0081,NEQUE_SED_,Neque Sed Sem LLP,neque sed sem llp,,,,,src_nist_supplychain,file_nist_015,NEQUE_SED_,2026-08-19
+sup_0082,NETUS_LLP,Netus LLP,netus llp,,,,,src_nist_supplychain,file_nist_015,NETUS_LLP,2026-08-19
+sup_0083,NONUMMY_FU,Nonummy Fusce Foundation,nonummy fusce foundation,,,,,src_nist_supplychain,file_nist_015,NONUMMY_FU,2026-08-19
+sup_0084,NULLA_DONE,Nulla Donec Non Corp.,nulla donec non corp.,,,,,src_nist_supplychain,file_nist_015,NULLA_DONE,2026-08-19
+sup_0085,NULLA_INTE,Nulla Interdum Corp.,nulla interdum corp.,,,,,src_nist_supplychain,file_nist_015,NULLA_INTE,2026-08-19
+sup_0086,NULLA_SEMP,Nulla Semper Associates,nulla semper associates,,,,,src_nist_supplychain,file_nist_015,NULLA_SEMP,2026-08-19
+sup_0087,ORCI_TINCI,Orci Tincidunt Adipiscing Inc.,orci tincidunt adipiscing inc.,,,,,src_nist_supplychain,file_nist_015,ORCI_TINCI,2026-08-19
+sup_0088,PEDE_PRAES,Pede Praesent Eu Inc.,pede praesent eu inc.,,,,,src_nist_supplychain,file_nist_015,PEDE_PRAES,2026-08-19
+sup_0089,PER_INCEPT,Per Inceptos LLP,per inceptos llp,,,,,src_nist_supplychain,file_nist_015,PER_INCEPT,2026-08-19
+sup_0090,PHARETRA_S,Pharetra Sed Industries,pharetra sed industries,,,,,src_nist_supplychain,file_nist_015,PHARETRA_S,2026-08-19
+sup_0091,PHASELLUS_,Phasellus At Company,phasellus at company,,,,,src_nist_supplychain,file_nist_015,PHASELLUS_,2026-08-19
+sup_0092,QUIS_PEDE_,Quis Pede Suspendisse Inc.,quis pede suspendisse inc.,,,,,src_nist_supplychain,file_nist_015,QUIS_PEDE_,2026-08-19
+sup_0093,QUISQUE_PO,Quisque Porttitor Eros Inc.,quisque porttitor eros inc.,,,,,src_nist_supplychain,file_nist_015,QUISQUE_PO,2026-08-19
+sup_0094,RISUS_ODIO,RISUS_ODIO,risus_odio,,,,,src_nist_supplychain,file_nist_015,RISUS_ODIO,2026-08-19
+sup_0095,SED_CONSEQ,Sed Consequat Auctor Ltd,sed consequat auctor ltd,,,,,src_nist_supplychain,file_nist_015,SED_CONSEQ,2026-08-19
+sup_0096,SED_TURPIS,Sed Turpis Nec Company,sed turpis nec company,,,,,src_nist_supplychain,file_nist_015,SED_TURPIS,2026-08-19
+sup_0097,SODALES_AT,Sodales At LLP,sodales at llp,,,,,src_nist_supplychain,file_nist_015,SODALES_AT,2026-08-19
+sup_0098,TACITI_IND,Taciti Industries,taciti industries,,,,,src_nist_supplychain,file_nist_015,TACITI_IND,2026-08-19
+sup_0099,TEMPUS_COR,Tempus Corporation,tempus corporation,,,,,src_nist_supplychain,file_nist_015,TEMPUS_COR,2026-08-19
+sup_0100,TEMPUS_MAU,Tempus Mauris Erat LLP,tempus mauris erat llp,,,,,src_nist_supplychain,file_nist_015,TEMPUS_MAU,2026-08-19
+sup_0101,UT_ERAT_SE,Ut Erat Sed LLC,ut erat sed llc,,,,,src_nist_supplychain,file_nist_015,UT_ERAT_SE,2026-08-19
+sup_0102,VELIT_SED_,Velit Sed Inc.,velit sed inc.,,,,,src_nist_supplychain,file_nist_015,VELIT_SED_,2026-08-19
+sup_0103,VESTIBULUM,Vestibulum Hotel,vestibulum hotel,,,,,src_nist_supplychain,file_nist_015,VESTIBULUM,2026-08-19
+sup_0104,VITAE_DIAM,Vitae Diam Incorporated,vitae diam incorporated,,,,,src_nist_supplychain,file_nist_015,VITAE_DIAM,2026-08-19
+sup_0105,VITAE_ODIO,Vitae Odio Pipette,vitae odio pipette,,,,,src_nist_supplychain,file_nist_015,VITAE_ODIO,2026-08-19
+sup_0106,VOLUTPAT_N,Volutpat Nulla Dignissim Corporation,volutpat nulla dignissim corporation,,,,,src_nist_supplychain,file_nist_015,VOLUTPAT_N,2026-08-19
+sup_0107,3a007af5-01de-4a61-a388-dad6e0f898e3,Hanack und Partner,hanack und partner,DEU,,medium,,src_ted_opendata,file_ted_0001,organisation:ORG-0004,2026-08-19
+sup_0108,9482241384,Centrum Zaopatrzenia Energetyki ELTAST,centrum zaopatrzenia energetyki eltast,POL,,small,,src_ted_opendata,file_ted_0002,organisation:ORG-0003,2026-08-19
+sup_0109,1488244000,"ZIDES Podjetje za gradbeništvo, trgovino, proizvodnjo in zastopanje d.o.o.","zides podjetje za gradbeništvo, trgovino, proizvodnjo in zastopanje d.o.o.",SVN,,sme,,src_ted_opendata,file_ted_0003,organisation:ORG-0004,2026-08-19
+sup_0110,141982011,RESQMED Sp. z o.o.,resqmed sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0005,organisation:ORG-0005,2026-08-19
+sup_0111,SE-556569172101,Nuklex AB,nuklex ab,SWE,,,,src_ted_opendata,file_ted_0006,organisation:ORG-0003,2026-08-19
+sup_0112,6420000151,Przedsiębiorstwo Spedycyjno – Transportowe „Transgór” S.A.,przedsiębiorstwo spedycyjno – transportowe „transgór” s.a.,POL,,,,src_ted_opendata,file_ted_0007,organisation:ORG-0003,2026-08-19
+sup_0113,7352497196,Przedsiębiorstwo Usług Komunalnych „EMPOL” Sp. z o.o.,przedsiębiorstwo usług komunalnych „empol” sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0007,organisation:ORG-0004,2026-08-19
+sup_0114,1484425-1-0-1,EUROVIA ATLANTIQUE,eurovia atlantique,FRA,,large,,src_ted_opendata,file_ted_0008,organisation:ORG-0006,2026-08-19
+sup_0115,RO39696626,ZIMMER BIOMET ROMANIA,zimmer biomet romania,ROU,,medium,,src_ted_opendata,file_ted_0009,organisation:ORG-9002,2026-08-19
+sup_0116,12704530,STRYKER ROMANIA S.R.L.,stryker romania s.r.l.,ROU,,medium,,src_ted_opendata,file_ted_0009,organisation:ORG-9000,2026-08-19
+sup_0117,34443487,Neos Europe,neos europe,ROU,,small,,src_ted_opendata,file_ted_0009,organisation:ORG-9001,2026-08-19
+sup_0118,RO 9625593,MEDICAL ORTOVIT,medical ortovit,ROU,,medium,,src_ted_opendata,file_ted_0009,organisation:ORG-9003,2026-08-19
+sup_0119,NIP: 8210007573,Międzygminny Bank Spółdzielczy w Zbuczynie,międzygminny bank spółdzielczy w zbuczynie,POL,,,,src_ted_opendata,file_ted_0010,organisation:ORG-0003,2026-08-19
+sup_0120,542021829 R.C.S.,SAFEGE Societe par actions simplifiee,safege societe par actions simplifiee,FRA,,,,src_ted_opendata,file_ted_0012,organisation:ORG-0004,2026-08-19
+sup_0121,5252517202,LOHMANN & RAUSCHER POLSKA Sp. z o.o.,lohmann & rauscher polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0013,organisation:ORG-0004,2026-08-19
+sup_0122,5422588828,Mölnlycke Health Care Polska Sp. z o.o.,mölnlycke health care polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0013,organisation:ORG-0003,2026-08-19
+sup_0123,12554471,Wiki KD OÜ,wiki kd oü,EST,,,,src_ted_opendata,file_ted_0014,organisation:ORG-0004,2026-08-19
+sup_0124,8271818828,Baxter Polska Sp. z o.o.,baxter polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0015,organisation:ORG-0003,2026-08-19
+sup_0125,52626275553,MIP Pharma Polska Sp. z o.o.,mip pharma polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0015,organisation:ORG-0004,2026-08-19
+sup_0126,5250004220,Centrala Farmaceutyczna CEFARM S.A.,centrala farmaceutyczna cefarm s.a.,POL,,,,src_ted_opendata,file_ted_0015,organisation:ORG-0005,2026-08-19
+sup_0127,1231284133,NEOMED POLSKA Sp. z o.o.,neomed polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0015,organisation:ORG-0006,2026-08-19
+sup_0128,5212936353,Fresenius Kabi Polska Sp. z o.o.,fresenius kabi polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0015,organisation:ORG-0007,2026-08-19
+sup_0129,8942556799,Urtica Sp. z o.o.,urtica sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0015,organisation:ORG-0008,2026-08-19
+sup_0130,6340125442,Salus International Sp. z o.o.,salus international sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0015,organisation:ORG-0009,2026-08-19
+sup_0131,01973900838,MUNICIPIA S.p.A.,municipia s.p.a.,ITA,,,,src_ted_opendata,file_ted_0016,organisation:ORG-0003,2026-08-19
+sup_0132,10083611219,Smart S.r.l.,smart s.r.l.,ITA,,,,src_ted_opendata,file_ted_0016,organisation:ORG-0004,2026-08-19
+sup_0133,5521475000,"ZARJA ELEKTRONIKA proizvodnja, montaža, inženiring in projektiranje sistemov in naprav za tehnično zaščito d.o.o.","zarja elektronika proizvodnja, montaža, inženiring in projektiranje sistemov in naprav za tehnično zaščito d.o.o.",SVN,,sme,,src_ted_opendata,file_ted_0017,organisation:ORG-0004,2026-08-19
+sup_0134,7341782622,"Firma Usługowo-Handlowo-Produkcyjna ""AQUA-EKO"" Stanisław Brzęk","firma usługowo-handlowo-produkcyjna ""aqua-eko"" stanisław brzęk",POL,,,,src_ted_opendata,file_ted_0018,organisation:ORG-0003,2026-08-19
+sup_0135,REGON 591778799,ZAKŁAD USŁUG KOMUNALNYCH HAK STANISŁAW BURCZYŃSKI,zakład usług komunalnych hak stanisław burczyński,POL,,,,src_ted_opendata,file_ted_0019,organisation:ORG-0003,2026-08-19
+sup_0136,6272754354,Miejskie Przedsiębiorstwo Usług Komunalnych w Świętochłowicach Sp. z o.o.,miejskie przedsiębiorstwo usług komunalnych w świętochłowicach sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0020,organisation:ORG-0003,2026-08-19
+sup_0137,1532649-1-0-1,COMPAGNIE GENERALE DE MAINTENANCE IMMOBILIERE,compagnie generale de maintenance immobiliere,FRA,,large,,src_ted_opendata,file_ted_0023,organisation:ORG-0007,2026-08-19
+sup_0138,9378655,DR.MAX,dr.max,ROU,,large,,src_ted_opendata,file_ted_0024,organisation:ORG-9003,2026-08-19
+sup_0139,RO 11653560,COMPANIA NATIONALA UNIFARM,compania nationala unifarm,ROU,,medium,,src_ted_opendata,file_ted_0024,organisation:ORG-9000,2026-08-19
+sup_0140,RO 335278,FARMEXIM S.A.,farmexim s.a.,ROU,,large,,src_ted_opendata,file_ted_0024,organisation:ORG-9001,2026-08-19
+sup_0141,RO 8955860,ALLIANCE HEALTHCARE ROMÂNIA SRL,alliance healthcare românia srl,ROU,,large,,src_ted_opendata,file_ted_0024,organisation:ORG-9002,2026-08-19
+sup_0142,34340353103351,COLLETES VALORISATION ENERGIE DECHETS (COVED) SAS,colletes valorisation energie dechets (coved) sas,FRA,,,,src_ted_opendata,file_ted_0025,organisation:ORG-0003,2026-08-19
+sup_0143,997826122,ΑΝΑΣΤΑΣΙΟΣ ΔΙΓΚΑΣ Ε.Ε. ΕΙΣΑΓΩΓΗ & ΕΜΠΟΡΙΑ ΙΑΤΡΙΚΩΝ,αναστασιοσ διγκασ ε.ε. εισαγωγη & εμπορια ιατρικων,GRC,,,,src_ted_opendata,file_ted_0026,organisation:ORG-0004,2026-08-19
+sup_0144,5850001690,TU Ergo Hestia S.A.,tu ergo hestia s.a.,POL,,,,src_ted_opendata,file_ted_0028,organisation:ORG-0006,2026-08-19
+sup_0145,338 253 131 10992,Société Française de Restauration et Services,société française de restauration et services,FRA,,large,,src_ted_opendata,file_ted_0029,organisation:ORG-0005,2026-08-19
+sup_0146,6572771351,4 IDEA KAROL SITARSKI,4 idea karol sitarski,POL,,,,src_ted_opendata,file_ted_0030,organisation:ORG-0004,2026-08-19
+sup_0147,B26384560,"SERVICIOS OSGA, S.L.","servicios osga, s.l.",ESP,,sme,,src_ted_opendata,file_ted_0031,organisation:ORG-0002,2026-08-19
+sup_0148,1535021-1-0-1,ONYX ARA,onyx ara,FRA,,large,,src_ted_opendata,file_ted_0032,organisation:ORG-0005,2026-08-19
+sup_0149,31717802,INTRAVENA s.r.o.,intravena s.r.o.,SVK,,small,,src_ted_opendata,file_ted_0033,organisation:ORG-0003,2026-08-19
+sup_0150,34113924,"MED - ART, spol. s r.o.","med - art, spol. s r.o.",SVK,,large,,src_ted_opendata,file_ted_0033,organisation:ORG-0004,2026-08-19
+sup_0151,31625657,UNIPHARMA - 1. slovenská lekárnická akciová spoločnosť,unipharma - 1. slovenská lekárnická akciová spoločnosť,SVK,,large,,src_ted_opendata,file_ted_0033,organisation:ORG-0005,2026-08-19
+sup_0152,5003555000,"Rexel, specializirana trgovina z elektrotehničnimi materiali in storitvami, d.o.o.","rexel, specializirana trgovina z elektrotehničnimi materiali in storitvami, d.o.o.",SVN,,sme,,src_ted_opendata,file_ted_0034,organisation:ORG-0004,2026-08-19
+sup_0153,nimat-501,"Rexel, specializirana trgovina z elektrotehničnimi materiali in storitvami, d.o.o.","rexel, specializirana trgovina z elektrotehničnimi materiali in storitvami, d.o.o.",SVN,,sme,,src_ted_opendata,file_ted_0034,organisation:ORG-0005,2026-08-19
+sup_0154,5584566000,"MR, trgovina, proizvodnja, montaža, inženiring, gradbeništvo, popravila, nastanitvene in druge dejavnosti, d.o.o.","mr, trgovina, proizvodnja, montaža, inženiring, gradbeništvo, popravila, nastanitvene in druge dejavnosti, d.o.o.",SVN,,sme,,src_ted_opendata,file_ted_0034,organisation:ORG-0006,2026-08-19
+sup_0155,8991076556,TAURON Nowe Technologie S.A.,tauron nowe technologie s.a.,POL,,,,src_ted_opendata,file_ted_0035,organisation:ORG-0003,2026-08-19
+sup_0156,1503465-1-1-1,BONNET DEFAY TERRASSEMENT,bonnet defay terrassement,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0005,2026-08-19
+sup_0157,1503465-1-2-1,ENTREPRISE FAURIE,entreprise faurie,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0006,2026-08-19
+sup_0158,1503465-1-3-1,SOCIETE DE DEVELOPPEMENT ET DE REALISATION DE TRAVAUX PUBLICS,societe de developpement et de realisation de travaux publics,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0007,2026-08-19
+sup_0159,1503465-1-1-2,ENTREPRISE FERRET,entreprise ferret,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0008,2026-08-19
+sup_0160,1503465-1-1-3,VALOUR T.P PERE ET FILS,valour t.p pere et fils,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0010,2026-08-19
+sup_0161,1503465-1-1-4,BONNEFOY TP,bonnefoy tp,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0012,2026-08-19
+sup_0162,1503465-1-1-5,FREDERIC PITAVY TP,frederic pitavy tp,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0014,2026-08-19
+sup_0163,1503465-1-1-6,SARL STPPV,sarl stppv,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0015,2026-08-19
+sup_0164,1503465-1-3-2,ETS TPCF - GROUPE COLAS,ets tpcf - groupe colas,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0009,2026-08-19
+sup_0165,1503465-1-3-3,SOVETRA,sovetra,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0011,2026-08-19
+sup_0166,1503465-1-3-4,CHRISTIAN FAURIE TRAVAUX PUBLICS - GRAVIERES ET SABLIERES DU DOUX,christian faurie travaux publics - gravieres et sablieres du doux,FRA,,large,,src_ted_opendata,file_ted_0036,organisation:ORG-0013,2026-08-19
+sup_0167,06388171214,BRIGANTE ENGINEERING,brigante engineering,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0010,2026-08-19
+sup_0168,04629350655,Istemi S.R.L.,istemi s.r.l.,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0004,2026-08-19
+sup_0169,03641800655,Neotes srl,neotes srl,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0005,2026-08-19
+sup_0170,01755510656,CAMPANIA SONDA SRL,campania sonda srl,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0006,2026-08-19
+sup_0171,CCCFNC75M29C129X,Francesco Cuccurullo,francesco cuccurullo,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0007,2026-08-19
+sup_0172,DCRLGU81A09D643E,GEOSVEVA DI DI CARLO LUIGI,geosveva di di carlo luigi,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0008,2026-08-19
+sup_0173,00937950574,GEO 3D,geo 3d,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0009,2026-08-19
+sup_0174,FNTNTN94D02L845I,Antonio Fontanella,antonio fontanella,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0011,2026-08-19
+sup_0175,01031180571,GILETTI DEFERICO,giletti deferico,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0012,2026-08-19
+sup_0176,DRSGRD65C10A509K,D'Urso Gerardo,d'urso gerardo,ITA,,,,src_ted_opendata,file_ted_0037,organisation:ORG-0013,2026-08-19
+sup_0177,202668908,СИНЕРГОН ЕНЕРДЖИ ООД,синергон енерджи оод,BGR,,sme,,src_ted_opendata,file_ted_0039,organisation:ORG-0003,2026-08-19
+sup_0178,8790017162,NEUCA S.A.,neuca s.a.,POL,,,,src_ted_opendata,file_ted_0040,organisation:ORG-0003,2026-08-19
+sup_0179,5252409576,Farmacol-Logistyka Sp. z o.o.,farmacol-logistyka sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0040,organisation:ORG-0004,2026-08-19
+sup_0180,A48265169,BANCO BILBAO VIZCAYA ARGENTARIA S.A.,banco bilbao vizcaya argentaria s.a.,ESP,,large,,src_ted_opendata,file_ted_0041,organisation:ORG-0002,2026-08-19
+sup_0181,A95653077,KUTXABANK S.A.,kutxabank s.a.,ESP,,large,,src_ted_opendata,file_ted_0041,organisation:ORG-0003,2026-08-19
+sup_0182,804 984 565 00080,ABILIS LOGISTIQUE SAS,abilis logistique sas,FRA,,,,src_ted_opendata,file_ted_0042,organisation:ORG-0003,2026-08-19
+sup_0183,528 423 239 00029,AU GROS BONHOMME,au gros bonhomme,FRA,,,,src_ted_opendata,file_ted_0042,organisation:ORG-0004,2026-08-19
+sup_0184,RO 2092175,LECONFEX,leconfex,ROU,,medium,,src_ted_opendata,file_ted_0043,organisation:ORG-9000,2026-08-19
+sup_0185,RO 6906101,ROMFULDA PROD,romfulda prod,ROU,,medium,,src_ted_opendata,file_ted_0043,organisation:ORG-9005,2026-08-19
+sup_0186,RO 23067689,VICONSIT S.R.L.,viconsit s.r.l.,ROU,,small,,src_ted_opendata,file_ted_0043,organisation:ORG-9001,2026-08-19
+sup_0187,RO 6753822,ELDI BRUTARIA S.R.L.,eldi brutaria s.r.l.,ROU,,medium,,src_ted_opendata,file_ted_0043,organisation:ORG-9004,2026-08-19
+sup_0188,RO 5994229,COPANEX S.R.L.,copanex s.r.l.,ROU,,medium,,src_ted_opendata,file_ted_0043,organisation:ORG-9003,2026-08-19
+sup_0189,RO23455761,AMARIEI G. PETRU,amariei g. petru,ROU,,small,,src_ted_opendata,file_ted_0043,organisation:ORG-9002,2026-08-19
+sup_0190,NIP: 5540232610,Drager Polska Sp. z o.o.,drager polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0044,organisation:ORG-0004,2026-08-19
+sup_0191,A15474281,R CABLE Y TELECABLE TELECOMUNICACIONES S.A.U.,r cable y telecable telecomunicaciones s.a.u.,ESP,,large,,src_ted_opendata,file_ted_0045,organisation:ORG-0002,2026-08-19
+sup_0192,OFFER001,ΑΝΑΣΤΑΣΙΟΣ ΔΙΓΚΑΣ Ε.Ε. ΕΙΣΑΓΩΓΗ & ΕΜΠΟΡΙΑ ΙΑΤΡΙΚΩΝ,αναστασιοσ διγκασ ε.ε. εισαγωγη & εμπορια ιατρικων,GRC,,,,src_ted_opendata,file_ted_0046,organisation:ORG-0006,2026-08-19
+sup_0193,7280132515,Remondis Sp. z o.o.,remondis sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0047,organisation:ORG-0004,2026-08-19
+sup_0194,7750000516,PreZero Service Centrum Sp. z o.o.,prezero service centrum sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0047,organisation:ORG-0005,2026-08-19
+sup_0195,05032630963,Allianz Società per Azioni,allianz società per azioni,ITA,,,,src_ted_opendata,file_ted_0048,organisation:ORG-0004,2026-08-19
+sup_0196,DE239172844,ajco solutions GmbH,ajco solutions gmbh,DEU,,small,,src_ted_opendata,file_ted_0051,organisation:ORG-0004,2026-08-19
+sup_0197,22678898213,Bear-Impex Hungary Korlátolt Felelősségű Társaság,bear-impex hungary korlátolt felelősségű társaság,HUN,,micro,,src_ted_opendata,file_ted_0052,organisation:ORG-0005,2026-08-19
+sup_0198,10248793241,Spark Promotions Kereskedelmi Szolgáltató Korlátolt Felelősségű Társaság,spark promotions kereskedelmi szolgáltató korlátolt felelősségű társaság,HUN,,small,,src_ted_opendata,file_ted_0052,organisation:ORG-0006,2026-08-19
+sup_0199,104707g,Lambert Hofer 1862 GmbH,lambert hofer 1862 gmbh,AUT,,,,src_ted_opendata,file_ted_0053,organisation:ORG-1001,2026-08-19
+sup_0200,000504249,Bank Spółdzielczy w Brzegu,bank spółdzielczy w brzegu,POL,,,,src_ted_opendata,file_ted_0054,organisation:ORG-0006,2026-08-19
+sup_0201,500676020,"SOCARTO – SOCIEDADE DE LEVANTAMENTOS TOPO-CARTOGRÁFICOS, LDA","socarto – sociedade de levantamentos topo-cartográficos, lda",PRT,,,,src_ted_opendata,file_ted_0056,organisation:ORG-0003,2026-08-19
+sup_0202,0448825928,DISTRAC NV,distrac nv,BEL,,,,src_ted_opendata,file_ted_0057,organisation:ORG-0005,2026-08-19
+sup_0203,BE 0415.873.840,HAELVOET nv,haelvoet nv,BEL,,,,src_ted_opendata,file_ted_0057,organisation:ORG-0006,2026-08-19
+sup_0204,NIP 6181002068,PPH POLARIS MAŁGORZATA GRUSZCZYŃSKA,pph polaris małgorzata gruszczyńska,POL,,,,src_ted_opendata,file_ted_0058,organisation:ORG-0005,2026-08-19
+sup_0205,B08914830,Grant Thornton SLP,grant thornton slp,ESP,,large,,src_ted_opendata,file_ted_0059,organisation:ORG-0002,2026-08-19
+sup_0206,000498483,Bank Spółdzielczy w Bytowie,bank spółdzielczy w bytowie,POL,,,,src_ted_opendata,file_ted_0060,organisation:ORG-0003,2026-08-19
+sup_0207,11696948205,TÁLLYA-PÉK Élelmiszeripari és Kereskedelmi Korlátolt Felelősségű Társaság,tállya-pék élelmiszeripari és kereskedelmi korlátolt felelősségű társaság,HUN,,small,,src_ted_opendata,file_ted_0061,organisation:ORG-0005,2026-08-19
+sup_0208,11471375,Fruit Xpress OÜ,fruit xpress oü,EST,,,,src_ted_opendata,file_ted_0062,organisation:ORG-0004,2026-08-19
+sup_0209,10201515,Osaühing AKELAKS,osaühing akelaks,EST,,,,src_ted_opendata,file_ted_0062,organisation:ORG-0005,2026-08-19
+sup_0210,33487372602490,PROXISERVE,proxiserve,FRA,,,,src_ted_opendata,file_ted_0064,organisation:ORG-0003,2026-08-19
+sup_0211,513356924,"Goon Services, Unipessoal Lda.","goon services, unipessoal lda.",PRT,,,,src_ted_opendata,file_ted_0065,organisation:ORG-0002,2026-08-19
+sup_0212,6412552048,BEL-MED Indywidualna Praktyka Pielęgniarska Beata Langer,bel-med indywidualna praktyka pielęgniarska beata langer,POL,,,,src_ted_opendata,file_ted_0066,organisation:ORG-0006,2026-08-19
+sup_0213,5250007313,Poczta Polska S.A,poczta polska s.a,POL,,,,src_ted_opendata,file_ted_0067,organisation:ORG-0003,2026-08-19
+sup_0214,6482730408,WC SERWIS POLSKA Sp. z o.o,wc serwis polska sp. z o.o,POL,,,,src_ted_opendata,file_ted_0068,organisation:ORG-0003,2026-08-19
+sup_0215,112e1e3b-925c-4c3a-8d6f-a937b89ce24b,enercity AG,enercity ag,DEU,,medium,,src_ted_opendata,file_ted_0069,organisation:ORG-0004,2026-08-19
+sup_0216,094029552,«UNISYSTEMS ΣΥΣΤΗΜΑΤΑ ΠΛΗΡΟΦΟΡΙΚΗΣ ΑΝΩΝΥΜΗ ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΕΙΑ – OFFICE LINE AE»,«unisystems συστηματα πληροφορικησ ανωνυμη εμπορικη εταιρεια – office line ae»,GRC,,,,src_ted_opendata,file_ted_0070,organisation:ORG-0003,2026-08-19
+sup_0217,31491182700025,IMPRIMERIE POLLINA,imprimerie pollina,FRA,,,,src_ted_opendata,file_ted_0071,organisation:ORG-0003,2026-08-19
+sup_0218,25457712630,DUKAT d.d.,dukat d.d.,HRV,,large,,src_ted_opendata,file_ted_0072,organisation:ORG-0005,2026-08-19
+sup_0219,44138062462,VINDIJA d.d. Varaždin,vindija d.d. varaždin,HRV,,large,,src_ted_opendata,file_ted_0072,organisation:ORG-0004,2026-08-19
+sup_0220,0404312034,O.C.B. VZW,o.c.b. vzw,BEL,,,,src_ted_opendata,file_ted_0073,organisation:ORG-0005,2026-08-19
+sup_0221,59099072700018,Fournil des saveurs,fournil des saveurs,FRA,,,,src_ted_opendata,file_ted_0074,organisation:ORG-0004,2026-08-19
+sup_0222,30198326800014,Ménissez SAS,ménissez sas,FRA,,,,src_ted_opendata,file_ted_0074,organisation:ORG-0005,2026-08-19
+sup_0223,81789860400019,Panifrais SAS,panifrais sas,FRA,,,,src_ted_opendata,file_ted_0074,organisation:ORG-0006,2026-08-19
+sup_0224,90193696300015,SARL Upane,sarl upane,FRA,,,,src_ted_opendata,file_ted_0074,organisation:ORG-0007,2026-08-19
+sup_0225,NIP: 5423371551,BWS Sp. z o.o.,bws sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0076,organisation:ORG-0003,2026-08-19
+sup_0226,30119280300759,SOGEDO - Société de Gérance et de Distribution d'Eau - SAS,sogedo - société de gérance et de distribution d'eau - sas,FRA,,,,src_ted_opendata,file_ted_0078,organisation:ORG-0003,2026-08-19
+sup_0227,41003460704021,SUEZ EAU France,suez eau france,FRA,,,,src_ted_opendata,file_ted_0078,organisation:ORG-0004,2026-08-19
+sup_0228,16130213,Enefit AS,enefit as,EST,,,,src_ted_opendata,file_ted_0079,organisation:ORG-0004,2026-08-19
+sup_0229,USTID. DE813846179,VDI Technologiezentrum GmbH,vdi technologiezentrum gmbh,DEU,,large,,src_ted_opendata,file_ted_0080,organisation:ORG-0002,2026-08-19
+sup_0230,82922038300022,EDITIONS KIRO (MANDATAIRE),editions kiro (mandataire),FRA,,,,src_ted_opendata,file_ted_0082,organisation:ORG-0003,2026-08-19
+sup_0231,40775375500021,IMPRIMERIE MARIE (COTRAITANT),imprimerie marie (cotraitant),FRA,,,,src_ted_opendata,file_ted_0082,organisation:ORG-0006,2026-08-19
+sup_0232,08333781006,ZOWART,zowart,ITA,,,,src_ted_opendata,file_ted_0083,organisation:ORG-0004,2026-08-19
+sup_0233,0422.029.182,BOMA SA,boma sa,BEL,,,,src_ted_opendata,file_ted_0084,organisation:ORG-0004,2026-08-19
+sup_0234,350171831,Assurances Sécurité,assurances sécurité,FRA,,,,src_ted_opendata,file_ted_0085,organisation:ORG-0003,2026-08-19
+sup_0235,722 057 460 01971,AXA France,axa france,FRA,,,,src_ted_opendata,file_ted_0085,organisation:ORG-0004,2026-08-19
+sup_0236,5272359947,Bruno Tassi Sp. z o.o.,bruno tassi sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0086,organisation:ORG-0003,2026-08-19
+sup_0237,204506805,ТРАНСКОМ СП ЕООД,транском сп еоод,BGR,,sme,,src_ted_opendata,file_ted_0087,organisation:ORG-0003,2026-08-19
+sup_0238,130469816,ЕЛТА 90М ООД,елта 90м оод,BGR,,sme,,src_ted_opendata,file_ted_0089,organisation:ORG-0003,2026-08-19
+sup_0239,DE813285310,Strabag Property and Facility Services GmbH,strabag property and facility services gmbh,DEU,,large,,src_ted_opendata,file_ted_0090,organisation:ORG-0002,2026-08-19
+sup_0240,8420003251,Przedsiębiorstwo Komunikacji Samochodowej w Bytowie Spółka Akcyjna,przedsiębiorstwo komunikacji samochodowej w bytowie spółka akcyjna,POL,,,,src_ted_opendata,file_ted_0091,organisation:ORG-0003,2026-08-19
+sup_0241,016038355,Altium International Sp. z o.o.,altium international sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0092,organisation:ORG-0006,2026-08-19
+sup_0242,1425595-1-0-1,ITEM ETUDES ET CONSEIL,item etudes et conseil,FRA,,sme,,src_ted_opendata,file_ted_0093,organisation:ORG-0005,2026-08-19
+sup_0243,e5c56a2d-1ab0-4b67-b425-8ce5944caac4,DE_AXA Versicherungen AG,de_axa versicherungen ag,CHE,,large,,src_ted_opendata,file_ted_0094,organisation:ORG-0010,2026-08-19
+sup_0244,5272676062,FBSerwis S.A.,fbserwis s.a.,POL,,,,src_ted_opendata,file_ted_0096,organisation:ORG-0003,2026-08-19
+sup_0245,31322832,"SLOVNAFT, a.s.","slovnaft, a.s.",SVK,,large,,src_ted_opendata,file_ted_0099,organisation:ORG-0003,2026-08-19
+sup_0246,2127363-0,Certego Oy,certego oy,FIN,,,,src_ted_opendata,file_ted_0101,organisation:ORG-0004,2026-08-19
+sup_0247,1538174-1-0-1,EXTINCTEURS MARERIEL INCENDIE SECURITE,extincteurs mareriel incendie securite,FRA,,large,,src_ted_opendata,file_ted_0104,organisation:ORG-0005,2026-08-19
+sup_0248,45147647,CROY s.r.o.,croy s.r.o.,CZE,,sme,,src_ted_opendata,file_ted_0106,organisation:ORG-0003,2026-08-19
+sup_0249,NIP: 5170301826,Firma Cateringowa SOWRAD Konrad Sowa,firma cateringowa sowrad konrad sowa,POL,,,,src_ted_opendata,file_ted_0107,organisation:ORG-0003,2026-08-19
+sup_0250,1520713-1-0-1,CNP ASSURANCES,cnp assurances,FRA,,large,,src_ted_opendata,file_ted_0108,organisation:ORG-0005,2026-08-19
+sup_0251,6511736515,"konsorcjum: Kłosok sp. z o.o. spółka komandytowa, Jutrans sp. z o.o.","konsorcjum: kłosok sp. z o.o. spółka komandytowa, jutrans sp. z o.o.",POL,,,,src_ted_opendata,file_ted_0109,organisation:ORG-0004,2026-08-19
+sup_0252,1513058-1-0-1,AVIPUR,avipur,FRA,,sme,,src_ted_opendata,file_ted_0111,organisation:ORG-0006,2026-08-19
+sup_0253,RO 29805718,NOVA TECH MED,nova tech med,ROU,,medium,,src_ted_opendata,file_ted_0112,organisation:ORG-9000,2026-08-19
+sup_0254,7880008829,Aesculap Chifa Sp. z o.o.,aesculap chifa sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0114,organisation:ORG-0003,2026-08-19
+sup_0255,6312655205,Karl Storz Polska Sp. z o.o.,karl storz polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0114,organisation:ORG-0004,2026-08-19
+sup_0256,7010330145,Arthrex Polska Sp. z o.o.,arthrex polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0114,organisation:ORG-0005,2026-08-19
+sup_0257,5262825537,Smith & Nephew Sp. z o.o.,smith & nephew sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0114,organisation:ORG-0006,2026-08-19
+sup_0258,526725072,Mac`s Medical Sp. z o.o.,mac`s medical sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0114,organisation:ORG-0007,2026-08-19
+sup_0259,5561715064,LUCYNA TOMICKA USŁUGI PIELĘGNIARSKIE,lucyna tomicka usługi pielęgniarskie,POL,,,,src_ted_opendata,file_ted_0116,organisation:ORG-0004,2026-08-19
+sup_0260,5222665719,Janssen-Cilag Polska Sp. z o.o.,janssen-cilag polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0117,organisation:ORG-0003,2026-08-19
+sup_0261,5220103756,PROFARM PS SP. Z O.O.,profarm ps sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0117,organisation:ORG-0005,2026-08-19
+sup_0262,1131828467,ASTELLAS PHARMA SP. Z O.O.,astellas pharma sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0117,organisation:ORG-0006,2026-08-19
+sup_0263,5252515835,Abbvie Sp. z o.o.,abbvie sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0117,organisation:ORG-0007,2026-08-19
+sup_0264,62815184072,JASIKA d.o.o.,jasika d.o.o.,HRV,,medium,,src_ted_opendata,file_ted_0119,organisation:ORG-0004,2026-08-19
+sup_0265,547-02-06-285,Towarzystwo Ubezpieczeń INTER Polska S.A.,towarzystwo ubezpieczeń inter polska s.a.,POL,,,,src_ted_opendata,file_ted_0120,organisation:ORG-0008,2026-08-19
+sup_0266,526-025-10-49,Powszechny Zakład Ubezpieczeń Spółka Akcyjna,powszechny zakład ubezpieczeń spółka akcyjna,POL,,,,src_ted_opendata,file_ted_0120,organisation:ORG-0006,2026-08-19
+sup_0267,1070006155,UNIQA TOWARZYSTWO UBEZPIECZEŃ S.A.,uniqa towarzystwo ubezpieczeń s.a.,POL,,,,src_ted_opendata,file_ted_0120,organisation:ORG-0007,2026-08-19
+sup_0268,2220892160,LEMAR ELECTRIC Sp. z o.o.,lemar electric sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0121,organisation:ORG-0017,2026-08-19
+sup_0269,6340134429,MAS Sp. z o.o.,mas sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0121,organisation:ORG-0005,2026-08-19
+sup_0270,6470508638,Przedsiębiorstwo Handlowo-Produkcyjno-Usługowe IZOL-PLAST Sp. z o.o.,przedsiębiorstwo handlowo-produkcyjno-usługowe izol-plast sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0121,organisation:ORG-0006,2026-08-19
+sup_0271,9570017373,ROGUM KABLE Sp. z o.o.,rogum kable sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0121,organisation:ORG-0007,2026-08-19
+sup_0272,6252299929,TELE-FONIKA KABLE S.A.,tele-fonika kable s.a.,POL,,,,src_ted_opendata,file_ted_0121,organisation:ORG-0014,2026-08-19
+sup_0273,7961017465,KOVA-TEX Gabryś i Wspólnicy Sp. j.,kova-tex gabryś i wspólnicy sp. j.,POL,,,,src_ted_opendata,file_ted_0121,organisation:ORG-0009,2026-08-19
+sup_0274,204172914,ЕЛ БИ ЕКСПЕРТ ЕООД,ел би експерт еоод,BGR,,sme,,src_ted_opendata,file_ted_0122,organisation:ORG-0003,2026-08-19
+sup_0275,31380999,"UNIMEDIA, s.r.o.","unimedia, s.r.o.",SVK,,medium,,src_ted_opendata,file_ted_0123,organisation:ORG-0003,2026-08-19
+sup_0276,011206233,Medtronic Poland Sp. z o.o.,medtronic poland sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0003,2026-08-19
+sup_0277,790003564,Bialmed Sp. z o. o,bialmed sp. z o. o,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0004,2026-08-19
+sup_0278,012401907,Boston Scientific Polska Sp. z o.o.,boston scientific polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0005,2026-08-19
+sup_0279,141354556,Xanthus Viomedical Sp. z o.o.,xanthus viomedical sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0006,2026-08-19
+sup_0280,142972865,Artivion Polska sp. z o.o.,artivion polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0007,2026-08-19
+sup_0281,340769059,Promedica Toruń Sp. z o.o.,promedica toruń sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0008,2026-08-19
+sup_0282,017397116,BERYL MED POLAND Sp. z o. o.,beryl med poland sp. z o. o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0009,2026-08-19
+sup_0283,730920652,Baxter Polska Sp. z o.o.,baxter polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0010,2026-08-19
+sup_0284,142789010,LivaNova Poland Sp. z o.o.,livanova poland sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0015,2026-08-19
+sup_0285,012328754,Getinge Polska Sp. z o.o.,getinge polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0011,2026-08-19
+sup_0286,382541145,CYTOSORBENTS POLAND sp. z o. o.,cytosorbents poland sp. z o. o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0012,2026-08-19
+sup_0287,012731970,Abbott Medical Sp. z o. o.,abbott medical sp. z o. o.,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0013,2026-08-19
+sup_0288,273295877,ZARYS International Group spółka z ograniczoną odpowiedzialnością spółka komandytowa,zarys international group spółka z ograniczoną odpowiedzialnością spółka komandytowa,POL,,,,src_ted_opendata,file_ted_0124,organisation:ORG-0014,2026-08-19
+sup_0289,12567962206,T-TECH 2000 Biztonságtechnikai és Vagyonvédelmi Korlátolt Felelősségű Társaság,t-tech 2000 biztonságtechnikai és vagyonvédelmi korlátolt felelősségű társaság,HUN,,micro,,src_ted_opendata,file_ted_0125,organisation:ORG-0003,2026-08-19
+sup_0290,11451077241,Pentolt Tűzvédelmi és Biztonságtechnikai Kft.,pentolt tűzvédelmi és biztonságtechnikai kft.,HUN,,small,,src_ted_opendata,file_ted_0125,organisation:ORG-0005,2026-08-19
+sup_0291,10863781108,ZRÍNYI Tűz- és Robbanásvédelmi Kft.,zrínyi tűz- és robbanásvédelmi kft.,HUN,,,,src_ted_opendata,file_ted_0125,organisation:ORG-0007,2026-08-19
+sup_0292,25730261242,BGS Immo Kft.,bgs immo kft.,HUN,,micro,,src_ted_opendata,file_ted_0125,organisation:ORG-0008,2026-08-19
+sup_0293,12147863243,Schrack Seconet Biztonságtechnikai Kft.,schrack seconet biztonságtechnikai kft.,HUN,,medium,,src_ted_opendata,file_ted_0125,organisation:ORG-0009,2026-08-19
+sup_0294,34153981500025,PARIS NORD ASSURANCE SERVICES,paris nord assurance services,FRA,,,,src_ted_opendata,file_ted_0126,organisation:ORG-0002,2026-08-19
+sup_0295,34153981400025,PNAS,pnas,FRA,,,,src_ted_opendata,file_ted_0127,organisation:ORG-0004,2026-08-19
+sup_0296,83381722400029,SMACL,smacl,FRA,,,,src_ted_opendata,file_ted_0127,organisation:ORG-0005,2026-08-19
+sup_0297,31124863700796,WILLIS TOWERS WATSON,willis towers watson,FRA,,,,src_ted_opendata,file_ted_0127,organisation:ORG-0006,2026-08-19
+sup_0298,81866077100028,ACL COURTAGE,acl courtage,FRA,,,,src_ted_opendata,file_ted_0127,organisation:ORG-0007,2026-08-19
+sup_0299,1510895-1-1-1,SOCOTEC EQUIPEMENTS,socotec equipements,FRA,,large,,src_ted_opendata,file_ted_0128,organisation:ORG-0004,2026-08-19
+sup_0300,1510895-1-2-1,SOCOTEC EQUIPEMENTS,socotec equipements,FRA,,large,,src_ted_opendata,file_ted_0128,organisation:ORG-0005,2026-08-19
+sup_0301,1510895-1-4-1,DEKRA INDUSTRIAL,dekra industrial,FRA,,large,,src_ted_opendata,file_ted_0128,organisation:ORG-0006,2026-08-19
+sup_0302,1510895-1-5-1,SOCOTEC EQUIPEMENTS,socotec equipements,FRA,,large,,src_ted_opendata,file_ted_0128,organisation:ORG-0007,2026-08-19
+sup_0303,1510895-1-6-1,ABIOLAB-ASPOSAN,abiolab-asposan,FRA,,sme,,src_ted_opendata,file_ted_0128,organisation:ORG-0008,2026-08-19
+sup_0304,1510895-1-7-1,ADX GROUPE,adx groupe,FRA,,large,,src_ted_opendata,file_ted_0128,organisation:ORG-0009,2026-08-19
+sup_0305,1510895-1-8-1,BUREAU ALPES CONTROLES,bureau alpes controles,FRA,,large,,src_ted_opendata,file_ted_0128,organisation:ORG-0010,2026-08-19
+sup_0306,1180094315,BYŚ Wojciech Byśkiniewicz,byś wojciech byśkiniewicz,POL,,,,src_ted_opendata,file_ted_0129,organisation:ORG-0003,2026-08-19
+sup_0307,1506395-1-1-1,GROUPAMA RHONE ALPES AUVERGNE,groupama rhone alpes auvergne,FRA,,large,,src_ted_opendata,file_ted_0130,organisation:ORG-0005,2026-08-19
+sup_0308,1506395-1-2-1,PARIS NORD ASSURANCES SERVICES,paris nord assurances services,FRA,,large,,src_ted_opendata,file_ted_0130,organisation:ORG-0006,2026-08-19
+sup_0309,1506395-1-3-1,CAP ET ASSOCIES,cap et associes,FRA,,sme,,src_ted_opendata,file_ted_0130,organisation:ORG-0007,2026-08-19
+sup_0310,5260251049,POWSZECHNY ZAKŁAD UBEZPIECZEŃ SPÓŁKA AKCYJNA,powszechny zakład ubezpieczeń spółka akcyjna,POL,,,,src_ted_opendata,file_ted_0131,organisation:ORG-0003,2026-08-19
+sup_0311,5260038806,INTERRISK TOWARZYSTWO UBEZPIECZEŃ SPÓŁKA AKCYJNA VIENNA INSURANCE GROUP,interrisk towarzystwo ubezpieczeń spółka akcyjna vienna insurance group,POL,,,,src_ted_opendata,file_ted_0131,organisation:ORG-0004,2026-08-19
+sup_0312,62633708,Solviteers Advies & Implementatie B.V.,solviteers advies & implementatie b.v.,NLD,,,,src_ted_opendata,file_ted_0132,organisation:ORG-0003,2026-08-19
+sup_0313,556029-6740,Öhrlings PricewaterhouseCoopers AB,öhrlings pricewaterhousecoopers ab,SWE,,,,src_ted_opendata,file_ted_0133,organisation:ORG-0003,2026-08-19
+sup_0314,556053-5873,Ernst & Young Aktiebolag,ernst & young aktiebolag,SWE,,,,src_ted_opendata,file_ted_0133,organisation:ORG-0004,2026-08-19
+sup_0315,43140385,ASTONA TECH S.R.L.,astona tech s.r.l.,ROU,,small,,src_ted_opendata,file_ted_0134,organisation:ORG-9000,2026-08-19
+sup_0316,57964358389,EURO-V.A.L. d.o.o.,euro-v.a.l. d.o.o.,HRV,,small,,src_ted_opendata,file_ted_0135,organisation:ORG-0006,2026-08-19
+sup_0317,70346031690,ALFA KOMPJUTER USLUGE d.o.o.,alfa kompjuter usluge d.o.o.,HRV,,small,,src_ted_opendata,file_ted_0135,organisation:ORG-0004,2026-08-19
+sup_0318,19680551758,SPAN d.d.,span d.d.,HRV,,large,,src_ted_opendata,file_ted_0135,organisation:ORG-0005,2026-08-19
+sup_0319,0433666709,INBEV BELGIUM BVBA,inbev belgium bvba,BEL,,,,src_ted_opendata,file_ted_0137,organisation:ORG-0005,2026-08-19
+sup_0320,1480301-1-3-1,EHPAD FRANCOIS MITTERRAND,ehpad francois mitterrand,FRA,,large,,src_ted_opendata,file_ted_0138,organisation:ORG-0005,2026-08-19
+sup_0321,PL 871 177 62 59,JB ENERGIA Sp. z o.o.,jb energia sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0139,organisation:ORG-0002,2026-08-19
+sup_0322,7742233499,PREZERO Płocka Gospodarka Komunalna Sp. z o.o.,prezero płocka gospodarka komunalna sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0140,organisation:ORG-0003,2026-08-19
+sup_0323,83512542800044,OSGAPI,osgapi,FRA,,,,src_ted_opendata,file_ted_0141,organisation:ORG-0005,2026-08-19
+sup_0324,40254536200020,JOPER AUTO,joper auto,FRA,,,,src_ted_opendata,file_ted_0144,organisation:ORG-0003,2026-08-19
+sup_0325,RO 4255520,M.A.CRISTINA S.R.L.,m.a.cristina s.r.l.,ROU,,small,,src_ted_opendata,file_ted_0145,organisation:ORG-9004,2026-08-19
+sup_0326,RO 15779023,STEDYAN COM S.R.L.,stedyan com s.r.l.,ROU,,medium,,src_ted_opendata,file_ted_0145,organisation:ORG-9001,2026-08-19
+sup_0327,13533870,S.C. CRIS-TIM FAMILY HOLDING S.R.L.,s.c. cris-tim family holding s.r.l.,ROU,,large,,src_ted_opendata,file_ted_0145,organisation:ORG-9000,2026-08-19
+sup_0328,68202506900282,LEICA Microsystèmes SAS,leica microsystèmes sas,FRA,,,,src_ted_opendata,file_ted_0147,organisation:ORG-0003,2026-08-19
+sup_0329,598 158 02 28,ZUO International Sp. z o.o.,zuo international sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0148,organisation:ORG-0003,2026-08-19
+sup_0330,017434857,JARPER sp. z o. o.,jarper sp. z o. o.,POL,,,,src_ted_opendata,file_ted_0149,organisation:ORG-0003,2026-08-19
+sup_0331,271059470,SALUS INTERNATIONAL Sp. z o.o.,salus international sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0150,organisation:ORG-0003,2026-08-19
+sup_0332,932081801,Urtica Sp. z o. o.,urtica sp. z o. o.,POL,,,,src_ted_opendata,file_ted_0150,organisation:ORG-0004,2026-08-19
+sup_0333,8961551248,Team Sp. z o.o.,team sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0151,organisation:ORG-0003,2026-08-19
+sup_0334,502265981,"PROHERAL, Lda","proheral, lda",PRT,,,,src_ted_opendata,file_ted_0152,organisation:ORG-0002,2026-08-19
+sup_0335,501444866,"RTE,SA","rte,sa",PRT,,,,src_ted_opendata,file_ted_0152,organisation:ORG-0003,2026-08-19
+sup_0336,517678802,TCZ BIKES LDA,tcz bikes lda,PRT,,,,src_ted_opendata,file_ted_0152,organisation:ORG-0004,2026-08-19
+sup_0337,1509730-1-1-1,EIFFAGE ENERGIE SYSTEMES - INFRA RHONE ALPES,eiffage energie systemes - infra rhone alpes,FRA,,large,,src_ted_opendata,file_ted_0154,organisation:ORG-0006,2026-08-19
+sup_0338,1509730-1-2-1,SPIE CityNetworks,spie citynetworks,FRA,,large,,src_ted_opendata,file_ted_0154,organisation:ORG-0007,2026-08-19
+sup_0339,89238003100393,Dalkia Electrotechnics,dalkia electrotechnics,FRA,,,,src_ted_opendata,file_ted_0155,organisation:ORG-0004,2026-08-19
+sup_0340,6272405145,Era Sp. z o.o.,era sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0157,organisation:ORG-0004,2026-08-19
+sup_0341,6272477191,Novia Sp. z o.o.,novia sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0157,organisation:ORG-0005,2026-08-19
+sup_0342,54722321944,Komesa Ochrona Sp. z o.o.,komesa ochrona sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0157,organisation:ORG-0006,2026-08-19
+sup_0343,B87871422,Steelco España Soluciones Integrales en Esterilización S.L.,steelco españa soluciones integrales en esterilización s.l.,ESP,,sme,,src_ted_opendata,file_ted_0158,organisation:ORG-0002,2026-08-19
+sup_0344,RO 14302998,VIVANI SALUBRITATE,vivani salubritate,ROU,,medium,,src_ted_opendata,file_ted_0159,organisation:ORG-9000,2026-08-19
+sup_0345,16514342,DEMECO S.R.L.,demeco s.r.l.,ROU,,medium,,src_ted_opendata,file_ted_0159,organisation:ORG-9001,2026-08-19
+sup_0346,2516799000,"ANDREJ TOMAŽIN - SAMOZAPOSLENI V KULTURI, KNJIŽEVNIK, KRITIK/RECENZENT IN AVTOR RADIJSKIH ODDAJ","andrej tomažin - samozaposleni v kulturi, književnik, kritik/recenzent in avtor radijskih oddaj",SVN,,sme,,src_ted_opendata,file_ted_0160,organisation:ORG-0003,2026-08-19
+sup_0347,01647580,EXRAY s.r.o.,exray s.r.o.,CZE,,sme,,src_ted_opendata,file_ted_0161,organisation:ORG-0003,2026-08-19
+sup_0348,A81608077,"T-SYSTEMS ITC IBERIA, S.A.U.","t-systems itc iberia, s.a.u.",ESP,,large,,src_ted_opendata,file_ted_0162,organisation:ORG-0002,2026-08-19
+sup_0349,814181757,ХИГИЕННО - МЕДИЦИНСКА ИНДУСТРИЯ ООД,хигиенно - медицинска индустрия оод,BGR,,sme,,src_ted_opendata,file_ted_0163,organisation:ORG-0003,2026-08-19
+sup_0350,831076655,ЖИВАС ООД,живас оод,BGR,,sme,,src_ted_opendata,file_ted_0163,organisation:ORG-0004,2026-08-19
+sup_0351,011097206,Philips Polska Sp. z o.o.,philips polska sp. z o.o.,POL,,medium,,src_ted_opendata,file_ted_0164,organisation:ORG-0003,2026-08-19
+sup_0352,363383273,"COMED S.C. Krzysztof Pilarski, Wojciech Grunwald","comed s.c. krzysztof pilarski, wojciech grunwald",POL,,micro,,src_ted_opendata,file_ted_0164,organisation:ORG-0004,2026-08-19
+sup_0353,141743401,Koordynacja Mariusz Strzecha,koordynacja mariusz strzecha,POL,,small,,src_ted_opendata,file_ted_0164,organisation:ORG-0005,2026-08-19
+sup_0354,008093857,HAS-MED. Spółka z o.o.,has-med. spółka z o.o.,POL,,micro,,src_ted_opendata,file_ted_0164,organisation:ORG-0006,2026-08-19
+sup_0355,430412698,Przedsiębiorstwo Zaopatrzenia Lecznictwa CEZAL LUBLIN Sp. z o.o. z siedzibą w Lublinie,przedsiębiorstwo zaopatrzenia lecznictwa cezal lublin sp. z o.o. z siedzibą w lublinie,POL,,small,,src_ted_opendata,file_ted_0164,organisation:ORG-0007,2026-08-19
+sup_0356,0000781158,Sklep dla Lekarza Sp. z o.o.,sklep dla lekarza sp. z o.o.,POL,,micro,,src_ted_opendata,file_ted_0164,organisation:ORG-0008,2026-08-19
+sup_0357,331039951,Meden-Inmed Sp. z o.o.,meden-inmed sp. z o.o.,POL,,large,,src_ted_opendata,file_ted_0164,organisation:ORG-0009,2026-08-19
+sup_0358,160339042,Ronomed Sp. z o.o. Sp. K.,ronomed sp. z o.o. sp. k.,POL,,micro,,src_ted_opendata,file_ted_0164,organisation:ORG-0010,2026-08-19
+sup_0359,470762770,"""ULTRA-VIOL"" Spółka Jawna Pietras, Purgał, Wójcik","""ultra-viol"" spółka jawna pietras, purgał, wójcik",POL,,small,,src_ted_opendata,file_ted_0164,organisation:ORG-0011,2026-08-19
+sup_0360,00155764,"PEhAES, a.s.","pehaes, a.s.",SVK,,small,,src_ted_opendata,file_ted_0166,organisation:ORG-0003,2026-08-19
+sup_0361,0406129003,Veolia,veolia,BEL,,,,src_ted_opendata,file_ted_0167,organisation:ORG-0005,2026-08-19
+sup_0362,471255608,Lek S.A,lek s.a,POL,,,,src_ted_opendata,file_ted_0168,organisation:ORG-0007,2026-08-19
+sup_0363,000288343,Centrala Farmaceutyczna Cefarm SA,centrala farmaceutyczna cefarm sa,POL,,,,src_ted_opendata,file_ted_0168,organisation:ORG-0012,2026-08-19
+sup_0364,5212935353,Fresenius Kabi Polska Sp. z o.o.,fresenius kabi polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0168,organisation:ORG-0008,2026-08-19
+sup_0365,122623590,LogFarma Sp. z o. o.,logfarma sp. z o. o.,POL,,,,src_ted_opendata,file_ted_0168,organisation:ORG-0004,2026-08-19
+sup_0366,5222749770,KOMTUR POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,komtur polska spółka z ograniczoną odpowiedzialnością,POL,,,,src_ted_opendata,file_ted_0168,organisation:ORG-0011,2026-08-19
+sup_0367,6481008230,"""ASCLEPIOS"" SPÓŁKA AKCYJNA","""asclepios"" spółka akcyjna",POL,,,,src_ted_opendata,file_ted_0168,organisation:ORG-0013,2026-08-19
+sup_0368,010397308,Roche Polska Sp. z o.o.,roche polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0168,organisation:ORG-0006,2026-08-19
+sup_0369,5263446902,AstraZeneca Kft.,astrazeneca kft.,HUN,,,,src_ted_opendata,file_ted_0168,organisation:ORG-0005,2026-08-19
+sup_0370,A80907397,Vodafone España S.A.U.,vodafone españa s.a.u.,ESP,,large,,src_ted_opendata,file_ted_0169,organisation:ORG-0002,2026-08-19
+sup_0371,A82009812,ORANGE ESPAGNE SAU,orange espagne sau,ESP,,large,,src_ted_opendata,file_ted_0169,organisation:ORG-0003,2026-08-19
+sup_0372,RO 6550631,FERMADOR,fermador,ROU,,large,,src_ted_opendata,file_ted_0170,organisation:ORG-9008,2026-08-19
+sup_0373,RO 14023985,AMIA INVEST,amia invest,ROU,,small,,src_ted_opendata,file_ted_0170,organisation:ORG-9000,2026-08-19
+sup_0374,RO 622194,SPICUL 2,spicul 2,ROU,,medium,,src_ted_opendata,file_ted_0170,organisation:ORG-9007,2026-08-19
+sup_0375,33184953,AGROLINEVOL S.R.L.,agrolinevol s.r.l.,ROU,,small,,src_ted_opendata,file_ted_0170,organisation:ORG-9005,2026-08-19
+sup_0376,3119988,SALTEMPO,saltempo,ROU,,medium,,src_ted_opendata,file_ted_0170,organisation:ORG-9004,2026-08-19
+sup_0377,RO 712360,CARPATIS,carpatis,ROU,,medium,,src_ted_opendata,file_ted_0170,organisation:ORG-9009,2026-08-19
+sup_0378,RO17975603,FILVAS SERVCOM,filvas servcom,ROU,,small,,src_ted_opendata,file_ted_0170,organisation:ORG-9001,2026-08-19
+sup_0379,829522,VASCAR S.A.,vascar s.a.,ROU,,large,,src_ted_opendata,file_ted_0170,organisation:ORG-9010,2026-08-19
+sup_0380,RO 22212233,DIACARN FOOD,diacarn food,ROU,,medium,,src_ted_opendata,file_ted_0170,organisation:ORG-9002,2026-08-19
+sup_0381,RO 2433906,ILVAS,ilvas,ROU,,medium,,src_ted_opendata,file_ted_0170,organisation:ORG-9003,2026-08-19
+sup_0382,RO 526650,COREX S.R.L.,corex s.r.l.,ROU,,small,,src_ted_opendata,file_ted_0170,organisation:ORG-9006,2026-08-19
+sup_0383,5346410000,MIKROCOP informacijski inženiring in storitve d.o.o.,mikrocop informacijski inženiring in storitve d.o.o.,SVN,,sme,,src_ted_opendata,file_ted_0173,organisation:ORG-0003,2026-08-19
+sup_0384,38852584200075,ALTERNET,alternet,FRA,,,,src_ted_opendata,file_ted_0174,organisation:ORG-0003,2026-08-19
+sup_0385,45158454400022,Groupement ILAO / ALTERNET,groupement ilao / alternet,FRA,,,,src_ted_opendata,file_ted_0174,organisation:ORG-0004,2026-08-19
+sup_0386,25548531,"Svoboda a syn, s.r.o.","svoboda a syn, s.r.o.",CZE,,sme,,src_ted_opendata,file_ted_0176,organisation:ORG-0004,2026-08-19
+sup_0387,71479546,Kickstad B.V.,kickstad b.v.,NLD,,,,src_ted_opendata,file_ted_0177,organisation:ORG-0003,2026-08-19
+sup_0388,DE811968670,Rosenbauer Deutschland GmbH,rosenbauer deutschland gmbh,DEU,,,,src_ted_opendata,file_ted_0178,organisation:ORG-0003,2026-08-19
+sup_0389,8b45b122-835a-4c8d-8a10-f587d1e2f167,Arthrex GmbH,arthrex gmbh,DEU,,large,,src_ted_opendata,file_ted_0179,organisation:ORG-0003,2026-08-19
+sup_0390,77718926011,PZC VARAŽDIN d.d.,pzc varaždin d.d.,HRV,,medium,,src_ted_opendata,file_ted_0180,organisation:ORG-0004,2026-08-19
+sup_0391,1481925-1-0-1,INEO UTS,ineo uts,FRA,,large,,src_ted_opendata,file_ted_0182,organisation:ORG-0006,2026-08-19
+sup_0392,RO36513090,ALPINPOLARIS,alpinpolaris,ROU,,small,,src_ted_opendata,file_ted_0183,organisation:ORG-9001,2026-08-19
+sup_0393,41385516,LUXURY COS AMBIENT S.R.L.,luxury cos ambient s.r.l.,ROU,,small,,src_ted_opendata,file_ted_0183,organisation:ORG-9002,2026-08-19
+sup_0394,24385672,TERRA CLEAN SERVICE,terra clean service,ROU,,small,,src_ted_opendata,file_ted_0183,organisation:ORG-9000,2026-08-19
+sup_0395,1131208173,IMC IMPOMED CENTRUM SA,imc impomed centrum sa,POL,,,,src_ted_opendata,file_ted_0184,organisation:ORG-0003,2026-08-19
+sup_0396,6342833798,Comef sp.z o.o.,comef sp.z o.o.,POL,,,,src_ted_opendata,file_ted_0184,organisation:ORG-0004,2026-08-19
+sup_0397,6312421111,Alteris SA,alteris sa,POL,,,,src_ted_opendata,file_ted_0184,organisation:ORG-0005,2026-08-19
+sup_0398,9521000289,Medtronic Poland sp.z o.o.,medtronic poland sp.z o.o.,POL,,,,src_ted_opendata,file_ted_0184,organisation:ORG-0006,2026-08-19
+sup_0399,9290112610,LfC sp.z o.o.,lfc sp.z o.o.,POL,,,,src_ted_opendata,file_ted_0184,organisation:ORG-0007,2026-08-19
+sup_0400,310752,Dair-Marciglob,dair-marciglob,ESP,,large,,src_ted_opendata,file_ted_0185,organisation:ORG-0002,2026-08-19
+sup_0401,A79707345,SOLRED S.A.,solred s.a.,ESP,,large,,src_ted_opendata,file_ted_0186,organisation:ORG-0002,2026-08-19
+sup_0402,REGON 712482077,EKO-SAM BIS Sp. z.o.o.,eko-sam bis sp. z.o.o.,POL,,,,src_ted_opendata,file_ted_0187,organisation:ORG-0004,2026-08-19
+sup_0403,24426117,Elfertreff Holding B.V.,elfertreff holding b.v.,NLD,,,,src_ted_opendata,file_ted_0188,organisation:ORG-0003,2026-08-19
+sup_0404,12339040,Medivar OÜ,medivar oü,EST,,,,src_ted_opendata,file_ted_0189,organisation:ORG-0004,2026-08-19
+sup_0405,66665-1-0-1,CABINET MONTMASSON - INGENIEURS CONSEILS,cabinet montmasson - ingenieurs conseils,FRA,,sme,,src_ted_opendata,file_ted_0190,organisation:ORG-0005,2026-08-19
+sup_0406,38384469300887,GROUPAMA LOIRE BRETAGNE,groupama loire bretagne,FRA,,,,src_ted_opendata,file_ted_0193,organisation:ORG-0011,2026-08-19
+sup_0407,30157314300023,SARRE ET MOSELLE,sarre et moselle,FRA,,,,src_ted_opendata,file_ted_0193,organisation:ORG-0012,2026-08-19
+sup_0408,95850615601600,CFDP,cfdp,FRA,,,,src_ted_opendata,file_ted_0193,organisation:ORG-0013,2026-08-19
+sup_0409,55206266302212,GENERALI IARD,generali iard,FRA,,,,src_ted_opendata,file_ted_0193,organisation:ORG-0015,2026-08-19
+sup_0410,11718873213,Salisbury Régészeti Korlátolt Felelősségű Társaság,salisbury régészeti korlátolt felelősségű társaság,HUN,,small,,src_ted_opendata,file_ted_0194,organisation:ORG-0005,2026-08-19
+sup_0411,37232-1-1-1,La Passerelle,la passerelle,FRA,,sme,,src_ted_opendata,file_ted_0195,organisation:ORG-0005,2026-08-19
+sup_0412,37232-1-2-1,EDG NET31 ENTREPRISE DE PROPRETE,edg net31 entreprise de proprete,FRA,,sme,,src_ted_opendata,file_ted_0195,organisation:ORG-0006,2026-08-19
+sup_0413,37232-1-3-1,PLD GARONNE,pld garonne,FRA,,large,,src_ted_opendata,file_ted_0195,organisation:ORG-0007,2026-08-19
+sup_0414,37232-1-4-1,VIDIMUS,vidimus,FRA,,large,,src_ted_opendata,file_ted_0195,organisation:ORG-0008,2026-08-19
+sup_0415,37232-1-5-1,AJNET-ENTREPRISE DE PROPRETE,ajnet-entreprise de proprete,FRA,,sme,,src_ted_opendata,file_ted_0195,organisation:ORG-0009,2026-08-19
+sup_0416,37232-1-6-1,WILAU PROPRETE,wilau proprete,FRA,,sme,,src_ted_opendata,file_ted_0195,organisation:ORG-0010,2026-08-19
+sup_0417,37232-1-7-1,SUD OUEST CLEAN,sud ouest clean,FRA,,sme,,src_ted_opendata,file_ted_0195,organisation:ORG-0011,2026-08-19
+sup_0418,NIP 7010934400,Sakura Finetek Polska Sp z o. o,sakura finetek polska sp z o. o,POL,,,,src_ted_opendata,file_ted_0196,organisation:ORG-0003,2026-08-19
+sup_0419,19347383,MyDevice CZ s.r.o.,mydevice cz s.r.o.,CZE,,sme,,src_ted_opendata,file_ted_0197,organisation:ORG-0003,2026-08-19
+sup_0420,44135591400298,AC ENVIRONNEMENT,ac environnement,FRA,,,,src_ted_opendata,file_ted_0198,organisation:ORG-0003,2026-08-19
+sup_0421,50077803000352,AED,aed,FRA,,,,src_ted_opendata,file_ted_0198,organisation:ORG-0004,2026-08-19
+sup_0422,4790768380032,SOCOTEC,socotec,FRA,,,,src_ted_opendata,file_ted_0198,organisation:ORG-0005,2026-08-19
+sup_0423,94808690500015,ELAIA,elaia,FRA,,,,src_ted_opendata,file_ted_0198,organisation:ORG-0006,2026-08-19
+sup_0424,A28732121,"SCHUNK IBERICA, S.A.","schunk iberica, s.a.",ESP,,large,,src_ted_opendata,file_ted_0199,organisation:ORG-0002,2026-08-19
+sup_0425,9512075477,Raf Trans Sp. z o.o.,raf trans sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0200,organisation:ORG-0003,2026-08-19
+sup_0426,8861207273,Eurospiner Maciej Rąk,eurospiner maciej rąk,POL,,,,src_ted_opendata,file_ted_0200,organisation:ORG-0004,2026-08-19
+sup_0427,A79842654,VOLVO GROUP ESPAÑA S.A.U.,volvo group españa s.a.u.,ESP,,large,,src_ted_opendata,file_ted_0201,organisation:ORG-0002,2026-08-19
+sup_0428,7282800837,HAMMERMED Medical Polska spółka z ograniczoną odpowiedzialnością spółka komandytowo-akcyjna,hammermed medical polska spółka z ograniczoną odpowiedzialnością spółka komandytowo-akcyjna,POL,,small,,src_ted_opendata,file_ted_0202,organisation:ORG-0004,2026-08-19
+sup_0429,522-16-51-738,Olympus Polska Sp. z o.o.,olympus polska sp. z o.o.,POL,,small,,src_ted_opendata,file_ted_0202,organisation:ORG-0008,2026-08-19
+sup_0430,8790166790,TORUŃSKIE ZAKŁADY MATERIAŁÓW OPATRUNKOWYCH SA,toruńskie zakłady materiałów opatrunkowych sa,POL,,,,src_ted_opendata,file_ted_0202,organisation:ORG-0007,2026-08-19
+sup_0431,5271055984,Becton Dickinson Polska Sp. z o.o.,becton dickinson polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0202,organisation:ORG-0006,2026-08-19
+sup_0432,899-02-02-964,VARIMED Sp. z o.o.,varimed sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0202,organisation:ORG-0009,2026-08-19
+sup_0433,5391503758,Camedica Paweł harasimiuk spółka komandytowa,camedica paweł harasimiuk spółka komandytowa,POL,,,,src_ted_opendata,file_ted_0202,organisation:ORG-0005,2026-08-19
+sup_0434,NIP:7252027054,BFF MEDFinance S.A.,bff medfinance s.a.,POL,,,,src_ted_opendata,file_ted_0203,organisation:ORG-0003,2026-08-19
+sup_0435,300665654,"AAS ""BTA Baltic Insurance Company"" filialas Lietuvoje","aas ""bta baltic insurance company"" filialas lietuvoje",LTU,,,,src_ted_opendata,file_ted_0204,organisation:ORG-0005,2026-08-19
+sup_0436,f003ab63-312d-4dbd-b0ef-dbed7ec4d006,DE_Allianz Suisse Versicherungs-Gesellschaft AG,de_allianz suisse versicherungs-gesellschaft ag,CHE,,large,,src_ted_opendata,file_ted_0205,organisation:ORG-0010,2026-08-19
+sup_0437,29263140,"Ateliér Velehradský, s. r. o.","ateliér velehradský, s. r. o.",CZE,,sme,,src_ted_opendata,file_ted_0206,organisation:ORG-0003,2026-08-19
+sup_0438,9180000956,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,przedsiębiorstwo gospodarki komunalnej sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0207,organisation:ORG-0005,2026-08-19
+sup_0439,BE 0761.502.062,De Vreese Recycling,de vreese recycling,BEL,,,,src_ted_opendata,file_ted_0208,organisation:ORG-0005,2026-08-19
+sup_0440,1509702-1-0-1,ABB FRANCE,abb france,FRA,,large,,src_ted_opendata,file_ted_0209,organisation:ORG-0005,2026-08-19
+sup_0441,627 220 049 015 79,SAS HERVE THERMIQUE,sas herve thermique,FRA,,,,src_ted_opendata,file_ted_0210,organisation:ORG-0004,2026-08-19
+sup_0442,9110015143515,DAKA Entsorgungsunternehmen GmbH & Co KG,daka entsorgungsunternehmen gmbh & co kg,AUT,,,,src_ted_opendata,file_ted_0211,organisation:ORG-4337,2026-08-19
+sup_0443,60172576,Dog Service Brabant,dog service brabant,NLD,,sme,,src_ted_opendata,file_ted_0212,organisation:ORG-0003,2026-08-19
+sup_0444,17179915,Hondenschool Jeroen Stallen,hondenschool jeroen stallen,NLD,,sme,,src_ted_opendata,file_ted_0212,organisation:ORG-0002,2026-08-19
+sup_0445,130460283,ЙЕТТЕЛ БЪЛГАРИЯ ЕАД,йеттел българия еад,BGR,,sme,,src_ted_opendata,file_ted_0214,organisation:ORG-0003,2026-08-19
+sup_0446,RO41889483,CRAYON SOFTWARE EXPERTS ROMANIA SRL,crayon software experts romania srl,ROU,,large,,src_ted_opendata,file_ted_0215,organisation:ORG-9000,2026-08-19
+sup_0447,998323067,ΑΘΗΝΑ ΔΙΟΝΥΣΙΟΥ ΠΑΠΑΓΕΩΡΓΙΟΥ & ΣΙΑ ΕΕ,αθηνα διονυσιου παπαγεωργιου & σια εε,GRC,,,,src_ted_opendata,file_ted_0216,organisation:ORG-0003,2026-08-19
+sup_0448,800593884,ΑΦΟΙ Δ. ΠΑΠΑΓΕΩΡΓΙΟΥ ΟΕ,αφοι δ. παπαγεωργιου οε,GRC,,,,src_ted_opendata,file_ted_0216,organisation:ORG-0004,2026-08-19
+sup_0449,NIP: 8952012233,Widan Polska sp. z o.o. sp. k.,widan polska sp. z o.o. sp. k.,POL,,,,src_ted_opendata,file_ted_0217,organisation:ORG-0003,2026-08-19
+sup_0450,BE 0464931589,VANDERHEYDEN,vanderheyden,BEL,,,,src_ted_opendata,file_ted_0218,organisation:ORG-0006,2026-08-19
+sup_0451,BE 0791664510,HOCKE TRUCK SUPPLY SRL,hocke truck supply srl,BEL,,,,src_ted_opendata,file_ted_0218,organisation:ORG-0007,2026-08-19
+sup_0452,9252143985,Bartosz Smolak Sp. z o.o.,bartosz smolak sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0220,organisation:ORG-0003,2026-08-19
+sup_0453,9252126515,Ground Control Sp. z o.o.,ground control sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0220,organisation:ORG-0004,2026-08-19
+sup_0454,8361679922,O-Pal Sp. z o.o.,o-pal sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0220,organisation:ORG-0005,2026-08-19
+sup_0455,734 329 42 52,MO-BRUK S.A.,mo-bruk s.a.,POL,,,,src_ted_opendata,file_ted_0220,organisation:ORG-0006,2026-08-19
+sup_0456,RO 3102390,PAUL HARTMANN SRL,paul hartmann srl,ROU,,large,,src_ted_opendata,file_ted_0221,organisation:ORG-9002,2026-08-19
+sup_0457,33711808,MEDICAL TECHNOLOGIES INFINITY,medical technologies infinity,ROU,,small,,src_ted_opendata,file_ted_0221,organisation:ORG-9003,2026-08-19
+sup_0458,RO 11013782,Limas Group S.R.L.,limas group s.r.l.,ROU,,medium,,src_ted_opendata,file_ted_0221,organisation:ORG-9000,2026-08-19
+sup_0459,RO 29674809,BIO HYGIENE,bio hygiene,ROU,,medium,,src_ted_opendata,file_ted_0221,organisation:ORG-9001,2026-08-19
+sup_0460,43885864900017,IDEX ENERGIE ANTILLES GUYANE,idex energie antilles guyane,FRA,,,,src_ted_opendata,file_ted_0223,organisation:ORG-0003,2026-08-19
+sup_0461,6922370352,Przedsiębiorstwo Komunikacji Samochodowej S.A. z siedzibą w Lubinie,przedsiębiorstwo komunikacji samochodowej s.a. z siedzibą w lubinie,POL,,,,src_ted_opendata,file_ted_0224,organisation:ORG-0002,2026-08-19
+sup_0462,DE117587099,Heinrich & Ellermann Elektro GmbH & Co. KG,heinrich & ellermann elektro gmbh & co. kg,DEU,,small,,src_ted_opendata,file_ted_0225,organisation:ORG-0001,2026-08-19
+sup_0463,130848983,ИНФОЛАБ ООД,инфолаб оод,BGR,,sme,,src_ted_opendata,file_ted_0226,organisation:ORG-0003,2026-08-19
+sup_0464,1507275-1-1-1,MOOLAND TRANSPORTS,mooland transports,FRA,,sme,,src_ted_opendata,file_ted_0227,organisation:ORG-0005,2026-08-19
+sup_0465,1507275-1-2-1,MOOLAND TRANSPORTS,mooland transports,FRA,,sme,,src_ted_opendata,file_ted_0227,organisation:ORG-0006,2026-08-19
+sup_0466,1507275-1-3-1,SOCIETE DE TRANSPORTS DE L'OCEAN INDIEN,societe de transports de l'ocean indien,FRA,,sme,,src_ted_opendata,file_ted_0227,organisation:ORG-0007,2026-08-19
+sup_0467,1507275-1-4-1,MOOLAND TRANSPORTS,mooland transports,FRA,,sme,,src_ted_opendata,file_ted_0227,organisation:ORG-0008,2026-08-19
+sup_0468,1507275-1-3-2,MOOLAND TRANSPORTS,mooland transports,FRA,,sme,,src_ted_opendata,file_ted_0227,organisation:ORG-0009,2026-08-19
+sup_0469,NIP : 6381815184 Regon: 364489097 nr KRS: 0000618478,"BORIM PALIWA SP. Z O.O.,","borim paliwa sp. z o.o.,",POL,,,,src_ted_opendata,file_ted_0230,organisation:ORG-0002,2026-08-19
+sup_0470,33487372601435,PROXISERVE,proxiserve,FRA,,,,src_ted_opendata,file_ted_0231,organisation:ORG-0004,2026-08-19
+sup_0471,361897,CEC Bank SA,cec bank sa,ROU,,large,,src_ted_opendata,file_ted_0232,organisation:ORG-9000,2026-08-19
+sup_0472,5022670,BANCA TRANSILVANIA S.A.,banca transilvania s.a.,ROU,,large,,src_ted_opendata,file_ted_0232,organisation:ORG-9001,2026-08-19
+sup_0473,8180002340,Bank Spółdzielczy w Ropczycach,bank spółdzielczy w ropczycach,POL,,,,src_ted_opendata,file_ted_0233,organisation:ORG-0003,2026-08-19
+sup_0474,114905,CMS IT-Consulting GmbH,cms it-consulting gmbh,DEU,,medium,,src_ted_opendata,file_ted_0235,organisation:ORG-0101,2026-08-19
+sup_0475,447 754 086 00307,SAS GUINTOLI,sas guintoli,FRA,,,,src_ted_opendata,file_ted_0237,organisation:ORG-0003,2026-08-19
+sup_0476,676 820 137 00302,SAS NGE ROUTES,sas nge routes,FRA,,,,src_ted_opendata,file_ted_0237,organisation:ORG-0004,2026-08-19
+sup_0477,513 027 821 00208,SAS NGE ÉNERGIES SOLUTIONS,sas nge énergies solutions,FRA,,,,src_ted_opendata,file_ted_0237,organisation:ORG-0005,2026-08-19
+sup_0478,1539821-1-0-1,Docone,docone,FRA,,large,,src_ted_opendata,file_ted_0238,organisation:ORG-0007,2026-08-19
+sup_0479,88362293624,CEDRUS FOREST d.o.o.,cedrus forest d.o.o.,HRV,,small,,src_ted_opendata,file_ted_0239,organisation:ORG-0004,2026-08-19
+sup_0480,NIP 6920001219,Przedsiębiorstwo Gospodarki Miejskiej Sp. z o.o.,przedsiębiorstwo gospodarki miejskiej sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0240,organisation:ORG-0003,2026-08-19
+sup_0481,8661601479,Elporem i Elpoautomatyka,elporem i elpoautomatyka,POL,,,,src_ted_opendata,file_ted_0241,organisation:ORG-0003,2026-08-19
+sup_0482,PL9512421815,NASK Spółka Akcyjna,nask spółka akcyjna,POL,,large,,src_ted_opendata,file_ted_0242,organisation:ORG-0005,2026-08-19
+sup_0483,RO 9311280,MEDIPLUS EXIM,mediplus exim,ROU,,large,,src_ted_opendata,file_ted_0244,organisation:ORG-9006,2026-08-19
+sup_0484,RO 4851409,FILDAS TRADING,fildas trading,ROU,,large,,src_ted_opendata,file_ted_0244,organisation:ORG-9004,2026-08-19
+sup_0485,RO 3391027,FRESENIUS KABI ROMANIA,fresenius kabi romania,ROU,,medium,,src_ted_opendata,file_ted_0244,organisation:ORG-9002,2026-08-19
+sup_0486,33358111,DONA. LOGISTICA,dona. logistica,ROU,,large,,src_ted_opendata,file_ted_0244,organisation:ORG-9000,2026-08-19
+sup_0487,RO3572074,FARMACEUTICA REMEDIA DISTRIBUTION & LOGISTICS S.R.L.,farmaceutica remedia distribution & logistics s.r.l.,ROU,,large,,src_ted_opendata,file_ted_0244,organisation:ORG-9003,2026-08-19
+sup_0488,U75490318,"UTE INGENIERÍA Y ECONOMÍA DEL TRANSPORTE S.M.E. M.P., S.A. & TÜV RHEINLAND RAIL CERTIFICATION B.V.","ute ingeniería y economía del transporte s.m.e. m.p., s.a. & tüv rheinland rail certification b.v.",ESP,,large,,src_ted_opendata,file_ted_0245,organisation:ORG-0004,2026-08-19
+sup_0489,6912199052,DGP Security Partner,dgp security partner,POL,,,,src_ted_opendata,file_ted_0246,organisation:ORG-0004,2026-08-19
+sup_0490,6221001188,Zakład Oczyszczania i Gospodarki Odpadami „MZO” S.A.,zakład oczyszczania i gospodarki odpadami „mzo” s.a.,POL,,,,src_ted_opendata,file_ted_0247,organisation:ORG-0003,2026-08-19
+sup_0491,6220110461,Firma Usługowa KOSZ Sp. z o.o.,firma usługowa kosz sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0247,organisation:ORG-0004,2026-08-19
+sup_0492,NIP: 5220004190,Sweco Polska sp. z o. o. (Lider),sweco polska sp. z o. o. (lider),POL,,,,src_ted_opendata,file_ted_0248,organisation:ORG-0004,2026-08-19
+sup_0493,8490000039,Bialmed sp. z o.o.,bialmed sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0249,organisation:ORG-0006,2026-08-19
+sup_0494,298652,"FERROVIAL CONSTRUCCION, S.A. - ENDESA X SERVICIOS, S.L.","ferrovial construccion, s.a. - endesa x servicios, s.l.",ESP,,large,,src_ted_opendata,file_ted_0251,organisation:ORG-0002,2026-08-19
+sup_0495,dd0e90d0-bbd3-44fb-bfc9-91790a839ef8,"FR_Mobilière Suisse Société d'assurances, Agence générale de Genève, Denis Hostettler","fr_mobilière suisse société d'assurances, agence générale de genève, denis hostettler",CHE,,large,,src_ted_opendata,file_ted_0252,organisation:ORG-0010,2026-08-19
+sup_0496,3092e287-e4d5-439f-b081-603e34fcef8e,"FR_VAUDOISE GENERALE, Compagnie d'Assurances SA","fr_vaudoise generale, compagnie d'assurances sa",CHE,,large,,src_ted_opendata,file_ted_0253,organisation:ORG-0010,2026-08-19
+sup_0497,42981128400117,GROUPEMENT INEO PROVENCE ET COTE D'AZUR (Mandataire) et INEO RESEAUX SUD (Cotraitant),groupement ineo provence et cote d'azur (mandataire) et ineo reseaux sud (cotraitant),FRA,,,,src_ted_opendata,file_ted_0255,organisation:ORG-0004,2026-08-19
+sup_0498,630231571,Merck Life Science Sp. z o.o.,merck life science sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0004,2026-08-19
+sup_0499,473251193,WITKO Sp. z o.o.,witko sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0005,2026-08-19
+sup_0500,368429821,Th. Geyer Polska Sp. z o.o.,th. geyer polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0006,2026-08-19
+sup_0501,140150633,"„SHIM-POL A.M. BORZYMOWSKI” E. Borzymowska-Reszka, A. Reszka Sp. j.","„shim-pol a.m. borzymowski” e. borzymowska-reszka, a. reszka sp. j.",POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0007,2026-08-19
+sup_0502,005741669,Cereus Wena Adam i Grażyna Witkowscy S.J.,cereus wena adam i grażyna witkowscy s.j.,POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0008,2026-08-19
+sup_0503,351253456,TUSNOVICS INSTRUMENTS Sp. z o.o.,tusnovics instruments sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0009,2026-08-19
+sup_0504,012075052,LGC Standards Sp. z o.o.,lgc standards sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0013,2026-08-19
+sup_0505,010196490,Life Technologies Polska Sp. z o.o.,life technologies polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0011,2026-08-19
+sup_0506,017381150,Alchem Grupa Sp. z o.o.,alchem grupa sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0256,organisation:ORG-0012,2026-08-19
+sup_0507,1130007544,Billmed Sp. z o.o.,billmed sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0020,2026-08-19
+sup_0508,5542980836,Skamex Spółka akcyjna,skamex spółka akcyjna,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0012,2026-08-19
+sup_0509,9522204982,Cedical Sp. z o.o.,cedical sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0014,2026-08-19
+sup_0510,5223086403,Teleflex Polska Sp. z o.o.,teleflex polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0005,2026-08-19
+sup_0511,9561697598,Empireum Piotr Dopieralski,empireum piotr dopieralski,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0015,2026-08-19
+sup_0512,7011096929,Vente Amicale Sp. z o.o.,vente amicale sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0006,2026-08-19
+sup_0513,5272322068,Roche Diagnostics Polska Sp. z o.o.,roche diagnostics polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0007,2026-08-19
+sup_0514,1130093549,Vygon Polska Sp. z o.o.,vygon polska sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0018,2026-08-19
+sup_0515,6462476705,Ab-Med hurtowania farmaceutyczna Beata Bogdziewicz-Murmyło,ab-med hurtowania farmaceutyczna beata bogdziewicz-murmyło,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0019,2026-08-19
+sup_0516,NIP - 6771036424,Mercator Medical S.A.,mercator medical s.a.,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0004,2026-08-19
+sup_0517,9121874174,"EP-P Sp. z o.o., Sp. komandytowa","ep-p sp. z o.o., sp. komandytowa",POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0009,2026-08-19
+sup_0518,5252341849,Egis Polska Dystrybucja Sp. z o.o.,egis polska dystrybucja sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0258,organisation:ORG-0010,2026-08-19
+sup_0519,1180019377,QEMETICA S.A.,qemetica s.a.,POL,,,,src_ted_opendata,file_ted_0259,organisation:ORG-0003,2026-08-19
+sup_0520,7540333424,REMONDIS OPOLE S.A.,remondis opole s.a.,POL,,,,src_ted_opendata,file_ted_0260,organisation:ORG-0003,2026-08-19
+sup_0521,010949914,EMED Sp. z o.o. Sp. K.,emed sp. z o.o. sp. k.,POL,,medium,,src_ted_opendata,file_ted_0261,organisation:ORG-0008,2026-08-19
+sup_0522,016158415,EUMed Sp. z o.o.,eumed sp. z o.o.,POL,,micro,,src_ted_opendata,file_ted_0261,organisation:ORG-0003,2026-08-19
+sup_0523,340555980,Konkret Sp. z o.o. Sp. K.,konkret sp. z o.o. sp. k.,POL,,medium,,src_ted_opendata,file_ted_0261,organisation:ORG-0004,2026-08-19
+sup_0524,016446427,Metrum Cryoflex Sp. zo.o.,metrum cryoflex sp. zo.o.,POL,,medium,,src_ted_opendata,file_ted_0261,organisation:ORG-0005,2026-08-19
+sup_0525,320137033,LM LINE Sp. z o.o.,lm line sp. z o.o.,POL,,micro,,src_ted_opendata,file_ted_0261,organisation:ORG-0009,2026-08-19
+sup_0526,011207155,Stryker Polska Sp. z o.o.,stryker polska sp. z o.o.,POL,,large,,src_ted_opendata,file_ted_0261,organisation:ORG-0006,2026-08-19
+sup_0527,011547170,ERBE Polska Sp. z o.o.,erbe polska sp. z o.o.,POL,,small,,src_ted_opendata,file_ted_0261,organisation:ORG-0007,2026-08-19
+sup_0528,1091457-8,Life Technologies,life technologies,FIN,,,,src_ted_opendata,file_ted_0263,organisation:ORG-0003,2026-08-19
+sup_0529,2864518,ALTEX ROMANIA,altex romania,ROU,,large,,src_ted_opendata,file_ted_0264,organisation:ORG-9000,2026-08-19
+sup_0530,38014985,TAUW b.v.,tauw b.v.,NLD,,large,,src_ted_opendata,file_ted_0266,organisation:ORG-0002,2026-08-19
+sup_0531,31680701501316,SYSCO France,sysco france,FRA,,,,src_ted_opendata,file_ted_0267,organisation:ORG-0003,2026-08-19
+sup_0532,38500623400111,PRO A PRO,pro a pro,FRA,,,,src_ted_opendata,file_ted_0267,organisation:ORG-0004,2026-08-19
+sup_0533,79527426500037,PDLP LOCALIZZ,pdlp localizz,FRA,,,,src_ted_opendata,file_ted_0267,organisation:ORG-0005,2026-08-19
+sup_0534,84418972000023,MANGER BIO EN PROVENCE,manger bio en provence,FRA,,,,src_ted_opendata,file_ted_0267,organisation:ORG-0006,2026-08-19
+sup_0535,243651232,PZOM STRACH Spółka z ograniczoną odpowiedzialnością Spółka Komandytowa,pzom strach spółka z ograniczoną odpowiedzialnością spółka komandytowa,POL,,medium,,src_ted_opendata,file_ted_0268,organisation:ORG-0003,2026-08-19
+sup_0536,304602530,UAB Axioma servisas,uab axioma servisas,LTU,,sme,,src_ted_opendata,file_ted_0269,organisation:ORG-0004,2026-08-19
+sup_0537,DE 125 312911,Bauunternehmungen Jakobi GmbH & Co.KG,bauunternehmungen jakobi gmbh & co.kg,DEU,,medium,,src_ted_opendata,file_ted_0270,organisation:ORG-0003,2026-08-19
+sup_0538,04767584912,ČAZMATRANS - NOVA d.o.o.,čazmatrans - nova d.o.o.,HRV,,medium,,src_ted_opendata,file_ted_0271,organisation:ORG-0004,2026-08-19
+sup_0539,315 919 779 00027,NOUVETRA SAS,nouvetra sas,FRA,,,,src_ted_opendata,file_ted_0272,organisation:ORG-0003,2026-08-19
+sup_0540,53411697500028,FERROTRACT SAS,ferrotract sas,FRA,,,,src_ted_opendata,file_ted_0272,organisation:ORG-0004,2026-08-19
+sup_0541,6771036424,Mercator Medical Spółka Akcyjna,mercator medical spółka akcyjna,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0009,2026-08-19
+sup_0542,5321786998,BERYL MED POLAND Spółka z ograniczoną odpowiedzialnością,beryl med poland spółka z ograniczoną odpowiedzialnością,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0004,2026-08-19
+sup_0543,6462538085,ANMAR Spółka z ograniczoną odpowiedzialnością,anmar spółka z ograniczoną odpowiedzialnością,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0008,2026-08-19
+sup_0544,8522606088,MEDICAVERA Spółka z ograniczoną odpowiedzialnością DAHLHAUSEN GROUP,medicavera spółka z ograniczoną odpowiedzialnością dahlhausen group,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0005,2026-08-19
+sup_0545,5420201357,CIRRO Spółka z ograniczoną odpowiedzialnością,cirro spółka z ograniczoną odpowiedzialnością,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0006,2026-08-19
+sup_0546,5211082492,OPTA-TECH Spółka z ograniczoną odpowiedzialnością,opta-tech spółka z ograniczoną odpowiedzialnością,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0012,2026-08-19
+sup_0547,6831491475,ELEKTRO MED Grzegorz Pałkowski,elektro med grzegorz pałkowski,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0011,2026-08-19
+sup_0548,8792544279,SORIMEX Spółka z ograniczoną odpowiedzialnością Spółka Komandytowa,sorimex spółka z ograniczoną odpowiedzialnością spółka komandytowa,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0007,2026-08-19
+sup_0549,648 19 97 718,Zarys International Group Spółka z ograniczoną odpowiedzialnością Spółka komandytowa,zarys international group spółka z ograniczoną odpowiedzialnością spółka komandytowa,POL,,,,src_ted_opendata,file_ted_0273,organisation:ORG-0010,2026-08-19
+sup_0550,05086034,Poelsema Landschapsonderhoud en Handelsonderneming,poelsema landschapsonderhoud en handelsonderneming,NLD,,,,src_ted_opendata,file_ted_0274,organisation:ORG-0003,2026-08-19
+sup_0551,1488603-1-1-1,OBYO NORMANDIE,obyo normandie,FRA,,large,,src_ted_opendata,file_ted_0275,organisation:ORG-0006,2026-08-19
+sup_0552,1488603-1-2-1,PLG,plg,FRA,,large,,src_ted_opendata,file_ted_0275,organisation:ORG-0007,2026-08-19
+sup_0553,1488603-1-3-1,PLG,plg,FRA,,large,,src_ted_opendata,file_ted_0275,organisation:ORG-0008,2026-08-19
+sup_0554,1488603-1-4-1,JCS,jcs,FRA,,sme,,src_ted_opendata,file_ted_0275,organisation:ORG-0009,2026-08-19
+sup_0555,1488603-1-6-1,JCS,jcs,FRA,,sme,,src_ted_opendata,file_ted_0275,organisation:ORG-0010,2026-08-19
+sup_0556,5252914245,Solventum Poland Sp. z o.o,solventum poland sp. z o.o,POL,,,,src_ted_opendata,file_ted_0276,organisation:ORG-0003,2026-08-19
+sup_0557,26713111244,MVM Next Energiakereskedelmi Zrt.,mvm next energiakereskedelmi zrt.,HUN,,large,,src_ted_opendata,file_ted_0277,organisation:ORG-0016,2026-08-19
+sup_0558,33658024600070,EDIVERT,edivert,FRA,,,,src_ted_opendata,file_ted_0278,organisation:ORG-0004,2026-08-19
+sup_0559,38307718700078,ARTOPIA,artopia,FRA,,,,src_ted_opendata,file_ted_0278,organisation:ORG-0005,2026-08-19
+sup_0560,532 207 60 98,PM PARTNERS Sp. z o.o.,pm partners sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0279,organisation:ORG-0003,2026-08-19
+sup_0561,521 391 84 92,GM ENGINEERING Sp. z o.o.,gm engineering sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0279,organisation:ORG-0004,2026-08-19
+sup_0562,1710125000,"PAUL HARTMANN ADRIATIC, družba za medicinske proizvode in storitve na področju preventive, diagnostike, higiene in zdravstvene oskrbe d.o.o.","paul hartmann adriatic, družba za medicinske proizvode in storitve na področju preventive, diagnostike, higiene in zdravstvene oskrbe d.o.o.",SVN,,sme,,src_ted_opendata,file_ted_0282,organisation:ORG-0003,2026-08-19
+sup_0563,110584280,UAB Hnit-Baltic,uab hnit-baltic,LTU,,,,src_ted_opendata,file_ted_0283,organisation:ORG-0004,2026-08-19
+sup_0564,6412538663,Time Group Polska Sp. z o.o.,time group polska sp. z o.o.,POL,,medium,,src_ted_opendata,file_ted_0284,organisation:ORG-0003,2026-08-19
+sup_0565,2220887785,Sky One Sp. z o.o.,sky one sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0284,organisation:ORG-0004,2026-08-19
+sup_0566,REGON: 630002936,Aesculap Chifa Sp. z o.o.,aesculap chifa sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0285,organisation:ORG-0003,2026-08-19
+sup_0567,42053309300027,SARL ELEAS ASSURANCES,sarl eleas assurances,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0017,2026-08-19
+sup_0568,51334852400069,BEAH - BUREAU EUROPEEN D'ASSURANCE HOSPITALIERE,beah - bureau europeen d'assurance hospitaliere,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0013,2026-08-19
+sup_0569,78419913500046,LLOYD'S INSURANCE COMPANY EUROPE S.A.,lloyd's insurance company europe s.a.,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0018,2026-08-19
+sup_0570,84329522100017,TOKIO MARINE EUROPE S.A.,tokio marine europe s.a.,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0019,2026-08-19
+sup_0571,31124863701208,WILLIS TOWERS WATSON France,willis towers watson france,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0014,2026-08-19
+sup_0572,41940892700061,XL INSURANCE COMPANY SE,xl insurance company se,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0020,2026-08-19
+sup_0573,77983836600028,GROUPAMA RHONE-ALPES AUVERGNE,groupama rhone-alpes auvergne,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0021,2026-08-19
+sup_0574,30130960500410,SMACL ASSURANCES MUTUELLE,smacl assurances mutuelle,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0015,2026-08-19
+sup_0575,58162023400053,SOCIETE AIXOISE DE GESTION D'ASSURANCES - S.A.G.A.,societe aixoise de gestion d'assurances - s.a.g.a.,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0016,2026-08-19
+sup_0576,85119309400014,BERKHIRE HATAWAY SPECIALITY INSURANCE - B.H.S.I.,berkhire hataway speciality insurance - b.h.s.i.,FRA,,,,src_ted_opendata,file_ted_0286,organisation:ORG-0022,2026-08-19
+sup_0577,1489861-1-0-1,CAMPENON BERNARD CENTRE EST,campenon bernard centre est,FRA,,large,,src_ted_opendata,file_ted_0287,organisation:ORG-0005,2026-08-19
+sup_0578,300594634,UAB Inter Cars Lietuva,uab inter cars lietuva,LTU,,sme,,src_ted_opendata,file_ted_0288,organisation:ORG-0004,2026-08-19
+sup_0579,8261391133,Barbara Kudaszewicz PPH Kudaszewicz,barbara kudaszewicz pph kudaszewicz,POL,,,,src_ted_opendata,file_ted_0289,organisation:ORG-0003,2026-08-19
+sup_0580,75236509800017,KLEE CONSEIL INTEGRATION,klee conseil integration,FRA,,,,src_ted_opendata,file_ted_0291,organisation:ORG-0002,2026-08-19
+sup_0581,118 219 22 75,DEFEND.IT Sp. z o. o.,defend.it sp. z o. o.,POL,,,,src_ted_opendata,file_ted_0292,organisation:ORG-0007,2026-08-19
+sup_0582,1080009907,BIT Sp. z o.o.,bit sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0292,organisation:ORG-0005,2026-08-19
+sup_0583,9551945132,"Xcomp Sp. z o. o., Sp. K","xcomp sp. z o. o., sp. k",POL,,,,src_ted_opendata,file_ted_0292,organisation:ORG-0003,2026-08-19
+sup_0584,5361927962,AMG VISION Sp. z o. o.,amg vision sp. z o. o.,POL,,,,src_ted_opendata,file_ted_0292,organisation:ORG-0006,2026-08-19
+sup_0585,6762558040,IT Challenge Sp. z o.o.,it challenge sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0292,organisation:ORG-0004,2026-08-19
+sup_0586,7640050105,ODOSS Ossowscy Spółka jawna,odoss ossowscy spółka jawna,POL,,,,src_ted_opendata,file_ted_0295,organisation:ORG-0003,2026-08-19
+sup_0587,8361805775,FOREST BROTHERS Szymon Michalski,forest brothers szymon michalski,POL,,,,src_ted_opendata,file_ted_0296,organisation:ORG-0003,2026-08-19
+sup_0588,10398015,Aktsiaselts VIACON Eesti,aktsiaselts viacon eesti,EST,,,,src_ted_opendata,file_ted_0297,organisation:ORG-0004,2026-08-19
+sup_0589,510122639,"AGR - Engenharia e Serviços, Lda.","agr - engenharia e serviços, lda.",PRT,,,,src_ted_opendata,file_ted_0298,organisation:ORG-0006,2026-08-19
+sup_0590,504613529,"Aveiclean - Limpeza e Conservação, Lda.","aveiclean - limpeza e conservação, lda.",PRT,,,,src_ted_opendata,file_ted_0298,organisation:ORG-0003,2026-08-19
+sup_0591,504458086,"Sá Limpa - Facility Services, Lda.","sá limpa - facility services, lda.",PRT,,,,src_ted_opendata,file_ted_0298,organisation:ORG-0004,2026-08-19
+sup_0592,517640112,"TMLJ - Facility Services Unipessoal, Lda.","tmlj - facility services unipessoal, lda.",PRT,,,,src_ted_opendata,file_ted_0298,organisation:ORG-0005,2026-08-19
+sup_0593,788-00-08-829,Aesculap Chifa sp. z o.o.,aesculap chifa sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0299,organisation:ORG-0006,2026-08-19
+sup_0594,5272420782,Amgen sp. z o.o.,amgen sp. z o.o.,POL,,,,src_ted_opendata,file_ted_0299,organisation:ORG-0007,2026-08-19
+sup_wb_808065,808065,LNEG - LABORATÓRIO NACIONAL DE ENERGIA E GEOLOGIA,LNEG - LABORATÓRIO NACIONAL DE ENERGIA E GEOLOGIA,PRT,Portugal,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77715,2026-08-19
+sup_wb_775428,775428,AXIAN & KULANA,AXIAN & KULANA,PRT,Portugal,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77714,2026-08-19
+sup_wb_104460,104460,ALTA,ALTA,GEO,Georgia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77713,2026-08-19
+sup_wb_870229,870229,CENTER FOR ENVIRONMENTAL AND GEOGRAPHIC INFORMATION SERVICES (CEGIS),CENTER FOR ENVIRONMENTAL AND GEOGRAPHIC INFORMATION SERVICES (CEGIS),BGD,Bangladesh,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77712,2026-08-19
+sup_wb_4a7288a5294a8a42,4a7288a5294a8a42,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,BGD,Bangladesh,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77320,2026-08-19
+sup_wb_860193,860193,INVERSIONES KRL S.A.S,INVERSIONES KRL S.A.S,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76736,2026-08-19
+sup_wb_597c6820544f90eb,597c6820544f90eb,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77319,2026-08-19
+sup_wb_859159,859159,DRONAVI TECHNOLOGY SAS,DRONAVI TECHNOLOGY SAS,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76733,2026-08-19
+sup_wb_850841,850841,LA FANTÁSTICA STUDIOS SAS,LA FANTÁSTICA STUDIOS SAS,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76734,2026-08-19
+sup_wb_7bafa91fcfc844d9,7bafa91fcfc844d9,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77191,2026-08-19
+sup_wb_501243,501243,"""ASCENDA IT"" SRL","""ASCENDA IT"" SRL",MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76732,2026-08-19
+sup_wb_019d3d38babbd480,019d3d38babbd480,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76731,2026-08-19
+sup_wb_5a003169efcd9cd8,5a003169efcd9cd8,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77190,2026-08-19
+sup_wb_061be76effb02d19,061be76effb02d19,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PNG,Papua New Guinea,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77059,2026-08-19
+sup_wb_032a4463844be728,032a4463844be728,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77318,2026-08-19
+sup_wb_866915,866915,FOREST ENGINEERING IN JV WITH SARPLAST,FOREST ENGINEERING IN JV WITH SARPLAST,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77189,2026-08-19
+sup_wb_655751,655751,AHMED SARHAN,AHMED SARHAN,EGY,"Egypt, Arab Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77711,2026-08-19
+sup_wb_813131,813131,RAFALI NIGERIA LTD,RAFALI NIGERIA LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77188,2026-08-19
+sup_wb_704091,704091,ARABIAN ELECTRICS,ARABIAN ELECTRICS,LSO,Lesotho,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77710,2026-08-19
+sup_wb_f31b4993221d0391,f31b4993221d0391,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PSE,West Bank and Gaza,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77709,2026-08-19
+sup_wb_051fd2ff3de0f400,051fd2ff3de0f400,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77708,2026-08-19
+sup_wb_842933,842933,CARTDIDACT SRL,CARTDIDACT SRL,MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76730,2026-08-19
+sup_wb_021a1c3d43393cbd,021a1c3d43393cbd,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76729,2026-08-19
+sup_wb_871884,871884,S.R.L. „TIPOGRAFIA DIN BALTI”,S.R.L. „TIPOGRAFIA DIN BALTI”,MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77058,2026-08-19
+sup_wb_921143,921143,NIGERIA AGRICULTURAL INSURANCE CORPORATION,NIGERIA AGRICULTURAL INSURANCE CORPORATION,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77707,2026-08-19
+sup_wb_870575,870575,EPSILON ENERGIA SOLAR,EPSILON ENERGIA SOLAR,MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76479,2026-08-19
+sup_wb_758338,758338,ROAD AND BRIDGE INTERNATIONAL NIGERIA LTD,ROAD AND BRIDGE INTERNATIONAL NIGERIA LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77317,2026-08-19
+sup_wb_821238,821238,BWALCO NIGERIA LTD,BWALCO NIGERIA LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77187,2026-08-19
+sup_wb_841951,841951,J. PATEL & SONS NIGERIA LIMITED,J. PATEL & SONS NIGERIA LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77186,2026-08-19
+sup_wb_847310,847310,OFFICE PLACE,OFFICE PLACE,FSM,"Micronesia, Federated States of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76478,2026-08-19
+sup_wb_699056,699056,BRITESUNN,BRITESUNN,FSM,"Micronesia, Federated States of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76477,2026-08-19
+sup_wb_845733,845733,A EXPORT AND TRADING,A EXPORT AND TRADING,FSM,"Micronesia, Federated States of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76346,2026-08-19
+sup_wb_04a1b6bdd498c452,04a1b6bdd498c452,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KGZ,Kyrgyz Republic,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77706,2026-08-19
+sup_wb_784273,784273,OSIM INSHOOT,OSIM INSHOOT,TJK,Tajikistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77705,2026-08-19
+sup_wb_826356,826356,WINNER GLOBAL ENTERPRISES LTD,WINNER GLOBAL ENTERPRISES LTD,UGA,Uganda,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76921,2026-08-19
+sup_wb_05cbf1a880600984,05cbf1a880600984,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KGZ,Kyrgyz Republic,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77704,2026-08-19
+sup_wb_870955,870955,"F SURVEY, DESIGN, CONSULTANT AND CONSTRUCTION SOLE CO., LTD","F SURVEY, DESIGN, CONSULTANT AND CONSTRUCTION SOLE CO., LTD",LAO,Lao People's Democratic Republic,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77316,2026-08-19
+sup_wb_0660afdac1fc61b3,0660afdac1fc61b3,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KGZ,Kyrgyz Republic,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76345,2026-08-19
+sup_wb_860463,860463,ICARTO,ICARTO,ESP,Spain,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76728,2026-08-19
+sup_wb_fa11527198908259,fa11527198908259,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,HTI,Haiti,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76727,2026-08-19
+sup_wb_576359,576359,UYK NIGERIA LIMITED,UYK NIGERIA LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77185,2026-08-19
+sup_wb_866936,866936,BOZEAL LIMITED,BOZEAL LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77184,2026-08-19
+sup_wb_2c4563c7d9a3493a,2c4563c7d9a3493a,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,LBR,Liberia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76344,2026-08-19
+sup_wb_812670,812670,CALIS COTE D'IVOIRE,CALIS COTE D'IVOIRE,CIV,Cote d'Ivoire,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77182,2026-08-19
+sup_wb_0de8284afc183a79,0de8284afc183a79,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,CAN,Canada,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76343,2026-08-19
+sup_wb_640839,640839,LITERACY ASSOCIATION SOLOMON ISLANDS (LASI),LITERACY ASSOCIATION SOLOMON ISLANDS (LASI),SLB,Solomon Islands,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76920,2026-08-19
+sup_wb_364a9c8b2925e5c7,364a9c8b2925e5c7,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NZL,New Zealand,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76476,2026-08-19
+sup_wb_01ca1dafa07974e1,01ca1dafa07974e1,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COD,"Congo, Democratic Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77315,2026-08-19
+sup_wb_637607,637607,APCO TEKNIK GRUP ENGINEERING AND CONSULTANCY INC.,APCO TEKNIK GRUP ENGINEERING AND CONSULTANCY INC.,TUR,Turkiye,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76474,2026-08-19
+sup_wb_778851,778851,LTS HEALTH AFRICA (PTY) LTD,LTS HEALTH AFRICA (PTY) LTD,ZAF,South Africa,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76475,2026-08-19
+sup_wb_865732,865732,RAJESH BALORIA,RAJESH BALORIA,IND,India,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77057,2026-08-19
+sup_wb_2bd794ce03edfe7a,2bd794ce03edfe7a,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PRT,Portugal,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77703,2026-08-19
+sup_wb_705113,705113,ENCORDE KONSULT LIMITED,ENCORDE KONSULT LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76222,2026-08-19
+sup_wb_031058fc25458ce2,031058fc25458ce2,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NER,Niger,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76570,2026-08-19
+sup_wb_721979,721979,M/S D. K. MONDAL & CO.,M/S D. K. MONDAL & CO.,IND,India,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76473,2026-08-19
+sup_wb_325bdb7dc6939151,325bdb7dc6939151,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,TJK,Tajikistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77702,2026-08-19
+sup_wb_319432,319432,OLANDA,OLANDA,ARM,Armenia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76726,2026-08-19
+sup_wb_875615,875615,HOTELES DE YOPAL SOCIEDAD POR ACCIONES SIMPLIFICADA,HOTELES DE YOPAL SOCIEDAD POR ACCIONES SIMPLIFICADA,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76919,2026-08-19
+sup_wb_313707,313707,Cosampa Projetos e Construções Ltda,COSAMPA PROJETOS E CONSTRUÇÕES LTDA,BRA,Brazil,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76917,2026-08-19
+sup_wb_579135,579135,EDMIL CONSTRUCOES SA,EDMIL CONSTRUCOES SA,BRA,Brazil,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76918,2026-08-19
+sup_wb_07141c3b00f7bd69,07141c3b00f7bd69,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PSE,West Bank and Gaza,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76472,2026-08-19
+sup_wb_0174b3f0f3aa6f6d,0174b3f0f3aa6f6d,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76725,2026-08-19
+sup_wb_43fc9a1ee8fb3c75,43fc9a1ee8fb3c75,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PSE,West Bank and Gaza,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76471,2026-08-19
+sup_wb_20975e91306f07ea,20975e91306f07ea,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PSE,West Bank and Gaza,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76470,2026-08-19
+sup_wb_737531,737531,ENORSUL SERVIÇOS EM SANEAMENTO LTDA,ENORSUL SERVIÇOS EM SANEAMENTO LTDA,BRA,Brazil,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76567,2026-08-19
+sup_wb_787834,787834,ENGETAMI ENGENHARIA,ENGETAMI ENGENHARIA,BRA,Brazil,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76568,2026-08-19
+sup_wb_833103,833103,GOIANIA MAUA CONSTRUTORA,GOIANIA MAUA CONSTRUTORA,BRA,Brazil,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76569,2026-08-19
+sup_wb_873704,873704,SABA INTEGRATED SERVICES LTD,SABA INTEGRATED SERVICES LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76221,2026-08-19
+sup_wb_392260,392260,TERAN INTERNACIONAL SOCIEDAD ANÓNIMA,TERAN INTERNACIONAL SOCIEDAD ANÓNIMA,NIC,Nicaragua,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77314,2026-08-19
+sup_wb_0161b181b30d1b72,0161b181b30d1b72,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,SOM,"Somalia, Federal Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77701,2026-08-19
+sup_wb_df6ad1d1bd9b40a4,df6ad1d1bd9b40a4,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NPL,Nepal,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77700,2026-08-19
+sup_wb_828071,828071,NEIROUKH SCALES METALLIC FURNITURE CO. LTD.,NEIROUKH SCALES METALLIC FURNITURE CO. LTD.,PSE,West Bank and Gaza,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76469,2026-08-19
+sup_wb_06dbc41bb1eb2b04,06dbc41bb1eb2b04,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PSE,West Bank and Gaza,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76468,2026-08-19
+sup_wb_328596,328596,AARVEE ASSOCIATES ARCHITECTS ENGINEERS & CONSULTANTS PVT. LTD.,AARVEE ASSOCIATES ARCHITECTS ENGINEERS & CONSULTANTS PVT. LTD.,IND,India,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76339,2026-08-19
+sup_wb_365460,365460,"CONSULTORIA TECNICA DE OBRAS PUBLICAS (COTOP), LDA","CONSULTORIA TECNICA DE OBRAS PUBLICAS (COTOP), LDA",MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76335,2026-08-19
+sup_wb_749703,749703,AARVEE ASSOCIATES ARCHITECTS ENGINEERS & CONSULTANTS PVT LTD,AARVEE ASSOCIATES ARCHITECTS ENGINEERS & CONSULTANTS PVT LTD,IND,India,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76336,2026-08-19
+sup_wb_755972,755972,WB ENGINEERING SERVICES CO. LTD,WB ENGINEERING SERVICES CO. LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76220,2026-08-19
+sup_wb_062d4cc3b53e0609,062d4cc3b53e0609,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76219,2026-08-19
+sup_wb_851685,851685,SPELLBOUND COMMUNICATIONS LIMITED,SPELLBOUND COMMUNICATIONS LIMITED,BGD,Bangladesh,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76743,2026-08-19
+sup_wb_875213,875213,POLICY EXCHANGE OF BANGLADESH,POLICY EXCHANGE OF BANGLADESH,BGD,Bangladesh,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76744,2026-08-19
+sup_wb_0355ce485100984c,0355ce485100984c,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,SLB,Solomon Islands,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76566,2026-08-19
+sup_wb_875674,875674,YED MULTITRAVAUX,YED MULTITRAVAUX,CIV,Cote d'Ivoire,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76565,2026-08-19
+sup_wb_475804,475804,GPCL CONSULTING SERVICES LIMITED,GPCL CONSULTING SERVICES LIMITED,IND,India,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76467,2026-08-19
+sup_wb_3ec69e9ead0d8cdd,3ec69e9ead0d8cdd,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,SOM,"Somalia, Federal Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77699,2026-08-19
+sup_wb_042ad06b27fe0abf,042ad06b27fe0abf,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,AGO,Angola,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76218,2026-08-19
+sup_wb_778805,778805,"MIOMBO CONSULTORES, LDA","MIOMBO CONSULTORES, LDA",MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76334,2026-08-19
+sup_wb_769141,769141,"INTREPRINDEREA PENTRU SILVICULTURA BALTI, INTREPRINDEREA DE STAT","INTREPRINDEREA PENTRU SILVICULTURA BALTI, INTREPRINDEREA DE STAT",MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75737,2026-08-19
+sup_wb_850422,850422,VYSOTA BKEEE,VYSOTA BKEEE,KGZ,Kyrgyz Republic,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76216,2026-08-19
+sup_wb_862096,862096,TAIYR,TAIYR,KGZ,Kyrgyz Republic,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76217,2026-08-19
+sup_wb_856397,856397,BRIGHT-I SYSTEMS LIMITED,BRIGHT-I SYSTEMS LIMITED,BGD,Bangladesh,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77698,2026-08-19
+sup_wb_462284,462284,OFFICE IDEAS,OFFICE IDEAS,LBR,Liberia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76916,2026-08-19
+sup_wb_647265,647265,RAINBOW INITIATIVE,RAINBOW INITIATIVE,SLE,Sierra Leone,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76915,2026-08-19
+sup_wb_867721,867721,"CONECTIVIDAD, TECNOLOGÍA Y SOLUCIONES INTEGRALES S.A CONECTIA.","CONECTIVIDAD, TECNOLOGÍA Y SOLUCIONES INTEGRALES S.A CONECTIA.",HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77697,2026-08-19
+sup_wb_01d5dc224f9c0f2e,01d5dc224f9c0f2e,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76088,2026-08-19
+sup_wb_985881,985881,GÉNIE AGRICOLE PLUS ET ENVIRONNEMENT,GÉNIE AGRICOLE PLUS ET ENVIRONNEMENT,COG,"Congo, Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77696,2026-08-19
+sup_wb_36418aafc8bb1ce7,36418aafc8bb1ce7,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,SLE,Sierra Leone,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76087,2026-08-19
+sup_wb_859853,859853,JT –CONSULTING LDA,JT –CONSULTING LDA,CPV,Cabo Verde,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76724,2026-08-19
+sup_wb_1bc374bc09a2192c,1bc374bc09a2192c,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76086,2026-08-19
+sup_wb_0383a74bb152c64c,0383a74bb152c64c,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,SLE,Sierra Leone,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76085,2026-08-19
+sup_wb_875182,875182,GEOMATOS HOLDING GROUP,GEOMATOS HOLDING GROUP,CIV,Cote d'Ivoire,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76333,2026-08-19
+sup_wb_35295,35295,UNITED NATIONS OFFICE PROJECT SERVICES (UNOPS),UNITED NATIONS OFFICE PROJECT SERVICES (UNOPS),,World,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77056,2026-08-19
+sup_wb_869753,869753,AGRO-TOURISM ASSOCIATION,AGRO-TOURISM ASSOCIATION,UGA,Uganda,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77313,2026-08-19
+sup_wb_645570,645570,ETS NOUR POUR LE COMMERCE GENERAL,ETS NOUR POUR LE COMMERCE GENERAL,TCD,Chad,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76914,2026-08-19
+sup_wb_714259,714259,SEC-PRINT GHANA LIMITED,SEC-PRINT GHANA LIMITED,GHA,Ghana,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76466,2026-08-19
+sup_wb_801239,801239,HOTEL NOVA PARK,HOTEL NOVA PARK,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76332,2026-08-19
+sup_wb_06ccef90b64bb02b,06ccef90b64bb02b,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,ARG,Argentina,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76913,2026-08-19
+sup_wb_870445,870445,FREEDOM PRINTING PRESS,FREEDOM PRINTING PRESS,LBR,Liberia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76912,2026-08-19
+sup_wb_0764a3f5c30a9dc2,0764a3f5c30a9dc2,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75878,2026-08-19
+sup_wb_037657de9c9ddb40,037657de9c9ddb40,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77695,2026-08-19
+sup_wb_3fb28b49dc28cc43,3fb28b49dc28cc43,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77694,2026-08-19
+sup_wb_7d13ce1d1beb570f,7d13ce1d1beb570f,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77693,2026-08-19
+sup_wb_872162,872162,CHINA POLYURETHANE INDUSTRY ASSOCIATION FOAM PLASTICS COMMITTEE,CHINA POLYURETHANE INDUSTRY ASSOCIATION FOAM PLASTICS COMMITTEE,CHN,China,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76465,2026-08-19
+sup_wb_04d5acf05f956802,04d5acf05f956802,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77692,2026-08-19
+sup_wb_017867021881c649,017867021881c649,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77691,2026-08-19
+sup_wb_1d5d1d3a6e6f4398,1d5d1d3a6e6f4398,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77690,2026-08-19
+sup_wb_626d8e9df6c21b81,626d8e9df6c21b81,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77689,2026-08-19
+sup_wb_94905113c7f88ef1,94905113c7f88ef1,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77688,2026-08-19
+sup_wb_03c2c683228a4fb9,03c2c683228a4fb9,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77687,2026-08-19
+sup_wb_39cf5d81b5eafda6,39cf5d81b5eafda6,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77686,2026-08-19
+sup_wb_0419510d1fc8277c,0419510d1fc8277c,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77685,2026-08-19
+sup_wb_526168,526168,ELISON BRIGITTE,ELISON BRIGITTE,MDG,Madagascar,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76215,2026-08-19
+sup_wb_077aafdadf6c5258,077aafdadf6c5258,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77684,2026-08-19
+sup_wb_4baa49900326cfb6,4baa49900326cfb6,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,KHM,Cambodia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77683,2026-08-19
+sup_wb_843182,843182,SOPHYSA,SOPHYSA,FRA,France,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75877,2026-08-19
+sup_wb_866173,866173,ETHIOPIA READS (ER),ETHIOPIA READS (ER),ETH,Ethiopia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76084,2026-08-19
+sup_wb_532752,532752,LÓGICA - TECNOLOGIA & SERVIÇOS,LÓGICA - TECNOLOGIA & SERVIÇOS,MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77682,2026-08-19
+sup_wb_749594,749594,DIVIDEND GROUP,DIVIDEND GROUP,MWI,Malawi,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76331,2026-08-19
+sup_wb_760511,760511,"PROCOMPUTERS, LDA","PROCOMPUTERS, LDA",MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77681,2026-08-19
+sup_wb_842138,842138,EL-HAMED FOR MEDICAL SUPPLIES,EL-HAMED FOR MEDICAL SUPPLIES,EGY,"Egypt, Arab Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75876,2026-08-19
+sup_wb_351599,351599,"TRIANA BUSINESS SOLUTIONS, LDA","TRIANA BUSINESS SOLUTIONS, LDA",MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77680,2026-08-19
+sup_wb_817202,817202,"TECNOBYTE,LDA","TECNOBYTE,LDA",MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77678,2026-08-19
+sup_wb_789967,789967,HORIZON TECNOLOGIAS E SERVIÇOS,HORIZON TECNOLOGIAS E SERVIÇOS,MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77677,2026-08-19
+sup_wb_0cfc391cfcc80bf2,0cfc391cfcc80bf2,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,BFA,Burkina Faso,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77312,2026-08-19
+sup_wb_12c65d4c0fed5184,12c65d4c0fed5184,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,BFA,Burkina Faso,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76564,2026-08-19
+sup_wb_5649dd06e9ad5471,5649dd06e9ad5471,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COD,"Congo, Democratic Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76083,2026-08-19
+sup_wb_04a3504ae4f1411b,04a3504ae4f1411b,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75875,2026-08-19
+sup_wb_07036cb4037c5df2,07036cb4037c5df2,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,ALB,Albania,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76082,2026-08-19
+sup_wb_870125,870125,ÁNGEL AUGUSTO ROSA ORTEGA,ÁNGEL AUGUSTO ROSA ORTEGA,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77676,2026-08-19
+sup_wb_870124,870124,JENNY JANETH GOMEZ PÉREZ,JENNY JANETH GOMEZ PÉREZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77675,2026-08-19
+sup_wb_870143,870143,MAYNOR NAHÚN GÓMEZ PÉREZ,MAYNOR NAHÚN GÓMEZ PÉREZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77674,2026-08-19
+sup_wb_870141,870141,GUSTAVO ENRIQUE HERNÁNDEZ RODRÍGUEZ,GUSTAVO ENRIQUE HERNÁNDEZ RODRÍGUEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77673,2026-08-19
+sup_wb_870135,870135,ANDREA NATHALIA HERNÁNDEZ,ANDREA NATHALIA HERNÁNDEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77672,2026-08-19
+sup_wb_870147,870147,JUAN GERMAN GUNERA MARTÍNEZ,JUAN GERMAN GUNERA MARTÍNEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77671,2026-08-19
+sup_wb_870105,870105,NORMA KARINA BAQUEDANO BENÍTEZ,NORMA KARINA BAQUEDANO BENÍTEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77670,2026-08-19
+sup_wb_870144,870144,NORA YESENIA CÓRDOVA,NORA YESENIA CÓRDOVA,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77669,2026-08-19
+sup_wb_870132,870132,MANUEL EMILIO CONTRERAS RODRÍGUEZ,MANUEL EMILIO CONTRERAS RODRÍGUEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77668,2026-08-19
+sup_wb_844187,844187,JAMTECH GENERAL ENTERPRISE NIGERIA LIMITED,JAMTECH GENERAL ENTERPRISE NIGERIA LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76330,2026-08-19
+sup_wb_51ac750b57c9e654,51ac750b57c9e654,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75746,2026-08-19
+sup_wb_870104,870104,DANIEL ORLANDO MATEO SÁNCHEZ,DANIEL ORLANDO MATEO SÁNCHEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77667,2026-08-19
+sup_wb_753518,753518,MOLTSOG OVOO,MOLTSOG OVOO,MNG,Mongolia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75874,2026-08-19
+sup_wb_870103,870103,YOHANA ELIZABETH BUESO ERAZO,YOHANA ELIZABETH BUESO ERAZO,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77666,2026-08-19
+sup_wb_870145,870145,JULIÁN CRUZ VÁSQUEZ,JULIÁN CRUZ VÁSQUEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77665,2026-08-19
+sup_wb_870146,870146,MARJORIE CAROLINA LEIVA CASTRO,MARJORIE CAROLINA LEIVA CASTRO,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77664,2026-08-19
+sup_wb_870149,870149,CINTIA CONSUELO GARAY RUBIO,CINTIA CONSUELO GARAY RUBIO,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77663,2026-08-19
+sup_wb_870150,870150,OSCAR DAMIÁN GARCIA ORDOÑEZ,OSCAR DAMIÁN GARCIA ORDOÑEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77662,2026-08-19
+sup_wb_870154,870154,DANIEL ABRAHÁN JUÁREZ CRUZ,DANIEL ABRAHÁN JUÁREZ CRUZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77661,2026-08-19
+sup_wb_870156,870156,RENAN ALCIDES MONDRAGÓN BETANCO,RENAN ALCIDES MONDRAGÓN BETANCO,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77660,2026-08-19
+sup_wb_870157,870157,JOSUE ALEXANDER SÁNCHEZ ALVARADO,JOSUE ALEXANDER SÁNCHEZ ALVARADO,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77659,2026-08-19
+sup_wb_589325,589325,HANKEY'S COMPUTER SERVICES,HANKEY'S COMPUTER SERVICES,GRD,Grenada,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76081,2026-08-19
+sup_wb_870158,870158,ARMANDO MEDINA VENTURA,ARMANDO MEDINA VENTURA,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77658,2026-08-19
+sup_wb_870161,870161,ALEJANDRO ARTURO VÁSQUEZ RODRÍGUEZ,ALEJANDRO ARTURO VÁSQUEZ RODRÍGUEZ,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77657,2026-08-19
+sup_wb_870166,870166,MAYRA PATRICIA CERNA DUARTE,MAYRA PATRICIA CERNA DUARTE,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77656,2026-08-19
+sup_wb_870171,870171,EDRAS NAHÚN ÁVILA HERRERA,EDRAS NAHÚN ÁVILA HERRERA,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77655,2026-08-19
+sup_wb_870172,870172,AMADO ALEXANDER CASTRO ROMERO,AMADO ALEXANDER CASTRO ROMERO,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77654,2026-08-19
+sup_wb_07f68ee7c29000c2,07f68ee7c29000c2,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75745,2026-08-19
+sup_wb_985851,985851,JOHN KEELLS OFFICE AUTOMATION (PVT) LTD,JOHN KEELLS OFFICE AUTOMATION (PVT) LTD,LKA,Sri Lanka,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76723,2026-08-19
+sup_wb_874445,874445,BENC,BENC,MNG,Mongolia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76722,2026-08-19
+sup_wb_876833,876833,MEDLEGIIN HOTHON,MEDLEGIIN HOTHON,MNG,Mongolia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76721,2026-08-19
+sup_wb_04617d0d4c952a22,04617d0d4c952a22,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,ETH,Ethiopia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76080,2026-08-19
+sup_wb_662485,662485,SABRI FOR COMPUTER AND COMMUNICATION SYSTEMS,SABRI FOR COMPUTER AND COMMUNICATION SYSTEMS,PSE,West Bank and Gaza,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76464,2026-08-19
+sup_wb_877296,877296,SOCIAL POLICY DEVELOPMENT AND RESEARCH CENTER,SOCIAL POLICY DEVELOPMENT AND RESEARCH CENTER,MNG,Mongolia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76720,2026-08-19
+sup_wb_877245,877245,AFIM,AFIM,MNG,Mongolia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76719,2026-08-19
+sup_wb_842142,842142,GHATWARY MEDICAL,GHATWARY MEDICAL,EGY,"Egypt, Arab Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75744,2026-08-19
+sup_wb_796866,796866,LAMIAT ABDOULLAHI,LAMIAT ABDOULLAHI,COM,Comoros,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77055,2026-08-19
+sup_wb_763457,763457,AL-MOUSTAHAFIDHOU BEN SOULAIMANA,AL-MOUSTAHAFIDHOU BEN SOULAIMANA,COM,Comoros,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77054,2026-08-19
+sup_wb_796845,796845,EL HABIBE AHAMADA,EL HABIBE AHAMADA,COM,Comoros,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77053,2026-08-19
+sup_wb_798156,798156,ABDOU EL ANFOUR ABDOU MBOREHA,ABDOU EL ANFOUR ABDOU MBOREHA,COM,Comoros,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77181,2026-08-19
+sup_wb_06b69f3eaa400054,06b69f3eaa400054,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,SRB,Serbia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76214,2026-08-19
+sup_wb_746691,746691,MOHAMED CHOUDJAY,MOHAMED CHOUDJAY,COM,Comoros,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77180,2026-08-19
+sup_wb_853473,853473,BENDJEDID MOHAMED DHAKOINE,BENDJEDID MOHAMED DHAKOINE,COM,Comoros,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76911,2026-08-19
+sup_wb_863759,863759,ASLAM G ENTERPRISES,ASLAM G ENTERPRISES,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77052,2026-08-19
+sup_wb_791f94672760688c,791f94672760688c,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76463,2026-08-19
+sup_wb_460616,460616,EAGLE SCIENTIFIC LIMITED,EAGLE SCIENTIFIC LIMITED,GBR,United Kingdom,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77653,2026-08-19
+sup_wb_869258,869258,YAWAR BUILDER,YAWAR BUILDER,PAK,Pakistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77051,2026-08-19
+sup_wb_018fc3b0e0aa293e,018fc3b0e0aa293e,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,DMA,Dominica,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76718,2026-08-19
+sup_wb_591880,591880,GROUPE ALMABROUKH SARL,GROUPE ALMABROUKH SARL,TCD,Chad,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75635,2026-08-19
+sup_wb_02e2d65b5a7215b7,02e2d65b5a7215b7,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75743,2026-08-19
+sup_wb_6bc2c51ea49c10c7,6bc2c51ea49c10c7,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75742,2026-08-19
+sup_wb_07b59f16db9f53f4,07b59f16db9f53f4,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76462,2026-08-19
+sup_wb_1cdfda296bb5bad6,1cdfda296bb5bad6,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,MNG,Mongolia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75741,2026-08-19
+sup_wb_05b10a005dd75d86,05b10a005dd75d86,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PNG,Papua New Guinea,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75872,2026-08-19
+sup_wb_32c6dea4fbc3fbd5,32c6dea4fbc3fbd5,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,TUV,Tuvalu,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76079,2026-08-19
+sup_wb_869546,869546,LAO TOYOTA SERVICE,LAO TOYOTA SERVICE,LAO,Lao People's Democratic Republic,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77311,2026-08-19
+sup_wb_14e3b40468b2d7da,14e3b40468b2d7da,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,FSM,"Micronesia, Federated States of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76078,2026-08-19
+sup_wb_872010,872010,ULTIMATEWINGS INTERNATIONAL LIMITED,ULTIMATEWINGS INTERNATIONAL LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76077,2026-08-19
+sup_wb_874865,874865,NIVE GROUP,NIVE GROUP,GEO,Georgia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76328,2026-08-19
+sup_wb_391349,391349,CAMP DAVID GLOBAL SYNERGY LIMITED,CAMP DAVID GLOBAL SYNERGY LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76076,2026-08-19
+sup_wb_872033,872033,FIRST CLASS CAPITAL PROJECT LTD,FIRST CLASS CAPITAL PROJECT LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76075,2026-08-19
+sup_wb_854633,854633,KANANA LOGISTICS COMPANY LIMITED,KANANA LOGISTICS COMPANY LIMITED,TZA,Tanzania,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76213,2026-08-19
+sup_wb_859279,859279,KTM,KTM,BFA,Burkina Faso,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77310,2026-08-19
+sup_wb_830263,830263,DEEP CONSTRUCTION LTD,DEEP CONSTRUCTION LTD,TZA,Tanzania,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76212,2026-08-19
+sup_wb_374112,374112,CLALON TECHNOLOGIES COMPANY LTD,CLALON TECHNOLOGIES COMPANY LTD,TZA,Tanzania,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75871,2026-08-19
+sup_wb_0e23d12acfd13d71,0e23d12acfd13d71,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75494,2026-08-19
+sup_wb_845979,845979,ETS GRYN,ETS GRYN,CMR,Cameroon,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76910,2026-08-19
+sup_wb_419703,419703,"RCS ANGOLA - REDE, COMPUTADORES E SERVIÇOS, LDA","RCS ANGOLA - REDE, COMPUTADORES E SERVIÇOS, LDA",AGO,Angola,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76909,2026-08-19
+sup_wb_877561,877561,SAHELIA SOLAR,SAHELIA SOLAR,BFA,Burkina Faso,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77309,2026-08-19
+sup_wb_855443,855443,CHAKIRA AHMED,CHAKIRA AHMED,COM,Comoros,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77050,2026-08-19
+sup_wb_873990,873990,ASAJ PROJECTS & SERVICES LTD,ASAJ PROJECTS & SERVICES LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76074,2026-08-19
+sup_wb_873957,873957,PREMIUM PROJECT INFRASTRUCTURE LTD,PREMIUM PROJECT INFRASTRUCTURE LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76073,2026-08-19
+sup_wb_05146b0d7b34b280,05146b0d7b34b280,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,SOM,"Somalia, Federal Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77179,2026-08-19
+sup_wb_936923,936923,BILIJOE+BERGER NIGERIA LIMITED,BILIJOE+BERGER NIGERIA LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76072,2026-08-19
+sup_wb_873898,873898,DOJ CONTRACTORS NIG. LTD,DOJ CONTRACTORS NIG. LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76071,2026-08-19
+sup_wb_873930,873930,BP SANY CO. NIG. LTD,BP SANY CO. NIG. LTD,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75870,2026-08-19
+sup_wb_30ca979d2f2f8545,30ca979d2f2f8545,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,GHA,Ghana,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77178,2026-08-19
+sup_wb_835323,835323,MONFALCONE CONSULTING LIMITED,MONFALCONE CONSULTING LIMITED,UGA,Uganda,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75740,2026-08-19
+sup_wb_864076,864076,ACACIA CONSTRUCTION LIMITED,ACACIA CONSTRUCTION LIMITED,TZA,Tanzania,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76211,2026-08-19
+sup_wb_864011,864011,PARIK LIMITED,PARIK LIMITED,TZA,Tanzania,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76070,2026-08-19
+sup_wb_03f8e4181bf89a3f,03f8e4181bf89a3f,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,MWI,Malawi,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77652,2026-08-19
+sup_wb_03207cd484b4c2f1,03207cd484b4c2f1,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,MWI,Malawi,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77651,2026-08-19
+sup_wb_476745,476745,CONSUMER ELECTRONICS,CONSUMER ELECTRONICS,MWI,Malawi,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76563,2026-08-19
+sup_wb_878231,878231,HI FI ELECTRONICS,HI FI ELECTRONICS,MWI,Malawi,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76562,2026-08-19
+sup_wb_878234,878234,KLEM TECHNOLOGIES,KLEM TECHNOLOGIES,MWI,Malawi,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76561,2026-08-19
+sup_wb_d7e49b830661ad20,d7e49b830661ad20,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PNG,Papua New Guinea,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75634,2026-08-19
+sup_wb_327972,327972,WAPCOS LIMITED,WAPCOS LIMITED,IND,India,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75493,2026-08-19
+sup_wb_557180,557180,FLEXDATA SOLUTIONS PTY LTD,FLEXDATA SOLUTIONS PTY LTD,AUS,Australia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75739,2026-08-19
+sup_wb_852511,852511,TIKATAI TRADING,TIKATAI TRADING,KIR,Kiribati,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75492,2026-08-19
+sup_wb_858435,858435,PINTECH,PINTECH,KIR,Kiribati,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75489,2026-08-19
+sup_wb_858446,858446,TIKATAI TRADING,TIKATAI TRADING,KIR,Kiribati,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75490,2026-08-19
+sup_wb_40e228eabfb47f6f,40e228eabfb47f6f,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PAK,Pakistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76069,2026-08-19
+sup_wb_25260ae2069ebf52,25260ae2069ebf52,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,IDN,Indonesia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77650,2026-08-19
+sup_wb_972357,972357,TRAINING AND TECHNOLOGY TRANSFER,TRAINING AND TECHNOLOGY TRANSFER,NZL,New Zealand,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75738,2026-08-19
+sup_wb_853496,853496,CONSERVATION OUTCOMES,CONSERVATION OUTCOMES,ZAF,South Africa,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76327,2026-08-19
+sup_wb_39fee67b0dbd9560,39fee67b0dbd9560,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,BFA,Burkina Faso,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75633,2026-08-19
+sup_wb_024417bfe16ec796,024417bfe16ec796,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,BFA,Burkina Faso,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76461,2026-08-19
+sup_wb_876864,876864,SETS TUSHIG AUDIT,SETS TUSHIG AUDIT,MNG,Mongolia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76717,2026-08-19
+sup_wb_878095,878095,«STECK» COMPANY,«STECK» COMPANY,RUS,Russian Federation,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76068,2026-08-19
+sup_wb_801510,801510,IRRIGATION DEPARTMENT,IRRIGATION DEPARTMENT,LKA,Sri Lanka,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77308,2026-08-19
+sup_wb_986806,986806,SOFTENGI UKRAINE,SOFTENGI UKRAINE,UKR,Ukraine,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75488,2026-08-19
+sup_wb_d57cd56aa60fd425,d57cd56aa60fd425,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,LSO,Lesotho,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76716,2026-08-19
+sup_wb_1447621bdf3da640,1447621bdf3da640,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,BOL,Bolivia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76067,2026-08-19
+sup_wb_053ca546a2f2b590,053ca546a2f2b590,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75331,2026-08-19
+sup_wb_876445,876445,PALIKIR CONSULTING SERVICES,PALIKIR CONSULTING SERVICES,FSM,"Micronesia, Federated States of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76066,2026-08-19
+sup_wb_901166,901166,BTS PRO,BTS PRO,MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77049,2026-08-19
+sup_wb_877853,877853,ANDRIANAVONY DIAMONDRA ARILALA,ANDRIANAVONY DIAMONDRA ARILALA,MDG,Madagascar,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75330,2026-08-19
+sup_wb_835488,835488,CIVIL ENGINEERING INSTITUTE “MACEDONIA” JSC SKOPJE,CIVIL ENGINEERING INSTITUTE “MACEDONIA” JSC SKOPJE,MKD,North Macedonia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76715,2026-08-19
+sup_wb_01079522b685d8e0,01079522b685d8e0,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,MDA,Moldova,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77307,2026-08-19
+sup_wb_f7a2d33f57c19363,f7a2d33f57c19363,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,ETH,Ethiopia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76714,2026-08-19
+sup_wb_866764,866764,RADX CONSTRUCTION,RADX CONSTRUCTION,MOZ,Mozambique,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75867,2026-08-19
+sup_wb_765781,765781,"LT SOLE CO., LTD","LT SOLE CO., LTD",LAO,Lao People's Democratic Republic,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77649,2026-08-19
+sup_wb_5b606e9b0f88143a,5b606e9b0f88143a,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75329,2026-08-19
+sup_wb_878798,878798,DK INTER,DK INTER,BFA,Burkina Faso,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77306,2026-08-19
+sup_wb_016606265eed44fe,016606265eed44fe,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,SEN,Senegal,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77177,2026-08-19
+sup_wb_829571,829571,LLC STROY REM,LLC STROY REM,TJK,Tajikistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76460,2026-08-19
+sup_wb_878430,878430,"LLC ""CADATSRE AND GEOINFORMATION SYSTEM"" LTD","LLC ""CADATSRE AND GEOINFORMATION SYSTEM"" LTD",TJK,Tajikistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77648,2026-08-19
+sup_wb_613935,613935,"SOGEPOWER COMERCIO E INDUSTRIA, LDA","SOGEPOWER COMERCIO E INDUSTRIA, LDA",AGO,Angola,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77176,2026-08-19
+sup_wb_5f845fa322540f3b,5f845fa322540f3b,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,BFA,Burkina Faso,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76065,2026-08-19
+sup_wb_510938,510938,H&M NIGERIA LIMITED,H&M NIGERIA LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77175,2026-08-19
+sup_wb_580955,580955,RIC ROCK CONSTRUCTION NIGERIA LIMITED,RIC ROCK CONSTRUCTION NIGERIA LIMITED,NGA,Nigeria,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77174,2026-08-19
+sup_wb_842635,842635,HOROS,HOROS,UKR,Ukraine,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76713,2026-08-19
+sup_wb_413598,413598,PRETECO SA,PRETECO SA,ARG,Argentina,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75736,2026-08-19
+sup_wb_02571471e96c29ae,02571471e96c29ae,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PNG,Papua New Guinea,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77173,2026-08-19
+sup_wb_808974,808974,"GROUPEMENT SALIENCE CONSULTING, MACMILLAN KECK, AQEST","GROUPEMENT SALIENCE CONSULTING, MACMILLAN KECK, AQEST",ARE,United Arab Emirates,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77305,2026-08-19
+sup_wb_03513ca520a0847e,03513ca520a0847e,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,ECU,Ecuador,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75328,2026-08-19
+sup_wb_863361,863361,DISTRIBUIDORA COMERCIAL S. A. (DICOSA).,DISTRIBUIDORA COMERCIAL S. A. (DICOSA).,HND,Honduras,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76459,2026-08-19
+sup_wb_0cbed94be5d814e2,0cbed94be5d814e2,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,AGO,Angola,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76712,2026-08-19
+sup_wb_25f780497ec7cd02,25f780497ec7cd02,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,DMA,Dominica,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76064,2026-08-19
+sup_wb_06fb8d2bf9327ba8,06fb8d2bf9327ba8,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,COL,Colombia,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75155,2026-08-19
+sup_wb_0ab8f048d6ec829e,0ab8f048d6ec829e,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,DMA,Dominica,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76326,2026-08-19
+sup_wb_0797ba149f68e4c7,0797ba149f68e4c7,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,CMR,Cameroon,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75866,2026-08-19
+sup_wb_727337,727337,SHIVA DAKAL,SHIVA DAKAL,NPL,Nepal,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75487,2026-08-19
+sup_wb_700937,700937,HORIZON CONCEPTS LTD,HORIZON CONCEPTS LTD,NZL,New Zealand,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75327,2026-08-19
+sup_wb_784254,784254,BINOI USTUVOR,BINOI USTUVOR,TJK,Tajikistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,77647,2026-08-19
+sup_wb_494158,494158,EY FORD RHODES CHARTERED ACCOUNTANT,EY FORD RHODES CHARTERED ACCOUNTANT,PAK,Pakistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76456,2026-08-19
+sup_wb_617506,617506,CNS ENGINEERING (PVT.) LIMITED,CNS ENGINEERING (PVT.) LIMITED,PAK,Pakistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76457,2026-08-19
+sup_wb_691279,691279,M/S TALLYMARKS CONSULTING (TMC),M/S TALLYMARKS CONSULTING (TMC),PAK,Pakistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76458,2026-08-19
+sup_wb_7c4ee51f2ab1a7fa,7c4ee51f2ab1a7fa,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PAK,Pakistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75326,2026-08-19
+sup_wb_861852,861852,ACLIS,ACLIS,BDI,Burundi,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76063,2026-08-19
+sup_wb_0557fa81f9d50552,0557fa81f9d50552,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,AGO,Angola,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76711,2026-08-19
+sup_wb_5bb2ed9a2e4a3f5e,5bb2ed9a2e4a3f5e,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,AGO,Angola,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76560,2026-08-19
+sup_wb_818656,818656,RASOAVELONORO AIMÉE,RASOAVELONORO AIMÉE,MDG,Madagascar,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75325,2026-08-19
+sup_wb_06c79a1441a492df,06c79a1441a492df,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,PSE,West Bank and Gaza,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75154,2026-08-19
+sup_wb_856420,856420,SANAAG PROCUREMENT AND LOGISTICS,SANAAG PROCUREMENT AND LOGISTICS,SOM,"Somalia, Federal Republic of",contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75338,2026-08-19
+sup_wb_34990,34990,UNITED NATIONS CHILDREN'S FUND (UNICEF),UNITED NATIONS CHILDREN'S FUND (UNICEF),,World,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75153,2026-08-19
+sup_wb_839257,839257,TIBBI ZAMONAVI,TIBBI ZAMONAVI,TJK,Tajikistan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,76455,2026-08-19
+sup_wb_027de9306ace3e1d,027de9306ace3e1d,INDIVIDUAL CONSULTANT,INDIVIDUAL CONSULTANT,JOR,Jordan,contract supplier,awarded,src_worldbank_finances1,file_worldbank_ds00005_001,75337,2026-08-19

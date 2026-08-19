@@ -1,0 +1,4 @@
+canonical_entity,canonical_field,source_field,rule,lossiness
+procurement_contracts,contract_value,Supplier Contract Amount (USD),Populate only when one supplier row exists for WB Contract Number; otherwise blank,prevents inferred joint-venture total
+contract_suppliers,contract_share_value,Supplier Contract Amount (USD),Preserve source row amount in USD,none
+suppliers,country_code,Supplier Country / Economy Code,Alpha-2 to ISO alpha-3 mapping; unknown left blank,source nonstandard World code left blank

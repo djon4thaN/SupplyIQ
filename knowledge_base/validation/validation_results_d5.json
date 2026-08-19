@@ -1,0 +1,885 @@
+{
+  "phase": "D5",
+  "generated_at": "2026-08-19",
+  "status": "validated_with_gaps",
+  "checks_total": 175,
+  "checks_passed": 175,
+  "checks_failed": 0,
+  "checks": [
+    {
+      "check": "API universe count",
+      "status": "pass",
+      "detail": "86112"
+    },
+    {
+      "check": "selected notices",
+      "status": "pass",
+      "detail": "300"
+    },
+    {
+      "check": "raw XML count",
+      "status": "pass",
+      "detail": "300"
+    },
+    {
+      "check": "XML parse",
+      "status": "pass",
+      "detail": "300/300"
+    },
+    {
+      "check": "eForms roots",
+      "status": "pass",
+      "detail": "300 ContractAwardNotice"
+    },
+    {
+      "check": "SDK coverage",
+      "status": "pass",
+      "detail": "{'eforms-sdk-1.10': 71, 'eforms-sdk-1.12': 129, 'eforms-sdk-1.7': 28, 'eforms-sdk-1.9': 17, 'eforms-sdk-1.11': 37, 'eforms-sdk-1.8': 18}"
+    },
+    {
+      "check": "raw XML identity",
+      "status": "pass",
+      "detail": "300/300 filenames match NoticePublicationID"
+    },
+    {
+      "check": "schema width award_suppliers.csv",
+      "status": "pass",
+      "detail": "783 records"
+    },
+    {
+      "check": "exact duplicates award_suppliers.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 award_suppliers.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells award_suppliers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection award_suppliers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width buyers.csv",
+      "status": "pass",
+      "detail": "286 records"
+    },
+    {
+      "check": "exact duplicates buyers.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 buyers.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells buyers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection buyers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width categories.csv",
+      "status": "pass",
+      "detail": "218 records"
+    },
+    {
+      "check": "exact duplicates categories.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 categories.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells categories.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection categories.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width contract_awards.csv",
+      "status": "pass",
+      "detail": "735 records"
+    },
+    {
+      "check": "exact duplicates contract_awards.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 contract_awards.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells contract_awards.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection contract_awards.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width contract_lots.csv",
+      "status": "pass",
+      "detail": "800 records"
+    },
+    {
+      "check": "exact duplicates contract_lots.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 contract_lots.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells contract_lots.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection contract_lots.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width contract_suppliers.csv",
+      "status": "pass",
+      "detail": "862 records"
+    },
+    {
+      "check": "exact duplicates contract_suppliers.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 contract_suppliers.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells contract_suppliers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection contract_suppliers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width notice_buyers.csv",
+      "status": "pass",
+      "detail": "349 records"
+    },
+    {
+      "check": "exact duplicates notice_buyers.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 notice_buyers.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells notice_buyers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection notice_buyers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width procurement_awards.csv",
+      "status": "pass",
+      "detail": "849 records"
+    },
+    {
+      "check": "exact duplicates procurement_awards.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 procurement_awards.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells procurement_awards.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection procurement_awards.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width procurement_contracts.csv",
+      "status": "pass",
+      "detail": "740 records"
+    },
+    {
+      "check": "exact duplicates procurement_contracts.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 procurement_contracts.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells procurement_contracts.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection procurement_contracts.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width procurement_lots.csv",
+      "status": "pass",
+      "detail": "846 records"
+    },
+    {
+      "check": "exact duplicates procurement_lots.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 procurement_lots.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells procurement_lots.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection procurement_lots.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width procurement_notices.csv",
+      "status": "pass",
+      "detail": "300 records"
+    },
+    {
+      "check": "exact duplicates procurement_notices.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 procurement_notices.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells procurement_notices.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection procurement_notices.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width procurement_procedures.csv",
+      "status": "pass",
+      "detail": "274 records"
+    },
+    {
+      "check": "exact duplicates procurement_procedures.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 procurement_procedures.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells procurement_procedures.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection procurement_procedures.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width product_projects.csv",
+      "status": "pass",
+      "detail": "154 records"
+    },
+    {
+      "check": "exact duplicates product_projects.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 product_projects.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells product_projects.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection product_projects.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width products.csv",
+      "status": "pass",
+      "detail": "152 records"
+    },
+    {
+      "check": "exact duplicates products.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 products.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells products.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection products.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width projects.csv",
+      "status": "pass",
+      "detail": "19 records"
+    },
+    {
+      "check": "exact duplicates projects.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 projects.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells projects.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection projects.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width supplier_products.csv",
+      "status": "pass",
+      "detail": "186 records"
+    },
+    {
+      "check": "exact duplicates supplier_products.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 supplier_products.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells supplier_products.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection supplier_products.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "schema width suppliers.csv",
+      "status": "pass",
+      "detail": "594 records"
+    },
+    {
+      "check": "exact duplicates suppliers.csv",
+      "status": "pass",
+      "detail": "0 expected"
+    },
+    {
+      "check": "UTF-8 suppliers.csv",
+      "status": "pass",
+      "detail": "decoded"
+    },
+    {
+      "check": "forbidden cells suppliers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV injection suppliers.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "unique IDs suppliers.csv",
+      "status": "pass",
+      "detail": "594"
+    },
+    {
+      "check": "unique IDs buyers.csv",
+      "status": "pass",
+      "detail": "286"
+    },
+    {
+      "check": "unique IDs procurement_notices.csv",
+      "status": "pass",
+      "detail": "300"
+    },
+    {
+      "check": "unique IDs procurement_procedures.csv",
+      "status": "pass",
+      "detail": "274"
+    },
+    {
+      "check": "unique IDs procurement_lots.csv",
+      "status": "pass",
+      "detail": "846"
+    },
+    {
+      "check": "unique IDs procurement_awards.csv",
+      "status": "pass",
+      "detail": "849"
+    },
+    {
+      "check": "unique IDs procurement_contracts.csv",
+      "status": "pass",
+      "detail": "740"
+    },
+    {
+      "check": "unique IDs categories.csv",
+      "status": "pass",
+      "detail": "218"
+    },
+    {
+      "check": "unique IDs notice_buyers.csv",
+      "status": "pass",
+      "detail": "349"
+    },
+    {
+      "check": "unique IDs award_suppliers.csv",
+      "status": "pass",
+      "detail": "783"
+    },
+    {
+      "check": "unique IDs contract_suppliers.csv",
+      "status": "pass",
+      "detail": "862"
+    },
+    {
+      "check": "unique IDs contract_lots.csv",
+      "status": "pass",
+      "detail": "800"
+    },
+    {
+      "check": "unique IDs contract_awards.csv",
+      "status": "pass",
+      "detail": "735"
+    },
+    {
+      "check": "FK notices.procedure",
+      "status": "pass",
+      "detail": "300 references"
+    },
+    {
+      "check": "FK lots.notice",
+      "status": "pass",
+      "detail": "846 references"
+    },
+    {
+      "check": "FK lots.procedure",
+      "status": "pass",
+      "detail": "846 references"
+    },
+    {
+      "check": "FK awards.notice",
+      "status": "pass",
+      "detail": "849 references"
+    },
+    {
+      "check": "FK awards.lot",
+      "status": "pass",
+      "detail": "849 references"
+    },
+    {
+      "check": "FK contracts.procedure",
+      "status": "pass",
+      "detail": "740 references"
+    },
+    {
+      "check": "FK notice_buyers.notice",
+      "status": "pass",
+      "detail": "349 references"
+    },
+    {
+      "check": "FK notice_buyers.buyer",
+      "status": "pass",
+      "detail": "349 references"
+    },
+    {
+      "check": "FK award_suppliers.award",
+      "status": "pass",
+      "detail": "783 references"
+    },
+    {
+      "check": "FK award_suppliers.supplier",
+      "status": "pass",
+      "detail": "783 references"
+    },
+    {
+      "check": "FK contract_suppliers.contract",
+      "status": "pass",
+      "detail": "862 references"
+    },
+    {
+      "check": "FK contract_suppliers.supplier",
+      "status": "pass",
+      "detail": "862 references"
+    },
+    {
+      "check": "FK contract_lots.contract",
+      "status": "pass",
+      "detail": "800 references"
+    },
+    {
+      "check": "FK contract_lots.lot",
+      "status": "pass",
+      "detail": "800 references"
+    },
+    {
+      "check": "FK contract_awards.contract",
+      "status": "pass",
+      "detail": "735 references"
+    },
+    {
+      "check": "FK contract_awards.award",
+      "status": "pass",
+      "detail": "735 references"
+    },
+    {
+      "check": "provenance source award_suppliers.csv",
+      "status": "pass",
+      "detail": "783 references"
+    },
+    {
+      "check": "provenance file award_suppliers.csv",
+      "status": "pass",
+      "detail": "783 references"
+    },
+    {
+      "check": "provenance source buyers.csv",
+      "status": "pass",
+      "detail": "286 references"
+    },
+    {
+      "check": "provenance file buyers.csv",
+      "status": "pass",
+      "detail": "286 references"
+    },
+    {
+      "check": "ISO dates buyers.csv.collected_at",
+      "status": "pass",
+      "detail": "286 populated"
+    },
+    {
+      "check": "provenance source categories.csv",
+      "status": "pass",
+      "detail": "218 references"
+    },
+    {
+      "check": "provenance source contract_awards.csv",
+      "status": "pass",
+      "detail": "735 references"
+    },
+    {
+      "check": "provenance file contract_awards.csv",
+      "status": "pass",
+      "detail": "735 references"
+    },
+    {
+      "check": "provenance source contract_lots.csv",
+      "status": "pass",
+      "detail": "800 references"
+    },
+    {
+      "check": "provenance file contract_lots.csv",
+      "status": "pass",
+      "detail": "800 references"
+    },
+    {
+      "check": "provenance source contract_suppliers.csv",
+      "status": "pass",
+      "detail": "862 references"
+    },
+    {
+      "check": "provenance file contract_suppliers.csv",
+      "status": "pass",
+      "detail": "862 references"
+    },
+    {
+      "check": "provenance source notice_buyers.csv",
+      "status": "pass",
+      "detail": "349 references"
+    },
+    {
+      "check": "provenance file notice_buyers.csv",
+      "status": "pass",
+      "detail": "349 references"
+    },
+    {
+      "check": "provenance source procurement_awards.csv",
+      "status": "pass",
+      "detail": "849 references"
+    },
+    {
+      "check": "provenance file procurement_awards.csv",
+      "status": "pass",
+      "detail": "849 references"
+    },
+    {
+      "check": "ISO dates procurement_awards.csv.award_date",
+      "status": "pass",
+      "detail": "849 populated"
+    },
+    {
+      "check": "ISO dates procurement_awards.csv.collected_at",
+      "status": "pass",
+      "detail": "849 populated"
+    },
+    {
+      "check": "provenance source procurement_contracts.csv",
+      "status": "pass",
+      "detail": "740 references"
+    },
+    {
+      "check": "provenance file procurement_contracts.csv",
+      "status": "pass",
+      "detail": "740 references"
+    },
+    {
+      "check": "ISO dates procurement_contracts.csv.contract_date",
+      "status": "pass",
+      "detail": "725 populated"
+    },
+    {
+      "check": "ISO dates procurement_contracts.csv.start_date",
+      "status": "pass",
+      "detail": "0 populated"
+    },
+    {
+      "check": "ISO dates procurement_contracts.csv.end_date",
+      "status": "pass",
+      "detail": "0 populated"
+    },
+    {
+      "check": "ISO dates procurement_contracts.csv.collected_at",
+      "status": "pass",
+      "detail": "740 populated"
+    },
+    {
+      "check": "provenance source procurement_lots.csv",
+      "status": "pass",
+      "detail": "846 references"
+    },
+    {
+      "check": "provenance file procurement_lots.csv",
+      "status": "pass",
+      "detail": "846 references"
+    },
+    {
+      "check": "ISO dates procurement_lots.csv.collected_at",
+      "status": "pass",
+      "detail": "846 populated"
+    },
+    {
+      "check": "provenance source procurement_notices.csv",
+      "status": "pass",
+      "detail": "300 references"
+    },
+    {
+      "check": "provenance file procurement_notices.csv",
+      "status": "pass",
+      "detail": "300 references"
+    },
+    {
+      "check": "ISO dates procurement_notices.csv.publication_date",
+      "status": "pass",
+      "detail": "300 populated"
+    },
+    {
+      "check": "ISO dates procurement_notices.csv.deadline_date",
+      "status": "pass",
+      "detail": "0 populated"
+    },
+    {
+      "check": "ISO dates procurement_notices.csv.collected_at",
+      "status": "pass",
+      "detail": "300 populated"
+    },
+    {
+      "check": "provenance source procurement_procedures.csv",
+      "status": "pass",
+      "detail": "274 references"
+    },
+    {
+      "check": "provenance file procurement_procedures.csv",
+      "status": "pass",
+      "detail": "274 references"
+    },
+    {
+      "check": "ISO dates procurement_procedures.csv.publication_date",
+      "status": "pass",
+      "detail": "274 populated"
+    },
+    {
+      "check": "ISO dates procurement_procedures.csv.collected_at",
+      "status": "pass",
+      "detail": "274 populated"
+    },
+    {
+      "check": "provenance source product_projects.csv",
+      "status": "pass",
+      "detail": "154 references"
+    },
+    {
+      "check": "provenance file product_projects.csv",
+      "status": "pass",
+      "detail": "154 references"
+    },
+    {
+      "check": "provenance source products.csv",
+      "status": "pass",
+      "detail": "152 references"
+    },
+    {
+      "check": "provenance file products.csv",
+      "status": "pass",
+      "detail": "152 references"
+    },
+    {
+      "check": "ISO dates products.csv.collected_at",
+      "status": "pass",
+      "detail": "152 populated"
+    },
+    {
+      "check": "provenance source projects.csv",
+      "status": "pass",
+      "detail": "19 references"
+    },
+    {
+      "check": "provenance file projects.csv",
+      "status": "pass",
+      "detail": "19 references"
+    },
+    {
+      "check": "ISO dates projects.csv.collected_at",
+      "status": "pass",
+      "detail": "19 populated"
+    },
+    {
+      "check": "provenance source supplier_products.csv",
+      "status": "pass",
+      "detail": "186 references"
+    },
+    {
+      "check": "provenance file supplier_products.csv",
+      "status": "pass",
+      "detail": "186 references"
+    },
+    {
+      "check": "provenance source suppliers.csv",
+      "status": "pass",
+      "detail": "594 references"
+    },
+    {
+      "check": "provenance file suppliers.csv",
+      "status": "pass",
+      "detail": "594 references"
+    },
+    {
+      "check": "ISO dates suppliers.csv.collected_at",
+      "status": "pass",
+      "detail": "594 populated"
+    },
+    {
+      "check": "semantic pairs notice_buyers.csv",
+      "status": "pass",
+      "detail": "0 duplicates"
+    },
+    {
+      "check": "semantic pairs award_suppliers.csv",
+      "status": "pass",
+      "detail": "0 duplicates"
+    },
+    {
+      "check": "semantic pairs contract_suppliers.csv",
+      "status": "pass",
+      "detail": "0 duplicates"
+    },
+    {
+      "check": "semantic pairs contract_lots.csv",
+      "status": "pass",
+      "detail": "0 duplicates"
+    },
+    {
+      "check": "semantic pairs contract_awards.csv",
+      "status": "pass",
+      "detail": "0 duplicates"
+    }
+  ]
+}

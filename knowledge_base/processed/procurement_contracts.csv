@@ -1,0 +1,1051 @@
+contract_id,source_contract_id,award_id,lot_id,procedure_id,contract_title,contract_status,contract_value,currency_code,contract_date,start_date,end_date,category_id,country_code,source_id,source_file_id,source_record_id,collected_at
+con_00001,CON-0001 - Hanack und Partner,awd_00004,lot_00004,pro_0001,,,,,2024-12-31,,,cat_0001,DEU,src_ted_opendata,file_ted_0001,contract:CON-0001,2026-08-19
+con_00002,CON-0002 - Hanack und Partner,,,pro_0001,,,,,2024-12-03,,,,DEU,src_ted_opendata,file_ted_0001,contract:CON-0002,2026-08-19
+con_00003,3/FNS/2024,awd_00006,lot_00006,pro_0002,Umowa,,,,2024-11-27,,,cat_0002,POL,src_ted_opendata,file_ted_0002,contract:CON-0001,2026-08-19
+con_00004,ND2024/0259,awd_00007,lot_00007,pro_0003,POGODBA ST. ND2024/0259 ZA IZVAJANJE GRADBENIH DEL NA OBJEKTU NN KBV KASTRA 4 (DE Gorica),,,,2024-12-24,,,cat_0003,SVN,src_ted_opendata,file_ted_0003,contract:CON-0000,2026-08-19
+con_00005,ZP-107/2024,awd_00009,lot_00009,pro_0005,,,,,2024-12-23,,,cat_0006,POL,src_ted_opendata,file_ted_0005,contract:CON-0001,2026-08-19
+con_00006,STUK 31/2100/2023,awd_00010,lot_00010,pro_0006,,,,,2024-12-20,,,cat_0007,FIN,src_ted_opendata,file_ted_0006,contract:CON-0001,2026-08-19
+con_00007,WG.272.340.2024,awd_00011,lot_00011,pro_0007,Umowa na usługę odbioru i zagospodarowania odpadów komunalnych od właścicieli nieruchomości zamieszkałych na terenie gminy Lubomia w roku 2025,,,,2024-12-30,,,cat_0008,POL,src_ted_opendata,file_ted_0007,contract:CON-0001,2026-08-19
+con_00008,24m89/176,awd_00012,lot_00012,pro_0008,Mt13 - Accord-cadre d'accompagnement et de balisage,,,,2024-12-20,,,cat_0009,FRA,src_ted_opendata,file_ted_0008,contract:CON-0001,2026-08-19
+con_00009,1436,,,pro_0009,,,,,2024-12-30,,,,ROU,src_ted_opendata,file_ted_0009,contract:CON-0001,2026-08-19
+con_00010,1435,,,pro_0009,,,,,2024-12-30,,,,ROU,src_ted_opendata,file_ted_0009,contract:CON-0002,2026-08-19
+con_00011,1434,,,pro_0009,,,,,2024-12-30,,,,ROU,src_ted_opendata,file_ted_0009,contract:CON-0003,2026-08-19
+con_00012,1433,,,pro_0009,,,,,2024-12-30,,,,ROU,src_ted_opendata,file_ted_0009,contract:CON-0004,2026-08-19
+con_00013,RIG.272.133.2024.RM,awd_00031,lot_00031,pro_0010,,,,,2024-12-03,,,cat_0013,POL,src_ted_opendata,file_ted_0010,contract:CON-0001,2026-08-19
+con_00014,Umowa SAFEGE,awd_00033,lot_00033,pro_0012,Umowa SAFEGE,,,,2024-12-30,,,cat_0015,POL,src_ted_opendata,file_ted_0012,contract:CON-0001,2026-08-19
+con_00015,91-01.PN-APT.2024 (część nr 3),awd_00034,lot_00034,pro_0013,Część nr 3,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0001,2026-08-19
+con_00016,91-01.PN-APT.2024 (część nr 4),awd_00035,lot_00035,pro_0013,Część nr 4,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0002,2026-08-19
+con_00017,91-02.PN-APT.2024 (część nr 10),awd_00036,lot_00036,pro_0013,Część nr 10,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0003,2026-08-19
+con_00018,91-02.PN-APT.2024 (część nr 12),awd_00037,lot_00037,pro_0013,Część nr 12,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0004,2026-08-19
+con_00019,91-02.PN-APT.2024 (część nr 14),awd_00038,lot_00038,pro_0013,Część nr 14,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0005,2026-08-19
+con_00020,91-02.PN-APT.2024 (część nr 16),awd_00039,lot_00039,pro_0013,Część nr 16,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0006,2026-08-19
+con_00021,91-02.PN-APT.2024 (część nr 18),awd_00040,lot_00040,pro_0013,Część nr 18,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0007,2026-08-19
+con_00022,91-02.PN-APT.2024 (część nr 20),awd_00041,lot_00041,pro_0013,Część nr 20,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0008,2026-08-19
+con_00023,91-02.PN-APT.2024 (część nr 21),awd_00042,lot_00042,pro_0013,Część nr 21,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0009,2026-08-19
+con_00024,91-02.PN-APT.2024 (część nr 22),awd_00043,lot_00043,pro_0013,Część nr 22,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0010,2026-08-19
+con_00025,91-01.PN-APT.2024 (część nr 24),awd_00044,lot_00044,pro_0013,Część nr 24,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0011,2026-08-19
+con_00026,91-01.PN-APT.2024 (część nr 27),awd_00045,lot_00045,pro_0013,Część nr 27,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0012,2026-08-19
+con_00027,91-02.PN-APT.2024 (część nr 30),awd_00046,lot_00046,pro_0013,Część nr 30,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0013,2026-08-19
+con_00028,91-02.PN-APT.2024 (część nr 32),awd_00047,lot_00047,pro_0013,Część nr 32,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0014,2026-08-19
+con_00029,91-01.PN-APT.2024 (część nr 43),awd_00048,lot_00048,pro_0013,Część nr 43,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0015,2026-08-19
+con_00030,91-01.PN-APT.2024 (część nr 93),awd_00049,lot_00049,pro_0013,Część nr 93,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0016,2026-08-19
+con_00031,91-01.PN-APT.2024 (część nr 94),awd_00050,lot_00050,pro_0013,Część nr 94,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0017,2026-08-19
+con_00032,91-01.PN-APT.2024 (część nr 95),awd_00051,lot_00051,pro_0013,Część nr 95,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0018,2026-08-19
+con_00033,91-01.PN-APT.2024 (część nr 96),awd_00052,lot_00052,pro_0013,Część nr 96,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0019,2026-08-19
+con_00034,91-01.PN-APT.2024 (część nr 97),awd_00053,lot_00053,pro_0013,Część nr 97,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0020,2026-08-19
+con_00035,91-01.PN-APT.2024 (część nr 98),awd_00054,lot_00054,pro_0013,Część nr 98,,,,2024-12-20,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0021,2026-08-19
+con_00036,91-02.PN-APT.2024 (część nr 102),awd_00055,lot_00055,pro_0013,Część nr 102,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0023,2026-08-19
+con_00037,91-02.PN-APT.2024 (część nr 103),awd_00056,lot_00056,pro_0013,Część nr 103,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0024,2026-08-19
+con_00038,91-02.PN-APT.2024 (część nr 104),awd_00057,lot_00057,pro_0013,Część nr 104,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0025,2026-08-19
+con_00039,91-02.PN-APT.2024 (część nr 105),awd_00058,lot_00058,pro_0013,Część nr 105,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0026,2026-08-19
+con_00040,91-02.PN-APT.2024 (część nr 106),awd_00059,lot_00059,pro_0013,Część nr 106,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0027,2026-08-19
+con_00041,91-02.PN-APT.2024 (część nr 109),awd_00060,lot_00060,pro_0013,Część nr 109,,,,2024-12-19,,,cat_0016,POL,src_ted_opendata,file_ted_0013,contract:CON-0028,2026-08-19
+con_00042,HM 2024-66,awd_00061,lot_00061,pro_0014,Hankeleping,,,,2024-12-30,,,cat_0017,EST,src_ted_opendata,file_ted_0014,contract:CON-0001,2026-08-19
+con_00043,część 32,awd_00062,lot_00062,pro_0015,,,,,2024-12-16,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0001,2026-08-19
+con_00044,część 33,awd_00063,lot_00063,pro_0015,,,,,2024-12-16,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0002,2026-08-19
+con_00045,część 34,awd_00064,lot_00064,pro_0015,,,,,2024-11-29,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0003,2026-08-19
+con_00046,część 35,awd_00065,lot_00065,pro_0015,,,,,2024-12-16,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0004,2026-08-19
+con_00047,część 36,awd_00066,lot_00066,pro_0015,,,,,2024-12-16,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0005,2026-08-19
+con_00048,część 37,awd_00067,lot_00067,pro_0015,,,,,2024-12-16,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0006,2026-08-19
+con_00049,część 38,awd_00068,lot_00068,pro_0015,,,,,2024-11-29,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0007,2026-08-19
+con_00050,część 39,awd_00069,lot_00069,pro_0015,,,,,2024-11-29,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0008,2026-08-19
+con_00051,część 40,awd_00070,lot_00070,pro_0015,,,,,2024-11-29,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0009,2026-08-19
+con_00052,część 41,awd_00071,lot_00071,pro_0015,,,,,2024-12-16,,,cat_0018,POL,src_ted_opendata,file_ted_0015,contract:CON-0010,2026-08-19
+con_00053,1037,awd_00072,lot_00072,pro_0016,"Servizio gestione utenze servizio idrico, istallazione e lettura misuratori idrici, bollettazione contrasto alle morositÃÃÂ riscossione coatttiva corrispettivi dovuti marano di Napoli",,,,2024-12-31,,,cat_0019,ITA,src_ted_opendata,file_ted_0016,contract:CON-0001,2026-08-19
+con_00054,1,awd_00073,lot_00073,pro_0017,Pogodba št. JN 105/2024,,,,2024-12-24,,,cat_0020,SVN,src_ted_opendata,file_ted_0017,contract:CON-0000,2026-08-19
+con_00055,Umowa K.275.478.2024.(ZPU.3),awd_00074,lot_00074,pro_0018,,,,,2024-12-16,,,cat_0021,POL,src_ted_opendata,file_ted_0018,contract:CON-0001,2026-08-19
+con_00056,ZP.272.1.22.2024,awd_00075,lot_00075,pro_0019,"Odbiór i zagospodarowywanie odpadów komunalnych pochodzących z nieruchomości zamieszkałych położonych na terenie Gminy Grabica, powiat piotrkowski, woj. łódzkie",,,,2024-12-27,,,cat_0022,POL,src_ted_opendata,file_ted_0019,contract:CON-0001,2026-08-19
+con_00057,CRU.864.2024,awd_00076,lot_00076,pro_0020,,,,,2024-12-20,,,cat_0023,POL,src_ted_opendata,file_ted_0020,contract:CON-0001,2026-08-19
+con_00058,24-077s,awd_00079,lot_00079,pro_0021,Entretien de la robinetterie,,,,2024-12-09,,,cat_0024,FRA,src_ted_opendata,file_ted_0023,contract:CON-0001,2026-08-19
+con_00059,4377AAT,,,pro_0022,,,,,2024-11-26,,,,ROU,src_ted_opendata,file_ted_0024,contract:CON-0001,2026-08-19
+con_00060,4378AAT,awd_00084,lot_00082,pro_0022,,,,,2024-11-26,,,cat_0018,ROU,src_ted_opendata,file_ted_0024,contract:CON-0002,2026-08-19
+con_00061,4376AAT,awd_00085,lot_00087,pro_0022,,,,,2024-11-26,,,cat_0018,ROU,src_ted_opendata,file_ted_0024,contract:CON-0003,2026-08-19
+con_00062,4393 AAT,awd_00086,lot_00085,pro_0022,,,,,2024-11-26,,,cat_0018,ROU,src_ted_opendata,file_ted_0024,contract:CON-0004,2026-08-19
+con_00063,4376 E,awd_00087,lot_00080,pro_0022,,,,,2024-11-26,,,cat_0018,ROU,src_ted_opendata,file_ted_0024,contract:CON-0005,2026-08-19
+con_00064,2024 01 00 DE,awd_00089,lot_00089,pro_0023,,,,,2024-11-18,,,cat_0025,FRA,src_ted_opendata,file_ted_0025,contract:CON-0001,2026-08-19
+con_00065,1,awd_00090,lot_00090,pro_0024,14. ΠΡΟΜΗΘΕΙΑ ΦΥΓΟΚΕΝΤΡΟΣ 32 ΘΕΣΕΩΝ,,,,2024-12-11,,,cat_0026,GRC,src_ted_opendata,file_ted_0026,contract:CON-0001,2026-08-19
+con_00066,KU.241/pn64_2024/AT,awd_00092,lot_00092,pro_0026,,,,,2024-12-23,,,cat_0028,POL,src_ted_opendata,file_ted_0028,contract:CON-0001,2026-08-19
+con_00067,2024-031,awd_00093,lot_00093,pro_0027,Fourniture et livraison de repas cuisinés à l'avance conservés par le froid destinés à la restauration scolaire de la ville de Saint-Laurent-du-Var,,,,2024-12-30,,,cat_0029,FRA,src_ted_opendata,file_ted_0029,contract:CON-0001,2026-08-19
+con_00068,01SIM/10/2024,awd_00094,lot_00094,pro_0028,Wykonanie dokumentacji projektowej wraz z pełnieniem nadzoru autorskiego oraz uzyskaniem pozwolenia na budowę dla zadania pn. Budowa osiedla Wojszyce 1,,,,2024-12-03,,,cat_0030,POL,src_ted_opendata,file_ted_0030,contract:CON-0001,2026-08-19
+con_00069,27/2024/JC/03/PA/27,awd_00095,lot_00095,pro_0029,,,,,2024-12-18,,,cat_0031,ESP,src_ted_opendata,file_ted_0031,contract:CON-0001,2026-08-19
+con_00070,2024m084,awd_00096,lot_00096,pro_0030,Transport et stockage de déchets non incinérables,,,,2024-12-19,,,cat_0027,FRA,src_ted_opendata,file_ted_0032,contract:CON-0001,2026-08-19
+con_00071,RÁMCOVÁ KÚPNA ZMLUVA 281/24,awd_00097,lot_00097,pro_0031,Rámcová kúpna zmluva,,,,2024-12-18,,,cat_0032,SVK,src_ted_opendata,file_ted_0033,contract:CON-0001,2026-08-19
+con_00072,RÁMCOVÁ KÚPNA ZMLUVA 283/24,awd_00098,lot_00097,pro_0031,Rámcová kúpna zmluva,,,,2024-12-18,,,cat_0032,SVK,src_ted_opendata,file_ted_0033,contract:CON-0002,2026-08-19
+con_00073,RÁMCOVÁ KÚPNA ZMLUVA 282/24,awd_00099,lot_00097,pro_0031,Rámcová kúpna zmluva,,,,2024-12-18,,,cat_0032,SVK,src_ted_opendata,file_ted_0033,contract:CON-0003,2026-08-19
+con_00074,ND2024/0267,,,pro_0032,POGODBA ZA DOBAVO MATERIALA IN OPREME ZA IZGRADNJO ELEKTRODISTRIBUCIJSKEGA OMREZJA (sklop St. 13.2 Ohisje BMTP TP Sepulje namenska enkratna nabava) St. ND2024/0267,,,,2024-12-24,,,,SVN,src_ted_opendata,file_ted_0034,contract:CON-0000,2026-08-19
+con_00075,CRU.865.2024,awd_00103,lot_00101,pro_0033,,,,,2024-12-18,,,cat_0034,POL,src_ted_opendata,file_ted_0035,contract:CON-0001,2026-08-19
+con_00076,A2024032_01,awd_00104,lot_00102,pro_0034,Un accord-cadre composés de 3 lots pour les travaux de la Direction de l'Eau et de l'Assainissement -Communauté D'Agglomération du Puy en Velay,,,,2024-11-07,,,cat_0035,FRA,src_ted_opendata,file_ted_0036,contract:CON-0001,2026-08-19
+con_00077,A2024032_02,awd_00105,lot_00103,pro_0034,"Travaux de grosses réparations, extensions et renouvellement des réseaux en zone urbaine",,,,2024-11-07,,,cat_0035,FRA,src_ted_opendata,file_ted_0036,contract:CON-0002,2026-08-19
+con_00078,A2024032_03,awd_00106,lot_00104,pro_0034,Un accord-cadre composés de 3 lots pour les travaux de la Direction de l'Eau et de l'Assainissement -Communauté D'Agglomération du Puy en Velay,,,,2024-11-07,,,cat_0035,FRA,src_ted_opendata,file_ted_0036,contract:CON-0003,2026-08-19
+con_00079,Contratto : - Lotto n.3,awd_00107,lot_00105,pro_0035,,,,,2024-12-31,,,cat_0036,ITA,src_ted_opendata,file_ted_0037,contract:CON-0003,2026-08-19
+con_00080,177597,awd_00109,lot_00107,pro_0036,"Обособена позиция 1: ""Доставка на електрическа енергия за обекти, общинска собственост“",,,,2024-12-03,,,cat_0037,BGR,src_ted_opendata,file_ted_0039,contract:CON-0001,2026-08-19
+con_00081,177609,awd_00110,lot_00108,pro_0036,Обособена позиция 2: „Доставка на електрическа енергия за улично осветление на територията на община Кюстендил“,,,,2024-12-03,,,cat_0037,BGR,src_ted_opendata,file_ted_0039,contract:CON-0002,2026-08-19
+con_00082,PN/05-1/2024,awd_00111,lot_00109,pro_0037,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0040,contract:CON-0001,2026-08-19
+con_00083,PN/05-2/2024,awd_00112,lot_00110,pro_0037,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0040,contract:CON-0002,2026-08-19
+con_00084,PN/05-3/2024,awd_00113,lot_00111,pro_0037,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0040,contract:CON-0003,2026-08-19
+con_00085,PN/05-4/2024,awd_00114,lot_00112,pro_0037,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0040,contract:CON-0004,2026-08-19
+con_00086,PN/05-5/2024,awd_00115,lot_00113,pro_0037,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0040,contract:CON-0005,2026-08-19
+con_00087,PN/05-6/2024,awd_00116,lot_00114,pro_0037,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0040,contract:CON-0006,2026-08-19
+con_00088,PN/05-7/2024,awd_00117,lot_00115,pro_0037,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0040,contract:CON-0007,2026-08-19
+con_00089,1,,,pro_0038,,,,,2024-12-27,,,,ESP,src_ted_opendata,file_ted_0041,contract:CON-0001,2026-08-19
+con_00090,LOT 1,awd_00121,lot_00119,pro_0039,,,,,2024-12-17,,,cat_0040,FRA,src_ted_opendata,file_ted_0042,contract:CON-0001,2026-08-19
+con_00091,LOT 4,awd_00122,lot_00122,pro_0039,,,,,2024-12-17,,,cat_0042,FRA,src_ted_opendata,file_ted_0042,contract:CON-0004,2026-08-19
+con_00092,LOT 3,awd_00123,lot_00121,pro_0039,,,,,2024-12-17,,,cat_0041,FRA,src_ted_opendata,file_ted_0042,contract:CON-0003,2026-08-19
+con_00093,LOT 2,awd_00124,lot_00120,pro_0039,,,,,2024-12-17,,,cat_0041,FRA,src_ted_opendata,file_ted_0042,contract:CON-0002,2026-08-19
+con_00094,227,awd_00125,lot_00131,pro_0040,,,,,2024-09-27,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0015,2026-08-19
+con_00095,265,awd_00126,lot_00138,pro_0040,,,,,2024-10-03,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0016,2026-08-19
+con_00096,263,awd_00127,lot_00135,pro_0040,,,,,2024-10-03,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0017,2026-08-19
+con_00097,334,awd_00128,lot_00127,pro_0040,,,,,2024-11-29,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0018,2026-08-19
+con_00098,259,awd_00129,lot_00126,pro_0040,,,,,2024-10-02,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0019,2026-08-19
+con_00099,226,awd_00130,lot_00123,pro_0040,,,,,2024-09-27,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0020,2026-08-19
+con_00100,305,awd_00131,lot_00128,pro_0040,,,,,2024-10-31,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0021,2026-08-19
+con_00101,225,awd_00132,lot_00134,pro_0040,,,,,2024-09-27,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0022,2026-08-19
+con_00102,248,awd_00133,lot_00125,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0023,2026-08-19
+con_00103,262,awd_00134,lot_00136,pro_0040,,,,,2024-10-02,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0024,2026-08-19
+con_00104,238,,lot_00127,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0001,2026-08-19
+con_00105,237,,lot_00126,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0002,2026-08-19
+con_00106,242,,lot_00135,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0007,2026-08-19
+con_00107,243,,lot_00136,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0008,2026-08-19
+con_00108,244,awd_00135,lot_00137,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0009,2026-08-19
+con_00109,240,awd_00136,lot_00129,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0003,2026-08-19
+con_00110,241,awd_00137,lot_00133,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0010,2026-08-19
+con_00111,239,,lot_00128,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0004,2026-08-19
+con_00112,221,,lot_00134,pro_0040,,,,,2024-09-27,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0011,2026-08-19
+con_00113,222,,lot_00123,pro_0040,,,,,2024-09-27,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0005,2026-08-19
+con_00114,223,,lot_00131,pro_0040,,,,,2024-09-27,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0012,2026-08-19
+con_00115,224,awd_00138,lot_00132,pro_0040,,,,,2024-09-27,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0013,2026-08-19
+con_00116,245,,lot_00138,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0014,2026-08-19
+con_00117,236,,lot_00125,pro_0040,,,,,2024-10-01,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0006,2026-08-19
+con_00118,260,,lot_00127,pro_0040,,,,,2024-10-02,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0025,2026-08-19
+con_00119,264,,lot_00137,pro_0040,,,,,2024-10-03,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0026,2026-08-19
+con_00120,278,,lot_00133,pro_0040,,,,,2024-10-15,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0027,2026-08-19
+con_00121,228,,lot_00132,pro_0040,,,,,2024-09-27,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0028,2026-08-19
+con_00122,261,,lot_00129,pro_0040,,,,,2024-10-02,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0029,2026-08-19
+con_00123,331,,lot_00129,pro_0040,,,,,2024-11-22,,,cat_0043,ROU,src_ted_opendata,file_ted_0043,contract:CON-0030,2026-08-19
+con_00124,DZPZ/2650/54UEPN/2024,awd_00141,lot_00139,pro_0041,DZPZ/2650/54UEPN/2024,,,,2024-12-27,,,cat_0044,POL,src_ted_opendata,file_ted_0044,contract:CON-0001,2026-08-19
+con_00125,CS2024/69,awd_00142,lot_00140,pro_0042,,,,,2024-12-26,,,cat_0045,ESP,src_ted_opendata,file_ted_0045,contract:CON-0001,2026-08-19
+con_00126,1,awd_00143,lot_00141,pro_0043,(25)ΠΡΟΜΗΘΕΙΑ AMBU MASK ΑΣΚΟΥΣ ΑΝΑΝΗΨΗΣ ΜΕ ΡΕΖΕΡΒΟΥΑΡ ΟΞΥΓΟΝΟΥ ΠΟΥ ΝΑ ΑΠΟΣΤΕΙΡΩΝΟΝΤΑΙ,,,,2024-12-30,,,cat_0046,GRC,src_ted_opendata,file_ted_0046,contract:CON-0001,2026-08-19
+con_00127,203/P/2024,awd_00144,lot_00142,pro_0044,,,,,2024-12-16,,,cat_0008,POL,src_ted_opendata,file_ted_0047,contract:CON-0001,2026-08-19
+con_00128,204/P/2024,awd_00145,lot_00143,pro_0044,,,,,2024-12-16,,,cat_0008,POL,src_ted_opendata,file_ted_0047,contract:CON-0002,2026-08-19
+con_00129,205/P/2024,awd_00146,lot_00144,pro_0044,,,,,2024-12-16,,,cat_0008,POL,src_ted_opendata,file_ted_0047,contract:CON-0003,2026-08-19
+con_00130,ID126,awd_00147,lot_00145,pro_0045,"SERVIZIO DI ASSICURAZIONE INFORTUNI EX ART. 51 LEGGE 282/2002 E AL D.P.C.M. 3 NOVEMBRE 2010, RCT.O A FAVORE DELLA FEDERAZIONE ITALIANA SURFING SCI NAUTICO E WAKEBOARD (F.I.S.S.W.) CON DECORRENZA DALLE ORE 00:00 DEL 01.01.2025 AL 31.12.2027",,,,2024-12-30,,,cat_0047,ITA,src_ted_opendata,file_ted_0048,contract:CON-0001,2026-08-19
+con_00131,2024-LR-0003,awd_00151,lot_00149,pro_0047,CRM-System,,,,2024-12-24,,,cat_0049,DEU,src_ted_opendata,file_ted_0051,contract:CON-0001,2026-08-19
+con_00132,1,awd_00152,lot_00150,pro_0048,Ajándéktárgyak I.,,,,2024-11-28,,,cat_0050,HUN,src_ted_opendata,file_ted_0052,contract:CON-0001,2026-08-19
+con_00133,2,awd_00153,lot_00151,pro_0048,Egyedi kreatívval emblémázott reklámajándékok,,,,2024-12-09,,,cat_0050,HUN,src_ted_opendata,file_ted_0052,contract:CON-0002,2026-08-19
+con_00134,Vertrag 0001,awd_00154,lot_00152,pro_0049,DBS - Kostüm,,,,2024-12-17,,,cat_0051,AUT,src_ted_opendata,file_ted_0053,contract:CON-0001,2026-08-19
+con_00135,02/JST/2024/0,awd_00155,lot_00153,pro_0050,,,,,2024-12-17,,,cat_0013,POL,src_ted_opendata,file_ted_0054,contract:CON-0001,2026-08-19
+con_00136,Umowa na odbiór i zagospodarowanie odpadów komunalnych,awd_00156,lot_00154,pro_0051,Umowa na odbiór i zagospodarowanie odpadów komunalnych,,,,2024-12-30,,,cat_0052,POL,src_ted_opendata,file_ted_0055,contract:CON-0001,2026-08-19
+con_00137,10017789/DAM/2024,awd_00157,lot_00155,pro_0052,"AQUISIÇÃO DE SERVIÇOS DENOMINADA “CADASTRO E INSPEÇÃO EXPEDITA DE OBRAS DE CONTENÇÃO NA REDE RODOVIÁRIA NACIONAL (RRN), DISTRITO DE COIMBRA""",,,,2024-12-30,,,cat_0053,PRT,src_ted_opendata,file_ted_0056,contract:CON-0001,2026-08-19
+con_00138,762-1355,awd_00158,lot_00156,pro_0053,Fourniture de tables de nuit avec et sans réfrigérateur,,,,2024-12-03,,,cat_0054,BEL,src_ted_opendata,file_ted_0057,contract:CON-0001,2026-08-19
+con_00139,763-1356,awd_00159,lot_00157,pro_0053,Fourniture de tablettes de lit mobiles avec espace de rangement,,,,2024-12-03,,,cat_0054,BEL,src_ted_opendata,file_ted_0057,contract:CON-0002,2026-08-19
+con_00140,764-1361,awd_00160,lot_00158,pro_0053,Fourniture de tablettes de lit mobiles sans espace de rangement,,,,2024-12-03,,,cat_0054,BEL,src_ted_opendata,file_ted_0057,contract:CON-0003,2026-08-19
+con_00141,262/4WSzKzP.SZP.2612.80.2024,awd_00161,lot_00159,pro_0054,,,,,2024-10-04,,,cat_0055,POL,src_ted_opendata,file_ted_0058,contract:CON-0001,2026-08-19
+con_00142,PSS/2024/0000100725L01,awd_00162,lot_00160,pro_0055,,,,,2024-12-29,,,cat_0056,ESP,src_ted_opendata,file_ted_0059,contract:CON-0001,2026-08-19
+con_00143,3/KR-O-JST/2024/B,awd_00163,lot_00161,pro_0056,Umowa o kredyt w rachunku kredytowym dla jednostki samorządu terytorialnego nr 3/KR-O-JST/2024/B,,,,2024-12-30,,,cat_0013,POL,src_ted_opendata,file_ted_0060,contract:CON-0001,2026-08-19
+con_00144,1,awd_00164,lot_00162,pro_0057,,,,,2024-11-18,,,cat_0057,HUN,src_ted_opendata,file_ted_0061,contract:CON-0001,2026-08-19
+con_00145,1.2-15/13674-1,awd_00166,lot_00164,pro_0058,Toidukaupade hankeleping osa 9,,,,2024-12-27,,,cat_0059,EST,src_ted_opendata,file_ted_0062,contract:CON-0016,2026-08-19
+con_00146,1.2-1513675-1,awd_00165,lot_00163,pro_0058,Toidukaupade hankeleping osa 8,,,,2024-12-30,,,cat_0058,EST,src_ted_opendata,file_ted_0062,contract:CON-0015,2026-08-19
+con_00147,LOT 01,awd_00168,lot_00166,pro_0059,,,,,2024-12-16,,,cat_0061,FRA,src_ted_opendata,file_ted_0064,contract:CON-0001,2026-08-19
+con_00148,CPI/04/2024,awd_00169,lot_00167,pro_0060,Aquisição de serviços de higiene e limpeza da Escola Superior Náutica Infante D. Henrique (ENIDH) para 12 meses,,,,2024-12-11,,,cat_0062,PRT,src_ted_opendata,file_ted_0065,contract:CON-0001,2026-08-19
+con_00149,CON-0001,awd_00170,lot_00168,pro_0061,1. Udzielanie świadczeń zdrowotnych w zakresie pielęgniarstwa w Oddziale Intensywnego Nadzoru Kardiologicznego. 2. Udzielanie świadczeń zdrowotnych w zakresie pielęgniarstwa w pozostałych Oddziałach Szpitala w sytuacjach wynikających z zapotrzebowania Udzielającego zamówienia.,,,,2024-12-01,,,cat_0063,POL,src_ted_opendata,file_ted_0066,contract:CON-0001,2026-08-19
+con_00150,umowa1,awd_00171,lot_00169,pro_0062,Świadczenie usług pocztowych wraz z obsługą korespondencji wychodzącej dla Miejskiego Przedsiębiorstwa Wodociągów i Kanalizacji w m.st. Warszawie S.A,,,,2024-12-30,,,cat_0065,POL,src_ted_opendata,file_ted_0067,contract:CON-0001,2026-08-19
+con_00151,311/2024,awd_00172,lot_00170,pro_0063,Usługa zabezpieczenia w przenośne urządzenia sanitarne w 2025 roku,,,,2024-12-31,,,cat_0066,POL,src_ted_opendata,file_ted_0068,contract:CON-0001,2026-08-19
+con_00152,CON-0001 - enercity AG,awd_00173,lot_00171,pro_0064,,,,,2024-12-10,,,cat_0037,DEU,src_ted_opendata,file_ted_0069,contract:CON-0001,2026-08-19
+con_00153,ΦΓ 11Ε/23,awd_00174,lot_00172,pro_0065,,,,,2024-12-31,,,cat_0067,GRC,src_ted_opendata,file_ted_0070,contract:CON-0001,2026-08-19
+con_00154,MAR-24-165,awd_00175,lot_00173,pro_0066,,,,,2024-12-26,,,cat_0068,FRA,src_ted_opendata,file_ted_0071,contract:CON-0001,2026-08-19
+con_00155,UGOVOR BR. VV-06/24-1 za grupu 1,awd_00176,lot_00174,pro_0067,Mlijeko za ugostiteljstvo i trgovinu,,,,2024-12-27,,,cat_0069,HRV,src_ted_opendata,file_ted_0072,contract:CON-0001,2026-08-19
+con_00156,UGOVOR BR. VV-06/24-2 za grupu 2,awd_00177,lot_00175,pro_0067,Sirevi za ugostiteljstvo i trgovinu,,,,2024-12-27,,,cat_0069,HRV,src_ted_opendata,file_ted_0072,contract:CON-0002,2026-08-19
+con_00157,UGOVOR BR. VV-06/24-3 za grupu 3,awd_00178,lot_00176,pro_0067,"Mliječni proizvodi: jogurt, vrhnje i maslac",,,,2024-12-27,,,cat_0069,HRV,src_ted_opendata,file_ted_0072,contract:CON-0003,2026-08-19
+con_00158,UGOVOR BR. VV-06/24-4 za grupu 4,awd_00179,lot_00177,pro_0067,Ostali mliječni proizvodi za trgovinu,,,,2024-12-27,,,cat_0069,HRV,src_ted_opendata,file_ted_0072,contract:CON-0004,2026-08-19
+con_00159,UGOVOR BR. VV-06/24-5 za grupu 5,awd_00180,lot_00178,pro_0067,Sirevi za pizze i tjestenine,,,,2024-12-18,,,cat_0069,HRV,src_ted_opendata,file_ted_0072,contract:CON-0005,2026-08-19
+con_00160,451-617,awd_00181,lot_00179,pro_0068,Aanstelling externe dienst voor technische controle (EDTC),,,,2024-12-18,,,cat_0070,BEL,src_ted_opendata,file_ted_0073,contract:CON-0001,2026-08-19
+con_00161,24.47,awd_00182,lot_00180,pro_0069,,,,,2024-12-16,,,cat_0071,FRA,src_ted_opendata,file_ted_0074,contract:CON-0001,2026-08-19
+con_00162,24.48,,,pro_0069,,,,,2024-12-16,,,,FRA,src_ted_opendata,file_ted_0074,contract:CON-0002,2026-08-19
+con_00163,24.49,awd_00184,lot_00182,pro_0069,,,,,2024-12-16,,,cat_0071,FRA,src_ted_opendata,file_ted_0074,contract:CON-0003,2026-08-19
+con_00164,24.50,awd_00189,lot_00187,pro_0069,,,,,2024-12-16,,,cat_0071,FRA,src_ted_opendata,file_ted_0074,contract:CON-0004,2026-08-19
+con_00165,O/RZ.D-3.2421.16.2024.5,awd_00197,lot_00195,pro_0071,"Wykonanie w ramach Generalnego Pomiaru Ruchu 2025 (GPR 2025) bezpośrednich pomiarów ruchu, na odcinkach pomiarowych dróg krajowych na terenie GDDKiA Oddział w Rzeszowie w wyznaczonych punktach w podziale na 5 części. Część 5 – GPR 2025 - bezpośredni pomiarów ruchu drogowego na odcinkach pomiarowych dróg krajowych obejmujących Rejon w Lesku",,,,2024-12-13,,,cat_0073,POL,src_ted_opendata,file_ted_0076,contract:CON-0001,2026-08-19
+con_00166,DZ.3321.215.2024 zad.41,awd_00198,lot_00196,pro_0072,Zad. 41 – Sterylny zestaw do zabiegów udrożnienia – B. O. O. Chirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0001,2026-08-19
+con_00167,DZ.3321.215.2024 zad.42,awd_00199,lot_00197,pro_0072,Zad. 42 – Sterylny zestaw do zabiegów by pass udowo podkolanowy – B. O. O. Chirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0002,2026-08-19
+con_00168,DZ.3321.215.2024 zad.43,awd_00200,lot_00198,pro_0072,Zad. 43 – Sterylny zestaw do zabiegów w okolicy szyi – B. O. O. Chirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0003,2026-08-19
+con_00169,DZ.3321.215.2024 zad.44,awd_00201,lot_00199,pro_0072,Zad. 44 – Sterylny zestaw do zabiegu aortalno dwu udowego – B. O. O. Chirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0004,2026-08-19
+con_00170,DZ.3321.215.2024 zad.45,awd_00202,lot_00200,pro_0072,Zad. 45 – Sterylny zestaw do zabiegów chirurgicznych CHUSTY – B. O. O. Chirurgii,,,,2024-12-10,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0005,2026-08-19
+con_00171,DZ.3321.215.2024 zad.47,awd_00203,lot_00201,pro_0072,Zad. 47 – Zestaw do laparoskopii – B. O. O. Chirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0006,2026-08-19
+con_00172,DZ.3321.215.2024 zad.48,awd_00204,lot_00202,pro_0072,Zad. 48 – Zestaw do laparotomii brzusznej – B. O. O. Chirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0007,2026-08-19
+con_00173,DZ.3321.215.2024 zad.51,awd_00205,lot_00203,pro_0072,Zad. 51 – Sterylny jednorazowy zestaw do zabiegów hybrydowych – B. O. O. Chirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0008,2026-08-19
+con_00174,DZ.3321.215.2024 zad.52,awd_00206,lot_00204,pro_0072,Zad. 52 – Sterylny zestaw przeznaczony do zabiegów brzuszno-kroczowych – B. O. O. Chirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0009,2026-08-19
+con_00175,DZ.3321.215.2024 zad.54,awd_00207,lot_00205,pro_0072,Zad. 54 – Zestaw do dysku szyjnego – B. O. O. Neurochirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0010,2026-08-19
+con_00176,DZ.3321.215.2024 zad.55,awd_00208,lot_00206,pro_0072,Zad. 55 – Zestaw do dysku lędźwiowego – B. O. O. Neurochirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0011,2026-08-19
+con_00177,DZ.3321.215.2024 zad.56,awd_00209,lot_00207,pro_0072,Zad. 56 – Zestaw do kraniotomii – B. O. O. Neurochirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0012,2026-08-19
+con_00178,DZ.3321.215.2024 zad.57,awd_00210,lot_00208,pro_0072,Zad. 57 – Zestaw do zabiegów wewnątrznaczyniowych – B. O. O. Neurochirurgii,,,,2024-12-04,,,cat_0074,POL,src_ted_opendata,file_ted_0077,contract:CON-0013,2026-08-19
+con_00179,2024-34-01,awd_00211,lot_00209,pro_0073,,,,,2024-12-11,,,cat_0075,FRA,src_ted_opendata,file_ted_0078,contract:CON-0001,2026-08-19
+con_00180,2024-34-02,awd_00212,lot_00210,pro_0073,,,,,2024-12-12,,,cat_0075,FRA,src_ted_opendata,file_ted_0078,contract:CON-0002,2026-08-19
+con_00181,238/2024,awd_00213,lot_00211,pro_0074,Hankeleping,,,,2024-12-30,,,cat_0037,EST,src_ted_opendata,file_ted_0079,contract:CON-0001,2026-08-19
+con_00182,Z I 3 VSt. 1870/2024,awd_00214,lot_00212,pro_0075,,,,,2024-12-27,,,cat_0076,DEU,src_ted_opendata,file_ted_0080,contract:CON-0000,2026-08-19
+con_00183,V 2024/41-312,awd_00215,lot_00213,pro_0076,,,,,2024-12-22,,,cat_0049,LTU,src_ted_opendata,file_ted_0081,contract:CON-0002,2026-08-19
+con_00184,LOT 1,awd_00216,lot_00214,pro_0077,"Conception, production et livraison de boîtes multi-activités délivrées dans le cadre du plan famille aux enfants de militaires lors des absences opérationnelles - enfants de 3 à 5 ans",,,,2024-11-13,,,cat_0077,FRA,src_ted_opendata,file_ted_0082,contract:CON-0001,2026-08-19
+con_00185,LOT 3,awd_00217,lot_00215,pro_0077,"Conception, production et livraison de boîtes multi-activités délivrées dans le cadre du plan famille aux enfants de militaires lors des absences opérationnelles - enfants de 10 à 12 ans",,,,2024-11-13,,,cat_0077,FRA,src_ted_opendata,file_ted_0082,contract:CON-0003,2026-08-19
+con_00186,AGGIUDICAZIONE ZOWART,awd_00218,lot_00216,pro_0078,,,,,2024-12-30,,,cat_0078,ITA,src_ted_opendata,file_ted_0083,contract:CON-0001,2026-08-19
+con_00187,BOMA SA,awd_00221,lot_00219,pro_0079,,,,,2024-12-30,,,cat_0080,BEL,src_ted_opendata,file_ted_0084,contract:CON-0001,2026-08-19
+con_00188,24A20,awd_00223,lot_00221,pro_0080,Prestations de services d'assurance Flotte automobile,,,,2024-12-10,,,cat_0081,FRA,src_ted_opendata,file_ted_0085,contract:CON-0001,2026-08-19
+con_00189,316/24,awd_00224,lot_00222,pro_0081,316/24,,,,2024-12-31,,,cat_0082,POL,src_ted_opendata,file_ted_0086,contract:CON-0001,2026-08-19
+con_00190,177574,awd_00225,lot_00223,pro_0082,"„Доставка на елементи за функционен вентил за пътнически вагони (ПВ), собственост на „БДЖ-Пътнически превози“ ЕООД“",,,,2024-11-08,,,cat_0083,BGR,src_ted_opendata,file_ted_0087,contract:CON-0001,2026-08-19
+con_00191,173873,awd_00227,lot_00225,pro_0084,Доставка по обособена позиция 1: Набор от консумативи и реактиви за подготовка на библиотеки за цялостно геномно секвениране на NovaSeq6000,,,,2024-12-03,,,cat_0085,BGR,src_ted_opendata,file_ted_0089,contract:CON-0001,2026-08-19
+con_00192,VOEK 495-23,awd_00228,lot_00226,pro_0085,,,,,2024-12-02,,,cat_0086,DEU,src_ted_opendata,file_ted_0090,contract:CON-0000,2026-08-19
+con_00193,18/KMD/2024,awd_00229,lot_00227,pro_0086,,,,,2024-12-27,,,cat_0087,POL,src_ted_opendata,file_ted_0091,contract:CON-0001,2026-08-19
+con_00194,POUZ-362-236/2024/CeNT,awd_00230,lot_00228,pro_0087,Sukcesywna sprzedaż i dostawa specjalistycznych odczynników laboratoryjnych dla Centrum Nowych Technologii UW - postępowanie 2,,,,2024-11-29,,,cat_0088,POL,src_ted_opendata,file_ted_0092,contract:CON-0001,2026-08-19
+con_00195,2420200,awd_00231,lot_00229,pro_0088,Etude De Définition De La Localisation Et Du Dimensionnement Des Aires De Covoiturage Structurantes à L'échelle De L'Aire Urbaine élargie De Rennes,,,,2024-07-09,,,cat_0089,FRA,src_ted_opendata,file_ted_0093,contract:CON-0001,2026-08-19
+con_00196,,awd_00232,lot_00230,pro_0089,,,,,2024-12-31,,,cat_0028,CHE,src_ted_opendata,file_ted_0094,contract:CON-0300,2026-08-19
+con_00197,ZE.7021.1.8.2024.MK,awd_00234,lot_00232,pro_0091,,,,,2024-12-05,,,cat_0034,POL,src_ted_opendata,file_ted_0096,contract:CON-0001,2026-08-19
+con_00198,UVN-2-136/2024-136,awd_00237,lot_00235,pro_0092,Kúpna zmluva,,,,2024-12-30,,,cat_0091,SVK,src_ted_opendata,file_ted_0099,contract:CON-0001,2026-08-19
+con_00199,2024-018667 (CON-0001),awd_00239,lot_00237,pro_0094,,,,,2024-12-19,,,cat_0093,FIN,src_ted_opendata,file_ted_0101,contract:CON-0001,2026-08-19
+con_00200,20257001,awd_00251,lot_00249,pro_0096,"Maintenance des extincteurs, Ria, poteaux incendie/bouches d'incendie et colonnes sèches - Fourniture d'extincteurs, Ria neufs et autres équipements",,,,2024-12-24,,,cat_0095,FRA,src_ted_opendata,file_ted_0104,contract:CON-0001,2026-08-19
+con_00201,24111000737,awd_00253,lot_00251,pro_0098,,,,,,,,cat_0097,CZE,src_ted_opendata,file_ted_0106,contract:CON-0001,2026-08-19
+con_00202,Dostawa PRODUKTÓW GARMAŻERYJNYCH CHŁODZONYCH,awd_00254,lot_00252,pro_0099,,,,,2024-12-31,,,cat_0098,POL,src_ted_opendata,file_ted_0107,contract:CON-0001,2026-08-19
+con_00203,2024-010,awd_00255,lot_00253,pro_0100,Assurance des Prestations Statutaires,,,,2024-12-17,,,cat_0047,FRA,src_ted_opendata,file_ted_0108,contract:CON-0001,2026-08-19
+con_00204,Km-III.272.3.2024,awd_00256,lot_00254,pro_0101,Obsługa przewozów pasażerskich w transporcie zbiorowym organizowanym przez Miasto Rybnik,,,,2024-12-05,,,cat_0087,POL,src_ted_opendata,file_ted_0109,contract:CON-0001,2026-08-19
+con_00205,242105,awd_00258,lot_00256,pro_0102,242105/Vra/Dcamg/ Ao Acbdc - Entretien des Vmc,,,,2024-12-17,,,cat_0099,FRA,src_ted_opendata,file_ted_0111,contract:CON-0001,2026-08-19
+con_00206,RC 105,awd_00259,lot_00257,pro_0103,,,,,2024-08-21,,,cat_0100,ROU,src_ted_opendata,file_ted_0112,contract:CON-0002,2026-08-19
+con_00207,RC 01,,lot_00257,pro_0103,,,,,2024-01-05,,,cat_0100,ROU,src_ted_opendata,file_ted_0112,contract:CON-0001,2026-08-19
+con_00208,RC 80,,lot_00257,pro_0103,,,,,2024-05-20,,,cat_0100,ROU,src_ted_opendata,file_ted_0112,contract:CON-0003,2026-08-19
+con_00209,RC 03,,lot_00257,pro_0103,,,,,2024-02-02,,,cat_0100,ROU,src_ted_opendata,file_ted_0112,contract:CON-0004,2026-08-19
+con_00210,RC 127,,lot_00257,pro_0103,,,,,2024-11-12,,,cat_0100,ROU,src_ted_opendata,file_ted_0112,contract:CON-0005,2026-08-19
+con_00211,121/24-1,awd_00261,lot_00259,pro_0104,,,,,2024-12-05,,,cat_0101,POL,src_ted_opendata,file_ted_0114,contract:CON-0001,2026-08-19
+con_00212,121/24-2,awd_00262,lot_00261,pro_0104,,,,,2024-12-05,,,cat_0101,POL,src_ted_opendata,file_ted_0114,contract:CON-0002,2026-08-19
+con_00213,121/24-3,awd_00263,lot_00260,pro_0104,,,,,2024-12-05,,,cat_0101,POL,src_ted_opendata,file_ted_0114,contract:CON-0003,2026-08-19
+con_00214,121/24-4,awd_00264,lot_00263,pro_0104,,,,,2024-12-05,,,cat_0101,POL,src_ted_opendata,file_ted_0114,contract:CON-0004,2026-08-19
+con_00215,121/24-5,awd_00265,lot_00262,pro_0104,,,,,2024-12-05,,,cat_0101,POL,src_ted_opendata,file_ted_0114,contract:CON-0005,2026-08-19
+con_00216,DZPUCK.262.235.1117.2024 - Część nr 8,awd_00266,lot_00264,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0001,2026-08-19
+con_00217,DZPUCK.262.235.1141.2024 - Część nr 30,awd_00267,lot_00265,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0002,2026-08-19
+con_00218,DZPUCK.262.235.1117.2024 - Część nr 52,awd_00268,lot_00266,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0003,2026-08-19
+con_00219,DZPUCK.262.235.1117.2024 - Część nr 53,awd_00269,lot_00267,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0004,2026-08-19
+con_00220,DZPUCK.262.235.1141.2024 - Część nr 57,awd_00270,lot_00268,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0005,2026-08-19
+con_00221,DZPUCK.262.235.1117.2024 - Część nr 68,awd_00271,lot_00269,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0006,2026-08-19
+con_00222,DZPUCK.262.235.1117.2024 - Część nr 69,awd_00272,lot_00270,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0007,2026-08-19
+con_00223,DZPUCK.262.235.1117.2024 - Część nr 74,awd_00273,lot_00271,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0008,2026-08-19
+con_00224,DZPUCK.262.235.1141.2024 - Część nr 81,awd_00274,lot_00272,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0009,2026-08-19
+con_00225,DZPUCK.262.235.1141.2024 - Część nr 88,awd_00275,lot_00273,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0010,2026-08-19
+con_00226,DZPUCK.262.235.1117.2024 - Część nr 89,awd_00276,lot_00274,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0011,2026-08-19
+con_00227,DZPUCK.262.235.1117.2024 - Część nr 101,awd_00277,lot_00275,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0012,2026-08-19
+con_00228,DZPUCK.262.235.1141.2024 - Część nr 132,awd_00278,lot_00276,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0013,2026-08-19
+con_00229,DZPUCK.262.235.1117.2024 - Część nr 138,awd_00279,lot_00277,pro_0105,,,,,2024-12-24,,,cat_0018,POL,src_ted_opendata,file_ted_0115,contract:CON-0014,2026-08-19
+con_00230,CON-0001,awd_00280,lot_00278,pro_0106,,,,,,,,cat_0102,POL,src_ted_opendata,file_ted_0116,contract:CON-0001,2026-08-19
+con_00231,DZPUCK.262.235.1121.2024 - Część nr 62,awd_00281,lot_00279,pro_0105,,,,,2024-12-19,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0001,2026-08-19
+con_00232,DZPUCK.262.235.1121.2024 - Część nr 80,awd_00282,lot_00280,pro_0105,,,,,2024-12-19,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0002,2026-08-19
+con_00233,DZPUCK.262.235.1127.2024 - Część nr 85,awd_00283,lot_00281,pro_0105,,,,,2024-12-27,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0003,2026-08-19
+con_00234,DZPUCK.262.235.1113.2024 - Część nr 90,awd_00284,lot_00282,pro_0105,,,,,2024-12-19,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0004,2026-08-19
+con_00235,DZPUCK.262.235.1110.2024 - Część nr 98,awd_00285,lot_00283,pro_0105,,,,,2024-12-23,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0005,2026-08-19
+con_00236,DZPUCK.262.235.1121.2024 - Część nr 112,awd_00286,lot_00284,pro_0105,,,,,2024-12-19,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0006,2026-08-19
+con_00237,DZPUCK.262.235.1110.2024 - Część nr 118,awd_00287,lot_00285,pro_0105,,,,,2024-12-23,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0007,2026-08-19
+con_00238,DZPUCK.262.235.1110.2024 - Część nr 125,awd_00288,lot_00286,pro_0105,,,,,2024-12-23,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0008,2026-08-19
+con_00239,DZPUCK.262.235.1125.2024 - Część nr 135,awd_00289,lot_00287,pro_0105,,,,,2024-12-20,,,cat_0018,POL,src_ted_opendata,file_ted_0117,contract:CON-0009,2026-08-19
+con_00240,VV-24/14.1,awd_00291,lot_00289,pro_0107,UREĐAJ ZA OBRADU INFEKTIVNOG OTPADA,,,,2024-12-23,,,cat_0104,HRV,src_ted_opendata,file_ted_0119,contract:CON-0000,2026-08-19
+con_00241,ZAM/26/24/1,awd_00292,lot_00290,pro_0108,,,,,2024-12-18,,,cat_0028,POL,src_ted_opendata,file_ted_0120,contract:CON-0001,2026-08-19
+con_00242,ZAM/26/24/2,,,pro_0108,,,,,2024-12-23,,,,POL,src_ted_opendata,file_ted_0120,contract:CON-0002,2026-08-19
+con_00243,ZAM/26/24/3,awd_00295,lot_00293,pro_0108,,,,,2024-12-18,,,cat_0028,POL,src_ted_opendata,file_ted_0120,contract:CON-0003,2026-08-19
+con_00244,541/ZA/HZZ/2024/564/HZP/MSO,awd_00296,lot_00294,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0001,2026-08-19
+con_00245,542/ZA/HZZ/2024/564/HZP/MSO,awd_00297,lot_00295,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0002,2026-08-19
+con_00246,546/ZA/HZZ/2024/564/HZP/MSO,awd_00298,lot_00296,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0003,2026-08-19
+con_00247,543/ZA/HZZ/2024/564/MSO,awd_00299,lot_00297,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0004,2026-08-19
+con_00248,548/ZA/HZZ/2024/564/HZP/MSO,awd_00300,lot_00298,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0005,2026-08-19
+con_00249,552/ZA/HZZ/2024/564/MSO,awd_00301,lot_00299,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0006,2026-08-19
+con_00250,553/ZA/HZZ/2024/564/MSO,awd_00302,lot_00300,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0007,2026-08-19
+con_00251,547/ZA/HZZ/2024/564/MSO,awd_00303,lot_00301,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0008,2026-08-19
+con_00252,554/ZA/HZZ/2024/564/MSO,awd_00304,lot_00304,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0009,2026-08-19
+con_00253,544/ZA/HZZ/2024/564/MSO,awd_00305,lot_00305,pro_0109,,,,,2024-06-17,,,cat_0105,POL,src_ted_opendata,file_ted_0121,contract:CON-0010,2026-08-19
+con_00254,177613,awd_00309,lot_00307,pro_0110,"Рекламни и информационни материали за целите и нуждите на Звено „Център за младежки дейности“ гр. Враца по обособени позиции, Обособена позиция 2: Рекламни материали за целите и нуждите на Звено „Център за младежки дейности“ – гр. Враца, съгласно списъка по чл. 12, ал. 1, т. 1 от Закона за обществените поръчки",,,,2024-12-17,,,cat_0106,BGR,src_ted_opendata,file_ted_0122,contract:CON-0001,2026-08-19
+con_00255,ST-284/2024,awd_00310,lot_00308,pro_0111,"Zmluva na nákup mediálneho priestoru - online reklamných formátov v Poľsku - kampaň ZIMA 2024, 11.11.-8.12.2024",,,,2024-11-08,,,cat_0107,SVK,src_ted_opendata,file_ted_0123,contract:CON-0001,2026-08-19
+con_00256,261/ZP/PN/24 - pakiet 1,awd_00311,lot_00309,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0001,2026-08-19
+con_00257,265/ZP/PN/24 - pakiet 2,awd_00312,lot_00310,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0002,2026-08-19
+con_00258,246/ZP/PN/24 - pakiet 3,awd_00313,lot_00311,pro_0112,,,,,2024-11-19,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0003,2026-08-19
+con_00259,242/ZP/PN/24 - pakiet 4,awd_00314,lot_00312,pro_0112,,,,,2024-11-19,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0004,2026-08-19
+con_00260,252/ZP/PN/24 - pakiet 7,awd_00317,lot_00315,pro_0112,,,,,2024-11-19,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0005,2026-08-19
+con_00261,258/ZP/PN/24 - pakiet 8,awd_00318,lot_00316,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0006,2026-08-19
+con_00262,268/ZP/PN/24 - pakiet 9,awd_00319,lot_00317,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0007,2026-08-19
+con_00263,268/ZP/PN/24 - pakiet 10,awd_00320,lot_00318,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0008,2026-08-19
+con_00264,240/ZP/PN/24 - pakiet 11,awd_00321,lot_00319,pro_0112,,,,,2024-11-19,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0009,2026-08-19
+con_00265,268/ZP/PN/24 - pakiet 12,awd_00322,lot_00320,pro_0112,,,,,2024-11-19,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0010,2026-08-19
+con_00266,265/ZP/PN/24 - pakiet 13,awd_00323,lot_00321,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0011,2026-08-19
+con_00267,262/ZP/PN/24 - pakiet 14,awd_00324,lot_00322,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0012,2026-08-19
+con_00268,254/ZP/PN/24 - pakiet 17,awd_00327,lot_00325,pro_0112,,,,,2024-11-19,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0013,2026-08-19
+con_00269,257/ZP/PN/24 - pakiet 18,awd_00328,lot_00326,pro_0112,,,,,2024-11-19,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0014,2026-08-19
+con_00270,259/ZP/PN/24 - pakiet 19,awd_00329,lot_00327,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0015,2026-08-19
+con_00271,267/ZP/PN/24 - pakiet 20,awd_00330,lot_00328,pro_0112,,,,,2024-11-29,,,cat_0108,POL,src_ted_opendata,file_ted_0124,contract:CON-0016,2026-08-19
+con_00272,1,awd_00331,lot_00329,pro_0113,,,,,2024-10-18,,,cat_0005,HUN,src_ted_opendata,file_ted_0125,contract:CON-0001,2026-08-19
+con_00273,3,awd_00332,lot_00330,pro_0113,,,,,2024-10-18,,,cat_0005,HUN,src_ted_opendata,file_ted_0125,contract:CON-0002,2026-08-19
+con_00274,4,awd_00333,lot_00331,pro_0113,,,,,2024-12-20,,,cat_0005,HUN,src_ted_opendata,file_ted_0125,contract:CON-0003,2026-08-19
+con_00275,2,awd_00334,lot_00332,pro_0113,,,,,2024-10-18,,,cat_0005,HUN,src_ted_opendata,file_ted_0125,contract:CON-0004,2026-08-19
+con_00276,MP202415,awd_00335,lot_00333,pro_0114,,,,,2024-12-30,,,cat_0028,FRA,src_ted_opendata,file_ted_0126,contract:CON-0001,2026-08-19
+con_00277,LOT 2 PNAS,awd_00337,lot_00335,pro_0115,,,,,2024-12-13,,,cat_0110,FRA,src_ted_opendata,file_ted_0127,contract:CON-0001,2026-08-19
+con_00278,LOT 3 SMACL,awd_00338,lot_00336,pro_0115,,,,,2024-12-13,,,cat_0081,FRA,src_ted_opendata,file_ted_0127,contract:CON-0002,2026-08-19
+con_00279,LOT 4 SMACL,awd_00339,lot_00337,pro_0115,,,,,2024-12-13,,,cat_0111,FRA,src_ted_opendata,file_ted_0127,contract:CON-0003,2026-08-19
+con_00280,LOT 5 WTW,awd_00340,lot_00338,pro_0115,,,,,2024-12-13,,,cat_0112,FRA,src_ted_opendata,file_ted_0127,contract:CON-0004,2026-08-19
+con_00281,LOT 6 ACL,awd_00341,lot_00339,pro_0115,,,,,2024-12-13,,,cat_0109,FRA,src_ted_opendata,file_ted_0127,contract:CON-0005,2026-08-19
+con_00282,2024m24128,awd_00343,lot_00341,pro_0116,Contrôle technique quinquennal des ascenseurs,,,,2024-12-19,,,cat_0113,FRA,src_ted_opendata,file_ted_0128,contract:CON-0001,2026-08-19
+con_00283,2024m24129,awd_00344,lot_00342,pro_0116,Contrôle des équipements sous pression,,,,2024-12-19,,,cat_0113,FRA,src_ted_opendata,file_ted_0128,contract:CON-0002,2026-08-19
+con_00284,2024m24131,awd_00346,lot_00344,pro_0116,Contrôle des équipements de travail,,,,2024-12-20,,,cat_0113,FRA,src_ted_opendata,file_ted_0128,contract:CON-0003,2026-08-19
+con_00285,2024m24132,awd_00347,lot_00345,pro_0116,Contrôle des installations électriques,,,,2024-12-19,,,cat_0113,FRA,src_ted_opendata,file_ted_0128,contract:CON-0004,2026-08-19
+con_00286,2024m24133,awd_00348,lot_00346,pro_0116,Contrôle légionelles,,,,2024-12-19,,,cat_0113,FRA,src_ted_opendata,file_ted_0128,contract:CON-0005,2026-08-19
+con_00287,2024m24134,awd_00349,lot_00347,pro_0116,Contrôle de la qualité de l'air,,,,2024-12-19,,,cat_0113,FRA,src_ted_opendata,file_ted_0128,contract:CON-0006,2026-08-19
+con_00288,2024m24135,awd_00350,lot_00348,pro_0116,Contrôle du radon,,,,2024-12-20,,,cat_0113,FRA,src_ted_opendata,file_ted_0128,contract:CON-0007,2026-08-19
+con_00289,745/2024,awd_00351,lot_00349,pro_0117,Umowa na zagospodarowanie odpadów komunalnych z nieruchomości położonych na terenie gminy Stare Babice w 2025 r.,,,,2024-12-20,,,cat_0114,POL,src_ted_opendata,file_ted_0129,contract:CON-0001,2026-08-19
+con_00290,24ag584,,,pro_0118,Prestations De Services D'Assurance,,,,2024-12-24,,,,FRA,src_ted_opendata,file_ted_0130,contract:CON-0001,2026-08-19
+con_00291,RZ.272.57.II.2024,awd_00357,lot_00355,pro_0119,UMOWA NR RZ.272.57.II.2024,,,,2024-12-27,,,cat_0028,POL,src_ted_opendata,file_ted_0131,contract:CON-0001,2026-08-19
+con_00292,RZ.272.57.III.2024,awd_00358,lot_00356,pro_0119,UMOWA NR RZ.272.57.III.2024,,,,2024-12-27,,,cat_0028,POL,src_ted_opendata,file_ted_0131,contract:CON-0002,2026-08-19
+con_00293,Meerinzicht BI-specialist,awd_00359,lot_00357,pro_0120,Inleenovereenkomst T121862,,,,2024-12-10,,,cat_0014,NLD,src_ted_opendata,file_ted_0132,contract:CON-0001,2026-08-19
+con_00294,Contract 47481 (0001),awd_00360,lot_00358,pro_0121,,,,,2024-12-16,,,cat_0115,SWE,src_ted_opendata,file_ted_0133,contract:CON-0001,2026-08-19
+con_00295,1393,awd_00361,lot_00359,pro_0122,,,,,2024-12-19,,,cat_0116,ROU,src_ted_opendata,file_ted_0134,contract:CON-0001,2026-08-19
+con_00296,VV-1-2024-2 za grupu 2,awd_00363,lot_00361,pro_0123,Videokonferencijski sustav,,,,2024-12-09,,,cat_0117,HRV,src_ted_opendata,file_ted_0135,contract:CON-0002,2026-08-19
+con_00297,VV-1-2024-3 za grupu 3,awd_00364,lot_00362,pro_0123,Poslužitelji,,,,2024-12-10,,,cat_0117,HRV,src_ted_opendata,file_ted_0135,contract:CON-0003,2026-08-19
+con_00298,VV-1-2024-5 za grupu 5,awd_00366,lot_00364,pro_0123,Mrežna oprema,,,,2024-12-06,,,cat_0117,HRV,src_ted_opendata,file_ted_0135,contract:CON-0005,2026-08-19
+con_00299,2665-5110,awd_00370,lot_00368,pro_0125,Leveren van dranken (behalve wijnen),,,,2024-12-30,,,cat_0121,BEL,src_ted_opendata,file_ted_0137,contract:CON-0001,2026-08-19
+con_00300,202407cc000,awd_00374,lot_00372,pro_0126,Tournée de Gannat,,,,2024-12-30,,,cat_0123,FRA,src_ted_opendata,file_ted_0138,contract:CON-0001,2026-08-19
+con_00301,UMOWA IZP/63/273.16/2024,awd_00375,lot_00373,pro_0127,,,,,2024-11-18,,,cat_0124,POL,src_ted_opendata,file_ted_0139,contract:CON-0001,2026-08-19
+con_00302,UMOWAIZP/64/273.17/2024,awd_00376,lot_00374,pro_0127,,,,,2024-11-18,,,cat_0124,POL,src_ted_opendata,file_ted_0139,contract:CON-0002,2026-08-19
+con_00303,UMOWA IZP/65/273.18/2024,awd_00377,lot_00375,pro_0127,,,,,2024-11-18,,,cat_0124,POL,src_ted_opendata,file_ted_0139,contract:CON-0003,2026-08-19
+con_00304,UMOWA IZP/66/273.19/2024,awd_00378,lot_00376,pro_0127,,,,,2024-11-18,,,cat_0124,POL,src_ted_opendata,file_ted_0139,contract:CON-0004,2026-08-19
+con_00305,UMOWAIZP/67/273.20/2024,awd_00379,lot_00377,pro_0127,,,,,2024-11-18,,,cat_0124,POL,src_ted_opendata,file_ted_0139,contract:CON-0005,2026-08-19
+con_00306,UMOWA IZP/68/273.21/2024,awd_00381,lot_00378,pro_0127,,,,,2024-11-18,,,cat_0124,POL,src_ted_opendata,file_ted_0139,contract:CON-0006,2026-08-19
+con_00307,UMOWAIZP/69/273.21/2024,awd_00380,lot_00379,pro_0127,,,,,2024-11-18,,,cat_0124,POL,src_ted_opendata,file_ted_0139,contract:CON-0007,2026-08-19
+con_00308,UMOWA IZP/70/273.22/2024,awd_00382,lot_00380,pro_0127,,,,,2024-11-18,,,cat_0124,POL,src_ted_opendata,file_ted_0139,contract:CON-0008,2026-08-19
+con_00309,RIOŚ.272.52.2024,awd_00383,lot_00381,pro_0128,,,,,2024-12-10,,,cat_0125,POL,src_ted_opendata,file_ted_0140,contract:CON-0001,2026-08-19
+con_00310,Société OSGAPI,awd_00384,lot_00382,pro_0129,,,,,2024-09-16,,,cat_0126,FRA,src_ted_opendata,file_ted_0141,contract:CON-0001,2026-08-19
+con_00311,ST-253/2024,awd_00385,lot_00383,pro_0111,Zmluva na nákup mediálneho priestoru vo vybraných tlačových periodikách na Slovensku 03_2024,,,,2024-11-11,,,cat_0107,SVK,src_ted_opendata,file_ted_0142,contract:CON-0001,2026-08-19
+con_00312,25ENTRVEHICULES,awd_00387,lot_00385,pro_0130,,,,,2024-12-30,,,cat_0127,FRA,src_ted_opendata,file_ted_0144,contract:CON-0001,2026-08-19
+con_00313,4412,,,pro_0131,,,,,2024-12-31,,,,ROU,src_ted_opendata,file_ted_0145,contract:CON-0001,2026-08-19
+con_00314,4416,awd_00396,lot_00401,pro_0131,,,,,2024-12-31,,,cat_0043,ROU,src_ted_opendata,file_ted_0145,contract:CON-0002,2026-08-19
+con_00315,4415,,,pro_0131,,,,,2024-12-31,,,,ROU,src_ted_opendata,file_ted_0145,contract:CON-0003,2026-08-19
+con_00316,4414,awd_00400,lot_00393,pro_0131,,,,,2024-12-31,,,cat_0043,ROU,src_ted_opendata,file_ted_0145,contract:CON-0004,2026-08-19
+con_00317,4413,awd_00401,lot_00389,pro_0131,,,,,2024-12-31,,,cat_0043,ROU,src_ted_opendata,file_ted_0145,contract:CON-0005,2026-08-19
+con_00318,ST-283/2024,awd_00406,lot_00404,pro_0111,"Zmluva na nákup mediálneho priestoru - online reklamných formátov v Česku - kampaň ZIMA 2024, 11.11.-8.12.2024",,,,2024-11-08,,,cat_0107,SVK,src_ted_opendata,file_ted_0146,contract:CON-0001,2026-08-19
+con_00319,marché 2029357,awd_00407,lot_00405,pro_0132,Maintenance des microscopes LEICA pour l'I2BC,,,,2024-12-13,,,cat_0005,FRA,src_ted_opendata,file_ted_0147,contract:CON-0001,2026-08-19
+con_00320,UMOWA DLA CZĘŚCI II ZAMÓWIENIA GO.75.2024,awd_00409,lot_00407,pro_0133,,,,,2024-12-30,,,cat_0008,POL,src_ted_opendata,file_ted_0148,contract:CON-0001,2026-08-19
+con_00321,RZP.272.39.2024,awd_00410,lot_00408,pro_0134,,,,,2024-12-27,,,cat_0008,POL,src_ted_opendata,file_ted_0149,contract:CON-0001,2026-08-19
+con_00322,pakiet nr 1 Środki kontrastowe i cieniujące,awd_00411,lot_00409,pro_0135,pakiet nr 1 Środki kontrastowe i cieniujące,,,,2024-12-13,,,cat_0128,POL,src_ted_opendata,file_ted_0150,contract:CON-0001,2026-08-19
+con_00323,pakiet nr 2 Środek kontrastowy,awd_00412,lot_00410,pro_0135,pakiet nr 2 Środek kontrastowy,,,,2024-12-13,,,cat_0128,POL,src_ted_opendata,file_ted_0150,contract:CON-0002,2026-08-19
+con_00324,Umowa nr 87/2024,awd_00414,lot_00412,pro_0136,,,,,2024-12-20,,,cat_0129,POL,src_ted_opendata,file_ted_0151,contract:CON-0001,2026-08-19
+con_00325,CON-0001,awd_00415,lot_00413,pro_0137,,,,,2024-12-10,,,cat_0129,PRT,src_ted_opendata,file_ted_0152,contract:CON-0001,2026-08-19
+con_00326,CON-0002,awd_00416,lot_00414,pro_0137,,,,,2024-12-10,,,cat_0129,PRT,src_ted_opendata,file_ted_0152,contract:CON-0002,2026-08-19
+con_00327,CON-0003,awd_00417,lot_00415,pro_0137,,,,,2024-12-10,,,cat_0129,PRT,src_ted_opendata,file_ted_0152,contract:CON-0003,2026-08-19
+con_00328,ZI.272.106.2024,awd_00418,,pro_0138,,,,,,,,,POL,src_ted_opendata,file_ted_0153,contract:CON-0001,2026-08-19
+con_00329,242048,,,pro_0139,242048/Vra/Dcamg - Ao - Maintenance Eclairage Public,,,,2024-12-17,,,,FRA,src_ted_opendata,file_ted_0154,contract:CON-0001,2026-08-19
+con_00330,2463,awd_00421,lot_00420,pro_0140,,,,,2024-12-26,,,cat_0131,FRA,src_ted_opendata,file_ted_0155,contract:CON-0001,2026-08-19
+con_00331,2024_C055,awd_00422,,pro_0141,,,,,,,,,PRT,src_ted_opendata,file_ted_0156,contract:CON-0001,2026-08-19
+con_00332,OF263.41.2024/OG,awd_00423,lot_00422,pro_0142,,,,,2024-12-17,,,cat_0133,POL,src_ted_opendata,file_ted_0157,contract:CON-0001,2026-08-19
+con_00333,0000192437/2024,awd_00424,lot_00423,pro_0143,,,,,2024-12-30,,,cat_0134,ESP,src_ted_opendata,file_ted_0158,contract:CON-0001,2026-08-19
+con_00334,45056,awd_00425,lot_00424,pro_0144,,,,,2024-12-20,,,cat_0135,ROU,src_ted_opendata,file_ted_0159,contract:CON-0001,2026-08-19
+con_00335,UPR-2024-N-0917,awd_00426,lot_00425,pro_0145,"Pogodba številka UPR-2024-N-0917 za izvedbo javnega naročila ""Izdelava in posodobitev aplikacij, sistemov, spletišč in platform - Nadgradnja korpusa modernističnih besedil in izdelava podatkovne baze lastnih imen""",,,,2024-11-12,,,cat_0136,SVN,src_ted_opendata,file_ted_0160,contract:CON-0000,2026-08-19
+con_00336,PO 835/S/24,awd_00427,lot_00426,pro_0146,PO 835/S/24,,,,2024-11-21,,,cat_0137,CZE,src_ted_opendata,file_ted_0161,contract:CON-0001,2026-08-19
+con_00337,177581,awd_00429,lot_00428,pro_0148,"ДОСТАВКА НА ДЕЗИНФЕКТАНТИ ЗА НУЖДИТЕ НА ЦСМП-СОФИЯ, Обособена позиция 1: 1 Дезинфектант за повърхности 5 l",,,,2024-12-20,,,cat_0100,BGR,src_ted_opendata,file_ted_0163,contract:CON-0001,2026-08-19
+con_00338,177582,awd_00430,lot_00429,pro_0148,"ДОСТАВКА НА ДЕЗИНФЕКТАНТИ ЗА НУЖДИТЕ НА ЦСМП-СОФИЯ, Обособена позиция 2: 2 Дезинфектант за повърхности 3 l",,,,2024-12-20,,,cat_0100,BGR,src_ted_opendata,file_ted_0163,contract:CON-0002,2026-08-19
+con_00339,177587,awd_00431,lot_00430,pro_0148,"ДОСТАВКА НА ДЕЗИНФЕКТАНТИ ЗА НУЖДИТЕ НА ЦСМП-СОФИЯ, Обособена позиция 3: 3 Дезинфектант за ръце с помпа 500 ml",,,,2024-12-20,,,cat_0100,BGR,src_ted_opendata,file_ted_0163,contract:CON-0003,2026-08-19
+con_00340,177591,awd_00432,lot_00431,pro_0148,"ДОСТАВКА НА ДЕЗИНФЕКТАНТИ ЗА НУЖДИТЕ НА ЦСМП-СОФИЯ, Обособена позиция 4: 4 Дезинфектант за повърхности спрей - помпа, готов разтвор 1 l",,,,2024-12-20,,,cat_0100,BGR,src_ted_opendata,file_ted_0163,contract:CON-0004,2026-08-19
+con_00341,DAM/02/2024 ERGO-PN-1,awd_00433,lot_00432,pro_0149,,,,,2024-12-03,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0001,2026-08-19
+con_00342,DAM/02/2024 ERGO-PN-2,awd_00434,lot_00433,pro_0149,,,,,2024-12-03,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0002,2026-08-19
+con_00343,DAM/02/2024 ERGO-PN-3,awd_00435,lot_00434,pro_0149,,,,,2024-11-25,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0003,2026-08-19
+con_00344,DAM/02/2024 ERGO-PN-4,awd_00436,lot_00435,pro_0149,,,,,2024-11-27,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0004,2026-08-19
+con_00345,DAM/02/2024 ERGO-PN-5,awd_00437,lot_00436,pro_0149,,,,,2024-12-09,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0005,2026-08-19
+con_00346,DAM/02/2024 ERGO-PN-6,awd_00438,lot_00437,pro_0149,,,,,2024-12-02,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0006,2026-08-19
+con_00347,DAM/02/2024 ERGO-PN-7,awd_00440,lot_00439,pro_0149,,,,,2024-11-27,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0007,2026-08-19
+con_00348,DAM/02/2024 ERGO-PN-8,awd_00441,lot_00440,pro_0149,,,,,2024-12-09,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0008,2026-08-19
+con_00349,DAM/02/2024 ERGO-PN-9,awd_00442,lot_00441,pro_0149,,,,,2024-11-21,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0009,2026-08-19
+con_00350,DAM/02/2024 ERGO-PN-10,awd_00443,lot_00442,pro_0149,,,,,2024-12-09,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0010,2026-08-19
+con_00351,DAM/02/2024 ERGO-PN-11,awd_00444,lot_00443,pro_0149,,,,,2024-11-25,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0011,2026-08-19
+con_00352,DAM/02/2024 ERGO-PN-12,awd_00445,lot_00444,pro_0149,,,,,2024-12-02,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0012,2026-08-19
+con_00353,DAM/02/2024 ERGO-PN-13,awd_00446,lot_00445,pro_0149,,,,,2024-12-17,,,cat_0016,POL,src_ted_opendata,file_ted_0164,contract:CON-0013,2026-08-19
+con_00354,Zmluva o dielo,awd_00448,lot_00447,pro_0150,Zmluva o dielo,,,,2024-12-27,,,cat_0139,SVK,src_ted_opendata,file_ted_0166,contract:CON-0001,2026-08-19
+con_00355,285-517,awd_00449,lot_00448,pro_0151,Maintenance des installations techniques,,,,2024-01-26,,,cat_0093,BEL,src_ted_opendata,file_ted_0167,contract:CON-0001,2026-08-19
+con_00356,Pakiet nr 1 Umowa nr 453/U/ZP/2024,awd_00450,lot_00449,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0001,2026-08-19
+con_00357,Pakiet nr 2 Umowa nr 407/U/ZP/2024,awd_00451,lot_00450,pro_0152,,,,,2024-06-20,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0002,2026-08-19
+con_00358,Pakiet nr 3 Umowa nr 452/U/ZP/2024,awd_00452,lot_00451,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0003,2026-08-19
+con_00359,Pakiet nr 4 Umowa nr 429/U/ZP/2024,awd_00453,lot_00452,pro_0152,,,,,2024-06-26,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0004,2026-08-19
+con_00360,Pakiet nr 5 Umowa nr 452/U/ZP/2024,awd_00454,lot_00453,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0005,2026-08-19
+con_00361,Pakiet nr 6 Umowa nr 453/U/ZP/2024,awd_00455,lot_00454,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0006,2026-08-19
+con_00362,Pakiet nr 7 Umowa nr 454/U/ZP/2024,awd_00456,lot_00455,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0007,2026-08-19
+con_00363,Pakiet nr 8 Umowa nr 451/U/ZP/2024,awd_00457,lot_00456,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0008,2026-08-19
+con_00364,Pakiet nr 9 Umowa nr 429/U/ZP/2024,awd_00458,lot_00457,pro_0152,,,,,2024-06-26,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0009,2026-08-19
+con_00365,Pakiet nr 10 Umowa nr 420/U/ZP/2024,awd_00459,lot_00458,pro_0152,,,,,2024-06-21,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0010,2026-08-19
+con_00366,Pakiet nr 11 Umowa nr 409/U/ZP/2024,awd_00460,lot_00459,pro_0152,,,,,2024-06-20,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0011,2026-08-19
+con_00367,Pakiet nr 12 Umowa nr 408/U/ZP/2024,awd_00461,lot_00460,pro_0152,,,,,2024-06-20,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0012,2026-08-19
+con_00368,Pakiet nr 13 Umowa nr 454/U/ZP/2024,awd_00462,lot_00461,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0013,2026-08-19
+con_00369,Pakiet nr 14 Umowa nr 452/U/ZP/2024,awd_00463,lot_00462,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0014,2026-08-19
+con_00370,Pakiet nr 15 Umowa nr 452/U/ZP/2024,awd_00464,lot_00463,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0015,2026-08-19
+con_00371,Pakiet nr 16 Umowa nr 454/U/ZP/2024,awd_00465,lot_00464,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0016,2026-08-19
+con_00372,Pakiet nr 17 Umowa nr 420/U/ZP/2024,awd_00466,lot_00465,pro_0152,,,,,2024-06-21,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0017,2026-08-19
+con_00373,Pakiet nr 18 Umowa nr 453/U/ZP/2024,awd_00467,lot_00466,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0018,2026-08-19
+con_00374,Pakiet nr 20 Umowa nr 429/U/ZP/2024,awd_00469,lot_00468,pro_0152,,,,,2024-06-26,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0019,2026-08-19
+con_00375,Pakiet nr 21 Umowa nr 453/U/ZP/2024,awd_00470,lot_00469,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0020,2026-08-19
+con_00376,Pakiet nr 22 Umowa nr 409/U/ZP/2024,awd_00471,lot_00470,pro_0152,,,,,2024-06-20,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0021,2026-08-19
+con_00377,Pakiet nr 23 Umowa nr 453/U/ZP/2024,awd_00472,lot_00471,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0022,2026-08-19
+con_00378,Pakiet nr 24 Umowa nr 430/U/ZP/2024,awd_00473,lot_00472,pro_0152,,,,,2024-07-08,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0023,2026-08-19
+con_00379,Pakiet nr 25 Umowa nr 429/U/ZP/2024,awd_00474,lot_00473,pro_0152,,,,,2024-06-26,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0024,2026-08-19
+con_00380,Pakiet nr 26 Umowa nr 450/U/ZP/2024,awd_00475,lot_00474,pro_0152,,,,,2024-07-15,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0025,2026-08-19
+con_00381,Pakiet nr 27 Umowa nr 421/U/ZP/2024,awd_00476,lot_00475,pro_0152,,,,,2024-06-21,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0026,2026-08-19
+con_00382,Pakiet nr 28 Umowa nr 469/U/ZP/2024,awd_00477,lot_00476,pro_0152,,,,,2024-08-01,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0027,2026-08-19
+con_00383,Pakiet nr 29 Umowa nr 429/U/ZP/2024,awd_00478,lot_00477,pro_0152,,,,,2024-06-26,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0028,2026-08-19
+con_00384,Pakiet nr 30 Umowa nr 429/U/ZP/2025,awd_00479,lot_00478,pro_0152,,,,,2024-06-26,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0029,2026-08-19
+con_00385,Pakiet nr 31 Umowa nr 410/U/ZP/2025,awd_00480,lot_00479,pro_0152,,,,,2024-06-20,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0030,2026-08-19
+con_00386,Pakiet nr 32 Umowa nr 411/U/ZP/2025,awd_00481,lot_00480,pro_0152,,,,,2024-06-20,,,cat_0018,POL,src_ted_opendata,file_ted_0168,contract:CON-0031,2026-08-19
+con_00387,S-05135-2024-1,awd_00482,lot_00481,pro_0153,,,,,2024-12-23,,,cat_0140,ESP,src_ted_opendata,file_ted_0169,contract:CON-0001,2026-08-19
+con_00388,S-05135-2024-2,awd_00483,lot_00482,pro_0153,,,,,2024-12-23,,,cat_0140,ESP,src_ted_opendata,file_ted_0169,contract:CON-0002,2026-08-19
+con_00389,S-05135-2024-3,awd_00484,lot_00483,pro_0153,,,,,2024-12-23,,,cat_0140,ESP,src_ted_opendata,file_ted_0169,contract:CON-0003,2026-08-19
+con_00390,1514,awd_00485,lot_00484,pro_0154,,,,,2024-08-29,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0029,2026-08-19
+con_00391,1958,awd_00486,lot_00488,pro_0154,,,,,2024-11-04,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0027,2026-08-19
+con_00392,1620,awd_00487,lot_00489,pro_0154,,,,,2024-09-16,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0025,2026-08-19
+con_00393,1624,awd_00488,lot_00486,pro_0154,,,,,2024-09-19,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0019,2026-08-19
+con_00394,1594,awd_00489,lot_00485,pro_0154,,,,,2024-09-18,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0020,2026-08-19
+con_00395,1515,awd_00490,lot_00487,pro_0154,,,,,2024-08-26,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0021,2026-08-19
+con_00396,1516,,lot_00485,pro_0154,,,,,2024-08-26,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0022,2026-08-19
+con_00397,1592,,lot_00484,pro_0154,,,,,2024-09-13,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0023,2026-08-19
+con_00398,1258,,lot_00488,pro_0154,,,,,2024-07-22,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0016,2026-08-19
+con_00399,1259,awd_00491,lot_00491,pro_0154,,,,,2024-07-22,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0017,2026-08-19
+con_00400,1207,,lot_00489,pro_0154,,,,,2024-07-09,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0018,2026-08-19
+con_00401,44,awd_00492,lot_00490,pro_0154,,,,,2024-07-08,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0014,2026-08-19
+con_00402,38,,lot_00491,pro_0154,,,,,2024-06-26,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0015,2026-08-19
+con_00403,634,,lot_00489,pro_0154,,,,,2024-04-18,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0006,2026-08-19
+con_00404,11,,lot_00486,pro_0154,,,,,2024-04-15,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0001,2026-08-19
+con_00405,6,,lot_00484,pro_0154,,,,,2024-04-05,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0002,2026-08-19
+con_00406,19,,lot_00489,pro_0154,,,,,2024-04-15,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0003,2026-08-19
+con_00407,14,,lot_00487,pro_0154,,,,,2024-04-15,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0004,2026-08-19
+con_00408,9,,lot_00485,pro_0154,,,,,2024-04-05,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0005,2026-08-19
+con_00409,648,,lot_00487,pro_0154,,,,,2024-04-22,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0007,2026-08-19
+con_00410,636,,lot_00486,pro_0154,,,,,2024-04-19,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0009,2026-08-19
+con_00411,558,,lot_00484,pro_0154,,,,,2024-04-08,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0010,2026-08-19
+con_00412,709,,lot_00484,pro_0154,,,,,2024-05-09,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0011,2026-08-19
+con_00413,627,,lot_00485,pro_0154,,,,,2024-04-17,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0012,2026-08-19
+con_00414,17,,lot_00488,pro_0154,,,,,2024-06-21,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0013,2026-08-19
+con_00415,1593,,lot_00487,pro_0154,,,,,2024-09-13,,,cat_0141,ROU,src_ted_opendata,file_ted_0170,contract:CON-0024,2026-08-19
+con_00416,1632,,lot_00490,pro_0154,,,,,2024-09-20,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0026,2026-08-19
+con_00417,1959,,lot_00491,pro_0154,,,,,2024-11-04,,,cat_0069,ROU,src_ted_opendata,file_ted_0170,contract:CON-0028,2026-08-19
+con_00418,1,awd_00493,lot_00492,pro_0155,,,,,2024-12-11,,,cat_0142,GRC,src_ted_opendata,file_ted_0171,contract:CON-0001,2026-08-19
+con_00419,34-2024-311,awd_00494,lot_00493,pro_0156,,,,,2024-12-12,,,cat_0143,LTU,src_ted_opendata,file_ted_0172,contract:CON-0001,2026-08-19
+con_00420,16-30/24,awd_00495,lot_00494,pro_0157,POGODB A ZA VZPOSTAVITEV IN UPORABO DOKUMENTNEGA SISTEMA,,,,2024-09-30,,,cat_0049,SVN,src_ted_opendata,file_ted_0173,contract:CON-0000,2026-08-19
+con_00421,CONTRAT LOT 1,awd_00496,lot_00495,pro_0158,,,,,2024-10-18,,,cat_0144,FRA,src_ted_opendata,file_ted_0174,contract:CON-0001,2026-08-19
+con_00422,CONTRAT LOT 2,awd_00497,lot_00496,pro_0158,,,,,2024-10-18,,,cat_0145,FRA,src_ted_opendata,file_ted_0174,contract:CON-0002,2026-08-19
+con_00423,01,awd_00499,lot_00498,pro_0159,,,,,2024-12-03,,,cat_0147,CZE,src_ted_opendata,file_ted_0176,contract:CON-0001,2026-08-19
+con_00424,6-D-30098-24,awd_00500,lot_00499,pro_0160,Projectleider Klimaatacademie,,,,,,,cat_0014,NLD,src_ted_opendata,file_ted_0177,contract:CON-0001,2026-08-19
+con_00425,Rosenbauer Deutschland GmbH,awd_00501,lot_00500,pro_0161,,,,,2024-12-04,,,cat_0148,DEU,src_ted_opendata,file_ted_0178,contract:CON-0001,2026-08-19
+con_00426,CON-0001 - Arthrex GmbH,awd_00502,lot_00501,pro_0162,,,,,2024-12-31,,,cat_0149,DEU,src_ted_opendata,file_ted_0179,contract:CON-0001,2026-08-19
+con_00427,KLASA:406-01/24-32;URBROJ:2186-1-05-01/2-24-11,awd_00503,lot_00502,pro_0163,Usluga održavanja nerazvrstanih cesta u zimskim uvjetima na području Grada Varaždina-zimska služba,,,,2024-12-28,,,cat_0150,HRV,src_ted_opendata,file_ted_0180,contract:CON-0000,2026-08-19
+con_00428,24ASSURFLOTAUTO,awd_00504,lot_00503,pro_0164,,,,,2024-12-30,,,cat_0081,FRA,src_ted_opendata,file_ted_0181,contract:CON-0001,2026-08-19
+con_00429,24ma3/159,awd_00505,lot_00504,pro_0165,Raccordement Jamet-Romanet de la ligne 1 de Tramway - Marché Mt3 Travaux de Courants Forts / Courants Faibles,,,,2024-12-23,,,cat_0151,FRA,src_ted_opendata,file_ted_0182,contract:CON-0001,2026-08-19
+con_00430,384,awd_00506,lot_00506,pro_0166,,,,,2024-12-19,,,cat_0062,ROU,src_ted_opendata,file_ted_0183,contract:CON-0001,2026-08-19
+con_00431,383,awd_00507,lot_00505,pro_0166,,,,,2024-12-19,,,cat_0062,ROU,src_ted_opendata,file_ted_0183,contract:CON-0002,2026-08-19
+con_00432,385,awd_00508,lot_00507,pro_0166,,,,,2024-12-19,,,cat_0062,ROU,src_ted_opendata,file_ted_0183,contract:CON-0003,2026-08-19
+con_00433,386,awd_00509,lot_00508,pro_0166,,,,,2024-12-19,,,cat_0062,ROU,src_ted_opendata,file_ted_0183,contract:CON-0004,2026-08-19
+con_00434,381,awd_00510,lot_00509,pro_0166,,,,,2024-12-12,,,cat_0062,ROU,src_ted_opendata,file_ted_0183,contract:CON-0005,2026-08-19
+con_00435,umowa DZP/572/2024,,,pro_0167,umowa DZP/572/2024,,,,2024-12-20,,,,POL,src_ted_opendata,file_ted_0184,contract:CON-0001,2026-08-19
+con_00436,umowa DZP/573/2024,,,pro_0167,umowa DZP/573/2024,,,,2024-12-20,,,,POL,src_ted_opendata,file_ted_0184,contract:CON-0002,2026-08-19
+con_00437,umowa DZP/574/2024,awd_00521,lot_00511,pro_0167,umowa DZP/574/2024,,,,2024-12-20,,,cat_0152,POL,src_ted_opendata,file_ted_0184,contract:CON-0003,2026-08-19
+con_00438,umowa DZP/575/2024,,,pro_0167,umowa DZP/575/2024,,,,2024-12-20,,,,POL,src_ted_opendata,file_ted_0184,contract:CON-0004,2026-08-19
+con_00439,umowa DZP/576/2024,,,pro_0167,umowa DZP/576/2024,,,,2024-12-20,,,,POL,src_ted_opendata,file_ted_0184,contract:CON-0005,2026-08-19
+con_00440,11162/2024,awd_00532,lot_00531,pro_0168,,,,,2024-12-26,,,cat_0153,ESP,src_ted_opendata,file_ted_0185,contract:CON-0001,2026-08-19
+con_00441,A2024/004659-001,awd_00533,lot_00532,pro_0169,,,,,2024-12-19,,,cat_0154,ESP,src_ted_opendata,file_ted_0186,contract:CON-0001,2026-08-19
+con_00442,BiF. 271.16.2024.AW,awd_00534,lot_00533,pro_0170,Odbiór i zagospodarowanie odpadów komunalnych od właścicieli nieruchomości zamieszkałych na terenie gminy Jakubów,,,,2024-12-12,,,cat_0008,POL,src_ted_opendata,file_ted_0187,contract:CON-0001,2026-08-19
+con_00443,T120302,awd_00535,lot_00534,pro_0171,Projectcoördinator en senior adviseur Huisvesting,,,,,,,cat_0014,NLD,src_ted_opendata,file_ted_0188,contract:CON-0001,2026-08-19
+con_00444,HM 2024-61/1,awd_00536,lot_00535,pro_0172,Hankeleping Medivar,,,,2024-12-30,,,cat_0155,EST,src_ted_opendata,file_ted_0189,contract:CON-0001,2026-08-19
+con_00445,Aoo-2024-22(Eau),awd_00538,lot_00537,pro_0173,Maitrise d'oeuvre pour les travaux de sécurisation en eau potable du secteur Ouest de Thonon Agglomération,,,,2024-11-12,,,cat_0156,FRA,src_ted_opendata,file_ted_0190,contract:CON-0001,2026-08-19
+con_00446,HM 2024-63,awd_00539,lot_00538,pro_0174,Hankeleping,,,,2024-12-30,,,cat_0157,EST,src_ted_opendata,file_ted_0191,contract:CON-0001,2026-08-19
+con_00447,Vertrag 0001,awd_00540,lot_00539,pro_0175,DBS - Kostüm,,,,2024-12-17,,,cat_0051,AUT,src_ted_opendata,file_ted_0192,contract:CON-0001,2026-08-19
+con_00448,24GC007-01,awd_00541,lot_00540,pro_0176,DOMMAGES AUX BIENS,,,,2024-12-18,,,cat_0109,FRA,src_ted_opendata,file_ted_0193,contract:CON-0001,2026-08-19
+con_00449,24GC007-03,awd_00543,lot_00542,pro_0176,PROTECTION JURIDIQUE,,,,2024-12-18,,,cat_0159,FRA,src_ted_opendata,file_ted_0193,contract:CON-0002,2026-08-19
+con_00450,24GC007-04,awd_00544,lot_00543,pro_0176,VÉHICULES A MOTEURS,,,,2024-12-18,,,cat_0081,FRA,src_ted_opendata,file_ted_0193,contract:CON-0003,2026-08-19
+con_00451,24GC007-05,awd_00545,lot_00544,pro_0176,CYBER-RISQUES,,,,2024-12-18,,,cat_0109,FRA,src_ted_opendata,file_ted_0193,contract:CON-0004,2026-08-19
+con_00452,1,awd_00546,lot_00545,pro_0177,,,,,2024-12-17,,,cat_0160,HUN,src_ted_opendata,file_ted_0194,contract:CON-0001,2026-08-19
+con_00453,2,awd_00547,lot_00546,pro_0177,,,,,2024-12-17,,,cat_0160,HUN,src_ted_opendata,file_ted_0194,contract:CON-0002,2026-08-19
+con_00454,3,awd_00548,lot_00547,pro_0177,,,,,2024-12-17,,,cat_0160,HUN,src_ted_opendata,file_ted_0194,contract:CON-0003,2026-08-19
+con_00455,2024202401701,awd_00549,lot_00548,pro_0178,Secteur Colomiers,,,,2024-12-05,,,cat_0161,FRA,src_ted_opendata,file_ted_0195,contract:CON-0001,2026-08-19
+con_00456,2024202401702,awd_00550,lot_00549,pro_0178,Secteur Colomiers / Nord - Ouest,,,,2024-12-04,,,cat_0161,FRA,src_ted_opendata,file_ted_0195,contract:CON-0002,2026-08-19
+con_00457,2024202401703,awd_00551,lot_00550,pro_0178,Secteur Colomiers / Nord - Est,,,,2024-12-03,,,cat_0161,FRA,src_ted_opendata,file_ted_0195,contract:CON-0003,2026-08-19
+con_00458,2024202401704,awd_00552,lot_00551,pro_0178,Secteur Colomiers / Sud - Ouest,,,,2024-12-06,,,cat_0161,FRA,src_ted_opendata,file_ted_0195,contract:CON-0004,2026-08-19
+con_00459,2024202401705,awd_00553,lot_00552,pro_0178,Secteur Colomiers / Sud - Est,,,,2024-12-04,,,cat_0161,FRA,src_ted_opendata,file_ted_0195,contract:CON-0005,2026-08-19
+con_00460,2024202401706,awd_00554,lot_00553,pro_0178,Secteur Tarn,,,,2024-12-12,,,cat_0161,FRA,src_ted_opendata,file_ted_0195,contract:CON-0006,2026-08-19
+con_00461,2024202401707,awd_00555,lot_00554,pro_0178,Secteur Tarn et Garonne,,,,2024-12-16,,,cat_0161,FRA,src_ted_opendata,file_ted_0195,contract:CON-0007,2026-08-19
+con_00462,DO/DZ-382-493/24,awd_00557,lot_00556,pro_0179,,,,,2024-12-12,,,cat_0162,POL,src_ted_opendata,file_ted_0196,contract:CON-0001,2026-08-19
+con_00463,2402701212,awd_00559,lot_00558,pro_0180,,,,,2024-12-30,,,cat_0100,CZE,src_ted_opendata,file_ted_0197,contract:CON-0001,2026-08-19
+con_00464,Contrat lot 1/Rang 1,awd_00560,lot_00559,pro_0181,,,,,2024-12-23,,,cat_0146,FRA,src_ted_opendata,file_ted_0198,contract:CON-0001,2026-08-19
+con_00465,Contrat lot 1/Rang 2,awd_00561,lot_00559,pro_0181,,,,,2024-12-23,,,cat_0146,FRA,src_ted_opendata,file_ted_0198,contract:CON-0002,2026-08-19
+con_00466,Contrat lot 1/Rang 3,awd_00562,lot_00559,pro_0181,,,,,2024-12-23,,,cat_0146,FRA,src_ted_opendata,file_ted_0198,contract:CON-0003,2026-08-19
+con_00467,Contrat lot 2/RANG 1,awd_00563,lot_00560,pro_0181,,,,,2024-12-23,,,cat_0146,FRA,src_ted_opendata,file_ted_0198,contract:CON-0004,2026-08-19
+con_00468,Contrat lot 2/RANG 2,awd_00564,lot_00560,pro_0181,,,,,2024-12-23,,,cat_0146,FRA,src_ted_opendata,file_ted_0198,contract:CON-0005,2026-08-19
+con_00469,"M00022-001-ACUERDO MARCO PARA EL SUMINISTRO DE REPUESTOS EXCLUSIVOS DEL FABRICANTE SCHUNK IBERICA, S.A. PARA EL MANTENIMIENTO DE LOS TRENES DEL MATERIAL MÓVIL DE METRO DE MADRID",awd_00565,lot_00561,pro_0182,,,,,2024-12-04,,,cat_0083,ESP,src_ted_opendata,file_ted_0199,contract:CON-0001,2026-08-19
+con_00470,umowa nr 393/2024/W,awd_00566,lot_00562,pro_0183,,,,,2024-12-11,,,cat_0164,POL,src_ted_opendata,file_ted_0200,contract:CON-0001,2026-08-19
+con_00471,umowa nr 394/2024/W,awd_00567,lot_00563,pro_0183,,,,,2024-12-11,,,cat_0164,POL,src_ted_opendata,file_ted_0200,contract:CON-0002,2026-08-19
+con_00472,umowa nr 395/2024/W,awd_00568,lot_00564,pro_0183,,,,,2024-12-13,,,cat_0164,POL,src_ted_opendata,file_ted_0200,contract:CON-0003,2026-08-19
+con_00473,20240039,awd_00569,lot_00565,pro_0184,,,,,2024-12-30,,,cat_0165,ESP,src_ted_opendata,file_ted_0201,contract:CON-0001,2026-08-19
+con_00474,382/FS/2024,awd_00570,lot_00566,pro_0185,Zakup i sukcesywna dostawa jednorazowych zestawów do przezoskrzelowej biopsji aspiracyjnej,,,,2024-10-23,,,cat_0101,POL,src_ted_opendata,file_ted_0202,contract:CON-0001,2026-08-19
+con_00475,383/FS/2024,awd_00571,lot_00567,pro_0185,Zakup i sukcesywna dostawa jednorazowych igieł do przezoskrzelowej biopsji aspiracyjnej pod kontrolą ultrasonografii,,,,2024-10-23,,,cat_0101,POL,src_ted_opendata,file_ted_0202,contract:CON-0002,2026-08-19
+con_00476,384/FS/2024,awd_00577,lot_00573,pro_0185,"Zakup i sukcesywna dostawa szczypcy biopsyjnych, koszyków chwytających (komis)",,,,2024-10-23,,,cat_0101,POL,src_ted_opendata,file_ted_0202,contract:CON-0003,2026-08-19
+con_00477,385/FS/2024,awd_00572,lot_00568,pro_0185,Zakup i sukcesywna dostawa siatek polipropylenowych,,,,2024-10-23,,,cat_0101,POL,src_ted_opendata,file_ted_0202,contract:CON-0004,2026-08-19
+con_00478,386/FS/2024,awd_00573,lot_00569,pro_0185,Zakup i sukcesywna dostawa siatek przepuklinowych i instrumentu do ich mocowania,,,,2024-10-23,,,cat_0101,POL,src_ted_opendata,file_ted_0202,contract:CON-0005,2026-08-19
+con_00479,387/FS/2024,awd_00574,lot_00570,pro_0185,"Zakup i sukcesywna dostawa kleszczy biobsyjnych, szczotek cytologicznych i czyszczących, balonów (komis)",,,,2024-10-23,,,cat_0101,POL,src_ted_opendata,file_ted_0202,contract:CON-0006,2026-08-19
+con_00480,388/FS/2024,awd_00578,lot_00574,pro_0185,"Zakup i sukcesywna dostawa pętli, prowadnic, szczoteczek, ustników (komis)",,,,2024-10-23,,,cat_0101,POL,src_ted_opendata,file_ted_0202,contract:CON-0007,2026-08-19
+con_00481,1 Umowa,awd_00581,lot_00577,pro_0186,,,,,2024-12-03,,,cat_0134,POL,src_ted_opendata,file_ted_0203,contract:CON-0001,2026-08-19
+con_00482,DPR65-20/2024,awd_00582,lot_00578,pro_0187,,,,,2024-11-28,,,cat_0166,LTU,src_ted_opendata,file_ted_0204,contract:CON-0001,2026-08-19
+con_00483,,awd_00583,lot_00579,pro_0188,,,,,2024-12-31,,,cat_0112,CHE,src_ted_opendata,file_ted_0205,contract:CON-0200,2026-08-19
+con_00484,6440-OŘS1-2022-057,awd_00584,lot_00580,pro_0189,,,,,2023-06-14,,,cat_0146,CZE,src_ted_opendata,file_ted_0206,contract:CON-0001,2026-08-19
+con_00485,oferta nr 1,awd_00585,lot_00581,pro_0190,,,,,2024-12-20,,,cat_0008,POL,src_ted_opendata,file_ted_0207,contract:CON-0001,2026-08-19
+con_00486,582-1315,awd_00586,lot_00582,pro_0191,Storten van gemeentelijke afvalfracties 2025-2028,,,,2024-12-18,,,cat_0167,BEL,src_ted_opendata,file_ted_0208,contract:CON-0001,2026-08-19
+con_00487,5159,awd_00587,lot_00583,pro_0192,Prestations de maintenance préventive et corrective des variateurs de vitesse,,,,2024-10-09,,,cat_0168,FRA,src_ted_opendata,file_ted_0209,contract:CON-0001,2026-08-19
+con_00488,599/07/2024,,lot_00584,pro_0193,,,,,2024-12-30,,,cat_0093,FRA,src_ted_opendata,file_ted_0210,contract:CON-0001,2026-08-19
+con_00489,"Dienstleistungsauftrag für die Übernahme, den Transport und die thermische Behandlung und anschließende Verwertung/Entsorgung von kommunalem Klärschlamm",awd_00590,lot_00587,pro_0194,"Dienstleistungsauftrag für die Übernahme, den Transport und die thermische Behandlung und anschließende Verwertung/Entsorgung von kommunalem Klärschlamm",,,,2024-12-31,,,cat_0052,AUT,src_ted_opendata,file_ted_0211,contract:CON-1617,2026-08-19
+con_00490,CON-0002,,lot_00588,pro_0195,P1 Levering Speurhond(en),,,,2024-11-11,,,cat_0170,NLD,src_ted_opendata,file_ted_0212,contract:CON-0002,2026-08-19
+con_00491,CON-0001,awd_00591,lot_00588,pro_0195,P1 Levering Speurhond(en),,,,2024-10-14,,,cat_0170,NLD,src_ted_opendata,file_ted_0212,contract:CON-0001,2026-08-19
+con_00492,174744,awd_00593,lot_00590,pro_0196,"„Услуги по организиране, администриране и контрол на заплащането на таксите за паркиране чрез изпращане на кратки текстови съобщения по 3 обособени позиции“, Обособена позиция 3: Обособена позиция № 3: „УСЛУГИ ПО ОРГАНИЗИРАНЕ, АДМИНИСТРИРАНЕ И КОНТРОЛ НА ЗАПЛАЩАНЕТО НА ТАКСИТЕ ЗА ПАРКИРАНЕ ЧРЕЗ ИЗПРАЩАНЕ НА КРАТКИ ТЕКСТОВИ СЪОБЩЕНИЯ ЗА КЛИЕНТИ/АБОНАТИ НА „ЙЕТТЕЛ БЪЛГАРИЯ“ ЕАД“",,,,2024-12-06,,,cat_0171,BGR,src_ted_opendata,file_ted_0214,contract:CON-0001,2026-08-19
+con_00493,125268,awd_00594,lot_00591,pro_0197,,,,,2024-12-27,,,cat_0172,ROU,src_ted_opendata,file_ted_0215,contract:CON-0001,2026-08-19
+con_00494,ΤΜΗΜΑ 1 ΠΕΤΡΕΛΑΙΟ ΘΕΡΜΑΝΣΗΣ,awd_00595,lot_00592,pro_0198,ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ ΘΕΡΜΑΝΣΗΣ ΠΕΤΡΕΛΑΙΟ,,,,2024-12-31,,,cat_0173,GRC,src_ted_opendata,file_ted_0216,contract:CON-0001,2026-08-19
+con_00495,ΣΥΜΒΑΣΗ ΤΜΗΜΑ 2,awd_00596,lot_00593,pro_0198,ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ ΚΙΝΗΣΗΣ ΠΕΤΡΕΛΑΙΟ ΚΑΙ ΒΕΝΖΙΝΗ,,,,2024-12-31,,,cat_0174,GRC,src_ted_opendata,file_ted_0216,contract:CON-0002,2026-08-19
+con_00496,Dostawa PRODUKTÓW GŁĘBOKO MROŻONYCH,awd_00597,lot_00594,pro_0199,,,,,2024-12-30,,,cat_0175,POL,src_ted_opendata,file_ted_0217,contract:CON-0001,2026-08-19
+con_00497,2823-4386,awd_00598,lot_00595,pro_0200,Véhicule électrique type ludospace 5 portes (service projet),,,,2024-12-27,,,cat_0176,BEL,src_ted_opendata,file_ted_0218,contract:CON-0001,2026-08-19
+con_00498,2824-4387,awd_00599,lot_00596,pro_0200,Véhicule double cabine + benne basculante,,,,2024-12-27,,,cat_0177,BEL,src_ted_opendata,file_ted_0218,contract:CON-0002,2026-08-19
+con_00499,umowa zad.1,awd_00603,lot_00600,pro_0201,"Zadanie 1. Gospodarowanie odpadami 19 01 14 w ilości 500 Mg,",,,,2024-12-12,,,cat_0114,POL,src_ted_opendata,file_ted_0220,contract:CON-0001,2026-08-19
+con_00500,umowa zad.2,awd_00604,lot_00601,pro_0201,Zadanie 2. Gospodarowanie odpadami 19 01 14 w ilości 1 000 Mg,,,,2024-12-20,,,cat_0114,POL,src_ted_opendata,file_ted_0220,contract:CON-0002,2026-08-19
+con_00501,umowa zad.3,awd_00605,lot_00602,pro_0201,Zadanie 3. Gospodarowanie odpadami 19 01 14 w ilości 1 000 Mg,,,,2024-12-20,,,cat_0114,POL,src_ted_opendata,file_ted_0220,contract:CON-0003,2026-08-19
+con_00502,umowa zad.4,awd_00606,lot_00603,pro_0201,Zadanie 4. Gospodarowanie odpadami 19 01 14 w ilości 1 500 Mg,,,,2024-12-20,,,cat_0114,POL,src_ted_opendata,file_ted_0220,contract:CON-0004,2026-08-19
+con_00503,umowa zad.6,awd_00608,lot_00605,pro_0201,Zadanie 6. Gospodarowanie odpadami 19 01 14 w ilości 2 000 Mg,,,,2024-12-24,,,cat_0114,POL,src_ted_opendata,file_ted_0220,contract:CON-0005,2026-08-19
+con_00504,umowa zad.7,awd_00609,lot_00606,pro_0201,Zadanie 7. Gospodarowanie odpadami 19 01 14 w ilości 2 000 Mg,,,,2024-12-12,,,cat_0114,POL,src_ted_opendata,file_ted_0220,contract:CON-0006,2026-08-19
+con_00505,umowa zad.8,awd_00610,lot_00607,pro_0201,Zadanie 8. Gospodarowanie odpadami 19 01 14 lub 19 03 07 w ilości 2 000 Mg,,,,2024-12-13,,,cat_0114,POL,src_ted_opendata,file_ted_0220,contract:CON-0007,2026-08-19
+con_00506,5879,awd_00611,lot_00610,pro_0202,,,,,2024-11-27,,,cat_0179,ROU,src_ted_opendata,file_ted_0221,contract:CON-0001,2026-08-19
+con_00507,5668,awd_00612,lot_00608,pro_0202,,,,,2024-11-18,,,cat_0178,ROU,src_ted_opendata,file_ted_0221,contract:CON-0002,2026-08-19
+con_00508,5880,awd_00613,lot_00612,pro_0202,,,,,2024-11-27,,,cat_0179,ROU,src_ted_opendata,file_ted_0221,contract:CON-0003,2026-08-19
+con_00509,5670,awd_00614,lot_00611,pro_0202,,,,,2024-11-18,,,cat_0179,ROU,src_ted_opendata,file_ted_0221,contract:CON-0004,2026-08-19
+con_00510,5669,awd_00615,lot_00609,pro_0202,,,,,2024-11-18,,,cat_0178,ROU,src_ted_opendata,file_ted_0221,contract:CON-0005,2026-08-19
+con_00511,5881,awd_00616,lot_00613,pro_0202,,,,,2024-11-27,,,cat_0179,ROU,src_ted_opendata,file_ted_0221,contract:CON-0006,2026-08-19
+con_00512,5671,awd_00617,lot_00614,pro_0202,,,,,2024-11-18,,,cat_0179,ROU,src_ted_opendata,file_ted_0221,contract:CON-0007,2026-08-19
+con_00513,24663102,awd_00621,lot_00618,pro_0204,,,,,2024-12-13,,,cat_0168,FRA,src_ted_opendata,file_ted_0223,contract:CON-0001,2026-08-19
+con_00514,OR.271.43.2024,awd_00622,lot_00619,pro_0205,,,,,2024-12-09,,,cat_0180,POL,src_ted_opendata,file_ted_0224,contract:CON-0001,2026-08-19
+con_00515,CON-0001,awd_00623,lot_00620,pro_0206,,,,,2024-12-20,,,cat_0181,DEU,src_ted_opendata,file_ted_0225,contract:CON-0001,2026-08-19
+con_00516,177564,awd_00624,lot_00621,pro_0207,"„Доставка на портативен уред за елементен анализ, за нуждите на Технически университет – София, по проект BG-RRP-2.004-0005 “Подобряване на научноизследователския капацитет и качество за международна разпознаваемост и устойчивост на ТУ-София”, финансиран чрез Национален план за възстановяване и устойчивост, BG-RRP-2.004“",,,,2024-12-30,,,cat_0182,BGR,src_ted_opendata,file_ted_0226,contract:CON-0001,2026-08-19
+con_00517,2025-001,awd_00625,lot_00622,pro_0208,Transport des élèves pour les sorties pédagogiques,,,,2024-11-27,,,cat_0183,FRA,src_ted_opendata,file_ted_0227,contract:CON-0001,2026-08-19
+con_00518,2025-002,awd_00626,lot_00623,pro_0208,Transport des élèves vers les équipements et les sites sportifs,,,,2024-11-27,,,cat_0183,FRA,src_ted_opendata,file_ted_0227,contract:CON-0002,2026-08-19
+con_00519,2025-003,awd_00627,lot_00624,pro_0208,"Location de bus avec chauffeur pour les besoins scolaires, périscolaires, extrascolaires et des services de la Ville de Saint-Paul",,,,2024-11-27,,,cat_0183,FRA,src_ted_opendata,file_ted_0227,contract:CON-0003,2026-08-19
+con_00520,2025-004,awd_00628,lot_00625,pro_0208,Transport du public pour les manifestations,,,,2024-11-27,,,cat_0183,FRA,src_ted_opendata,file_ted_0227,contract:CON-0004,2026-08-19
+con_00521,CRU.862.2024,awd_00630,lot_00627,pro_0210,,,,,2024-12-20,,,cat_0184,POL,src_ted_opendata,file_ted_0229,contract:CON-0001,2026-08-19
+con_00522,UMOWA nr 01/12/2024,awd_00631,lot_00628,pro_0211,UMOWA nr 01/12/2024,,,,2024-12-10,,,cat_0174,POL,src_ted_opendata,file_ted_0230,contract:CON-0001,2026-08-19
+con_00523,LOT UNIQUE,awd_00632,lot_00629,pro_0212,LOT UNIQUE,,,,2024-12-27,,,cat_0185,FRA,src_ted_opendata,file_ted_0231,contract:CON-0001,2026-08-19
+con_00524,451209,awd_00633,lot_00631,pro_0213,,,,,2024-12-30,,,cat_0039,ROU,src_ted_opendata,file_ted_0232,contract:CON-0001,2026-08-19
+con_00525,451187,awd_00634,lot_00630,pro_0213,,,,,2024-12-30,,,cat_0039,ROU,src_ted_opendata,file_ted_0232,contract:CON-0002,2026-08-19
+con_00526,PPZP.272.49.2024,awd_00635,lot_00632,pro_0214,,,,,2024-12-23,,,cat_0013,POL,src_ted_opendata,file_ted_0233,contract:CON-0001,2026-08-19
+con_00527,CON-0001,awd_00637,lot_00634,pro_0215,,,,,,,,cat_0186,DEU,src_ted_opendata,file_ted_0235,contract:CON-0001,2026-08-19
+con_00528,CON-0002,awd_00638,lot_00635,pro_0215,,,,,,,,cat_0186,DEU,src_ted_opendata,file_ted_0235,contract:CON-0002,2026-08-19
+con_00529,CON-0003,awd_00639,lot_00636,pro_0215,,,,,,,,cat_0186,DEU,src_ted_opendata,file_ted_0235,contract:CON-0003,2026-08-19
+con_00530,CON-0004,awd_00640,lot_00637,pro_0215,,,,,,,,cat_0186,DEU,src_ted_opendata,file_ted_0235,contract:CON-0004,2026-08-19
+con_00531,CON-0005,awd_00641,lot_00638,pro_0215,,,,,,,,cat_0186,DEU,src_ted_opendata,file_ted_0235,contract:CON-0005,2026-08-19
+con_00532,CON-0006,awd_00642,lot_00639,pro_0215,,,,,,,,cat_0186,DEU,src_ted_opendata,file_ted_0235,contract:CON-0006,2026-08-19
+con_00533,CON-0007,awd_00643,lot_00640,pro_0215,,,,,,,,cat_0186,DEU,src_ted_opendata,file_ted_0235,contract:CON-0007,2026-08-19
+con_00534,2024CTC1247213,awd_00645,lot_00642,pro_0217,Brive La Gaillarde (19) – Accessibilité PMR – TX de rehaussement Quai 1 et 5,,,,2024-12-16,,,cat_0187,FRA,src_ted_opendata,file_ted_0237,contract:CON-0001,2026-08-19
+con_00535,2024m24084s,awd_00646,lot_00643,pro_0218,Externalisation des éditions du service gestion locative,,,,2024-12-23,,,cat_0188,FRA,src_ted_opendata,file_ted_0238,contract:CON-0001,2026-08-19
+con_00536,"KLASA: 406-01/24-01/38, URBROJ: 2109-12-01-24-10",awd_00647,lot_00644,pro_0219,Ozelenjivanje javnih površina na području općine Nedelišće,,,,2024-12-16,,,cat_0189,HRV,src_ted_opendata,file_ted_0239,contract:CON-0000,2026-08-19
+con_00537,Odprowadzanie wód opadowych i roztopowych kanalizacją deszczową z powierzchni zanieczyszczonych o trwałej nawierzchni,awd_00648,lot_00645,pro_0220,,,,,2024-12-30,,,cat_0190,POL,src_ted_opendata,file_ted_0240,contract:CON-0001,2026-08-19
+con_00538,Utrzymanie i remonty urządzeń elektroenergetycznych w Enea Elektrownia Połaniec S.A. na okres 3 m-cy w 2025 roku,awd_00649,lot_00646,pro_0221,,,,,,,,cat_0191,POL,src_ted_opendata,file_ted_0241,contract:CON-0001,2026-08-19
+con_00539,Umowa do Części nr 1,awd_00650,lot_00647,pro_0222,Umowa kosztowa nr 70162,,,,2024-11-29,,,cat_0192,POL,src_ted_opendata,file_ted_0242,contract:CON-0001,2026-08-19
+con_00540,Umowa do Części nr 2,awd_00651,lot_00648,pro_0222,Umowa kosztowa nr 70195,,,,2024-11-23,,,cat_0192,POL,src_ted_opendata,file_ted_0242,contract:CON-0002,2026-08-19
+con_00541,11/10701,awd_00653,lot_00665,pro_0224,,,,,2024-11-08,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0050,2026-08-19
+con_00542,2052,awd_00654,lot_00668,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0015,2026-08-19
+con_00543,2045,awd_00655,lot_00657,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0009,2026-08-19
+con_00544,2048,awd_00656,lot_00661,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0012,2026-08-19
+con_00545,2050,awd_00657,lot_00664,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0014,2026-08-19
+con_00546,2047,awd_00658,lot_00660,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0011,2026-08-19
+con_00547,2026,,lot_00665,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0004,2026-08-19
+con_00548,2038,awd_00659,lot_00650,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0001,2026-08-19
+con_00549,2025,awd_00660,lot_00659,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0003,2026-08-19
+con_00550,2044,awd_00661,lot_00656,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0002,2026-08-19
+con_00551,2051,awd_00662,lot_00667,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0005,2026-08-19
+con_00552,2046,awd_00663,lot_00658,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0010,2026-08-19
+con_00553,2040,awd_00664,lot_00652,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0007,2026-08-19
+con_00554,1/2262,,lot_00665,pro_0224,,,,,2023-02-28,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0017,2026-08-19
+con_00555,2043,awd_00665,lot_00655,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0018,2026-08-19
+con_00556,2049,awd_00666,lot_00663,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0013,2026-08-19
+con_00557,2054,awd_00667,lot_00670,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0020,2026-08-19
+con_00558,1/2503,,lot_00659,pro_0224,,,,,2023-03-06,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0022,2026-08-19
+con_00559,2/3933,,lot_00659,pro_0224,,,,,2023-04-07,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0023,2026-08-19
+con_00560,1/5283,,lot_00655,pro_0224,,,,,2023-05-18,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0024,2026-08-19
+con_00561,5/10420,,lot_00665,pro_0224,,,,,2023-10-17,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0030,2026-08-19
+con_00562,4/9211,,lot_00665,pro_0224,,,,,2023-09-12,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0029,2026-08-19
+con_00563,2/4528,awd_00668,lot_00651,pro_0224,,,,,2024-05-15,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0032,2026-08-19
+con_00564,1/1287,,lot_00651,pro_0224,,,,,2024-02-12,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0033,2026-08-19
+con_00565,8/1446,,lot_00665,pro_0224,,,,,2024-02-15,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0039,2026-08-19
+con_00566,1/4477,,lot_00660,pro_0224,,,,,2024-05-14,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0034,2026-08-19
+con_00567,1/3287,,lot_00650,pro_0224,,,,,2024-04-08,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0035,2026-08-19
+con_00568,9/2426,,lot_00665,pro_0224,,,,,2024-03-14,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0040,2026-08-19
+con_00569,2/6464,,lot_00661,pro_0224,,,,,2024-07-10,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0041,2026-08-19
+con_00570,1/4478,,lot_00661,pro_0224,,,,,2024-05-14,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0042,2026-08-19
+con_00571,10/4453,,lot_00665,pro_0224,,,,,2024-05-14,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0043,2026-08-19
+con_00572,2/6465,,lot_00660,pro_0224,,,,,2024-07-10,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0031,2026-08-19
+con_00573,7/795,,lot_00665,pro_0224,,,,,2024-01-30,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0036,2026-08-19
+con_00574,6/11538,,lot_00665,pro_0224,,,,,2023-11-21,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0037,2026-08-19
+con_00575,2/5514,,lot_00655,pro_0224,,,,,2024-06-13,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0038,2026-08-19
+con_00576,3/6117,,lot_00665,pro_0224,,,,,2023-06-13,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0027,2026-08-19
+con_00577,1/3932,,lot_00668,pro_0224,,,,,2023-04-07,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0026,2026-08-19
+con_00578,1/3930,awd_00669,lot_00669,pro_0224,,,,,2023-04-07,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0025,2026-08-19
+con_00579,2/2659,,lot_00665,pro_0224,,,,,2023-03-08,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0021,2026-08-19
+con_00580,2042,awd_00670,lot_00654,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0019,2026-08-19
+con_00581,3/6368,,lot_00659,pro_0224,,,,,2024-07-08,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0046,2026-08-19
+con_00582,4/9439,,lot_00660,pro_0224,,,,,2024-10-09,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0048,2026-08-19
+con_00583,4/8655,,lot_00659,pro_0224,,,,,2024-09-17,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0049,2026-08-19
+con_00584,2/6184,,lot_00669,pro_0224,,,,,2023-06-14,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0028,2026-08-19
+con_00585,4/9440,,lot_00661,pro_0224,,,,,2024-10-09,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0047,2026-08-19
+con_00586,3/7397,,lot_00661,pro_0224,,,,,2024-08-08,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0044,2026-08-19
+con_00587,3/7396,,lot_00660,pro_0224,,,,,2024-08-08,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0045,2026-08-19
+con_00588,2053,,lot_00669,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0016,2026-08-19
+con_00589,2041,awd_00671,lot_00653,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0008,2026-08-19
+con_00590,2039,,lot_00651,pro_0224,,,,,2023-02-23,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0006,2026-08-19
+con_00591,12/11651,,lot_00665,pro_0224,,,,,2024-12-05,,,cat_0193,ROU,src_ted_opendata,file_ted_0244,contract:CON-0051,2026-08-19
+con_00592,"772400276-UTE INGENIERÍA Y ECONOMÍA DEL TRANSPORTE S.M.E. M.P.S.A. & TÜV RHEINLAND RAIL CERTIFICATION B.V.-SERVICIO DE CERTIFICACIÓN, INSPECCIÓN, SEGUIMIENTO Y ASISTENCIA ANTE EL SUMINISTRO DE NUEVO MATERIAL MÓVIL DE GÁLIBO ESTRECHO",awd_00674,lot_00671,pro_0225,"SERVICIO DE CERTIFICACIÓN, INSPECCIÓN, SEGUIMIENTO Y ASISTENCIA ANTE EL SUMINISTRO DE NUEVO MATERIAL MÓVIL DE GÁLIBO ESTRECHO",,,,2024-12-10,,,cat_0194,ESP,src_ted_opendata,file_ted_0245,contract:CON-0001,2026-08-19
+con_00593,Umowa cz.3 Nr 4/11/2025,awd_00675,lot_00672,pro_0226,,,,,2024-12-30,,,cat_0195,POL,src_ted_opendata,file_ted_0246,contract:CON-0001,2026-08-19
+con_00594,WRM.RZP.271.33.2024,awd_00676,lot_00673,pro_0227,"Świadczenie usługi odbioru i transportu odpadów komunalnych powstających na nieruchomościach, na których zamieszkują mieszkańcy na terenie Gminy Miasto Ostrów Wielkopolski oraz prowadzenie dwóch Punktów Selektywnego Zbierania Odpadów Komunalnych (PSZOK) na terenie miasta Ostrowa Wielkopolskiego",,,,2024-12-09,,,cat_0008,POL,src_ted_opendata,file_ted_0247,contract:CON-0001,2026-08-19
+con_00595,R.ROZ.272.70.2023/443,awd_00677,lot_00674,pro_0228,,,,,2024-12-05,,,cat_0197,POL,src_ted_opendata,file_ted_0248,contract:CON-0001,2026-08-19
+con_00596,711/2024/05,awd_00678,lot_00675,pro_0229,„Leki różne V” w zakresie Pakietu nr 1 (Immunoglobuliny),,,,2024-12-10,,,cat_0018,POL,src_ted_opendata,file_ted_0249,contract:CON-0001,2026-08-19
+con_00597,712/2024/05,awd_00679,lot_00676,pro_0229,„Leki różne V” w zakresie Pakietu nr 2 (Nalbuphine),,,,2024-12-10,,,cat_0018,POL,src_ted_opendata,file_ted_0249,contract:CON-0002,2026-08-19
+con_00598,713/2024/05,awd_00681,lot_00678,pro_0229,„Leki różne V” w zakresie Pakietu nr 4 (Leki różne),,,,2024-12-10,,,cat_0018,POL,src_ted_opendata,file_ted_0249,contract:CON-0003,2026-08-19
+con_00599,714/2024/05,awd_00682,lot_00679,pro_0229,„Leki różne V” w zakresie Pakietu nr 5 (Leki różne),,,,2024-12-10,,,cat_0018,POL,src_ted_opendata,file_ted_0249,contract:CON-0004,2026-08-19
+con_00600,C1/23G13087/23,awd_00684,lot_00681,pro_0230,,,,,2024-12-30,,,cat_0034,ESP,src_ted_opendata,file_ted_0251,contract:CON-0001,2026-08-19
+con_00601,,awd_00685,lot_00682,pro_0231,,,,,2024-12-31,,,cat_0112,CHE,src_ted_opendata,file_ted_0252,contract:CON-0200,2026-08-19
+con_00602,,awd_00686,lot_00683,pro_0232,,,,,2024-12-31,,,cat_0081,CHE,src_ted_opendata,file_ted_0253,contract:CON-0000,2026-08-19
+con_00603,24N0020,awd_00688,lot_00685,pro_0233,,,,,2024-12-16,,,cat_0198,FRA,src_ted_opendata,file_ted_0255,contract:CON-0001,2026-08-19
+con_00604,WIW-AG.273.5.1.2024 - część 1,awd_00689,lot_00686,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0001,2026-08-19
+con_00605,WIW-AG.273.5.2.2024 - część 2,awd_00690,lot_00687,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0002,2026-08-19
+con_00606,WIW-AG.273.5.3.2024 - część 3,awd_00691,lot_00688,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0003,2026-08-19
+con_00607,WIW-AG.273.5.4.2024 - część 4,awd_00692,lot_00689,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0004,2026-08-19
+con_00608,WIW-AG.273.5.5.2024 - część 5,awd_00693,lot_00690,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0005,2026-08-19
+con_00609,WIW-AG.273.5.6.2024 - część 6,awd_00694,lot_00691,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0006,2026-08-19
+con_00610,WIW-AG.273.5.7.2024 - część 7,awd_00695,lot_00692,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0007,2026-08-19
+con_00611,WIW-AG.273.5.6.2024 - część 8,awd_00696,lot_00693,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0008,2026-08-19
+con_00612,WIW-AG.273.5.8.2024 - część 9,awd_00697,lot_00694,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0009,2026-08-19
+con_00613,WIW-AG.273.5.9.2024 - część 10,awd_00698,lot_00695,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0010,2026-08-19
+con_00614,WIW-AG.273.5.4.2024 - część 11,awd_00699,lot_00696,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0011,2026-08-19
+con_00615,WIW-AG.273.5.10.2024 - część 12,awd_00700,lot_00697,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0012,2026-08-19
+con_00616,WIW-AG.273.5.3.2024 - część 13,awd_00701,lot_00698,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0013,2026-08-19
+con_00617,WIW-AG.273.5.4.2024 - część 15,awd_00703,lot_00700,pro_0234,,,,,2024-12-04,,,cat_0088,POL,src_ted_opendata,file_ted_0256,contract:CON-0015,2026-08-19
+con_00618,"U/PN/233/2024 - zad nr 1, oferta nr 17",awd_00705,lot_00702,pro_0236,U/PN/233/2024,,,,2024-09-13,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0001,2026-08-19
+con_00619,"U/PN/234/2024 - zad nr 2, oferta nr 17",awd_00706,lot_00703,pro_0236,U/PN/234/2024,,,,2024-09-13,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0002,2026-08-19
+con_00620,"U/PN/235/2024 - zad nr 4, oferta nr 1",awd_00712,lot_00705,pro_0236,U/PN/235/2024,,,,2024-09-13,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0003,2026-08-19
+con_00621,"U/PN/236/2024 - zad nr 5, oferta nr 10",awd_00713,lot_00706,pro_0236,U/PN/236/2024,,,,2024-09-24,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0004,2026-08-19
+con_00622,"U/PN/237/2024 - zad nr 6, oferta nr 16",awd_00714,lot_00707,pro_0236,U/PN/237/2024,,,,2024-09-13,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0005,2026-08-19
+con_00623,"U/PN/238/2024 - zad nr 7, oferta nr 7",awd_00715,lot_00708,pro_0236,U/PN/238/2024,,,,2024-09-13,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0006,2026-08-19
+con_00624,"U/PN/239/2024 - zad nr 8, oferta nr 4",awd_00716,lot_00709,pro_0236,U/PN/239/2024,,,,2024-09-16,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0007,2026-08-19
+con_00625,"U/PN/240/2024 - zad nr 9, oferta nr 18",awd_00717,lot_00710,pro_0236,U/PN/240/2024,,,,2024-09-16,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0008,2026-08-19
+con_00626,"U/PN/241/2024 - zad nr 10, oferta nr 2",awd_00718,lot_00711,pro_0236,U/PN/241/2024,,,,2024-09-16,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0009,2026-08-19
+con_00627,"U/PN/242/2024 - zad nr 12, oferta nr 18",awd_00719,lot_00713,pro_0236,U/PN/242/2024,,,,2024-09-16,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0010,2026-08-19
+con_00628,"U/PN/243/2024 - zad nr 15, oferta nr 9",awd_00720,lot_00716,pro_0236,U/PN/243/2024,,,,2024-09-30,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0011,2026-08-19
+con_00629,"U/PN/244/2024 - zad nr 17, oferta nr 14",awd_00721,lot_00718,pro_0236,U/PN/244/2024,,,,2024-09-24,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0012,2026-08-19
+con_00630,"U/PN/245/2024 - zad nr 18, oferta nr 13",awd_00722,lot_00719,pro_0236,U/PN/245/2024,,,,2024-09-16,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0013,2026-08-19
+con_00631,"U/PN/246/2024 - zad nr 19, oferta nr 5",awd_00723,lot_00720,pro_0236,U/PN/246/2024,,,,2024-09-24,,,cat_0016,POL,src_ted_opendata,file_ted_0258,contract:CON-0014,2026-08-19
+con_00632,umowa 1,awd_00724,lot_00721,pro_0237,Dostawa wodorowęglanu sodu do suchego oczyszczania spalin w Stacji Termicznej Utylizacji Osadów Ściekowych,,,,2024-12-24,,,cat_0199,POL,src_ted_opendata,file_ted_0259,contract:CON-0001,2026-08-19
+con_00633,BOS.272.11.2024.TJ,,lot_00724,pro_0238,,,,,2024-12-11,,,cat_0022,POL,src_ted_opendata,file_ted_0260,contract:CON-0001,2026-08-19
+con_00634,BOS.272.12.2024.TJ,awd_00726,lot_00723,pro_0238,,,,,2024-12-11,,,cat_0022,POL,src_ted_opendata,file_ted_0260,contract:CON-0002,2026-08-19
+con_00635,BOS.272.13.2024.TJ,,lot_00722,pro_0238,,,,,2024-12-11,,,cat_0022,POL,src_ted_opendata,file_ted_0260,contract:CON-0003,2026-08-19
+con_00636,DAM/37/2024-PN-7,awd_00728,lot_00726,pro_0239,,,,,2024-12-30,,,cat_0100,POL,src_ted_opendata,file_ted_0261,contract:CON-0001,2026-08-19
+con_00637,DAM/37/2024-PN-1,awd_00729,lot_00727,pro_0239,,,,,2024-12-17,,,cat_0100,POL,src_ted_opendata,file_ted_0261,contract:CON-0002,2026-08-19
+con_00638,DAM/37/2024-PN-2,awd_00730,lot_00728,pro_0239,,,,,2024-12-17,,,cat_0100,POL,src_ted_opendata,file_ted_0261,contract:CON-0003,2026-08-19
+con_00639,DAM/37/2024-PN-3,awd_00731,lot_00729,pro_0239,,,,,2024-12-17,,,cat_0100,POL,src_ted_opendata,file_ted_0261,contract:CON-0004,2026-08-19
+con_00640,DAM/37/2024-PN-4,awd_00732,lot_00730,pro_0239,,,,,2024-12-18,,,cat_0100,POL,src_ted_opendata,file_ted_0261,contract:CON-0005,2026-08-19
+con_00641,DAM/37/2024-PN-5,,lot_00732,pro_0239,,,,,2024-12-17,,,cat_0100,POL,src_ted_opendata,file_ted_0261,contract:CON-0006,2026-08-19
+con_00642,DAM/37/2024-PN-6,,lot_00733,pro_0239,,,,,2024-12-17,,,cat_0100,POL,src_ted_opendata,file_ted_0261,contract:CON-0007,2026-08-19
+con_00643,DAM/37/2024-PN-8,,lot_00731,pro_0239,,,,,2024-12-30,,,cat_0100,POL,src_ted_opendata,file_ted_0261,contract:CON-0008,2026-08-19
+con_00644,HUS 036-2024 qPCR-laitteistot,awd_00738,lot_00735,pro_0240,,,,,2024-12-20,,,cat_0200,FIN,src_ted_opendata,file_ted_0263,contract:CON-0001,2026-08-19
+con_00645,27173,awd_00739,lot_00738,pro_0241,,,,,2024-12-04,,,cat_0201,ROU,src_ted_opendata,file_ted_0264,contract:CON-0001,2026-08-19
+con_00646,27171,awd_00740,lot_00736,pro_0241,,,,,2024-12-04,,,cat_0201,ROU,src_ted_opendata,file_ted_0264,contract:CON-0002,2026-08-19
+con_00647,27174,awd_00741,lot_00739,pro_0241,,,,,2024-12-04,,,cat_0201,ROU,src_ted_opendata,file_ted_0264,contract:CON-0003,2026-08-19
+con_00648,27172,awd_00742,lot_00737,pro_0241,,,,,2024-12-04,,,cat_0201,ROU,src_ted_opendata,file_ted_0264,contract:CON-0004,2026-08-19
+con_00649,DZP/597/2024,awd_00743,lot_00740,pro_0242,DZP/597/2024,,,,2024-12-30,,,cat_0088,POL,src_ted_opendata,file_ted_0265,contract:CON-0001,2026-08-19
+con_00650,CON-0001,awd_00744,lot_00741,pro_0243,P1 Mededingingsprocedure met onderhandeling (ontwerp)Wijziging omgevingsplan Ecofactorij II met onderliggende onderzoeken,,,,2024-11-22,,,cat_0146,NLD,src_ted_opendata,file_ted_0266,contract:CON-0001,2026-08-19
+con_00651,2024-06-01,awd_00745,lot_00742,pro_0244,,,,,2024-12-30,,,cat_0060,FRA,src_ted_opendata,file_ted_0267,contract:CON-0001,2026-08-19
+con_00652,2024-06-02,awd_00746,lot_00743,pro_0244,,,,,2024-12-30,,,cat_0060,FRA,src_ted_opendata,file_ted_0267,contract:CON-0002,2026-08-19
+con_00653,2024-06-03,awd_00747,lot_00744,pro_0244,,,,,2024-12-30,,,cat_0060,FRA,src_ted_opendata,file_ted_0267,contract:CON-0003,2026-08-19
+con_00654,2024-06-04,awd_00748,lot_00745,pro_0244,,,,,2024-12-30,,,cat_0060,FRA,src_ted_opendata,file_ted_0267,contract:CON-0004,2026-08-19
+con_00655,2024-06-05,awd_00749,lot_00746,pro_0244,,,,,2024-12-30,,,cat_0060,FRA,src_ted_opendata,file_ted_0267,contract:CON-0005,2026-08-19
+con_00656,2024-06-06,awd_00750,lot_00747,pro_0244,,,,,2024-12-30,,,cat_0060,FRA,src_ted_opendata,file_ted_0267,contract:CON-0006,2026-08-19
+con_00657,2222.197.2024,awd_00751,lot_00748,pro_0245,,,,,2024-12-16,,,cat_0202,POL,src_ted_opendata,file_ted_0268,contract:CON-0001,2026-08-19
+con_00658,SUT24-P-399,awd_00752,lot_00749,pro_0246,,,,,2024-12-03,,,cat_0005,LTU,src_ted_opendata,file_ted_0269,contract:CON-0001,2026-08-19
+con_00659,Rahmenvertrag Tiefbauarbeiten Bezirk Nord-Ost 2025,awd_00753,lot_00750,pro_0247,Rahmenvertrag Tiefbauarbeiten Bezirk Nord-Ost 2025,,,,2024-12-16,,,cat_0203,DEU,src_ted_opendata,file_ted_0270,contract:CON-0001,2026-08-19
+con_00660,Rahmenvertrag Tiefbauarbeiten Bezirk Süd-Ost 2025,awd_00754,lot_00751,pro_0247,Rahmenvertrag Tiefbauarbeiten Bezirk Süd-Ost 2025,,,,2024-12-16,,,cat_0203,DEU,src_ted_opendata,file_ted_0270,contract:CON-0002,2026-08-19
+con_00661,KLASA: 406-01/24-01/53; URBROJ: 2103-15-24-8,awd_00755,lot_00752,pro_0248,Prijevoz učenika OŠ nad kojima osnivačka prava ima Bjelovarsko-bilogorska županija,,,,2024-11-29,,,cat_0164,HRV,src_ted_opendata,file_ted_0271,contract:CON-0000,2026-08-19
+con_00662,2024CTC1046035,awd_00756,lot_00753,pro_0249,Tunnel de Viandes Renforcement par coques L590 (Départ 82),,,,2024-10-16,,,cat_0204,FRA,src_ted_opendata,file_ted_0272,contract:CON-0001,2026-08-19
+con_00663,Umowa nr 419/2024/DZP do Części nr 1,awd_00757,lot_00754,pro_0250,"Umowa na dostawy kaniul dożylnych, koreczków, zamkniętego systemu dostępu naczyniowego – Część nr 1.",,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0001,2026-08-19
+con_00664,Umowa nr 432/2024/DZP do Części nr 3,awd_00758,lot_00756,pro_0250,Umowa na dostawy ubrań operacyjnych jednorazowego użytku – Część nr 3.,,,,2024-12-24,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0002,2026-08-19
+con_00665,Umowa nr 420/2024/DZP do Części nr 5,awd_00759,lot_00758,pro_0250,Umowa na dostawy zestawów do odsysania i drenażu klatki piersiowej – Część nr 5.,,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0003,2026-08-19
+con_00666,Umowa nr 420/2024/DZP do Części nr 6,awd_00760,lot_00759,pro_0250,Umowa na dostawy specjalistycznych igieł biopsyjnych – Część nr 6.,,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0004,2026-08-19
+con_00667,Umowa nr 420/2024/DZP do Części nr 7,awd_00761,lot_00760,pro_0250,"Umowa na dostawy retraktorów pola operacyjnego, haków skórnych, proszku żelującego, silkonowych lejcy naczyniowych, preparatów przeciwroszeniowych, sterylnych retraktorów ran – Część nr 7.",,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0005,2026-08-19
+con_00668,Umowa nr 420/2024/DZP do Części nr 8,awd_00762,lot_00761,pro_0250,"Umowa na dostawy klipsownic, klipsów, retraktorów rany, woreczków do zbierania tkanek – Część nr 8.",,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0006,2026-08-19
+con_00669,Umowa nr 421/2024/DZP do Części nr 9,awd_00763,lot_00762,pro_0250,"Umowa na dostawy materiałów zużywalnych do systemu drenażu klatki piersiowej Thopaz firmy Medela, jaki posiada Zamawiający – Część nr 9.",,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0007,2026-08-19
+con_00670,Umowa nr 422/2024/DZP do Części nr 10,awd_00764,lot_00763,pro_0250,Umowa na dostawy akcesoriów dla niemowląt – Część nr 10.,,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0008,2026-08-19
+con_00671,Umowa nr 423/2024/DZP do Części nr 12,awd_00768,lot_00765,pro_0250,Umowa na dostawy wkładek (materacyków) do systemu zarządzania temperaturą pacjenta wraz z dzierżawą systemu zarządzania temperaturą pacjenta dla Kliniki Noworodków – Część nr 12.,,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0009,2026-08-19
+con_00672,Umowa nr 424/2024/DZP do Części nr 13,awd_00765,lot_00766,pro_0250,Umowa na dostawy akcesoriów neonatologicznych dla Kliniki Noworodków (II) – Część nr 13.,,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0010,2026-08-19
+con_00673,Umowa nr 424/2024/DZP do Części nr 14,awd_00767,lot_00767,pro_0250,Umowa na dostawy akcesoriów onkologicznych dla Kliniki Anestezjologii – Część nr 14.,,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0011,2026-08-19
+con_00674,Umowa nr 425/2024/DZP do Części nr 15,awd_00766,lot_00768,pro_0250,"Umowa na dostawy pojemników do utrwalania materiału tkankowego - pojemność 20ml, 60ml – Część nr 15.",,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0012,2026-08-19
+con_00675,Umowa nr 426/2024/DZP do Części nr 16,awd_00769,lot_00769,pro_0250,Umowa na dostawy pojemników do utrwalania materiału tkankowego - pojemność 150ml – Część nr 16.,,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0013,2026-08-19
+con_00676,Umowa nr 427/2024/DZP do Części nr 23,awd_00770,lot_00776,pro_0250,Umowa na dostawy szkiełek do badań cytogenetycznych i FISH – Część nr 23.,,,,2024-12-13,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0014,2026-08-19
+con_00677,Umowa nr 430/2024/DZP do Części nr 17,awd_00771,lot_00770,pro_0250,Umowa na dostawy elektrod do EKG jednorazowego użytku – Część nr 17.,,,,2024-12-23,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0015,2026-08-19
+con_00678,Umowa nr 431/2024/DZP do Części nr 21,awd_00772,lot_00774,pro_0250,Umowa na dostawy naczyń sanitarnych z pulpy celulozowej do utylizacji w maceratorach – Część nr 21.,,,,2024-12-23,,,cat_0100,POL,src_ted_opendata,file_ted_0273,contract:CON-0016,2026-08-19
+con_00679,T124247,awd_00780,lot_00777,pro_0251,DAS Maaibeheer Weerribben Wintermaaien overjarig riet Cluster 2,,,,,,,cat_0205,NLD,src_ted_opendata,file_ted_0274,contract:CON-0001,2026-08-19
+con_00680,Ma-2024-068,awd_00781,lot_00778,pro_0252,Brosserie,,,,2024-11-04,,,cat_0206,FRA,src_ted_opendata,file_ted_0275,contract:CON-0001,2026-08-19
+con_00681,Ma-2024-069,awd_00782,lot_00779,pro_0252,Droguerie,,,,2024-11-04,,,cat_0206,FRA,src_ted_opendata,file_ted_0275,contract:CON-0002,2026-08-19
+con_00682,Ma-2024-070,awd_00783,lot_00780,pro_0252,Matériel d'entretien sols et vitres,,,,2024-11-04,,,cat_0206,FRA,src_ted_opendata,file_ted_0275,contract:CON-0003,2026-08-19
+con_00683,Ma-2024-082,awd_00784,lot_00781,pro_0252,Détergents,,,,2024-12-02,,,cat_0206,FRA,src_ted_opendata,file_ted_0275,contract:CON-0004,2026-08-19
+con_00684,Ma-2024-071,awd_00786,lot_00783,pro_0252,Déchets sacs,,,,2024-11-04,,,cat_0206,FRA,src_ted_opendata,file_ted_0275,contract:CON-0005,2026-08-19
+con_00685,Solventum Poland Sp. z o.o,awd_00787,lot_00784,pro_0253,,,,,2024-12-12,,,cat_0207,POL,src_ted_opendata,file_ted_0276,contract:CON-0001,2026-08-19
+con_00686,LOT-0001,awd_00788,lot_00785,pro_0254,Adásvételi szerződés,,,,2024-12-16,,,cat_0037,HUN,src_ted_opendata,file_ted_0277,contract:CON-0001,2026-08-19
+con_00687,LOT-0002,awd_00789,lot_00786,pro_0254,Árubeszerzés,,,,2024-12-16,,,cat_0037,HUN,src_ted_opendata,file_ted_0277,contract:CON-0002,2026-08-19
+con_00688,LOT 1,awd_00790,lot_00787,pro_0255,LOT 1,,,,2024-12-27,,,cat_0023,FRA,src_ted_opendata,file_ted_0278,contract:CON-0001,2026-08-19
+con_00689,LOT 2,awd_00791,lot_00788,pro_0255,LOT 2,,,,2024-12-27,,,cat_0023,FRA,src_ted_opendata,file_ted_0278,contract:CON-0002,2026-08-19
+con_00690,LOT 3,awd_00792,lot_00789,pro_0255,LOT 3,,,,2024-12-27,,,cat_0023,FRA,src_ted_opendata,file_ted_0278,contract:CON-0003,2026-08-19
+con_00691,LOT 4,awd_00793,lot_00790,pro_0255,LOT 4,,,,2024-12-27,,,cat_0023,FRA,src_ted_opendata,file_ted_0278,contract:CON-0004,2026-08-19
+con_00692,LOT 5,awd_00794,lot_00791,pro_0255,LOT 5,,,,2024-12-27,,,cat_0023,FRA,src_ted_opendata,file_ted_0278,contract:CON-0005,2026-08-19
+con_00693,umowa 1,awd_00795,lot_00792,pro_0256,Inżynier Kontraktu dla Zadania pn. „Modernizacja dwóch lewobrzeżnych Kolektorów Burzowych Mostowa/Boleść oraz Krasińskiego wraz z ich wylotami w kierunku rz. Wisły”.,,,,2024-12-18,,,cat_0208,POL,src_ted_opendata,file_ted_0279,contract:CON-0001,2026-08-19
+con_00694,1,awd_00797,lot_00794,pro_0258,Προμήθεια Φορητoύ ακτινοσκοπικού C-arm ψηφιακό 30x30cm,,,,2024-12-11,,,cat_0026,GRC,src_ted_opendata,file_ted_0281,contract:CON-0001,2026-08-19
+con_00695,4667-2024,awd_00798,lot_00795,pro_0259,pogodba o najemu in vzdrževanju sistema za spremljanje in nadzor čistosti površin in spremljanje in nadzor higiene rok,,,,2024-12-18,,,cat_0192,SVN,src_ted_opendata,file_ted_0282,contract:CON-0000,2026-08-19
+con_00696,STAT-84(2024),awd_00799,lot_00796,pro_0260,,,,,2024-12-11,,,cat_0192,LTU,src_ted_opendata,file_ted_0283,contract:CON-0001,2026-08-19
+con_00697,NZ.231.103.2024,awd_00800,lot_00797,pro_0261,,,,,2024-12-11,,,cat_0195,POL,src_ted_opendata,file_ted_0284,contract:CON-0001,2026-08-19
+con_00698,Pakiet nr 1,awd_00801,lot_00798,pro_0262,,,,,2024-12-30,,,cat_0018,POL,src_ted_opendata,file_ted_0285,contract:CON-0001,2026-08-19
+con_00699,Pakiet nr 3,awd_00802,lot_00800,pro_0262,,,,,2024-12-30,,,cat_0018,POL,src_ted_opendata,file_ted_0285,contract:CON-0002,2026-08-19
+con_00700,Pakiet nr 4,awd_00803,lot_00801,pro_0262,,,,,2024-12-30,,,cat_0018,POL,src_ted_opendata,file_ted_0285,contract:CON-0003,2026-08-19
+con_00701,24DCA04 LOT 1,awd_00805,lot_00802,pro_0263,Dommages au biens mobiliers et immobiliers Ville de NEVERS,,,,2024-12-30,,,cat_0109,FRA,src_ted_opendata,file_ted_0286,contract:CON-0001,2026-08-19
+con_00702,24DCA04 LOT 2,awd_00806,lot_00803,pro_0263,Dommages au biens mobiliers et immobiliers Communauté d'Agglomération de NEVERS,,,,2024-12-30,,,cat_0109,FRA,src_ted_opendata,file_ted_0286,contract:CON-0002,2026-08-19
+con_00703,24DCA04 LOT 3,awd_00807,lot_00804,pro_0263,Responsabilité civile et risques annexes Ville de NEVERS,,,,2024-12-30,,,cat_0158,FRA,src_ted_opendata,file_ted_0286,contract:CON-0003,2026-08-19
+con_00704,24DCA04 LOT 4,awd_00808,lot_00805,pro_0263,Responsabilité civile et risques annexes Communauté d'Agglomération de NEVERS,,,,2024-12-30,,,cat_0158,FRA,src_ted_opendata,file_ted_0286,contract:CON-0004,2026-08-19
+con_00705,24DCA04 LOT 5,awd_00809,lot_00806,pro_0263,Flotte véhicules et risques annexes Ville de NEVERS,,,,2024-12-30,,,cat_0081,FRA,src_ted_opendata,file_ted_0286,contract:CON-0005,2026-08-19
+con_00706,24DCA04 LOT 6,awd_00810,lot_00807,pro_0263,Flotte véhicules et risques annexes Communauté d'Agglomération de NEVERS,,,,2024-12-30,,,cat_0081,FRA,src_ted_opendata,file_ted_0286,contract:CON-0006,2026-08-19
+con_00707,24DCA04 LOT 7,awd_00811,lot_00808,pro_0263,Tous risques expositions,,,,2024-12-30,,,cat_0209,FRA,src_ted_opendata,file_ted_0286,contract:CON-0007,2026-08-19
+con_00708,24DCA04 LOT 8,awd_00812,lot_00809,pro_0263,Risques statutaires des agents affiliés à la CNRACL de la Ville de NEVERS et de la Communauté d'Agglomération de NEVERS,,,,2024-12-30,,,cat_0112,FRA,src_ted_opendata,file_ted_0286,contract:CON-0008,2026-08-19
+con_00709,24DCA04 LOT 9,awd_00813,lot_00810,pro_0263,Protection fonctionnelle Ville de NEVERS et Communauté d'Agglomération de NEVERS,,,,2024-12-30,,,cat_0159,FRA,src_ted_opendata,file_ted_0286,contract:CON-0009,2026-08-19
+con_00710,24DCA04 LOT 11,awd_00815,lot_00812,pro_0263,Responsabilité civile environnement Communauté d'Agglomération de NEVERS,,,,2024-12-30,,,cat_0158,FRA,src_ted_opendata,file_ted_0286,contract:CON-0010,2026-08-19
+con_00711,2024-141,awd_00816,lot_00813,pro_0264,"Réalisation d'un nouveau pont sur l'Isère et des raccordements routiers sur la Rd10 sur les communes de Crolles, Froges et Villard-Bonnot",,,,2024-12-03,,,cat_0210,FRA,src_ted_opendata,file_ted_0287,contract:CON-0001,2026-08-19
+con_00712,20-ST2-39,awd_00817,lot_00814,pro_0265,,,,,2024-12-04,,,cat_0211,LTU,src_ted_opendata,file_ted_0288,contract:CON-0001,2026-08-19
+con_00713,341/2024,awd_00818,lot_00815,pro_0266,,,,,2024-12-30,,,cat_0212,POL,src_ted_opendata,file_ted_0289,contract:CON-0001,2026-08-19
+con_00714,Umowa nr 86/2024,awd_00819,lot_00816,pro_0267,,,,,2024-12-24,,,cat_0129,POL,src_ted_opendata,file_ted_0290,contract:CON-0001,2026-08-19
+con_00715,2024-08,awd_00820,lot_00817,pro_0268,,,,,2024-12-18,,,cat_0213,FRA,src_ted_opendata,file_ted_0291,contract:CON-0002,2026-08-19
+con_00716,85/2024,awd_00821,lot_00818,pro_0269,,,,,2024-12-12,,,cat_0214,POL,src_ted_opendata,file_ted_0292,contract:CON-0001,2026-08-19
+con_00717,86/2024,,,pro_0269,,,,,2024-12-20,,,,POL,src_ted_opendata,file_ted_0292,contract:CON-0002,2026-08-19
+con_00718,87/2024,awd_00822,lot_00819,pro_0269,,,,,2024-12-20,,,cat_0214,POL,src_ted_opendata,file_ted_0292,contract:CON-0003,2026-08-19
+con_00719,83/2024,awd_00823,lot_00820,pro_0269,,,,,2024-12-17,,,cat_0215,POL,src_ted_opendata,file_ted_0292,contract:CON-0004,2026-08-19
+con_00720,84/2024,awd_00826,lot_00823,pro_0269,,,,,2024-12-17,,,cat_0214,POL,src_ted_opendata,file_ted_0292,contract:CON-0005,2026-08-19
+con_00721,126/2024,awd_00829,lot_00826,pro_0270,Dostawy produktów mleczarskich,,,,2024-12-02,,,cat_0043,POL,src_ted_opendata,file_ted_0295,contract:CON-0001,2026-08-19
+con_00722,SA.271.21.2024,awd_00830,lot_00827,pro_0271,,,,,2024-12-11,,,cat_0217,POL,src_ted_opendata,file_ted_0296,contract:CON-0001,2026-08-19
+con_00723,SA.271.22.2024,awd_00831,lot_00828,pro_0271,,,,,2024-12-11,,,cat_0217,POL,src_ted_opendata,file_ted_0296,contract:CON-0002,2026-08-19
+con_00724,SA.271.23.2024,awd_00832,lot_00829,pro_0271,,,,,2024-12-11,,,cat_0217,POL,src_ted_opendata,file_ted_0296,contract:CON-0003,2026-08-19
+con_00725,SA.271.24.2024,awd_00833,lot_00830,pro_0271,,,,,2024-12-11,,,cat_0217,POL,src_ted_opendata,file_ted_0296,contract:CON-0004,2026-08-19
+con_00726,2-2/21/542-1,awd_00834,lot_00831,pro_0272,Hankeleping,,,,2021-08-18,,,cat_0218,EST,src_ted_opendata,file_ted_0297,contract:CON-0001,2026-08-19
+con_00727,318/2024,awd_00835,lot_00832,pro_0273,318/2024 - Lote 1 - Piscinas Municipais,,,,2024-12-30,,,cat_0031,PRT,src_ted_opendata,file_ted_0298,contract:CON-0001,2026-08-19
+con_00728,319/2024,awd_00836,lot_00833,pro_0273,"319/2024 - Lote 2 - Cultura, Juventude e Turismo",,,,2024-12-26,,,cat_0031,PRT,src_ted_opendata,file_ted_0298,contract:CON-0002,2026-08-19
+con_00729,320/2024,awd_00837,lot_00834,pro_0273,320/2024 - Lote 3 - Centro de Alto Rendimento,,,,2024-12-26,,,cat_0031,PRT,src_ted_opendata,file_ted_0298,contract:CON-0003,2026-08-19
+con_00730,321/2024,awd_00838,lot_00835,pro_0273,321/2024 - Lote 4 - Pavilhões e Estádios Municipais,,,,2024-12-26,,,cat_0031,PRT,src_ted_opendata,file_ted_0298,contract:CON-0004,2026-08-19
+con_00731,322/2024,awd_00839,lot_00836,pro_0273,322/2024 - Lote 5 - Auditórios Municipais,,,,2024-12-26,,,cat_0031,PRT,src_ted_opendata,file_ted_0298,contract:CON-0005,2026-08-19
+con_00732,323/2024,awd_00840,lot_00837,pro_0273,323/2024 - Lote 6 - Lavagem de vidros,,,,2024-12-26,,,cat_0031,PRT,src_ted_opendata,file_ted_0298,contract:CON-0006,2026-08-19
+con_00733,Umowa 282/2024 pakiet nr 117,awd_00841,lot_00838,pro_0274,,,,,2024-12-11,,,cat_0018,POL,src_ted_opendata,file_ted_0299,contract:CON-0001,2026-08-19
+con_00734,Umowa 282/2024 pakiet nr 125,awd_00842,lot_00839,pro_0274,,,,,2024-12-11,,,cat_0018,POL,src_ted_opendata,file_ted_0299,contract:CON-0002,2026-08-19
+con_00735,Umowa 283/2024 pakiet nr 4,awd_00843,lot_00840,pro_0274,,,,,2024-12-11,,,cat_0018,POL,src_ted_opendata,file_ted_0299,contract:CON-0003,2026-08-19
+con_00736,Umowa 283/2024 pakiet nr 37,awd_00844,lot_00841,pro_0274,,,,,2024-12-11,,,cat_0018,POL,src_ted_opendata,file_ted_0299,contract:CON-0004,2026-08-19
+con_00737,Umowa 283/2024 pakiet nr 178,awd_00848,lot_00842,pro_0274,,,,,2024-12-11,,,cat_0018,POL,src_ted_opendata,file_ted_0299,contract:CON-0005,2026-08-19
+con_00738,Umowa 283/2024 pakiet nr 181,awd_00845,lot_00843,pro_0274,,,,,2024-12-11,,,cat_0018,POL,src_ted_opendata,file_ted_0299,contract:CON-0006,2026-08-19
+con_00739,Umowa 283/2024 pakiet nr 184,awd_00846,lot_00844,pro_0274,,,,,2024-12-11,,,cat_0018,POL,src_ted_opendata,file_ted_0299,contract:CON-0007,2026-08-19
+con_00740,Umowa 283/2024 pakiet nr 193,awd_00847,lot_00845,pro_0274,,,,,2024-12-11,,,cat_0018,POL,src_ted_opendata,file_ted_0299,contract:CON-0008,2026-08-19
+ctr_wb_1785647,1785647,awd_wb_1785647,,,"Consulting Services for Updating and Upgrading the
+Hydrogeological Map of Mozambique",signed,4394441.73,USD,07/01/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77715,2026-08-19
+ctr_wb_1785658,1785658,awd_wb_1785658,,,"RECRUITMENT OF A CONSULTANT TO DEVELOP AN ICT MANAGEMENT SYSTEM INCLUDING A DATABASE, AUTOMATION OF GHANAS PROCEDURES/ PROCESSES AND TRAINING",signed,304819.40,USD,07/01/2024,,,cat_wb_consultant_services,GHA,src_worldbank_finances1,file_worldbank_ds00005_001,77714,2026-08-19
+ctr_wb_1785749,1785749,awd_wb_1785749,,,Purchase of Smart TVs and related equipment for 150 Schools,signed,84946.43,USD,07/01/2024,,,cat_wb_goods,GEO,src_worldbank_finances1,file_worldbank_ds00005_001,77713,2026-08-19
+ctr_wb_1785770,1785770,awd_wb_1785770,,,Contract for Generation of the Land Cover and Natural Capital Map and Developing Integrated Collaborative Forest Management Plans. ,signed,1403664.71,USD,07/01/2024,,,cat_wb_consultant_services,BGD,src_worldbank_finances1,file_worldbank_ds00005_001,77712,2026-08-19
+ctr_wb_1785794,1785794,awd_wb_1785794,,,RuBIMS (Software) and Data Collection Monitoring Specialist ,signed,41236.91,USD,07/02/2024,,,cat_wb_consultant_services,BGD,src_worldbank_finances1,file_worldbank_ds00005_001,77320,2026-08-19
+ctr_wb_1785859,1785859,awd_wb_1785859,,,Adquisición de equipos para el fortalecimiento institucional de Corpoamazonia en el marco del proyecto CONSERVACIÓN DE BOSQUES Y SOSTENIBILIDAD EN EL CORAZÓN DE LA AMAZONIA,signed,21.36,USD,07/08/2024,,,cat_wb_goods,COL,src_worldbank_finances1,file_worldbank_ds00005_001,76736,2026-08-19
+ctr_wb_1785870,1785870,awd_wb_1785870,,,Prestar sus servicios profesionales en la orientación y acompañamiento técnico para la implementación de las líneas de acción relacionadas con los componentes del proyecto “Conservación de bos,signed,15471.70,USD,07/02/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,77319,2026-08-19
+ctr_wb_1785879,1785879,awd_wb_1785879,,,"Adquisición de cámaras de foto trampeo para monitoreo de fauna silvestre, en el marco del monitoreo ambiental en la Reserva Forestal Protectora Nacional Serranía La Lindosa - Angosturas II",signed,6472.96,USD,07/08/2024,,,cat_wb_goods,COL,src_worldbank_finances1,file_worldbank_ds00005_001,76735,2026-08-19
+ctr_wb_1785883,1785883,awd_wb_1785883,,,"Adquisición de equipos para el fortalecimiento institucional, con el fin de fortalecer operativa y administrativamente a las entidades socias del proyecto CONSERVACIÓN DE BOSQUES Y SOSTENIBILIDAD LOT1",signed,1853.55,USD,07/08/2024,,,cat_wb_goods,COL,src_worldbank_finances1,file_worldbank_ds00005_001,76734,2026-08-19
+ctr_wb_1785885,1785885,awd_wb_1785885,,,"Adquisición de equipos para el fortalecimiento institucional, con el fin de fortalecer operativa y administrativamente a las entidades socias del proyecto CONSERVACIÓN DE BOSQUES Y SOSTENIBILIDAD LOT2",signed,5602.83,USD,07/08/2024,,,cat_wb_goods,COL,src_worldbank_finances1,file_worldbank_ds00005_001,76733,2026-08-19
+ctr_wb_1785952,1785952,awd_wb_1785952,,,IT consultant to assist the National Food Safety Agency on the development of technical tasks for the design of IT tools,signed,8607.20,USD,07/03/2024,,,cat_wb_consultant_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,77191,2026-08-19
+ctr_wb_1785957,1785957,awd_wb_1785957,,,"Procurement of computers (5 AIO, 1 PC and 1 MFU) for Agricultural and Rural Advisory Center.",signed,8045.52,USD,07/08/2024,,,cat_wb_goods,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,76732,2026-08-19
+ctr_wb_1785992,1785992,awd_wb_1785992,,,Training of management team members on strategic planning,signed,2273.67,USD,07/08/2024,,,cat_wb_consultant_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,76731,2026-08-19
+ctr_wb_1786024,1786024,awd_wb_1786024,,,SDPRF 2043 CONTRATAR LA PRESTACIÓN DE SERVICIOS DE UN (1) CONSULTOR INDIVIDUAL PARA QUE PRESTE CON PLENA AUTONOMÍA TÉCNICA Y ADMINISTRATIVA SUS SERVICIOS EN EL DESARROLLO DE JORNADAS DE ORIENTACIÓN,signed,9332.43,USD,07/03/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,77190,2026-08-19
+ctr_wb_1786026,1786026,awd_wb_1786026,,,Procurement and Administration Officer,signed,11957.00,USD,07/04/2024,,,cat_wb_consultant_services,PNG,src_worldbank_finances1,file_worldbank_ds00005_001,77059,2026-08-19
+ctr_wb_1786041,1786041,awd_wb_1786041,,,SDPRF 2035 CONTRATAR LA PRESTACIÓN DE SERVICIOS DE UN (1) CONSULTOR INDI- VIDUAL PARA QUE PRESTE CON PLENA AUTONOMÍA TÉCNICA Y ADMINISTRATIVA SUS SERVICIOS EN EL DESARROLLO DE JORNADAS DE ORIENTACI,signed,9313.01,USD,07/02/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,77318,2026-08-19
+ctr_wb_1786047,1786047,awd_wb_1786047,,,"Spot Improvement of Pushit – Jeneret 11.56km road,  Pushit – Kerang 8.95Km road  and Pushit – Bumnan 6.55 Km road , in Mangu LGA of Plateau  State – Lot 1 ",signed,831080.93,USD,07/03/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77189,2026-08-19
+ctr_wb_1786049,1786049,awd_wb_1786049,,,Health and Safety Audit,signed,2691.51,USD,07/01/2024,,,cat_wb_consultant_services,EGY,src_worldbank_finances1,file_worldbank_ds00005_001,77711,2026-08-19
+ctr_wb_1786062,1786062,awd_wb_1786062,,,Construction of 5.6 Km Rural Roads Upgrading Aduwan Gida-Revbok-Fadan Kaje ,signed,628026.41,USD,07/03/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77188,2026-08-19
+ctr_wb_1786076,1786076,awd_wb_1786076,,,Contractor for Electrification of villages at Rothe in the Maseru District,signed,1603149.20,USD,07/01/2024,,,cat_wb_works,LSO,src_worldbank_finances1,file_worldbank_ds00005_001,77710,2026-08-19
+ctr_wb_1786088,1786088,awd_wb_1786088,,,"Business Analysis and MIS Implementation Supervision for the Development of Social Registry and Case Management Information Systems (3) - Contract Extension (2)
+- Ref. No: GZ-MOSD-432389-CS-INDV  
+",signed,11200.00,USD,07/01/2024,,,cat_wb_consultant_services,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,77709,2026-08-19
+ctr_wb_1786105,1786105,awd_wb_1786105,,,"Evaluation Report for The Consultancy Services for The Preparation of Resettlement Action Plan (Rap) For the Three (3) No. Agro-Logistics Centres (Alc) At Bodinga, Gada and Illela Markets Under the So",signed,18208.10,USD,07/01/2024,,,cat_wb_consultant_services,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77708,2026-08-19
+ctr_wb_1786156,1786156,awd_wb_1786156,,,Test preparation instructional materials,signed,3203.15,USD,07/08/2024,,,cat_wb_goods,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,76730,2026-08-19
+ctr_wb_1786159,1786159,awd_wb_1786159,,,Training of teaching staff on the use of the interactive whiteboard in the instructional-educational process,signed,3146.95,USD,07/08/2024,,,cat_wb_consultant_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,76729,2026-08-19
+ctr_wb_1786164,1786164,awd_wb_1786164,,,Printing and filing of didactic materials,signed,1728.16,USD,07/04/2024,,,cat_wb_non_consulting_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,77058,2026-08-19
+ctr_wb_1786169,1786169,awd_wb_1786169,,,Renewal of Premium insurance of Project vehicles (7 vehicles),signed,10888.56,USD,07/01/2024,,,cat_wb_non_consulting_services,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77707,2026-08-19
+ctr_wb_1786186,1786186,awd_wb_1786186,,,Acquisition of 100 KVA solar plant for modular building,signed,224999.64,USD,07/10/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,76479,2026-08-19
+ctr_wb_1786204,1786204,awd_wb_1786204,,,CONSTRUCTION OF 16.16KM MAIKUNKELE-JANGARU-GIDAN MANGORO RURAL ROAD IN NIGER STATE (LOT2),signed,1619530.59,USD,07/02/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77317,2026-08-19
+ctr_wb_1786210,1786210,awd_wb_1786210,,,Construction of 3.6 Km Backlog Maintenance and Rehabilitation of Kwoi-Gora Road,signed,525370.96,USD,07/03/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77187,2026-08-19
+ctr_wb_1786240,1786240,awd_wb_1786240,,,Construction of 5 km Backlog Maintenance/ Rehabilitation Sabo-Ungwan Barde-Juji / Construction of 10km Backlog Maintenance/ Rehabilitation Fadaman Kororo-Kutura ,signed,2613801.87,USD,07/03/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77186,2026-08-19
+ctr_wb_1786344,1786344,awd_wb_1786344,,,Classroom equipment ,signed,15103.75,USD,07/10/2024,,,cat_wb_goods,FSM,src_worldbank_finances1,file_worldbank_ds00005_001,76478,2026-08-19
+ctr_wb_1786345,1786345,awd_wb_1786345,,,Classroom equipment ,signed,11567.96,USD,07/10/2024,,,cat_wb_goods,FSM,src_worldbank_finances1,file_worldbank_ds00005_001,76477,2026-08-19
+ctr_wb_1786353,1786353,awd_wb_1786353,,,"Vocational education equipment (Welder, wood lathe, excavator)",signed,36233.60,USD,07/11/2024,,,cat_wb_goods,FSM,src_worldbank_finances1,file_worldbank_ds00005_001,76346,2026-08-19
+ctr_wb_1786368,1786368,awd_wb_1786368,,,IT specialist (IST Program),signed,19764.31,USD,07/01/2024,,,cat_wb_consultant_services,KGZ,src_worldbank_finances1,file_worldbank_ds00005_001,77706,2026-08-19
+ctr_wb_1786370,1786370,awd_wb_1786370,,,"Construction of new district health center in Tojikobod Lot 4
+
+",signed,414827.97,USD,07/01/2024,,,cat_wb_works,TJK,src_worldbank_finances1,file_worldbank_ds00005_001,77705,2026-08-19
+ctr_wb_1786396,1786396,awd_wb_1786396,,,Supply and commissioning of 11 units of drones with accessories,signed,207623.68,USD,07/05/2024,,,cat_wb_goods,UGA,src_worldbank_finances1,file_worldbank_ds00005_001,76921,2026-08-19
+ctr_wb_1786411,1786411,awd_wb_1786411,,,IT specialist (IST Program),signed,12084.76,USD,07/01/2024,,,cat_wb_consultant_services,KGZ,src_worldbank_finances1,file_worldbank_ds00005_001,77704,2026-08-19
+ctr_wb_1786412,1786412,awd_wb_1786412,,,Meeting Room Renovation for DFT-MOIC,signed,10436.36,USD,07/02/2024,,,cat_wb_works,LAO,src_worldbank_finances1,file_worldbank_ds00005_001,77316,2026-08-19
+ctr_wb_1786431,1786431,awd_wb_1786431,,,IT specialist (Kafka),signed,2221.81,USD,07/11/2024,,,cat_wb_consultant_services,KGZ,src_worldbank_finances1,file_worldbank_ds00005_001,76345,2026-08-19
+ctr_wb_1786524,1786524,awd_wb_1786524,,,Enhancement of Water User and Licence Management System (SIRHA) and Integrated Dike Management System (SIGD) for DNGRH and ARAs,signed,303199.50,USD,07/08/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,76728,2026-08-19
+ctr_wb_1786537,1786537,awd_wb_1786537,,,Recrutement d'un Ingénieur-Résident pour le Département Sanitaire du Sud (DSS),signed,2500.00,USD,07/08/2024,,,cat_wb_consultant_services,HTI,src_worldbank_finances1,file_worldbank_ds00005_001,76727,2026-08-19
+ctr_wb_1786541,1786541,awd_wb_1786541,,,"Backlog Maintenance/Rehabilitation of Mararaba Junction - Vodni – Larkas – Jukchom 8km road, Myet – Nemel 4.17km Mwar – Tim (Chakfem) 17km road, Chip – Manget – Hikmuram – Nishat – Pang",signed,2732463.37,USD,07/03/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77185,2026-08-19
+ctr_wb_1786542,1786542,awd_wb_1786542,,,"Backlog Maintenance/Rehabilitation of Shendam – Poedial 8.15km road, Buzu – Goesa 7.4km road, Aljikamai – Dolori 9.31Km road in Shendam LGA of Plateau State – Lot 1",signed,1602112.75,USD,07/03/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77184,2026-08-19
+ctr_wb_1786559,1786559,awd_wb_1786559,,,Contract for Environmental Specialist for Solid Waste Management Activities In LURP,signed,155100.00,USD,07/11/2024,,,cat_wb_consultant_services,LBR,src_worldbank_finances1,file_worldbank_ds00005_001,76344,2026-08-19
+ctr_wb_1786575,1786575,awd_wb_1786575,,,Acquisition de deux (02) serveurs pour les trois (03) Centres de l'Institut National de la Statistique,signed,142533.29,USD,07/03/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,77183,2026-08-19
+ctr_wb_1786576,1786576,awd_wb_1786576,,,Contract for Procurement Advisor ,signed,860038.85,USD,07/11/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,76343,2026-08-19
+ctr_wb_1786606,1786606,awd_wb_1786606,,,Literacy and Numeracy Development Training ,signed,123022.08,USD,07/05/2024,,,cat_wb_non_consulting_services,SLB,src_worldbank_finances1,file_worldbank_ds00005_001,76920,2026-08-19
+ctr_wb_1786673,1786673,awd_wb_1786673,,,Individual Consulting Services for the Preparation of M & A Guides for the Counterbalance Project,signed,31250.00,USD,07/10/2024,,,cat_wb_consultant_services,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,76476,2026-08-19
+ctr_wb_1786698,1786698,awd_wb_1786698,,,Chargée de passation des marchés pour l’ECP-PAAF,signed,39873.20,USD,07/02/2024,,,cat_wb_consultant_services,COD,src_worldbank_finances1,file_worldbank_ds00005_001,77315,2026-08-19
+ctr_wb_1786715,1786715,awd_wb_1786715,,,"Needs Analysis of BSL-2 and BSL-3 Laboratories of Erzurum, Samsun, Elaz?? and Adana Veterinary Control Institute Directorates and Project Drawings of the Laboratories That Will Be Needed",signed,,,07/10/2024,,,cat_wb_consultant_services,TUR,src_worldbank_finances1,file_worldbank_ds00005_001,76474,2026-08-19
+ctr_wb_1786718,1786718,awd_wb_1786718,,,For the C/o Sub Surface Dykes (Makhowal) at Saloh  in GP  Jatroon Job No. 52 /2023-24,signed,1736.85,USD,07/04/2024,,,cat_wb_works,IND,src_worldbank_finances1,file_worldbank_ds00005_001,77057,2026-08-19
+ctr_wb_1786739,1786739,awd_wb_1786739,,,TT consultant for RDI      ,signed,62943.22,USD,07/01/2024,,,cat_wb_consultant_services,SRB,src_worldbank_finances1,file_worldbank_ds00005_001,77703,2026-08-19
+ctr_wb_1786761,1786761,awd_wb_1786761,,,"CONSULTANCY SERVICES FOR THE DESIGN REVIEW AND CONSTRUCTION SUPERVISION OF 11NOS CROSS DRAINAGES STRUCTURES, 8.1KM BACKLOG MAINTENANCE AND 8KM SPOT IMPROVEMENT OF RURAL ROADS IN NIGER STATE",signed,116133.60,USD,07/12/2024,,,cat_wb_consultant_services,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76222,2026-08-19
+ctr_wb_1786803,1786803,awd_wb_1786803,,,Audit Final de la mise en œuvre des activités dans le Plan d’Action de Réinstallation (PAR) de la composante2 du NELACEP,signed,21613.10,USD,07/09/2024,,,cat_wb_consultant_services,NER,src_worldbank_finances1,file_worldbank_ds00005_001,76570,2026-08-19
+ctr_wb_1786816,1786816,awd_wb_1786816,,,"Refurbishment of office of the Sub Divisional Officer of Mundeswari Irrigation Sub Division, Champadanga, Hooghly.",signed,274987.80,USD,07/10/2024,,,cat_wb_works,IND,src_worldbank_finances1,file_worldbank_ds00005_001,76473,2026-08-19
+ctr_wb_1786825,1786825,awd_wb_1786825,,,Individual Consultant - Project Manager,signed,9780.95,USD,07/01/2024,,,cat_wb_consultant_services,TJK,src_worldbank_finances1,file_worldbank_ds00005_001,77702,2026-08-19
+ctr_wb_1786827,1786827,awd_wb_1786827,,,Procurement of laboratory furniture for schools in Aragatsotn and Armavir regions of RA,signed,472766.97,USD,07/08/2024,,,cat_wb_goods,ARM,src_worldbank_finances1,file_worldbank_ds00005_001,76726,2026-08-19
+ctr_wb_1786832,1786832,awd_wb_1786832,,,"Servicios logísticos para el desarrollo del segundo comité técnico del Sistema Regional de Áreas Protegidas -SIRAP Orinoquia, en la ciudad de Yopal, Casanare",signed,2228.86,USD,07/05/2024,,,cat_wb_non_consulting_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,76919,2026-08-19
+ctr_wb_1786838,1786838,awd_wb_1786838,,,"EXECUÇÃO DAS OBRAS CIVIS PARA IMPLANTAÇÃO DE UM SISTEMA INTEGRADO DE ABASTECIMENTO DE ÁGUA RURAL, COM FORNECIMENTO E INSTALAÇÃO DE MATERIAIS, A SER EXECUTADO NO MUNICÍPIO DE ITAPIPOCA/CE.",signed,,,07/05/2024,,,cat_wb_works,BRA,src_worldbank_finances1,file_worldbank_ds00005_001,76917,2026-08-19
+ctr_wb_1786847,1786847,awd_wb_1786847,,,"Procurement Specialist- Contract Extension (5)
+Ref. No.: GZ-MOSD-432391-CS-INDV
+",signed,12448.00,USD,07/10/2024,,,cat_wb_consultant_services,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,76472,2026-08-19
+ctr_wb_1786849,1786849,awd_wb_1786849,,,Developer,signed,30854.84,USD,07/08/2024,,,cat_wb_consultant_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,76725,2026-08-19
+ctr_wb_1786850,1786850,awd_wb_1786850,,,"Financial Management Specialist- Contract Extension (4)
+Ref. no.: GZ-MOSD-432390-CS-INDV
+",signed,15217.00,USD,07/10/2024,,,cat_wb_consultant_services,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,76471,2026-08-19
+ctr_wb_1786852,1786852,awd_wb_1786852,,,"Hiring A Social Registry and Case Management Coordinator (3)-
+ Contract Extension (1)
+Reference No.: GZ-MOSD- 432392-CS-INDV
+",signed,16055.00,USD,07/10/2024,,,cat_wb_consultant_services,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,76470,2026-08-19
+ctr_wb_1786872,1786872,awd_wb_1786872,,,"Regularização de ligações em áreas de vulnerabilidade, com regularização de ligações de água e esgoto, supressão da infraestrutura irregular e recuperação de clientes - Tamanduateí (TR24)",signed,,,07/09/2024,,,cat_wb_non_consulting_services,BRA,src_worldbank_finances1,file_worldbank_ds00005_001,76567,2026-08-19
+ctr_wb_1786874,1786874,awd_wb_1786874,,,CONSTRUCTION/ REHABILITATION OF 5NOS CROSS DRAINAGES STRUCTURES OF VARIOUS SIZES ACCROSS NIGER STATE (LOT2),signed,220501.33,USD,07/12/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76221,2026-08-19
+ctr_wb_1786880,1786880,awd_wb_1786880,,,ADQUISICIÓN DE REPUESTOS PARA MAQUINAS DE ANESTESIA-NI-MINSA-403347-GO-RFB,signed,18528.26,USD,07/02/2024,,,cat_wb_goods,NIC,src_worldbank_finances1,file_worldbank_ds00005_001,77314,2026-08-19
+ctr_wb_1786884,1786884,awd_wb_1786884,,,Contract Services for Monitoring and Evaluation Specialist ,signed,137640.00,USD,07/01/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77701,2026-08-19
+ctr_wb_1786901,1786901,awd_wb_1786901,,,"Selection of Independent Commercial Expert (ICE), Mr. Sudhir Sharma",signed,1078.57,USD,07/01/2024,,,cat_wb_consultant_services,NPL,src_worldbank_finances1,file_worldbank_ds00005_001,77700,2026-08-19
+ctr_wb_1786919,1786919,awd_wb_1786919,,,Supply and install metal cabinets for PACC,signed,30000.00,USD,07/10/2024,,,cat_wb_goods,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,76469,2026-08-19
+ctr_wb_1786921,1786921,awd_wb_1786921,,,Contract with the Early-Stage Financing Program Manager,signed,59020.00,USD,07/10/2024,,,cat_wb_consultant_services,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,76468,2026-08-19
+ctr_wb_1786936,1786936,awd_wb_1786936,,,Supervision and Elaboration of Environmental and Social Instruments for Nampula Water Supply Systems – PACKAGE 3,signed,,,07/11/2024,,,cat_wb_consultant_services,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,76341,2026-08-19
+ctr_wb_1786937,1786937,awd_wb_1786937,,,Design and Elaboration of Environmental and Social Instruments for Nampula Water Supply Systems – PACKAGE 3,signed,,,07/11/2024,,,cat_wb_consultant_services,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,76339,2026-08-19
+ctr_wb_1786939,1786939,awd_wb_1786939,,,"Supervision, Elaboration of Environmental and Social Instruments for Zambezia Water Supply Systems – PACKAGE 5",signed,,,07/11/2024,,,cat_wb_consultant_services,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,76337,2026-08-19
+ctr_wb_1786940,1786940,awd_wb_1786940,,,"Design, Elaboration of Environmental and Social Instruments for Zambezia Water Supply Systems – PACKAGE 5",signed,,,07/11/2024,,,cat_wb_consultant_services,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,76335,2026-08-19
+ctr_wb_1786956,1786956,awd_wb_1786956,,,CONSTRUCTION/ REHABILITATION OF 7NOS CROSS DRAINAGES STRUCTURES OF VARIOUS SIZES ACCROSS NIGER STATE (LOT1),signed,239305.73,USD,07/12/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76220,2026-08-19
+ctr_wb_1786957,1786957,awd_wb_1786957,,,"ENGAGEMENT OF INDIVIDUAL CONSULTANCY SERVICES FOR THE PREPARATION OF RESTTLEMENT ACTION PLAN (RAP) FOR 3 NOS. AKU, AJAKA AND AYEGUNLE MARKET ADAVI, IGALAMELA/ODOLU AND KABBA-BUNU LGA OF KOGI STATE",signed,12726.56,USD,07/12/2024,,,cat_wb_consultant_services,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76219,2026-08-19
+ctr_wb_1786973,1786973,awd_wb_1786973,,,Selection of Consultant (Communication Agency) Firm for Preparing Communication Strategy for the Stakeholders and  Beneficiaries under EARN Project,signed,,,07/07/2024,,,cat_wb_consultant_services,BGD,src_worldbank_finances1,file_worldbank_ds00005_001,76743,2026-08-19
+ctr_wb_1786990,1786990,awd_wb_1786990,,,PMU Community Liaison Officer-Noro,signed,1247.66,USD,07/09/2024,,,cat_wb_consultant_services,SLB,src_worldbank_finances1,file_worldbank_ds00005_001,76566,2026-08-19
+ctr_wb_1786991,1786991,awd_wb_1786991,,,Fourniture et installation de mobiliers de bureau pour le siège du Recensement Général des Entreprises et Établissements de Côte d'Ivoire (RGEE-CI) ,signed,26398.07,USD,07/09/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,76565,2026-08-19
+ctr_wb_1787032,1787032,awd_wb_1787032,,,Consulting Services for Probity Assurance Adviser for the Construction of Installation of Efficient Cogeneration Plants Based on Gas Engines at HOB West and CHP Source-3 and Installation of Power Tran,signed,130625.00,USD,07/10/2024,,,cat_wb_consultant_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,76467,2026-08-19
+ctr_wb_1787033,1787033,awd_wb_1787033,,,"As a result of consecutive multistage assessment process, evaluation committee recommends to award to Dr. Mohamed Yousuf Aw Ali who is the most qualified candidate and competent to the assignment.",signed,201625.00,USD,07/01/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77699,2026-08-19
+ctr_wb_1787038,1787038,awd_wb_1787038,,,Assistente em Parceria Público Privadas,signed,204000.00,USD,07/12/2024,,,cat_wb_consultant_services,AGO,src_worldbank_finances1,file_worldbank_ds00005_001,76218,2026-08-19
+ctr_wb_1787041,1787041,awd_wb_1787041,,,108/CS/MOZNORTE/QCBS/2023- Hiring a firm for a baseline study Mapping and Inventory of Forest Resources in the Mecuburi Forest Reserve.,signed,361180.08,USD,07/11/2024,,,cat_wb_consultant_services,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,76334,2026-08-19
+ctr_wb_1787072,1787072,awd_wb_1787072,,,Edinet Forestry Enterprise to carry out works related to rehabilitation of forest protective plantations located in Edinet (for 7 identified mayoralties),signed,347235.46,USD,07/15/2024,,,cat_wb_non_consulting_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,76089,2026-08-19
+ctr_wb_1787083,1787083,awd_wb_1787083,,,Lot 1-Secondary school No. 103 named after Sadda: Sadda village 150 places,signed,,,07/12/2024,,,cat_wb_works,KGZ,src_worldbank_finances1,file_worldbank_ds00005_001,76216,2026-08-19
+ctr_wb_1787094,1787094,awd_wb_1787094,,,Supplying installation Testing Commissioning of Video Conference System for Auditorium at Head Quarter and Conference room at Coxs 'Bazar and ICT and Office Equipment.,signed,255252.25,USD,07/01/2024,,,cat_wb_goods,BGD,src_worldbank_finances1,file_worldbank_ds00005_001,77698,2026-08-19
+ctr_wb_1787135,1787135,awd_wb_1787135,,,Procurement of 10 Desktops and UPS for IFMIS Rollout to Two MACs,signed,15136.50,USD,07/05/2024,,,cat_wb_non_consulting_services,LBR,src_worldbank_finances1,file_worldbank_ds00005_001,76916,2026-08-19
+ctr_wb_1787136,1787136,awd_wb_1787136,,,Consultancy Services for Sexual Exploitation and Abuse/ Sexual Harassment (SEA/SH) Assessment,signed,55000.00,USD,07/05/2024,,,cat_wb_consultant_services,SLE,src_worldbank_finances1,file_worldbank_ds00005_001,76915,2026-08-19
+ctr_wb_1787159,1787159,awd_wb_1787159,,,Adquisición de Dieciocho (18) Switches de Interconexión y Distribución del Centro de Datos.,signed,59746.11,USD,07/01/2024,,,cat_wb_goods,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77697,2026-08-19
+ctr_wb_1787161,1787161,awd_wb_1787161,,,Curricula and syllabi development for Undergraduate and Postgraduate training in Public Health and Infectious Diseases,signed,56000.00,USD,07/15/2024,,,cat_wb_consultant_services,SLE,src_worldbank_finances1,file_worldbank_ds00005_001,76088,2026-08-19
+ctr_wb_1787162,1787162,awd_wb_1787162,,,Recrutement d'un bureau d'étude chargé de l'étude technique d'aménagement de six (6) sites maraichers dans les UFA de BETOU et d'ENYELLE,signed,66080.04,USD,07/01/2024,,,cat_wb_consultant_services,COG,src_worldbank_finances1,file_worldbank_ds00005_001,77696,2026-08-19
+ctr_wb_1787163,1787163,awd_wb_1787163,,,Consultancy Service to Develop Postgraduate Curricula and Syllabi in Medico-Surgical Nursing,signed,17000.00,USD,07/15/2024,,,cat_wb_consultant_services,SLE,src_worldbank_finances1,file_worldbank_ds00005_001,76087,2026-08-19
+ctr_wb_1787164,1787164,awd_wb_1787164,,,Aquisição de Software Financeiro e Contabilístico para a UIP,signed,27984.72,USD,07/08/2024,,,cat_wb_goods,AGO,src_worldbank_finances1,file_worldbank_ds00005_001,76724,2026-08-19
+ctr_wb_1787166,1787166,awd_wb_1787166,,,Recruitment of Technical Advisor (TA) to Develop Curriculum for Medicine and Allied Health Sciences (Dentistry),signed,36985.00,USD,07/15/2024,,,cat_wb_consultant_services,SLE,src_worldbank_finances1,file_worldbank_ds00005_001,76086,2026-08-19
+ctr_wb_1787168,1787168,awd_wb_1787168,,,Consultancy Service to Develop Curricula and Syllabi in Midwifery & Obstetrics Nursing ,signed,16550.00,USD,07/15/2024,,,cat_wb_consultant_services,SLE,src_worldbank_finances1,file_worldbank_ds00005_001,76085,2026-08-19
+ctr_wb_1787191,1787191,awd_wb_1787191,,,Acquisition de sept (07) drones pour le Centre d'innovation cartographique de l'Institut National de la Statistique et formation des agents de pilotes des drones,signed,76657.45,USD,07/11/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,76333,2026-08-19
+ctr_wb_1787199,1787199,awd_wb_1787199,,,Acquisition de matériels informatiques pour la mise en œuvre du Recensement Général des Entreprises et Etablissements de Côte d’Ivoire (RGEECI),signed,75121.11,USD,07/03/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,77182,2026-08-19
+ctr_wb_1787231,1787231,awd_wb_1787231,,,"Installation, Certification & Commissioning of Infection Prevention & Control & Health Care Waste Management Facilities in Designated Health Facilities and Procurement of Related Equipment & Supplies",signed,8204008.00,USD,07/04/2024,,,cat_wb_goods,PNG,src_worldbank_finances1,file_worldbank_ds00005_001,77056,2026-08-19
+ctr_wb_1787259,1787259,awd_wb_1787259,,,"Training in livelihood and enterprise development knowledge and skills of the Batwa people living around BINP, MGNP and SNP",signed,48064.86,USD,07/02/2024,,,cat_wb_non_consulting_services,UGA,src_worldbank_finances1,file_worldbank_ds00005_001,77313,2026-08-19
+ctr_wb_1787296,1787296,awd_wb_1787296,,,Acquisition des Manuels et matériels didactiques au profit des enseignants des écoles construites et réhabilitées par le PARCA,signed,55415.75,USD,07/05/2024,,,cat_wb_goods,TCD,src_worldbank_finances1,file_worldbank_ds00005_001,76914,2026-08-19
+ctr_wb_1787305,1787305,awd_wb_1787305,,,"PRINTING OF 390,000 NO. LITERACY, NUMERACY, ENTREPRENEURSHIP, SOCIAL STUDIES, INTEGRATED SCIENCE DOCUMENTS, 200,000NO. CERTIFICATES AND 320,000 NO. COMPETENCY BASED TRAINING MANUALS",signed,2089770.50,USD,07/10/2024,,,cat_wb_goods,GHA,src_worldbank_finances1,file_worldbank_ds00005_001,76466,2026-08-19
+ctr_wb_1787350,1787350,awd_wb_1787350,,,"Servicios logísticos para el desarrollo de la reunión con Juntas De Acción Comunal (JAC) de los municipios de Arauquita y Arauca, como parte de la dinamización del componente de gobernanza ",signed,750.62,USD,07/11/2024,,,cat_wb_non_consulting_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,76332,2026-08-19
+ctr_wb_1787358,1787358,awd_wb_1787358,,,Abogado - MHYDUGP,signed,25559.09,USD,07/05/2024,,,cat_wb_consultant_services,ARG,src_worldbank_finances1,file_worldbank_ds00005_001,76913,2026-08-19
+ctr_wb_1787371,1787371,awd_wb_1787371,,,"Production, Transportation & Installation of 77 Signboards at beneficiaries farm junctions in four Counties",signed,11165.00,USD,07/05/2024,,,cat_wb_non_consulting_services,LBR,src_worldbank_finances1,file_worldbank_ds00005_001,76912,2026-08-19
+ctr_wb_1787379,1787379,awd_wb_1787379,,,Prestar sus servicios personales apoyando las actividades operativas y logísticas que se requieran en el sector de los ríos Guaviare – Atabapo del Ramsar Estrella Fluvial de Inírida ,signed,2279.98,USD,07/16/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,75878,2026-08-19
+ctr_wb_1787397,1787397,awd_wb_1787397,,,"Mr. Son Ly, Site Engineer-IC-020 ",signed,21000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77695,2026-08-19
+ctr_wb_1787399,1787399,awd_wb_1787399,,,"Mr. Yun Sochet, Site Engineer-IC-021",signed,21000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77694,2026-08-19
+ctr_wb_1787400,1787400,awd_wb_1787400,,,Mr. Moul Satika: Site Engineer-IC-022,signed,21000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77693,2026-08-19
+ctr_wb_1787403,1787403,awd_wb_1787403,,,CHINA POLYURETHANE INDUSTRY ASSOCIATION FOAM PLASTICS COMMITTEE,signed,182286.64,USD,07/10/2024,,,cat_wb_consultant_services,CHN,src_worldbank_finances1,file_worldbank_ds00005_001,76465,2026-08-19
+ctr_wb_1787410,1787410,awd_wb_1787410,,,Mr. Phal Vutchhay- Site Engineer-IC-023,signed,30000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77692,2026-08-19
+ctr_wb_1787412,1787412,awd_wb_1787412,,,Mr. Khat Sotharith_ Site Engineer- IC-026,signed,18000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77691,2026-08-19
+ctr_wb_1787413,1787413,awd_wb_1787413,,,Mr. Line Reguene_Site Engineer-IC-028,signed,30000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77690,2026-08-19
+ctr_wb_1787414,1787414,awd_wb_1787414,,,Mr. Norng Kimsen_Site Engineer-IC-041,signed,18000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77689,2026-08-19
+ctr_wb_1787415,1787415,awd_wb_1787415,,,Mr. Mourn Sokhom_Site Engineer-IC-042,signed,18000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77688,2026-08-19
+ctr_wb_1787416,1787416,awd_wb_1787416,,,Mr. Min Samol_Site Engineer-IC-043,signed,18000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77687,2026-08-19
+ctr_wb_1787417,1787417,awd_wb_1787417,,,Mr. Kem Sovann_Site Engineer-IC-044,signed,30000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77686,2026-08-19
+ctr_wb_1787420,1787420,awd_wb_1787420,,,Mr. Chhun Chamroeum_Site Engineer-IC-045,signed,18000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77685,2026-08-19
+ctr_wb_1787421,1787421,awd_wb_1787421,,,Assistant Technique en Appui au Tourisme central  ,signed,38787.58,USD,07/12/2024,,,cat_wb_consultant_services,MDG,src_worldbank_finances1,file_worldbank_ds00005_001,76215,2026-08-19
+ctr_wb_1787422,1787422,awd_wb_1787422,,,Mr. Botrath Pratna_Site Engineer-IC-046,signed,18000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77684,2026-08-19
+ctr_wb_1787423,1787423,awd_wb_1787423,,,Mr. Y Sam_Site Engineer-IC-047,signed,18000.00,USD,07/01/2024,,,cat_wb_consultant_services,KHM,src_worldbank_finances1,file_worldbank_ds00005_001,77683,2026-08-19
+ctr_wb_1787452,1787452,awd_wb_1787452,,,"External ventricular drain, VP shunt (12-16 medium pressure",signed,265935.60,USD,07/16/2024,,,cat_wb_goods,EGY,src_worldbank_finances1,file_worldbank_ds00005_001,75877,2026-08-19
+ctr_wb_1787460,1787460,awd_wb_1787460,,,"Procurement of Design and Printing of Story Books for Primary Schools in selected 35 woredas of Amhara, Afar, Oromia and Benishangul Gumuz Regions under the 3R-4-CACE Project.",signed,478532.42,USD,07/15/2024,,,cat_wb_goods,ETH,src_worldbank_finances1,file_worldbank_ds00005_001,76084,2026-08-19
+ctr_wb_1787462,1787462,awd_wb_1787462,,,"138/G/MOZNORTE/RFB/2023- Supply of computer equipment (AQUA, DINAF and FNDS) LOTE I",signed,51903.51,USD,07/01/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,77682,2026-08-19
+ctr_wb_1787465,1787465,awd_wb_1787465,,,"CONSULTANCY SERVICES FOR DEVELOPMENT OF ONLINE TRAINING AND MARKETING PORTALS, MOBILE AND USSD APPLICATIONS FOR SUPPORT OF MICRO, SMALL AND MEDIUM ENTERPRISES",signed,45834.34,USD,07/11/2024,,,cat_wb_consultant_services,MWI,src_worldbank_finances1,file_worldbank_ds00005_001,76331,2026-08-19
+ctr_wb_1787468,1787468,awd_wb_1787468,,,"138/G/MOZNORTE/RFB/2023- Supply of computer equipment (AQUA, DINAF and FNDS) LOTE II",signed,32581.31,USD,07/01/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,77681,2026-08-19
+ctr_wb_1787471,1787471,awd_wb_1787471,,,Sutures 2,signed,10154.13,USD,07/16/2024,,,cat_wb_goods,EGY,src_worldbank_finances1,file_worldbank_ds00005_001,75876,2026-08-19
+ctr_wb_1787472,1787472,awd_wb_1787472,,,"138/G/MOZNORTE/RFB/2023- Supply of computer equipment (AQUA, DINAF and FNDS) LOTE III",signed,34197.53,USD,07/01/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,77680,2026-08-19
+ctr_wb_1787474,1787474,awd_wb_1787474,,,"138/G/MOZNORTE/RFB/2023- Supply of computer equipment (AQUA, DINAF and FNDS) LOTE IV",signed,27282.47,USD,07/01/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,77679,2026-08-19
+ctr_wb_1787479,1787479,awd_wb_1787479,,,"138/G/MOZNORTE/RFB/2023- Supply of computer equipment (AQUA, DINAF and FNDS) LOTE V",signed,23728.36,USD,07/01/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,77678,2026-08-19
+ctr_wb_1787482,1787482,awd_wb_1787482,,,"138/G/MOZNORTE/RFB/2023- Supply of computer equipment (AQUA, DINAF and FNDS) LOTE VI",signed,8000.81,USD,07/01/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,77677,2026-08-19
+ctr_wb_1787485,1787485,awd_wb_1787485,,,Elaboration d'un cahier de charges pour la mise en place d'un entrepôt de données (data wherehouse) au profit de l'INSD,signed,11763.33,USD,07/02/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77312,2026-08-19
+ctr_wb_1787488,1787488,awd_wb_1787488,,,Conception de l'interfaçage du modèle d'équilibre général calculable du Burkina Faso sur Excel,signed,25457.64,USD,07/09/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,76564,2026-08-19
+ctr_wb_1787502,1787502,awd_wb_1787502,,,Caissière pour le Projet PAAF,signed,21316.80,USD,07/15/2024,,,cat_wb_consultant_services,COD,src_worldbank_finances1,file_worldbank_ds00005_001,76083,2026-08-19
+ctr_wb_1787554,1787554,awd_wb_1787554,,,Prestar sus servicios personales apoyando las actividades de sensibilización y acompañamiento para promover la aplicación de lineamientos de turismo en el sector del río Inírida – Caño Bocón ,signed,2279.98,USD,07/16/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,75875,2026-08-19
+ctr_wb_1787561,1787561,awd_wb_1787561,,,The Site Engineer (south region) will be part of the engineering team within the BRB Project Implementation Team (PIT) in order to providing technical expertise and support to ensure the effective imp,signed,24809.58,USD,07/15/2024,,,cat_wb_consultant_services,ALB,src_worldbank_finances1,file_worldbank_ds00005_001,76082,2026-08-19
+ctr_wb_1787578,1787578,awd_wb_1787578,,,Gestor Social. ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77676,2026-08-19
+ctr_wb_1787581,1787581,awd_wb_1787581,,,Gestor Social.,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77675,2026-08-19
+ctr_wb_1787585,1787585,awd_wb_1787585,,,Gestor Social.,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77674,2026-08-19
+ctr_wb_1787587,1787587,awd_wb_1787587,,,Gestor Social. ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77673,2026-08-19
+ctr_wb_1787589,1787589,awd_wb_1787589,,,"Gestor Social. 
+",signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77672,2026-08-19
+ctr_wb_1787595,1787595,awd_wb_1787595,,,Gestor Social. ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77671,2026-08-19
+ctr_wb_1787596,1787596,awd_wb_1787596,,,Gestor Social. ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77670,2026-08-19
+ctr_wb_1787599,1787599,awd_wb_1787599,,,Gestor Social. ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77669,2026-08-19
+ctr_wb_1787600,1787600,awd_wb_1787600,,,Gestor Social.,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77668,2026-08-19
+ctr_wb_1787601,1787601,awd_wb_1787601,,,PROCUREMENT OF RALLY PLUS PREMIUM ULTRA-HD CONFERENCE CAM SYSTEM ,signed,5408.80,USD,07/11/2024,,,cat_wb_goods,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76330,2026-08-19
+ctr_wb_1787604,1787604,awd_wb_1787604,,,Prestar sus servicios personales como facilitador local para acompañar y apoyar los procesos orientados a la implementación del Plan de Manejo del Parque Natural Regional Miraflores Picachos,signed,4021.76,USD,07/17/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,75746,2026-08-19
+ctr_wb_1787605,1787605,awd_wb_1787605,,,Gestor Social.,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77667,2026-08-19
+ctr_wb_1787608,1787608,awd_wb_1787608,,,Establishment of a practical training room for improving and practicing the professional skills of heat pipeline and equipment repair workers and welders,signed,52484.56,USD,07/16/2024,,,cat_wb_works,MNG,src_worldbank_finances1,file_worldbank_ds00005_001,75874,2026-08-19
+ctr_wb_1787610,1787610,awd_wb_1787610,,,Gestor Social ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77666,2026-08-19
+ctr_wb_1787613,1787613,awd_wb_1787613,,,Gestor Social ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77665,2026-08-19
+ctr_wb_1787616,1787616,awd_wb_1787616,,,Gestor Social ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77664,2026-08-19
+ctr_wb_1787617,1787617,awd_wb_1787617,,,Gestor Social ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77663,2026-08-19
+ctr_wb_1787620,1787620,awd_wb_1787620,,,Gestor Social ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77662,2026-08-19
+ctr_wb_1787621,1787621,awd_wb_1787621,,,Gestor Social ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77661,2026-08-19
+ctr_wb_1787623,1787623,awd_wb_1787623,,,Gestor Social. ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77660,2026-08-19
+ctr_wb_1787625,1787625,awd_wb_1787625,,,Gestor Social. ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77659,2026-08-19
+ctr_wb_1787629,1787629,awd_wb_1787629,,,Procurement of computer equipment for the Central Statistical Office ,signed,8261.62,USD,07/15/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,76081,2026-08-19
+ctr_wb_1787630,1787630,awd_wb_1787630,,,Gestor Social. ,signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77658,2026-08-19
+ctr_wb_1787631,1787631,awd_wb_1787631,,,"Gestor Social.
+",signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77657,2026-08-19
+ctr_wb_1787632,1787632,awd_wb_1787632,,,"Gestor Social.
+",signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77656,2026-08-19
+ctr_wb_1787633,1787633,awd_wb_1787633,,,"Gestor Social.
+
+",signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77655,2026-08-19
+ctr_wb_1787634,1787634,awd_wb_1787634,,,"Gestor Social. 
+
+",signed,4362.75,USD,07/01/2024,,,cat_wb_non_consulting_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,77654,2026-08-19
+ctr_wb_1787637,1787637,awd_wb_1787637,,,Prestar sus servicios personales como facilitador local para acompañar y apoyar los procesos orientados a la implementación del Plan de Manejo del Parque Natural Regional Miraflores Picachos ,signed,4021.76,USD,07/17/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,75745,2026-08-19
+ctr_wb_1787670,1787670,awd_wb_1787670,,,Preocuremnt of 3 Nos of Laptop Computers to PLEASE project.,signed,3488.83,USD,07/08/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,76723,2026-08-19
+ctr_wb_1787674,1787674,awd_wb_1787674,,,Contracting a National consultancy firm to support MLSP in developing detailed job descriptions and tasks for new occupations entered into the eJob platform,signed,22640.40,USD,07/08/2024,,,cat_wb_consultant_services,MNG,src_worldbank_finances1,file_worldbank_ds00005_001,76722,2026-08-19
+ctr_wb_1787676,1787676,awd_wb_1787676,,,Developing online training modules/courses on labor and employment promotion laws and regulations (a national consulting firm),signed,11761.25,USD,07/08/2024,,,cat_wb_consultant_services,MNG,src_worldbank_finances1,file_worldbank_ds00005_001,76721,2026-08-19
+ctr_wb_1787687,1787687,awd_wb_1787687,,,Project Coordinator Individual Consultant,signed,45259.87,USD,07/15/2024,,,cat_wb_consultant_services,ETH,src_worldbank_finances1,file_worldbank_ds00005_001,76080,2026-08-19
+ctr_wb_1787704,1787704,awd_wb_1787704,,,Microsoft Power Business and SQL license for PACC,signed,19789.60,USD,07/10/2024,,,cat_wb_goods,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,76464,2026-08-19
+ctr_wb_1787711,1787711,awd_wb_1787711,,,"Consulting firm: Contracting, based on bidding,  of a vendor for conducting SIP evaluation (baseline and end-line data collection, data analysis, and report producing) C3-CS-2023-29-1",signed,46750.96,USD,07/08/2024,,,cat_wb_consultant_services,MNG,src_worldbank_finances1,file_worldbank_ds00005_001,76720,2026-08-19
+ctr_wb_1787714,1787714,awd_wb_1787714,,,Consulting firm: Hiring a consulting firm to conduct policy research on informal employment and develop policy strategies C3-CS-2023-27-1,signed,47044.99,USD,07/08/2024,,,cat_wb_consultant_services,MNG,src_worldbank_finances1,file_worldbank_ds00005_001,76719,2026-08-19
+ctr_wb_1787726,1787726,awd_wb_1787726,,,Sterilization Roll,signed,85346.80,USD,07/16/2024,,,cat_wb_goods,EGY,src_worldbank_finances1,file_worldbank_ds00005_001,75873,2026-08-19
+ctr_wb_1787734,1787734,awd_wb_1787734,,,Sutures 3,signed,7065.09,USD,07/17/2024,,,cat_wb_goods,EGY,src_worldbank_finances1,file_worldbank_ds00005_001,75744,2026-08-19
+ctr_wb_1787749,1787749,awd_wb_1787749,,,"Assistante Chargée des Aspects Sociaux, Gouvernance citoyenne et Suivi de processus au Bureau Régional de Ndzouani ",signed,878.19,USD,07/04/2024,,,cat_wb_consultant_services,COM,src_worldbank_finances1,file_worldbank_ds00005_001,77055,2026-08-19
+ctr_wb_1787753,1787753,awd_wb_1787753,,,"Responsable Technique du Programme de Sortie, Renforcement du Capital Humain et Autonomisation des Femmes au Bureau Régional de Ndzouani ",signed,987.96,USD,07/04/2024,,,cat_wb_consultant_services,COM,src_worldbank_finances1,file_worldbank_ds00005_001,77054,2026-08-19
+ctr_wb_1787755,1787755,awd_wb_1787755,,,"Assistant Chargé des Aspects Sociaux, Gouvernance citoyenne et Suivi de processus au Bureau Régional de Mwali ",signed,878.19,USD,07/04/2024,,,cat_wb_consultant_services,COM,src_worldbank_finances1,file_worldbank_ds00005_001,77053,2026-08-19
+ctr_wb_1787757,1787757,awd_wb_1787757,,,Renouvellement du contrat d'Assistant en Pssation des Marchés à la Coordination Nationale,signed,984.12,USD,07/03/2024,,,cat_wb_consultant_services,COM,src_worldbank_finances1,file_worldbank_ds00005_001,77181,2026-08-19
+ctr_wb_1787760,1787760,awd_wb_1787760,,,Consultant for the Green Project coordination,signed,7466.34,USD,07/12/2024,,,cat_wb_consultant_services,SRB,src_worldbank_finances1,file_worldbank_ds00005_001,76214,2026-08-19
+ctr_wb_1787762,1787762,awd_wb_1787762,,,Renouvellement du contrat d'Assistant en Passation des Marchés au Bureau Régional de Ngazidja,signed,984.12,USD,07/03/2024,,,cat_wb_consultant_services,COM,src_worldbank_finances1,file_worldbank_ds00005_001,77180,2026-08-19
+ctr_wb_1787767,1787767,awd_wb_1787767,,,Renouvellement du contrat du Directeur Régional de Mwali,signed,1540.24,USD,07/05/2024,,,cat_wb_consultant_services,COM,src_worldbank_finances1,file_worldbank_ds00005_001,76911,2026-08-19
+ctr_wb_1787786,1787786,awd_wb_1787786,,,"Procurement of Office Equipment (Printers, Scanner, Photocopier, Desktop, Stapler, Stapler Pin, Puncher, Television, Screen Display, Public Address System and Zoom Lenses) ",signed,10377.95,USD,07/04/2024,,,cat_wb_goods,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77052,2026-08-19
+ctr_wb_1787796,1787796,awd_wb_1787796,,,Engagement of Technical Assistant-Procurement,signed,16783.19,USD,07/10/2024,,,cat_wb_consultant_services,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76463,2026-08-19
+ctr_wb_1787828,1787828,awd_wb_1787828,,,Hospital Beds & Trolleys,signed,127410.08,USD,07/01/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,77653,2026-08-19
+ctr_wb_1787832,1787832,awd_wb_1787832,,,"Construction Projects Package LOT-1: Center of Reform, Research and Innovation [CERRI] Building ",signed,4542503.69,USD,07/04/2024,,,cat_wb_works,PAK,src_worldbank_finances1,file_worldbank_ds00005_001,77051,2026-08-19
+ctr_wb_1787834,1787834,awd_wb_1787834,,,Procurement Specialist/Contract Manager,signed,35424.35,USD,07/08/2024,,,cat_wb_consultant_services,DMA,src_worldbank_finances1,file_worldbank_ds00005_001,76718,2026-08-19
+ctr_wb_1787840,1787840,awd_wb_1787840,,,Acquisition de deux véhicules au profit du MSPP,signed,127504.47,USD,07/18/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,75635,2026-08-19
+ctr_wb_1787855,1787855,awd_wb_1787855,,,“GESTOR LICENCIAMIENTO AMBIENTAL DE LA UNIDAD EJECUTORA DEL PROYECTO (UEP)”  HN-SEDECOAS-304061-CS-INDV,signed,8142.36,USD,07/17/2024,,,cat_wb_consultant_services,HND,src_worldbank_finances1,file_worldbank_ds00005_001,75743,2026-08-19
+ctr_wb_1787869,1787869,awd_wb_1787869,,,Prestar sus servicios personales para acompañar y apoyar los procesos orientados a la implementación de la forestería comunitaria con la participación y diálogo entre las comunidades y Corpoamazonia,signed,2514.39,USD,07/17/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,75742,2026-08-19
+ctr_wb_1787874,1787874,awd_wb_1787874,,,"SDPRF 2057 CONTRATAR LOS SERVICIOS DE CONSULTORÍA A LA SNR, EN LAS ACTIVIDADES DE ESPECIALISTA DE PLANIFICACIÓN, SEGUIMIENTO Y MONITOREO DE LA UNIDAD DE GESTION DEL PROGRAMA",signed,47891.57,USD,07/10/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,76462,2026-08-19
+ctr_wb_1787876,1787876,awd_wb_1787876,,,National Monitoring and Evaluation Consultant to prepare Borrower's Completion Report - CS05,signed,10967.36,USD,07/17/2024,,,cat_wb_consultant_services,MNG,src_worldbank_finances1,file_worldbank_ds00005_001,75741,2026-08-19
+ctr_wb_1787882,1787882,awd_wb_1787882,,,Logistics Coordinator,signed,41756.87,USD,07/16/2024,,,cat_wb_consultant_services,PNG,src_worldbank_finances1,file_worldbank_ds00005_001,75872,2026-08-19
+ctr_wb_1787886,1787886,awd_wb_1787886,,,Monitoring and Evaluation Officer,signed,87265.04,USD,07/15/2024,,,cat_wb_consultant_services,TUV,src_worldbank_finances1,file_worldbank_ds00005_001,76079,2026-08-19
+ctr_wb_1787901,1787901,awd_wb_1787901,,,SUPPLY OF PROJECT VEHICLE for the SEARECC Project,signed,133000.00,USD,07/02/2024,,,cat_wb_goods,LAO,src_worldbank_finances1,file_worldbank_ds00005_001,77311,2026-08-19
+ctr_wb_1787902,1787902,awd_wb_1787902,,,TDMU Officer ,signed,31294.00,USD,07/15/2024,,,cat_wb_consultant_services,FSM,src_worldbank_finances1,file_worldbank_ds00005_001,76078,2026-08-19
+ctr_wb_1787917,1787917,awd_wb_1787917,,,Procurement and Installation of video conferencing equipment and digital camera and its accessories,signed,12496.88,USD,07/15/2024,,,cat_wb_goods,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76077,2026-08-19
+ctr_wb_1787919,1787919,awd_wb_1787919,,,Purchase of Furniture for 69 Schools - Lot 1,signed,52287.88,USD,07/11/2024,,,cat_wb_goods,GEO,src_worldbank_finances1,file_worldbank_ds00005_001,76329,2026-08-19
+ctr_wb_1787920,1787920,awd_wb_1787920,,,Purchase of Furniture for 81 Schools - Lot 2,signed,57990.06,USD,07/11/2024,,,cat_wb_goods,GEO,src_worldbank_finances1,file_worldbank_ds00005_001,76328,2026-08-19
+ctr_wb_1787921,1787921,awd_wb_1787921,,,"Procurement, Installation, and expansion of solar panels/inverter for newly renovated offices",signed,12184.39,USD,07/15/2024,,,cat_wb_goods,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76076,2026-08-19
+ctr_wb_1787923,1787923,awd_wb_1787923,,,"Procurement of two (2) pieces laptops and their accessories for 2 NCO Officers and installation of CCTV, internet, and intercom",signed,3747.72,USD,07/15/2024,,,cat_wb_goods,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76075,2026-08-19
+ctr_wb_1787929,1787929,awd_wb_1787929,,,Bridge Major Repair along Mori - Magena - Nyabirundu road 3.89 Km in Tarime TC,signed,113336.84,USD,07/12/2024,,,cat_wb_works,TZA,src_worldbank_finances1,file_worldbank_ds00005_001,76213,2026-08-19
+ctr_wb_1787932,1787932,awd_wb_1787932,,,Acquisition des ordinateurs portables au profit du PARIIS,signed,6208.43,USD,07/02/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,77310,2026-08-19
+ctr_wb_1787945,1787945,awd_wb_1787945,,,"Construction of Subordinate Courts in 5 Selected Locations of Msata, Bungu, Somangila and Kimanzichana in Pwani and Mbagala in Dar es Salaam - Lot 3",signed,1759637.73,USD,07/12/2024,,,cat_wb_works,TZA,src_worldbank_finances1,file_worldbank_ds00005_001,76212,2026-08-19
+ctr_wb_1787947,1787947,awd_wb_1787947,,,"Construction of Subordinate Courts in 5 Selected Locations of Izigo, Nyakakika in Kagera and Kigoma kaskazini, Heru Juu, Manyovu in Kigoma - Lot 1",signed,1677576.61,USD,07/16/2024,,,cat_wb_works,TZA,src_worldbank_finances1,file_worldbank_ds00005_001,75871,2026-08-19
+ctr_wb_1787953,1787953,awd_wb_1787953,,,Prestar sus servicios como facilitador Local en el desarrollo de actividades de campo para el inventario forestal de los predios asociados al Núcleo de Desarrollo Forestal - NDF La Rompida del Sitio ,signed,1975.80,USD,07/19/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,75494,2026-08-19
+ctr_wb_1787961,1787961,awd_wb_1787961,,,Acquisition de matériel de vidéo conférence,signed,13178.82,USD,07/05/2024,,,cat_wb_goods,CMR,src_worldbank_finances1,file_worldbank_ds00005_001,76910,2026-08-19
+ctr_wb_1787970,1787970,awd_wb_1787970,,, Aquisição de Equipamento Informático para a UIP e URIPs,signed,460878.91,USD,07/05/2024,,,cat_wb_goods,AGO,src_worldbank_finances1,file_worldbank_ds00005_001,76909,2026-08-19
+ctr_wb_1787989,1787989,awd_wb_1787989,,,Acquisition et installation d'équipements solaires au profit de l'ISSP,signed,40742.67,USD,07/02/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,77309,2026-08-19
+ctr_wb_1787998,1787998,awd_wb_1787998,,,"Assistant Administrateur Réseau, Digitalisation et Systèmes d’Information Coordination Nationale ",signed,987.96,USD,07/04/2024,,,cat_wb_consultant_services,COM,src_worldbank_finances1,file_worldbank_ds00005_001,77050,2026-08-19
+ctr_wb_1788002,1788002,awd_wb_1788002,,,"Construction and Equipping of Model Veterinary Hospital in Sokoto, Sokoto State",signed,169655.88,USD,07/15/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76074,2026-08-19
+ctr_wb_1788009,1788009,awd_wb_1788009,,,"Construction and Equipping of Model Veterinary Hospital in Benin, Edo State",signed,171209.16,USD,07/15/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76073,2026-08-19
+ctr_wb_1788011,1788011,awd_wb_1788011,,,"As a result of consecutive multistage assessment process, evaluation committee recommends to award to Hassan Mohamed Askar who is the most qualified candidate and competent to the assignment.",signed,134400.00,USD,07/03/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77179,2026-08-19
+ctr_wb_1788018,1788018,awd_wb_1788018,,,"Construction and Equipping of Model Veterinary Hospital in Enugu, Enugu State",signed,171621.04,USD,07/15/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76072,2026-08-19
+ctr_wb_1788019,1788019,awd_wb_1788019,,,"Construction and Equipping of Model Veterinary Hospital in Ondo Town, Ondo State",signed,171249.19,USD,07/15/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,76071,2026-08-19
+ctr_wb_1788020,1788020,awd_wb_1788020,,,"Construction and Equipping of Model Veterinary Hospital in Jimeta, Adamawa State",signed,171850.50,USD,07/16/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,75870,2026-08-19
+ctr_wb_1788021,1788021,awd_wb_1788021,,,AGRICULTURE EMBEDDED ADVISOR,signed,120000.00,USD,07/03/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77178,2026-08-19
+ctr_wb_1788026,1788026,awd_wb_1788026,,,"CONSULTANCY SERVICES FOR SITUATION ASSESSMENT AND PROJECT DESIGN FOR DEVELOPMENT OF COMMUNITY FORESTRY IN KIRYANDONGO, KIKUUBE AND HOIMA DISTRICTS UNDER IFPA-CD PROJECT",signed,249054.05,USD,07/17/2024,,,cat_wb_consultant_services,UGA,src_worldbank_finances1,file_worldbank_ds00005_001,75740,2026-08-19
+ctr_wb_1788037,1788037,awd_wb_1788037,,,"LOT 3 - CONSTRUCTION OF SUBORDINATE COURTS IN 5 SELECTED LOCATIONS OF UNYAMIKUBI, MINYUGHE IN SINGIDA; KWAMTORO IN DODOMA; BWAKILA CHINI, MINEPA IN MOROGORO ",signed,1793232.32,USD,07/12/2024,,,cat_wb_works,TZA,src_worldbank_finances1,file_worldbank_ds00005_001,76211,2026-08-19
+ctr_wb_1788046,1788046,awd_wb_1788046,,,"LOT 2- CONSTRUCTION OF SUBORDINATE COURTS IN 3 SELECTED LOCATIONS OF MALUNGA, MAJENGO IN SHINYANGA, AND NG’ANZO IN GEITA  ",signed,1592359.81,USD,07/15/2024,,,cat_wb_works,TZA,src_worldbank_finances1,file_worldbank_ds00005_001,76070,2026-08-19
+ctr_wb_1788070,1788070,awd_wb_1788070,,,Project Officer,signed,39218.74,USD,07/01/2024,,,cat_wb_consultant_services,MWI,src_worldbank_finances1,file_worldbank_ds00005_001,77652,2026-08-19
+ctr_wb_1788071,1788071,awd_wb_1788071,,,Project Officer,signed,39218.74,USD,07/01/2024,,,cat_wb_consultant_services,MWI,src_worldbank_finances1,file_worldbank_ds00005_001,77651,2026-08-19
+ctr_wb_1788074,1788074,awd_wb_1788074,,,Supply and Delivery of ICT Items,signed,7485.14,USD,07/09/2024,,,cat_wb_goods,MWI,src_worldbank_finances1,file_worldbank_ds00005_001,76563,2026-08-19
+ctr_wb_1788075,1788075,awd_wb_1788075,,,Supply and Delivery of ICT Items,signed,33911.79,USD,07/09/2024,,,cat_wb_goods,MWI,src_worldbank_finances1,file_worldbank_ds00005_001,76562,2026-08-19
+ctr_wb_1788076,1788076,awd_wb_1788076,,,Supply and Delivery of ICT Items,signed,33125.38,USD,07/09/2024,,,cat_wb_goods,MWI,src_worldbank_finances1,file_worldbank_ds00005_001,76561,2026-08-19
+ctr_wb_1788092,1788092,awd_wb_1788092,,,Communications Officer,signed,20627.17,USD,07/18/2024,,,cat_wb_consultant_services,PNG,src_worldbank_finances1,file_worldbank_ds00005_001,75634,2026-08-19
+ctr_wb_1788094,1788094,awd_wb_1788094,,,Technical Assistance During The Procurement and Construction Stages of Resilient Multifunctional Government Facility (Component 3 of the Urban Resilience Project ). ,signed,444111.10,USD,07/19/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,75493,2026-08-19
+ctr_wb_1788097,1788097,awd_wb_1788097,,,"Backup Storage at Information, Communication and Technological Services",signed,70552.42,USD,07/17/2024,,,cat_wb_goods,SLB,src_worldbank_finances1,file_worldbank_ds00005_001,75739,2026-08-19
+ctr_wb_1788106,1788106,awd_wb_1788106,,,Tikatai Trading - Lots 8.1 & 8.5,signed,9077.48,USD,07/19/2024,,,cat_wb_goods,KIR,src_worldbank_finances1,file_worldbank_ds00005_001,75492,2026-08-19
+ctr_wb_1788108,1788108,awd_wb_1788108,,,"Pintech - Lots 8.2, 8.3 & 8.4",signed,15343.32,USD,07/19/2024,,,cat_wb_goods,KIR,src_worldbank_finances1,file_worldbank_ds00005_001,75491,2026-08-19
+ctr_wb_1788110,1788110,awd_wb_1788110,,,Tikatai - Lot 4.1,signed,48346.71,USD,07/19/2024,,,cat_wb_goods,KIR,src_worldbank_finances1,file_worldbank_ds00005_001,75490,2026-08-19
+ctr_wb_1788111,1788111,awd_wb_1788111,,,Pintech - Lot 4.2,signed,9095.73,USD,07/19/2024,,,cat_wb_goods,KIR,src_worldbank_finances1,file_worldbank_ds00005_001,75489,2026-08-19
+ctr_wb_1788112,1788112,awd_wb_1788112,,,Social Mobilization Specialist,signed,8989.57,USD,07/15/2024,,,cat_wb_consultant_services,PAK,src_worldbank_finances1,file_worldbank_ds00005_001,76069,2026-08-19
+ctr_wb_1788115,1788115,awd_wb_1788115,,,Procurement Specialist ,signed,13968.88,USD,07/01/2024,,,cat_wb_consultant_services,IDN,src_worldbank_finances1,file_worldbank_ds00005_001,77650,2026-08-19
+ctr_wb_1788126,1788126,awd_wb_1788126,,,"Procurement of firm for Developing and Delivering Sensitization on Gender Mainstreaming in Key Sectors in Bangladesh, Nepal and Pakistan",signed,112627.23,USD,07/17/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,75738,2026-08-19
+ctr_wb_1788133,1788133,awd_wb_1788133,,,The Greater Addo-Amathole Biodiversity master plan ,signed,9239.06,USD,07/11/2024,,,cat_wb_consultant_services,ZAF,src_worldbank_finances1,file_worldbank_ds00005_001,76327,2026-08-19
+ctr_wb_1788143,1788143,awd_wb_1788143,,,Notice d’Impact Environnemental et Social (NIES) du sous projet de construction et de réhabilitation de la gare routière de la commune de Réo Centre-Ouest (lot 1).,signed,20906.40,USD,07/18/2024,,,cat_wb_consultant_services,BFA,src_worldbank_finances1,file_worldbank_ds00005_001,75633,2026-08-19
+ctr_wb_1788145,1788145,awd_wb_1788145,,,Notice d’Impact Environnemental et Social (NIES) du sous projet de construction et de réhabilitation de la gare routière de la commune de Pouytenga Centre-Est (lot 2).,signed,12670.49,USD,07/10/2024,,,cat_wb_consultant_services,BFA,src_worldbank_finances1,file_worldbank_ds00005_001,76461,2026-08-19
+ctr_wb_1788147,1788147,awd_wb_1788147,,,Direct selection of Soroca Forestry Enterprise that will carry out works related to rehabilitation of forest protective plantations located in Soroca county (for 13 identified mayoralties),signed,478403.14,USD,07/18/2024,,,cat_wb_non_consulting_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,75632,2026-08-19
+ctr_wb_1788148,1788148,awd_wb_1788148,,,External partnership result verification agency,signed,234768.01,USD,07/08/2024,,,cat_wb_consultant_services,MNG,src_worldbank_finances1,file_worldbank_ds00005_001,76717,2026-08-19
+ctr_wb_1788151,1788151,awd_wb_1788151,,,Direct selection of Telenesti Forestry Enterprise that will carry out works related to rehabilitation of forest protective plantations located in Telenesti (for 11 identified mayoralties),signed,190039.99,USD,07/17/2024,,,cat_wb_non_consulting_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,75737,2026-08-19
+ctr_wb_1788158,1788158,awd_wb_1788158,,,"Procurement of billing system update for SUE ""Dushanbevodokanal""",signed,317534.67,USD,07/15/2024,,,cat_wb_goods,TJK,src_worldbank_finances1,file_worldbank_ds00005_001,76068,2026-08-19
+ctr_wb_1788163,1788163,awd_wb_1788163,,, Improvement to Aluth Ela( 5+700-11+000),signed,11383.73,USD,07/02/2024,,,cat_wb_works,LKA,src_worldbank_finances1,file_worldbank_ds00005_001,77308,2026-08-19
+ctr_wb_1788172,1788172,awd_wb_1788172,,,Procurement of licenses for Electronic document management system of the State Service of Ukraine on Medicines and Drugs Control,signed,116304.00,USD,07/19/2024,,,cat_wb_goods,UKR,src_worldbank_finances1,file_worldbank_ds00005_001,75488,2026-08-19
+ctr_wb_1788173,1788173,awd_wb_1788173,,,Translation of Grievance Redress Mechanism (GRM) from English Language to Sesotho Language,signed,909.17,USD,07/08/2024,,,cat_wb_consultant_services,LSO,src_worldbank_finances1,file_worldbank_ds00005_001,76716,2026-08-19
+ctr_wb_1788185,1788185,awd_wb_1788185,,,"CONSULTOR INDIVIDUAL DE LINEA ANALISTA FINANCIERO PARA LA UNIDAD OPERATIVA DESCONCENTRADA DEL PROYECTO DE RESILIENCIA URBANA EN BOLIVIA, SEMPLAD",signed,24417.26,USD,07/15/2024,,,cat_wb_consultant_services,BOL,src_worldbank_finances1,file_worldbank_ds00005_001,76067,2026-08-19
+ctr_wb_1788226,1788226,awd_wb_1788226,,,"Prestar servicios profesionales para liderar la gestión de procesos de participación, concertación y fortalecimiento de capacidades con las comunidades y organizaciones locales para el Manejo ",signed,9908.27,USD,07/22/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,75331,2026-08-19
+ctr_wb_1788227,1788227,awd_wb_1788227,,,CONSULTANCY FOR THE PREPARATION OF FOUR (4) SITE-SPECIFIC ENVIRONMENT AND SOCIAL MANAGEMENT PLANS (ESMPS) AND LAND ACCESS INSTRUMENTS,signed,309000.00,USD,07/15/2024,,,cat_wb_consultant_services,FSM,src_worldbank_finances1,file_worldbank_ds00005_001,76066,2026-08-19
+ctr_wb_1788251,1788251,awd_wb_1788251,,,Telmedicine type video transmission system,signed,35351.44,USD,07/04/2024,,,cat_wb_goods,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,77049,2026-08-19
+ctr_wb_1788256,1788256,awd_wb_1788256,,,Assistant Senior en Passation de Marchés,signed,38358.25,USD,07/22/2024,,,cat_wb_consultant_services,MDG,src_worldbank_finances1,file_worldbank_ds00005_001,75330,2026-08-19
+ctr_wb_1788272,1788272,awd_wb_1788272,,,"Supervision of construction/reconstruction and/or upgrade of the facilities and infrastructure at the Border Crossing Points (BCPs) Deve Bair and Kjafasan
+WBTTFP-8929-MK-121C-CS-CQS",signed,75582.70,USD,07/08/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,76715,2026-08-19
+ctr_wb_1788291,1788291,awd_wb_1788291,,,Part-time environmental consultant for Component (Part) 3 “Strengthening Resilience through irrigation services” under AGGRI Project,signed,24084.78,USD,07/02/2024,,,cat_wb_consultant_services,MDA,src_worldbank_finances1,file_worldbank_ds00005_001,77307,2026-08-19
+ctr_wb_1788295,1788295,awd_wb_1788295,,,"The consultancy service to prepare project operation manual (POM) at federal, regional and specific purpose grant (SPG) woreda level, and in 23 non- SPG woredas affected by conflict, drought and high ",signed,23761.75,USD,07/08/2024,,,cat_wb_consultant_services,ETH,src_worldbank_finances1,file_worldbank_ds00005_001,76714,2026-08-19
+ctr_wb_1788312,1788312,awd_wb_1788312,,,Supply of modular unit for a Community Centre (2.1.1.C.10),signed,98637.86,USD,07/16/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,75869,2026-08-19
+ctr_wb_1788316,1788316,awd_wb_1788316,,,Supply of a Wharehouse (2.1.1.C.12),signed,93940.82,USD,07/16/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,75868,2026-08-19
+ctr_wb_1788321,1788321,awd_wb_1788321,,,Renovation of DOT’s Meeting Room ,signed,43071.38,USD,07/01/2024,,,cat_wb_works,LAO,src_worldbank_finances1,file_worldbank_ds00005_001,77649,2026-08-19
+ctr_wb_1788323,1788323,awd_wb_1788323,,,Supply of material for a research centre (2.1.1.C.13),signed,97072.18,USD,07/16/2024,,,cat_wb_goods,MOZ,src_worldbank_finances1,file_worldbank_ds00005_001,75867,2026-08-19
+ctr_wb_1788343,1788343,awd_wb_1788343,,,CONSULTANCY SERVICES FOR THE ENGAGEMENT OF GIS SPECIALIST,signed,2584.60,USD,07/22/2024,,,cat_wb_consultant_services,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,75329,2026-08-19
+ctr_wb_1788345,1788345,awd_wb_1788345,,,Acquisition et installation de climatiseurs et de téléphones IP au profit de l'INSD,signed,40681.52,USD,07/02/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,77306,2026-08-19
+ctr_wb_1788356,1788356,awd_wb_1788356,,,Recrutement d´un consultant individuel pour la gestion des contrats.,signed,61610.00,USD,07/03/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77177,2026-08-19
+ctr_wb_1788359,1788359,awd_wb_1788359,,,Purchasing of 30 units electric tricycles for PUUs and SPNAs in targeted districts of the project,signed,49295.77,USD,07/10/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,76460,2026-08-19
+ctr_wb_1788360,1788360,awd_wb_1788360,,,"To carry out land surveying works to establish and restore the boundaries of land users, including cattle routes and paddocks in targeted districts and the project regions",signed,126982.64,USD,07/01/2024,,,cat_wb_non_consulting_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77648,2026-08-19
+ctr_wb_1788364,1788364,awd_wb_1788364,,,Lot 2: Procurement of Vehicles for Waste Transport,signed,41000.00,USD,07/03/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,77176,2026-08-19
+ctr_wb_1788378,1788378,awd_wb_1788378,,,Réaménagement du module de pauvreté et de micro simulation avec une réécriture du modèle sur la base de l'EHCVM,signed,22453.45,USD,07/15/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,76065,2026-08-19
+ctr_wb_1788390,1788390,awd_wb_1788390,,,"Rural Road Upgrading of Mbar - yelwa nono– maiduna 19km road,
+Sabon gari – farin kassa – jwak – maitumbi – murish 11.2km road in Mangu and Bokkos LGAs of Plateau State – Lot 2
+",signed,2652846.91,USD,07/03/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77175,2026-08-19
+ctr_wb_1788391,1788391,awd_wb_1788391,,,"Rural Road Upgrading of Kawo – Saminaka 8.4km road, Mabudi – wubang 9.62km road and Wuseli – dawaki 16.3km road in Shendam, Langtang South and Kanke LGAs, of Plateau State  - Lot 3",signed,3223301.87,USD,07/03/2024,,,cat_wb_works,NGA,src_worldbank_finances1,file_worldbank_ds00005_001,77174,2026-08-19
+ctr_wb_1788392,1788392,awd_wb_1788392,,,"Supply and installation of photovoltaic (PV) power plants in Zakarpattia, Ivano-Frankivsk, Ternopil and Chernivtsi oblasts | Supply and installation of photovoltaic (PV) power plants in Kyiv, Chernihi",signed,3000117.83,USD,07/08/2024,,,cat_wb_goods,UKR,src_worldbank_finances1,file_worldbank_ds00005_001,76713,2026-08-19
+ctr_wb_1788394,1788394,awd_wb_1788394,,,Lote Unico- Oferente Preteco SA,signed,1038555.61,USD,07/17/2024,,,cat_wb_goods,ARG,src_worldbank_finances1,file_worldbank_ds00005_001,75736,2026-08-19
+ctr_wb_1788395,1788395,awd_wb_1788395,,,Program Coordinator,signed,253729.14,USD,07/03/2024,,,cat_wb_consultant_services,PNG,src_worldbank_finances1,file_worldbank_ds00005_001,77173,2026-08-19
+ctr_wb_1788398,1788398,awd_wb_1788398,,,Transactional Advisory Services for a Telecommunications Excess Capacity Sale Transaction,signed,212168.00,USD,07/02/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,77305,2026-08-19
+ctr_wb_1788405,1788405,awd_wb_1788405,,,"Contratación de Especialista de Planificación, Monitoreo, Seguimiento y Evaluación",signed,44339.81,USD,07/22/2024,,,cat_wb_consultant_services,ECU,src_worldbank_finances1,file_worldbank_ds00005_001,75328,2026-08-19
+ctr_wb_1788410,1788410,awd_wb_1788410,,,Equipamiento del Laboratorio para Control de Calidad BB  (DICOSA),signed,11094.19,USD,07/10/2024,,,cat_wb_goods,HND,src_worldbank_finances1,file_worldbank_ds00005_001,76459,2026-08-19
+ctr_wb_1788418,1788418,awd_wb_1788418,,,ASSISTENTE ADMINISTRATIVA,signed,58447.35,USD,07/08/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,76712,2026-08-19
+ctr_wb_1788428,1788428,awd_wb_1788428,,,Technical Officer - Health Management and Information Systems  ,signed,70914.18,USD,07/15/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,76064,2026-08-19
+ctr_wb_1788431,1788431,awd_wb_1788431,,,Prestar sus servicios personales como facilitador local para acompañar y apoyar los procesos orientados a la implementación de la forestería comunitaria con la participación y diálogo ,signed,2504.38,USD,07/23/2024,,,cat_wb_consultant_services,COL,src_worldbank_finances1,file_worldbank_ds00005_001,75155,2026-08-19
+ctr_wb_1788432,1788432,awd_wb_1788432,,,Training Officer and Grants Coordinator,signed,106404.01,USD,07/11/2024,,,cat_wb_consultant_services,,src_worldbank_finances1,file_worldbank_ds00005_001,76326,2026-08-19
+ctr_wb_1788439,1788439,awd_wb_1788439,,,Recrutement d'un consultant individuel community manager en vue de l'animation du site internet du PULCCA,signed,4984.63,USD,07/16/2024,,,cat_wb_consultant_services,CMR,src_worldbank_finances1,file_worldbank_ds00005_001,75866,2026-08-19
+ctr_wb_1788447,1788447,awd_wb_1788447,,,CIU Social Safeguards Specialist ,signed,177935.90,USD,07/19/2024,,,cat_wb_consultant_services,FSM,src_worldbank_finances1,file_worldbank_ds00005_001,75487,2026-08-19
+ctr_wb_1788448,1788448,awd_wb_1788448,,,TRP Reading Resources ,signed,81882.64,USD,07/22/2024,,,cat_wb_non_consulting_services,TUV,src_worldbank_finances1,file_worldbank_ds00005_001,75327,2026-08-19
+ctr_wb_1788452,1788452,awd_wb_1788452,,,Construction of new district health center in Kushoniyon Lot 3,signed,499886.38,USD,07/01/2024,,,cat_wb_works,TJK,src_worldbank_finances1,file_worldbank_ds00005_001,77647,2026-08-19
+ctr_wb_1788473,1788473,awd_wb_1788473,,,"Procurement of Hardware, Enterprise Resource Planning and Student Life Cycle System (ERP and SLCS)",signed,,,07/10/2024,,,cat_wb_goods,PAK,src_worldbank_finances1,file_worldbank_ds00005_001,76456,2026-08-19
+ctr_wb_1788475,1788475,awd_wb_1788475,,,The hiring of Quality Assurance,signed,1437.30,USD,07/22/2024,,,cat_wb_consultant_services,PAK,src_worldbank_finances1,file_worldbank_ds00005_001,75326,2026-08-19
+ctr_wb_1788476,1788476,awd_wb_1788476,,,"Bureau chargé de la conception, le développement et la mise en ligne (publication) d’un site web dynamique du PAFEN",signed,11132.45,USD,07/15/2024,,,cat_wb_consultant_services,BDI,src_worldbank_finances1,file_worldbank_ds00005_001,76063,2026-08-19
+ctr_wb_1788484,1788484,awd_wb_1788484,,,Contratação do Assistente de Monitoria e Avaliação da URIP4,signed,38400.00,USD,07/08/2024,,,cat_wb_consultant_services,AGO,src_worldbank_finances1,file_worldbank_ds00005_001,76711,2026-08-19
+ctr_wb_1788488,1788488,awd_wb_1788488,,,Contratação do Especialista de IT ,signed,48000.00,USD,07/09/2024,,,cat_wb_consultant_services,AGO,src_worldbank_finances1,file_worldbank_ds00005_001,76560,2026-08-19
+ctr_wb_1788500,1788500,awd_wb_1788500,,,Assistante Senior en Passation de Marchés,signed,42527.83,USD,07/22/2024,,,cat_wb_consultant_services,MDG,src_worldbank_finances1,file_worldbank_ds00005_001,75325,2026-08-19
+ctr_wb_1788542,1788542,awd_wb_1788542,,,New Communications and Learning Specialist,signed,3804.00,USD,07/23/2024,,,cat_wb_consultant_services,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,75154,2026-08-19
+ctr_wb_1788552,1788552,awd_wb_1788552,,,Contract for Procurement of ICT Equipment-SL FSRP,signed,67299.00,USD,07/21/2024,,,cat_wb_goods,,src_worldbank_finances1,file_worldbank_ds00005_001,75338,2026-08-19
+ctr_wb_1788579,1788579,awd_wb_1788579,,,Immediate Response to Supply Emergency Needs in the Water Sector to the Gaza Strip ,signed,7000434.00,USD,07/23/2024,,,cat_wb_goods,PSE,src_worldbank_finances1,file_worldbank_ds00005_001,75153,2026-08-19
+ctr_wb_1788592,1788592,awd_wb_1788592,,,“Procurement of medical equipment for the medical center of the training center in Karatag (LOT-1: Procurement of medical equipment; LOT-2: Procurement of an ambulance),signed,109646.85,USD,07/10/2024,,,cat_wb_goods,TJK,src_worldbank_finances1,file_worldbank_ds00005_001,76455,2026-08-19
+ctr_wb_1788595,1788595,awd_wb_1788595,,,Programs Coordinator,signed,52678.01,USD,07/21/2024,,,cat_wb_consultant_services,JOR,src_worldbank_finances1,file_worldbank_ds00005_001,75337,2026-08-19

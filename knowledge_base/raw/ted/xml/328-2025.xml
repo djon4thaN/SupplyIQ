@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="EUR">672535.31</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID>TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID>CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID>TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>3</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID>CON-0002</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="EUR">114160</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID>TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>OFFRE ALTERNET</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="EUR">558375.31</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID>TPA-0002</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>OFFRE ILAO/ALTERNET</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-10-18+02:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-10-18+02:00</cbc:IssueDate>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID>ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>CONTRAT LOT 1</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID>TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     <cbc:AwardDate>2024-10-18+02:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-10-18+02:00</cbc:IssueDate>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID>ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>CONTRAT LOT 2</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID>TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>OFFRE ALTERNET</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID>ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     <cbc:Name>ILAO / ALTERNET</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID>ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.marches-publics.gouv.fr</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Ministère de l'Intérieur et des Outre-mer 
+Secrétariat Général 
+Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier
+SAILMI/SDASEM/BAIP</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Paris cedex 08</cbc:CityName>
+                           <cbc:PostalZone>75800</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>11000201100044</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>(+33) 149274924</cbc:Telephone>
+                           <cbc:ElectronicMail>section-achats-immobiliers@interieur.gouv.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                     <efac:TouchPoint>
+                        <cbc:WebsiteURI>https://www.marches-publics.gouv.fr</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="touchpoint">TPO-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Bureau des achats immobiliers et prestations (BAIP)
+</cbc:Name>
+                        </cac:PartyName>
+                     </efac:TouchPoint>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">ALTERNET </cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Paris</cbc:CityName>
+                           <cbc:PostalZone>75013</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>38852584200075</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>alternet@alternet.net</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:ListedOnRegulatedMarketIndicator>true</efbc:ListedOnRegulatedMarketIndicator>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Groupement ILAO / ALTERNET</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>LAGORD </cbc:CityName>
+                           <cbc:PostalZone>17140</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>45158454400022</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>contact@ilao.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://paris.tribunaladministratif.fr</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Tribunal administratif de Paris</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>7 Rue de Jouy</cbc:StreetName>
+                           <cbc:CityName>Paris</cbc:CityName>
+                           <cbc:PostalZone>75004</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>177 500 055 00013</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>(+33) 186867575</cbc:Telephone>
+                           <cbc:ElectronicMail>greffe.taparis@juradm.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000328-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">431eabef-232a-488e-9f0f-eb9cb6683453</cbc:ID>
+   <cbc:ContractFolderID>f694d923-45b6-4a7c-9d6a-f88f0d2987f8</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31+02:00</cbc:IssueDate>
+   <cbc:IssueTime>11:47:58+02:00</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">FRA</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl-cga</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID>ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">restricted</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID>ee564e2b-1206-4c42-873f-410c098d1340-01</cbc:ID>
+      </cac:NoticeDocumentReference>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="FRA">Maîtrise d'oeuvre relative à la mise en conformité incendie de bâtiments de l'administration centrale du Ministère de l'Intérieur et des Outre-mer - sites Beauvau et Oudinot - Paris</cbc:Name>
+      <cbc:Description languageID="FRA">Le présent marché passé sous la forme d'un appel d'offres restreint à pour objet d'une part une mission de maîtrise d'oeuvre SSI et de coordination SSI des sites de l'administration centrale Beauvau à Paris 8ème  et d'autre part, une mission de maîtrise d'oeuvre TCE, OPC, et de préventionniste sur les sites de l'administration centrale de Beauvau et de Oudinot situés respectivement à Paris 8ème et Paris 7ème. Elle est décomposée en deux lots distincts.  </cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="FRA">Date de notification des deux lots : 9/12/2024.
+Le lot 1 comporte une clause de réexamen sur le forfait de maîtrise d'oeuvre (article 2194-1 du CCP).
+</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71315210</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:StreetName>Place Beauvau Paris 8ème et 27 rue Oudinot Paris 7ème </cbc:StreetName>
+            <cbc:CityName>Paris </cbc:CityName>
+            <cbc:PostalZone>75008</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="FRA">Les critères sont pondérés (cf. descriptif plus haut).</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Valeur technique 60 points
+La valeur technique est décomposée en deux sous-critères définis ci-après et sera notée sur 60 points :
+Critère N°1 : Méthodologie sur 40 points 
+- Le candidat détaillera sa méthodologie d'exécution des prestations dans le cadre particulier du marché en prenant en compte les différentes contraintes ; (site occupé/ Volume horaire : difficultés d'accès...) sur 8 points ;
+- La cohérence du calendrier prévisionnel d'exécution détaillant les différentes phases ; (SDI 2027) sur 8 points ;
+- Le mode opératoire pour la réalisation du projet sur 8 points ; 
+- La description du phasage-planning envisagé et de la chaine opératoire eu égard aux spécificités du marché sur 8 points ; 
+- Le suivi et la coordination de la prestation sur 8 points.
+Critère N°2 : Moyens dédiés au projet sur 20 points 
+- L'effectif global prévu pour la prestation et la composition de l'équipe ou des équipes constituées (nombre, qualité et expérience des personnels intervenants en précisant la spécialisation ou la polyvalence des équipes) sur 8 points ; 
+- Les qualifications des intervenants seront clairement identifiées (CV des intervenants à fournir) sur 8 points ; 
+- La description des moyens matériels affectés spécifiquement au projet sur 4 points. 
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Prix 40 points 
+Le prix qui fait l'objet de la notation est le montant de l'ensemble des éléments de mission confiés dans le présent marché (mission de base + autres éléments de mission) tel qu'il ressort de la décomposition du prix global et forfaitaire (DPGF) objet de l'annexe 1 à l'acte d'engagement, complétée par les soumissionnaires.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>TPO-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>TPO-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="FRA">les voies de recours ouvertes aux candidats sont les suivantes: -référé pré-contractuel, dans les conditions prévues aux articles L. 551-1 à L. 551-12 du Code de justice administrative (CJA), -Référé contractuel, dans les conditions prévues aux articles L. 551-13 à L. 551-23 du CJA et dans les délais prévus à l'article R. 551-7du CJA - à compter de la signature de l'accord-cadre, les tiers (dont les candidats évincés), pourront en outre introduire un recours de pleine juridiction dans les 2 mois suivant la date à laquelle la conclusion de l'accord-cadre aura fait l'objet des mesures de publicité appropriées par la diffusion d'un avis d'attribution au JOUE</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cac:SubsequentProcessTenderRequirement>
+               <cbc:Name>buyer-categories</cbc:Name>
+            </cac:SubsequentProcessTenderRequirement>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID>Lot 1 : Maîtrise d'oeuvre SSI (coordination des systèmes de Sécurité Incendie) pour le site de BEAUVAU</cbc:ID>
+         <cbc:Name languageID="FRA">Lot 1 : Maîtrise d'oeuvre SSI (coordination des systèmes de Sécurité Incendie) pour le site de BEAUVAU. </cbc:Name>
+         <cbc:Description languageID="FRA">Le lot n°1 concerne une mission de maîtrise d'oeuvre SSI (coordination des systèmes de Sécurité Incendie) pour le site de BEAUVAU situé Place BEAUVAU à Paris 8ème. La durée prévisionnelle de la phase étude est estimée à 5 mois et demi et la durée de la phase travaux est estimée à 11 mois (dont deux mois de préparation de chantier). L'enveloppe financière prévisionnelle affectée au travaux objet du lot n°1 par le maître d'ouvrage est de 1 040 050,00 euros HT.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="FRA">Pour le lot n°1, le marché a été attribué à la société ALTERNET pour un montant de 114 160,00 Euros HT soit 136 992,00 Euros TTC. 
+le lot 1 comporte une clause de réexamen (article 2194-1 du CCP). </cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71315210</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Place Beauvau </cbc:StreetName>
+               <cbc:CityName>Paris</cbc:CityName>
+               <cbc:PostalZone>75008</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="FRA">Les critères sont pondérés (cf. descriptif plus haut).</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Valeur technique sur 60 points
+La valeur technique est décomposée en deux sous-critères définis ci-après et sera notée sur 60 points :
+Critère N°1 : Méthodologie sur 40 points 
+- Le candidat détaillera sa méthodologie d'exécution des prestations dans le cadre particulier du marché en prenant en compte les différentes contraintes ; (site occupé/ Volume horaire : difficultés d'accès...) sur 8 points ;
+- La cohérence du calendrier prévisionnel d'exécution détaillant les différentes phases ; (SDI 2027) sur 8 points ;
+- Le mode opératoire pour la réalisation du projet sur 8 points ; 
+- La description du phasage-planning envisagé et de la chaine opératoire eu égard aux spécificités du marché sur 8 points ; 
+- Le suivi et la coordination de la prestation sur 8 points.
+Critère N°2 : Moyens dédiés au projet sur 20 points 
+- L'effectif global prévu pour la prestation et la composition de l'équipe ou des équipes constituées (nombre, qualité et expérience des personnels intervenants en précisant la spécialisation ou la polyvalence des équipes) sur 8 points ; 
+- Les qualifications des intervenants seront clairement identifiées (CV des intervenants à fournir) sur 8 points ; 
+- La description des moyens matériels affectés spécifiquement au projet sur 4 points. 
+</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Prix des prestations sur 40 points 
+Le prix qui fait l'objet de la notation est le montant de l'ensemble des éléments de mission confiés dans le présent marché (mission de base + autres éléments de mission) tel qu'il ressort de la décomposition du prix global et forfaitaire (DPGF) objet de l'annexe 1 à l'acte d'engagement, complétée par les soumissionnaires.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>TPO-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>TPO-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="FRA">Les voies de recours ouvertes aux candidats sont les suivantes: -référé pré-contractuel, dans les conditions prévues aux articles L. 551-1 à L. 551-12 du Code de justice administrative (CJA), -Référé contractuel, dans les conditions prévues aux articles L. 551-13 à L. 551-23 du CJA et dans les délais prévus à l'article R. 551-7du CJA - à compter de la signature de l'accord-cadre, les tiers (dont les candidats évincés), pourront en outre introduire un recours de pleine juridiction dans les 2 mois suivant la date à laquelle la conclusion de l'accord-cadre aura fait l'objet des mesures de publicité appropriées par la diffusion d'un avis d'attribution au JOUE</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cac:SubsequentProcessTenderRequirement>
+               <cbc:Name>buyer-categories</cbc:Name>
+            </cac:SubsequentProcessTenderRequirement>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID>Lot 2 : Maîtrise d'oeuvre TCE (Tout Corps d'Etat) pour le site de BEAUVAU et pour le site d'OUDINOT.</cbc:ID>
+         <cbc:Name languageID="FRA">Lot 2 : Maîtrise d'oeuvre TCE (Tout Corps d'État) pour le site de BEAUVAU et pour le site d'OUDINOT.</cbc:Name>
+         <cbc:Description languageID="FRA">Le lot n°2 concerne une mission de maîtrise d'oeuvre TCE (Tout Corps d'Etat) pour le site de BEAUVAU et pour le site d'OUDINOT. La durée prévisionnelle de la phase étude est estimée à 5 mois et demi et de la phase travaux est estimée à 27 mois (dont deux mois de préparation de chantier). L'enveloppe financière prévisionnelle affectée au travaux objet du lot n°2 par le maître d'ouvrage est de 7 077 620,00 euros HT.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="FRA">Pour le lot n°2, le marché a été attribué au groupement ILAO /ALTERNET pour un montant de 558 375,31 Euros HT soit 670 050,37 Euros TTC. </cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71200000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>27 rue Oudinot </cbc:StreetName>
+               <cbc:CityName>Paris</cbc:CityName>
+               <cbc:PostalZone>75007</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

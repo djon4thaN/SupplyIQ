@@ -1,0 +1,85 @@
+{
+  "phase": "D7",
+  "generated_at": "2026-08-19",
+  "status": "validated_with_gaps",
+  "checks_total": 15,
+  "checks_passed": 15,
+  "checks_failed": 0,
+  "checks": [
+    {
+      "check": "assessment rows",
+      "status": "pass",
+      "detail": "7"
+    },
+    {
+      "check": "decision recorded",
+      "status": "pass",
+      "detail": "include_controlled_subset"
+    },
+    {
+      "check": "official dataset URL",
+      "status": "pass",
+      "detail": "https://financesone.worldbank.org/contract-awards-in-investment-project-financing-since-fy-2020/DS00005"
+    },
+    {
+      "check": "license recorded",
+      "status": "pass",
+      "detail": "CC BY 4.0"
+    },
+    {
+      "check": "no World Bank raw rows",
+      "status": "pass",
+      "detail": "D7 is decision-only"
+    },
+    {
+      "check": "gap decision resolved",
+      "status": "pass",
+      "detail": "gap_0003"
+    },
+    {
+      "check": "ingestion gap opened",
+      "status": "pass",
+      "detail": "gap_0022"
+    },
+    {
+      "check": "CSV width world_bank_gap_assessment.csv",
+      "status": "pass",
+      "detail": "7 records"
+    },
+    {
+      "check": "CSV exact duplicates world_bank_gap_assessment.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV width source_decision_log.csv",
+      "status": "pass",
+      "detail": "1 records"
+    },
+    {
+      "check": "CSV exact duplicates source_decision_log.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV width sources.csv",
+      "status": "pass",
+      "detail": "3 records"
+    },
+    {
+      "check": "CSV exact duplicates sources.csv",
+      "status": "pass",
+      "detail": "0"
+    },
+    {
+      "check": "CSV width research_gaps.csv",
+      "status": "pass",
+      "detail": "21 records"
+    },
+    {
+      "check": "CSV exact duplicates research_gaps.csv",
+      "status": "pass",
+      "detail": "0"
+    }
+  ]
+}

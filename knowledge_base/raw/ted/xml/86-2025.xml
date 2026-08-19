@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">72755955</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0003</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">37431306.9</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Odbieranie odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie Miasta Łodzi w sektorach: Bałuty, Śródmieście i Widzew w okresie od 01.01.2025 r. do 30.06.2026 r.” - cz.1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">12716812.08</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Odbieranie odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie Miasta Łodzi w sektorach: Bałuty, Śródmieście i Widzew w okresie od 01.01.2025 r. do 30.06.2026 r.” - cz.2</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">28428312.42</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0003</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Odbieranie odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie Miasta Łodzi w sektorach: Bałuty, Śródmieście i Widzew w okresie od 01.01.2025 r. do 30.06.2026 r.” - cz.3</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-06+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-16+01:00</cbc:IssueDate>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>203/P/2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0002</cbc:ID>
+                     <cbc:AwardDate>2024-12-06+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-16+01:00</cbc:IssueDate>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>204/P/2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0002</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0003</cbc:ID>
+                     <cbc:AwardDate>2024-12-06+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-16+01:00</cbc:IssueDate>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>205/P/2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0003</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Remondis Sp. z o.o. -cz.1</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0002</cbc:ID>
+                     <cbc:Name>PreZero Service Centrum Sp. z o.o. - cz.2</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0003</cbc:ID>
+                     <cbc:Name>Remondis Sp. z o.o. -cz.3</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uml.lodz.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://www.uml.lodz.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Miasto Łódź-Urząd Miasta Łodzi</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Piotrkowska 104</cbc:StreetName>
+                           <cbc:Department>Wydział Zamówień Publicznych</cbc:Department>
+                           <cbc:CityName>Łódź</cbc:CityName>
+                           <cbc:PostalZone>90-926</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL711</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP 7250028902</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Wydział Zamówień Publicznych</cbc:Name>
+                           <cbc:Telephone>48426384888</cbc:Telephone>
+                           <cbc:ElectronicMail>zamowienia@uml.lodz.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://www.uzp.gov.pl/kio</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP 5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Sekretariat Biura Odwołań</cbc:Name>
+                           <cbc:Telephone>+48224587840</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.remondis-polska.pl/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Remondis Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Zawodzie 18</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-981</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>7280132515</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Remondis Sp. z o.o.</cbc:Name>
+                           <cbc:Telephone>+48 22 5930300</cbc:Telephone>
+                           <cbc:ElectronicMail>lodz@remondis.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://prezero.pl/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">PreZero Service Centrum Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Łąkoszyńska 127</cbc:StreetName>
+                           <cbc:CityName>Kutno</cbc:CityName>
+                           <cbc:PostalZone>99-300</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL712</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>7750000516</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>PreZero Service Centrum Sp. z o.o.</cbc:Name>
+                           <cbc:Telephone>+48 24 254 29 86</cbc:Telephone>
+                           <cbc:ElectronicMail>malgorzata.szwedowska@prezero.com</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000086-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">51caa8a7-8a89-4f5d-a0a6-df7e7f91fc3c</cbc:ID>
+   <cbc:ContractFolderID>a3643ac7-2ede-4dba-876b-6df7b7c83f9a</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>13:33:50Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">611474-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">DOM-WZP-III.271.29.2024</cbc:ID>
+      <cbc:Name languageID="POL">Odbieranie odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie Miasta Łodzi w sektorach: Bałuty, Śródmieście i Widzew w okresie od 01.01.2025 r. do 30.06.2026 r.</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest świadczenie przez Wykonawcę usługi polegającej na odbieraniu odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie miasta Łodzi w sektorach: Bałuty, Śródmieście i Widzew w okresie od 1 stycznia 2025 r. do 30 czerwca 2026 r. Nieruchomości objęte zamówieniem to: nieruchomości zabudowy jednorodzinnej - dla części, na których zamieszkują mieszkańcy; nieruchomości zabudowy wielolokalowej - dla części, na których zamieszkują mieszkańcy; nieruchomości zabudowy wielolokalowej mieszanej - dla części, na których zamieszkują mieszkańcy oraz dla części, na których nie zamieszkują mieszkańcy, a powstają odpady komunalne; nieruchomości, na których znajduje się domek letniskowy, lub inne nieruchomości wykorzystywane na cele rekreacyjno-wypoczynkowe. Rodzaje odbieranych odpadów komunalnych: - odpady mające wartość surowcową takie jak: papier, szkło, tworzywa sztuczne wraz z metalami i odpadami opakowaniowymi wielomateriałowymi: 15 01 01 opakowania z papieru i tektury, 15 01 02 opakowania z tworzyw sztucznych, 15 01 03 opakowania z drewna, 15 01 04 opakowania z metali, 15 01 05 opakowania wielomateriałowe, 15 01 07 opakowania ze szkła,  20 01 01 papier i tektura, 20 01 02 szkło, 20 01 39 tworzywa sztuczne, 20 01 40 metale, - bioodpady stanowiące odpady spożywcze i kuchenne z gospodarstw domowych, zwane odpadami kuchennymi: 20 01 08, - bioodpady stanowiące części roślin pochodzących z pielęgnacji terenów zielonych oraz ogrodów: (odpady zielone) 20 02 01, - meble i inne odpady wielkogabarytowe: 20 03 07 odpady wielkogabarytowe, - odpady resztkowe (pozostałe po segregacji) oraz odpady zmieszane: 20 03 01 niesegregowane (zmieszane) odpady komunalne, - odpady komunalne niewymienione w innych podgrupach: 20 03 99.
+Szczegółowy opis przedmiotu zamówienia znajduje się w Załączniku nr 1a, 1b, 1c do SWZ oraz we wzorze umowy (Załącznik nr 8a, 8b, 8c do SWZ).
+Zamawiający przewiduje możliwość udzielenia zamówienia polegającego na powtórzeniu podobnych usług na podstawie art. 214 ust. 1 pkt 7 ustawy Pzp o wartości do 50% wartości zamówienia podstawowego dla każdej części zamówienia. Zamówienie zostanie udzielone na podstawie negocjacji z dotychczasowym Wykonawcą, na warunkach określonych w umowie podstawowej.
+Zakres przewidywanych zamówień polegających na powtórzeniu podobnych usług: świadczenie usług polegających na odbieraniu odpadów komunalnych od właścicieli nieruchomości z sektora Bałuty, Śródmieście, Widzew.
+Wykonawca zobowiązany jest osobiście wykonywać kluczowe części Usługi, tj. usługi odbioru odpadów pozostałych po segregacji (resztkowych) oraz odbiór odpadów nieseregowanych (zmieszanych), zgodnie z § 9 ust. 1 wzoru umowy.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">(Numeracja zgodna z SWZ) 
+9.3	NA WEZWANIE ZAMAWIAJĄCEGO WYKONAWCA, którego oferta została najwyżej oceniona, jest zobowiązany do złożenia w wyznaczonym terminie, nie krótszym niż 10 dni, aktualnych na dzień złożenia, podmiotowych środków dowodowych tj.:
+9.3.1. W celu potwierdzenia spełniania przez Wykonawcę warunków udziału w postępowaniu dotyczących uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów Zamawiający żąda następujących dokumentów:
+9.3.1.1. wpisu do rejestru działalności regulowanej w zakresie odbioru odpadów od właścicieli nieruchomości, o którym mowa w art. 9b i następne ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399 z póżn. zm), prowadzonego przez właściwy organ administracji w zakresie objętym przedmiotem Umowy.
+9.3.1.2. wpisu do rejestru, o którym mowa w art. 50 ust. 1 pkt 5 lit. b ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587 z późn. zm).
+Zamawiający żąda odpowiedniego wpisu do rejestru działalności regulowanej, jeżeli jego posiadanie jest niezbędne do świadczenia określonych usług w kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania.
+9.3.2. W celu potwierdzenia spełniania przez Wykonawcę warunków udziału w postępowaniu dotyczących sytuacji ekonomicznej lub finansowej Zamawiający żąda następujących dokumentów:
+9.3.2.1. Informacji banku lub spółdzielczej kasy oszczędnościowo-kredytowej, potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową Wykonawcy, w okresie nie wcześniejszym niż 3 miesiące przed jej złożeniem.
+Jeżeli z uzasadnionej przyczyny Wykonawca nie może złożyć dokumentów dotyczących sytuacji finansowej lub ekonomicznej, wymaganych przez Zamawiającego, może złożyć inny dokument, który w wystarczający sposób potwierdza spełnianie opisanego przez Zamawiającego warunku udziału w postępowaniu.
+9.3.3. W celu potwierdzenia spełniania przez Wykonawcę warunków udziału w postępowaniu dotyczących zdolności technicznej lub zawodowej, Zamawiający żąda następujących dokumentów: 
+9.3.3.1. Wykaz usług (wg wzoru - Załącznik nr 6 do SWZ) wykonanych, a w przypadku świadczeń powtarzających się lub ciągłych również wykonywanych, w okresie ostatnich trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których usługi zostały wykonane lub są wykonywane oraz załączeniem dowodów określających czy te usługi zostały wykonane lub są wykonywane należycie, przy czym dowodami, o których mowa, są
+- referencje; 
+- bądź inne dokumenty sporządzone przez podmiot, na rzecz, którego usługi zostały wykonane lub są wykonywane;
+- a jeżeli Wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – oświadczenie wykonawcy.
+Uwaga:
+W przypadku świadczeń powtarzających się lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonywanie powinny by wystawione w okresie ostatnich 3 miesięcy przed upływem terminu składania ofert.
+9.3.3.2. Wykaz narzędzi i urządzeń (wg wzoru - Załącznik nr 7 do SWZ).
+9.3.4. W celu wykazania braku podstaw do wykluczenia z postępowania o udzielenie zamówienia Wykonawcy, Zamawiający żąda następujących dokumentów:
+9.3.4.1. Oświadczenia Wykonawcy w zakresie art. 108 ust. 1 pkt 5 ustawy Pzp, o braku przynależności do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (j.t. Dz. U. z 2021 r. poz. 275) z innym Wykonawcą, który złożył odrębną ofertę, ofertę częściową, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty niezależnie od innego Wykonawcy należącego do tej samej grupy kapitałowej – wzór oświadczenia stanowi Załącznik nr 11 do SWZ.
+9.3.4.2. Oświadczenia Wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa: 
+- w art. 125 ust. 1 ustawy Pzp (tj. w jednolitym dokumencie JEDZ) w zakresie odnoszącym się do podstaw wykluczenia wskazanych w art. 108 ust. 1 pkt 3 – 6 ustawy Pzp, 
+-  z art. 5k rozporządzenia 833/2014 w brzmieniu nadanym rozporządzeniem 2022/576 oraz art. 7 ust. 1 ustawy o szczególnych rozwiązaniach
+w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego.
+Wzór oświadczenia stanowi Załącznik nr 4a do SWZ. W przypadku wykonawców wspólnie ubiegających się o zamówienie oświadczenie Wykonawcy o aktualności informacji zawartych w JEDZ składa każdy z tych Wykonawców (dotyczy również wspólników spółki cywilnej). 
+W przypadku powoływania się przez Wykonawcę na zasoby innych podmiotów, oświadczenie o aktualności informacji zawartych w oświadczeniu, o których mowa w:
+- art. 125 ust. 1 ustawy Pzp (tj. w jednolitym dokumencie JEDZ) w zakresie odnoszącym się do podstaw wykluczenia wskazanych w art. 108 ust. 1 pkt 3 – 6 ustawy Pzp,
+- art. 5k rozporządzenia 833/2014 w brzmieniu nadanym rozporządzeniem 2022/576 oraz art. 7 ust. 1 ustawy o szczególnych rozwiązaniach 
+w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, składa również każdy z tych podmiotów - wzór Załącznik nr 4b do SWZ.
+9.3.4.3. Informacji z Krajowego Rejestru Karnego w zakresie dotyczącym podstaw wykluczenia określonych w art. 108 ust. 1 pkt 1, 2, 4 ustawy Pzp, sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem. 
+9.3.4.4. Informacji z Centralnego Rejestru Beneficjentów Rzeczywistych, w zakresie art. 108 ust. 2 ustawy Pzp, jeżeli odrębne przepisy wymagają wpisu do tego rejestru, sporządzoną nie wcześniej niż 3 miesiące przed jej złożeniem.
+9.2	Wykonawca wraz z ofertą zobowiązany jest złożyć, w celu wstępnego potwierdzenia, że nie podlega wykluczeniu oraz spełnia warunki udziału w postępowaniu:
+9.2.1 aktualne na dzień składania ofert oświadczenie dotyczące braku podstaw do wykluczenia z postępowania oraz spełniania warunków udziału w postępowaniu w formie Jednolitego Europejskiego Dokumentu Zamówienia (JEDZ/ESPD) – Załącznik nr 3 do SWZ (plik w formacie XML).
+9.2.2 Zobowiązania podmiotu udostępniającego swoje zasoby na potrzeby zamówienia Wykonawcy składającego ofertę, – (jeśli dotyczy) projekt zobowiązania stanowi Załącznik nr 9 do SWZ lub inny podmiotowy środek dowodowy potwierdzający, że Wykonawca realizując zamówienie będzie dysponował niezbędnymi zasobami tych podmiotów. 
+W celu oceny czy Wykonawca będzie dysponował niezbędnymi zasobami w stopniu umożliwiającym należyte wykonanie zamówienia publicznego oraz oceny czy stosunek łączący Wykonawcę z tymi podmiotami gwarantuje rzeczywisty dostęp do ich zasobów, ww. dokument winien określać w szczególności:
+9.2.2.1 zakres dostępnych Wykonawcy zasobów podmiotu udostępniającego zasoby;
+9.2.2.2 sposób i okres udostępnienia Wykonawcy i wykorzystania przez niego zasobów podmiotu udostępniającego te zasoby przy wykonywaniu zamówienia;
+9.2.2.3 czy i w jakim zakresie podmiot udostępniający zasoby, na zdolnościach którego wykonawca polega w odniesieniu do warunków udziału w postępowaniu dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia, zrealizuje roboty budowlane lub usługi, których wskazane zdolności dotyczą;
+9.2.3 Jeżeli zdolności techniczne lub zawodowe, sytuacja ekonomiczna lub finansowa podmiotu udostępniającego zasoby nie potwierdzają spełniania przez Wykonawcę warunków udziału w postępowaniu lub zachodzą, wobec tego podmiotu podstawy wykluczenia, Zamawiający żąda, aby Wykonawca w terminie określonym przez Zamawiającego zastąpił ten podmiot innym podmiotem lub podmiotami albo wykazał, że samodzielnie spełnia warunki udziału w postępowaniu. 
+9.2.4 Oświadczenie o podziale obowiązków w trakcie realizacji zamówienia – projekt oświadczenia stanowi Załącznik nr 10 do SWZ;
+9.2.5 Oświadczenie Wykonawcy dotyczące przesłanek wykluczenia z art. 5k rozporządzenia 833/2014 w brzmieniu nadanym rozporządzeniem 2022/576 oraz art. 7 ust. 1 ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego składane na podstawie art. 125 ust. 1 ustawy Pzp, zgodnie ze wzorem stanowiącym Załącznik nr 5a do SWZ. 
+W przypadku wykonawców wspólnie ubiegających się o zamówienie niniejsze oświadczenie składa każdy z tych Wykonawców (dotyczy również wspólników spółki cywilnej).
+9.2.6 Oświadczenie podmiotu udostępniającego zasoby dotyczące przesłanek wykluczenia z art. 5k rozporządzenia 833/2014 w brzmieniu nadanym rozporządzeniem 2022/576 oraz art. 7 ust. 1 ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego składane na podstawie art. 125 ust. 5 ustawy Pzp, zgodnie ze wzorem stanowiącym Załącznik nr 5b do SWZ.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL711</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Cena oferty brutto w PLN</cbc:Name>
+                  <cbc:Description languageID="POL">Cena oferty brutto w PLN (C) 60 % 60 punktów 
+W przypadku kryterium – Cena oferty brutto w PLN (C) oferta otrzyma zaokrągloną do dwóch miejsc po przecinku ilość punktów
+wynikającą z działania: Pi(C) = (Cmin / Ci) x 60 gdzie: Pi(C) Ilość punktów jakie otrzyma oferta badana za kryterium – cena oferty brutto w PLN Cmin Najniższa cena spośród wszystkich ofert niepodlegających odrzuceniu Ci Cena oferty badanej</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Aspekty ekologiczne (środowiskowe) - udział pojazdów spełniających wymagania minimum EURO 6</cbc:Name>
+                  <cbc:Description languageID="POL">Zasady oceny ofert wg kryterium – Aspekty ekologiczne (środowiskowe) - Udział pojazdów spełniających wymagania minimum EURO 6
+Zamawiający dokona oceny w ww. kryterium na podstawie oświadczenia Wykonawcy zawartego w pkt. 6 Formularza ofertowego
+Zamawiający przyzna punkty w ww. kryterium, jeśli Wykonawca zaoferuje:
+a) udział w przedmiocie zamówienia co najmniej 30 % pojazdów spełniających wymagania minimum EURO 6 - oferta otrzyma 10 punktów,
+b) udział w przedmiocie zamówienia co najmniej 40 % pojazdów spełniających wymagania minimum EURO 6 - oferta otrzyma 20 punktów.
+Uwagi:
+•	W przypadku udziału w przedmiocie zamówienia mniej niż 30 % pojazdów spełniających wymagania minimum EURO 6 oferta otrzyma 0 punktów w tym kryterium.
+•	Przez cały okres wykonywania zamówienia Wykonawca powinien dysponować pojazdami przeznaczonymi do odbioru odpadów komunalnych
+(z wyjątkiem pojazdów transportujących odpady na duże odległości), które spełniają normę emisji spalin EURO 6.
+•	Wskazane procentowe ilości winny być zgodne z informacjami, które będą podane w Wykazie narzędzi i urządzeń (Załącznik nr 7 do SWZ).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Aspekty innowacyjne - udział pojazdów wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu</cbc:Name>
+                  <cbc:Description languageID="POL">Zasady oceny ofert wg kryterium – Aspekty innowacyjne - udział pojazdów wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu (I) - (dla każdej z części zamówienia).
+Zamawiający dokona oceny w ww. kryterium na podstawie oświadczenia Wykonawcy zawartego w pkt. 7 Formularza ofertowego.
+Zamawiający przyzna punkty w ww. kryterium, jeśli Wykonawca zaoferuje:
+a)	udział w przedmiocie zamówienia co najmniej 60 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny - oferta otrzyma 20 punktów,
+b)	udział w przedmiocie zamówienia co najmniej 40 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny - oferta otrzyma 10 punktów.
+Uwagi:
+•	W przypadku udziału w przedmiocie zamówienia mniej niż 40 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny oferta otrzyma 0 punktów w tym kryterium.
+•	Wskazane procentowe ilości winny być zgodne z informacjami, które będą podane w Wykazie narzędzi i urządzeń (Załącznik nr 7 do SWZ).
+•	Wykonawca powinien posiadać przez cały okres wykonywania zamówienia procent pojazdów zgodny ze złożoną ofertą, przeznaczonych do odbioru odpadów komunalnych z funkcją kompaktującą (bezpylne), wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu, składający się z:
+a)	czterech wodoodpornych kamer lub aparatów cyfrowych. Dwie kamery lub aparaty umieszczone po bokach pojazdu w taki sposób by była widoczna posesja, z której następuje odbiór odpadów, jedna z  tyłu pojazdu umieszczona w taki sposób by była widoczna przestrzeń ładunkowa, jedna z przodu pojazdu obserwująca przestrzeń przed pojazdem.
+Parametry rozdzielczości zapisu kamer lub aparatów mają umożliwiać odczyt i prawidłowe rozpoznanie poszczególnych frakcji odpadów odbieranych od właścicieli nieruchomości, kamery lub aparaty z wbudowanym oświetlaczem podczerwieni,
+b)	rejestratora mobilnego z funkcją rejestracji i archiwizacji danych, umożliwiającego podłączenie co najmniej 4 kamer lub aparatów, wyposażonego w moduł GPS, posiadającego możliwość archiwizowania nagrań przez okres minimum 30 dni. Uruchomienie rejestracji musi nastąpić natychmiast po uruchomieniu się systemu operacyjnego. Rejestrator powinien być zabezpieczony przed odczytem oraz zmianą danych przez osoby nieuprawnione,
+c)	monitora umieszczonego w kabinie kierowcy, spełniającego również funkcję konsoli zarządzającej systemem po zalogowaniu przez administratora,
+d)	systemu umożliwiającego pobieranie przez Zamawiającego zarejestrowanego materiału oraz z możliwością podglądu online.
+Wykorzystywana cyfrowa rejestracja obrazu musi posiadać funkcję animizowania (zamazywania) twarzy ludzkich.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">(Numeracja zgodna z SWZ) 
+38. POUCZENIE O ŚRODKACH OCHRONY PRAWNEJ PRZYSŁUGUJĄCYCH WYKONAWCY
+38.1	Środki ochrony prawnej przysługują Wykonawcy, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy Pzp. 
+38.2	Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15 ustawy Pzp, oraz Rzecznikowi Małych i Średnich Przedsiębiorców. 
+38.3	W postępowaniu odwołanie przysługuje na: 
+38.3.1 niezgodną z przepisami ustawy Pzp czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy; 
+38.3.2 zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie ustawy Pzp; 
+38.4	Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. 
+38.5	Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać́ się̨ z jego treścią̨ przed upływem tego terminu. 
+38.6	Domniemywa się̨, że Zamawiający mógł zapoznać́ się̨ z treścią̨ odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej. 
+38.7	Odwołanie wnosi się w przypadku zamówień, których wartość jest równa albo przekracza progi unijne:
+38.7.1.	10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej; 
+38.7.2.	15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w pkt. 38.7.1 SWZ. 
+38.8	Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne. 
+38.9	Odwołanie w przypadkach innych niż określone w pkt. 38.7 i 38.8 SWZ wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne. 
+38.10	Jeżeli Zamawiający mimo takiego obowiązku nie przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty, odwołanie wnosi się nie później niż w terminie: 
+38.10.1.	30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia; 
+38.10.2.	6 miesięcy od dnia zawarcia umowy, jeżeli Zamawiający nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia. 
+38.11	Pisma w postępowaniu odwoławczym wnosi się w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej, z tym, że odwołanie i przystąpienie do postępowania odwoławczego, wniesione w postaci elektronicznej, wymagają opatrzenia podpisem zaufanym. 
+38.12	Pisma w formie pisemnej wnosi się za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe, osobiście, za pośrednictwem posłańca, a pisma w postaci elektronicznej wnosi się przy użyciu środków komunikacji elektronicznej. </cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">DOM-WZP-III.271.29.2024-część 1</cbc:ID>
+         <cbc:Name languageID="POL">Część 1 – Odbieranie odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie miasta Łodzi w sektorze Bałuty w okresie od 01.01.2025 r. do 30.06.2026 r.</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest świadczenie przez Wykonawcę usługi polegającej na odbieraniu odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie miasta Łodzi w sektorze Bałuty w okresie od 1 stycznia 2025 r. do 30 czerwca 2026 r. 
+Szczegółowy opis przedmiotu zamówienia znajduje się w Załączniku nr 1a do SWZ oraz we wzorze umowy (Załącznik nr 8a do SWZ).</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">(Numeracja zgodna z SWZ) 8.1	O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy spełniają następujące warunki udziału w postępowaniu dotyczące:
+8.1.1	zdolności do występowania w obrocie gospodarczym:
+Zamawiający nie precyzuje w tym zakresie żadnych wymagań, których spełnianie Wykonawca zobowiązany jest wykazać w sposób szczególny.
+8.1.2	uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów:
+8.1.2.1	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada wpis do rejestru działalności regulowanej w zakresie odbioru odpadów komunalnych od właścicieli nieruchomości, o którym mowa w art. 9b i następne ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399 z póżn. zm), prowadzony przez właściwy organ administracji w zakresie objętym przedmiotem Umowy,
+8.1.2.2	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada wpis do rejestru, o którym mowa w art. 50 ust. 1 pkt 5 lit. b ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587 z późn. zm.).
+8.1.3	sytuacji ekonomicznej lub finansowej:
+8.1.3.1	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada: środki finansowe lub zdolność kredytową:
+8.1.3.1.1	dla części 1: w wysokości co najmniej 1 200 000,00 PLN,
+8.1.4	zdolności technicznej lub zawodowej:
+8.1.4.1	Warunek zdolności technicznej zostanie uznany za spełniony, jeżeli Wykonawca wykaże, iż należycie wykonał lub wykonuje w okresie ostatnich trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie usługę/usługi (maksymalnie 3 dla każdej części) polegające na:
+8.1.4.1.1	Część 1: Odbiorze odpadów komunalnych o łącznej masie minimum 50 000 Mg, w ciągu kolejnych 12 miesięcy.
+8.1.4.2	Warunek zdolności zawodowej zostanie uznany za spełniony, jeżeli Wykonawca dysponuje lub będzie dysponował:
+8.1.4.2.1	Część 1: minimalną liczbą poszczególnych rodzajów pojazdów gwarantującą sprawną realizację przedmiotu zamówienia, to jest pojazdami:
+•	przystosowanymi do odbioru odpadów komunalnych z funkcją kompaktującą (bezpylne), o pojemności zabudowy co najmniej 15 m3 - minimum 14 sztuk oraz o pojemności zabudowy poniżej 15 m3 - minimum 1 sztuka,
+•	przystosowanymi do odbioru odpadów komunalnych zbieranych selektywnie – skrzyniowe (bez funkcji kompaktującej), o ładowności co najmniej 5 t - minimum 5 sztuk, w tym co najmniej 3 z dźwigiem do systemu HDS,
+•	do odbioru odpadów komunalnych z zabudową hakową lub bramową o pojemności kontenera min 7 m3  - minimum 4 sztuki, w tym co najmniej 2 z dźwigiem do systemu HDS,
+•	do odbioru z pojemników podziemnych z systemu HDS - minimum 1 sztuka,
+•	transportującymi odpady na duże odległości o pojemności co najmniej 36 m3 - minimum 2 sztuki.
+•	wyposażonymi w urządzenia do ważenia odpadów komunalnych - minimum 3 sztuki.
+Informacje dotyczące RODO zamieszczone są w pkt. 39 SWZ Podstawy wykluczenia. Szczegółowe informacje znajdują się SWZ.
+Korupcja Dotyczy art. 108 ust. 1 pkt 1) lit. c) ustawy Pzp Nadużycia Dotyczy art. 108 ust. 1 pkt 1) lit. g) ustawy Pzp Naruszenie obowiązków w dziedzinie prawa pracy Dotyczy art. 108 ust. 1 pkt. 1) lit. h) i pkt. 2) ustawy Pzp Naruszenie zobowiązania dotyczącego płatności składek na ubezpieczenia społeczne Dotyczy art. 108 ust. 1 pkt. 3) ustawy Pzp Naruszenie zobowiązania dotyczącego płatności podatków Dotyczy - art. 108 ust. 1 pkt. 3) ustawy Pzp Naruszenie zobowiązań wynikających wyłącznie z krajowych przesłanek wykluczenia art. 108 ust. 1 pkt 1) lit. g) i pkt 2 i pkt 4 ustawy Pzp Porozumienia z innymi wykonawcami mające na celu zakłócenie konkurencji Dotyczy art. 108 ust. 1 pkt 5) ustawy Pzp Praca dzieci i inne formy handlu ludźmi Dotyczy art. 108 ust. 1 pkt 1) lit. b), f) i h) ustawy Pzp Przestępstwa terrorystyczne lub przestępstwa związane z działalnością terrorystyczną Dotyczy art. 108 ust. 1 pkt 1) lit. d) i e) ustawy Pzp Udział w organizacji przestępczej Dotyczy art. 108 ust. 1 pkt 1) lit. a) ustawy Pzp Bezpośrednie lub pośrednie zaangażowanie w przygotowanie przedmiotowego postępowania o udzielenie zamówienia Dotyczy art. 108 ust. 1 pkt 6) ustawy Pzp.</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90511000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90513100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90512000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Miasto Łódź</cbc:StreetName>
+               <cbc:CityName>Miasto Łódź</cbc:CityName>
+               <cbc:PostalZone>91-222</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL711</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Cena oferty brutto w PLN</cbc:Name>
+                  <cbc:Description languageID="POL">Cena oferty brutto w PLN (C) 60 % 60 punktów 
+W przypadku kryterium – Cena oferty brutto w PLN (C) oferta otrzyma zaokrągloną do dwóch miejsc po przecinku ilość punktów
+wynikającą z działania: Pi(C) = (Cmin / Ci) x 60 gdzie: Pi(C) Ilość punktów jakie otrzyma oferta badana za kryterium – cena oferty brutto w PLN Cmin Najniższa cena spośród wszystkich ofert niepodlegających odrzuceniu Ci Cena oferty badanej</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Aspekty ekologiczne (środowiskowe) – udział pojazdów spełniających wymagania minimum EURO 6</cbc:Name>
+                  <cbc:Description languageID="POL">Zasady oceny ofert wg kryterium – Aspekty ekologiczne (środowiskowe) - Udział pojazdów spełniających wymagania minimum EURO 6
+Zamawiający dokona oceny w ww. kryterium na podstawie oświadczenia Wykonawcy zawartego w pkt. 6 Formularza ofertowego
+Zamawiający przyzna punkty w ww. kryterium, jeśli Wykonawca zaoferuje:
+a) udział w przedmiocie zamówienia co najmniej 30 % pojazdów spełniających wymagania minimum EURO 6 - oferta otrzyma 10 punktów,
+b) udział w przedmiocie zamówienia co najmniej 40 % pojazdów spełniających wymagania minimum EURO 6 - oferta otrzyma 20 punktów.
+Uwagi:
+•	W przypadku udziału w przedmiocie zamówienia mniej niż 30 % pojazdów spełniających wymagania minimum EURO 6 oferta otrzyma 0 punktów w tym kryterium.
+•	Przez cały okres wykonywania zamówienia Wykonawca powinien dysponować pojazdami przeznaczonymi do odbioru odpadów komunalnych
+(z wyjątkiem pojazdów transportujących odpady na duże odległości), które spełniają normę emisji spalin EURO 6.
+•	Wskazane procentowe ilości winny być zgodne z informacjami, które będą podane w Wykazie narzędzi i urządzeń (Załącznik nr 7 do SWZ).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Aspekty innowacyjne – udział pojazdów wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu </cbc:Name>
+                  <cbc:Description languageID="POL">Zasady oceny ofert wg kryterium – Aspekty innowacyjne - udział pojazdów wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu (I) - (dla każdej z części zamówienia).
+Zamawiający dokona oceny w ww. kryterium na podstawie oświadczenia Wykonawcy zawartego w pkt. 7 Formularza ofertowego.
+Zamawiający przyzna punkty w ww. kryterium, jeśli Wykonawca zaoferuje:
+a)	udział w przedmiocie zamówienia co najmniej 60 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny - oferta otrzyma 20 punktów,
+b)	udział w przedmiocie zamówienia co najmniej 40 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny - oferta otrzyma 10 punktów.
+Uwagi:
+•	W przypadku udziału w przedmiocie zamówienia mniej niż 40 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny oferta otrzyma 0 punktów w tym kryterium.
+•	Wskazane procentowe ilości winny być zgodne z informacjami, które będą podane w Wykazie narzędzi i urządzeń (Załącznik nr 7 do SWZ).
+•	Wykonawca powinien posiadać przez cały okres wykonywania zamówienia procent pojazdów zgodny ze złożoną ofertą, przeznaczonych do odbioru odpadów komunalnych z funkcją kompaktującą (bezpylne), wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu, składający się z:
+a)	czterech wodoodpornych kamer lub aparatów cyfrowych. Dwie kamery lub aparaty umieszczone po bokach pojazdu w taki sposób by była widoczna posesja, z której następuje odbiór odpadów, jedna z  tyłu pojazdu umieszczona w taki sposób by była widoczna przestrzeń ładunkowa, jedna z przodu pojazdu obserwująca przestrzeń przed pojazdem.
+Parametry rozdzielczości zapisu kamer lub aparatów mają umożliwiać odczyt i prawidłowe rozpoznanie poszczególnych frakcji odpadów odbieranych od właścicieli nieruchomości, kamery lub aparaty z wbudowanym oświetlaczem podczerwieni,
+b)	rejestratora mobilnego z funkcją rejestracji i archiwizacji danych, umożliwiającego podłączenie co najmniej 4 kamer lub aparatów, wyposażonego w moduł GPS, posiadającego możliwość archiwizowania nagrań przez okres minimum 30 dni. Uruchomienie rejestracji musi nastąpić natychmiast po uruchomieniu się systemu operacyjnego. Rejestrator powinien być zabezpieczony przed odczytem oraz zmianą danych przez osoby nieuprawnione,
+c)	monitora umieszczonego w kabinie kierowcy, spełniającego również funkcję konsoli zarządzającej systemem po zalogowaniu przez administratora,
+d)	systemu umożliwiającego pobieranie przez Zamawiającego zarejestrowanego materiału oraz z możliwością podglądu online.
+Wykorzystywana cyfrowa rejestracja obrazu musi posiadać funkcję animizowania (zamazywania) twarzy ludzkich.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">(Numeracja zgodna z SWZ) 
+38. POUCZENIE O ŚRODKACH OCHRONY PRAWNEJ PRZYSŁUGUJĄCYCH WYKONAWCY
+38.1	Środki ochrony prawnej przysługują Wykonawcy, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy Pzp. 
+38.2	Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15 ustawy Pzp, oraz Rzecznikowi Małych i Średnich Przedsiębiorców. 
+38.3	W postępowaniu odwołanie przysługuje na: 
+38.3.1 niezgodną z przepisami ustawy Pzp czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy; 
+38.3.2 zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie ustawy Pzp; 
+38.4	Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. 
+38.5	Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać́ się̨ z jego treścią̨ przed upływem tego terminu. 
+38.6	Domniemywa się̨, że Zamawiający mógł zapoznać́ się̨ z treścią̨ odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej. 
+38.7	Odwołanie wnosi się w przypadku zamówień, których wartość jest równa albo przekracza progi unijne:
+38.7.1.	10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej; 
+38.7.2.	15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w pkt. 38.7.1 SWZ. 
+38.8	Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne. 
+38.9	Odwołanie w przypadkach innych niż określone w pkt. 38.7 i 38.8 SWZ wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne. 
+38.10	Jeżeli Zamawiający mimo takiego obowiązku nie przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty, odwołanie wnosi się nie później niż w terminie: 
+38.10.1.	30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia; 
+38.10.2.	6 miesięcy od dnia zawarcia umowy, jeżeli Zamawiający nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia. 
+38.11	Pisma w postępowaniu odwoławczym wnosi się w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej, z tym, że odwołanie i przystąpienie do postępowania odwoławczego, wniesione w postaci elektronicznej, wymagają opatrzenia podpisem zaufanym. 
+38.12	Pisma w formie pisemnej wnosi się za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe, osobiście, za pośrednictwem posłańca, a pisma w postaci elektronicznej wnosi się przy użyciu środków komunikacji elektronicznej. </cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">DOM-WZP-III.271.29.2024-część 2</cbc:ID>
+         <cbc:Name languageID="POL">Część 2 – Odbieranie odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie miasta Łodzi w sektorze Śródmieście w okresie od 01.01.2025 r. do 30.06.2026 r.</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest świadczenie przez Wykonawcę usługi polegającej na odbieraniu odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie miasta Łodzi w sektorze Śródmieście w okresie od 1 stycznia 2025 r. do 30 czerwca 2026 r. 
+Szczegółowy opis przedmiotu zamówienia znajduje się w Załączniku nr 1b do SWZ oraz we wzorze umowy (Załącznik nr 8b do SWZ).</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">(Numeracja zgodna z SWZ) 8.1	O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy spełniają następujące warunki udziału w postępowaniu dotyczące:
+8.1.1	zdolności do występowania w obrocie gospodarczym:
+Zamawiający nie precyzuje w tym zakresie żadnych wymagań, których spełnianie Wykonawca zobowiązany jest wykazać w sposób szczególny.
+8.1.2	uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów:
+8.1.2.1	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada wpis do rejestru działalności regulowanej w zakresie odbioru odpadów komunalnych od właścicieli nieruchomości, o którym mowa w art. 9b i następne ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399 z póżn. zm), prowadzony przez właściwy organ administracji w zakresie objętym przedmiotem Umowy,
+8.1.2.2	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada wpis do rejestru, o którym mowa w art. 50 ust. 1 pkt 5 lit. b ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587 z późn. zm.).
+8.1.3	sytuacji ekonomicznej lub finansowej:
+8.1.3.1	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada: środki finansowe lub zdolność kredytową:
+8.1.3.1.2	dla części 2: w wysokości co najmniej 700 000,00 PLN,
+8.1.4	zdolności technicznej lub zawodowej:
+8.1.4.1	Warunek zdolności technicznej zostanie uznany za spełniony, jeżeli Wykonawca wykaże, iż należycie wykonał lub wykonuje w okresie ostatnich trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie usługę/usługi (maksymalnie 3 dla każdej części) polegające na:
+8.1.4.1.2	Część 2: Odbiorze odpadów komunalnych o łącznej masie minimum 16 000 Mg, w ciągu kolejnych 12 miesięcy,
+8.1.4.2	Warunek zdolności zawodowej zostanie uznany za spełniony, jeżeli Wykonawca dysponuje lub będzie dysponował:
+8.1.4.2.2	Część 2: minimalną liczbą poszczególnych rodzajów pojazdów gwarantującą sprawną realizację przedmiotu zamówienia, to jest pojazdami:
+•	przystosowanymi do odbioru odpadów komunalnych z funkcją kompaktującą (bezpylne), o pojemności zabudowy co najmniej 15 m3 - minimum 8 sztuk oraz o pojemności zabudowy poniżej 15 m3 - minimum 1 sztuka,
+•	przystosowanymi do odbioru odpadów komunalnych zbieranych selektywnie – skrzyniowe (bez funkcji kompaktującej), o ładowności co najmniej 5 t - minimum 4 sztuki, w tym co najmniej 3 z dźwigiem do systemu HDS,
+•	do odbioru odpadów komunalnych z zabudową hakową lub bramową o pojemności kontenera min 7 m3  - minimum 4 sztuki, w tym co najmniej 2 z dźwigiem do systemu HDS,
+•	do odbioru z pojemników podziemnych z systemu HDS - minimum 1 sztuka,
+•	transportującymi odpady na duże odległości o pojemności co najmniej 36 m3 - minimum 2 sztuki.
+•	wyposażonymi w urządzenia do ważenia odpadów komunalnych - minimum 3 sztuki.
+Informacje dotyczące RODO zamieszczone są w pkt. 39 SWZ Podstawy wykluczenia. Szczegółowe informacje znajdują się SWZ.
+Korupcja Dotyczy art. 108 ust. 1 pkt 1) lit. c) ustawy Pzp Nadużycia Dotyczy art. 108 ust. 1 pkt 1) lit. g) ustawy Pzp Naruszenie obowiązków w dziedzinie prawa pracy Dotyczy art. 108 ust. 1 pkt. 1) lit. h) i pkt. 2) ustawy Pzp Naruszenie zobowiązania dotyczącego płatności składek na ubezpieczenia społeczne Dotyczy art. 108 ust. 1 pkt. 3) ustawy Pzp Naruszenie zobowiązania dotyczącego płatności podatków Dotyczy - art. 108 ust. 1 pkt. 3) ustawy Pzp Naruszenie zobowiązań wynikających wyłącznie z krajowych przesłanek wykluczenia art. 108 ust. 1 pkt 1) lit. g) i pkt 2 i pkt 4 ustawy Pzp Porozumienia z innymi wykonawcami mające na celu zakłócenie konkurencji Dotyczy art. 108 ust. 1 pkt 5) ustawy Pzp Praca dzieci i inne formy handlu ludźmi Dotyczy art. 108 ust. 1 pkt 1) lit. b), f) i h) ustawy Pzp Przestępstwa terrorystyczne lub przestępstwa związane z działalnością terrorystyczną Dotyczy art. 108 ust. 1 pkt 1) lit. d) i e) ustawy Pzp Udział w organizacji przestępczej Dotyczy art. 108 ust. 1 pkt 1) lit. a) ustawy Pzp Bezpośrednie lub pośrednie zaangażowanie w przygotowanie przedmiotowego postępowania o udzielenie zamówienia Dotyczy art. 108 ust. 1 pkt 6) ustawy Pzp.</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90511000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90513100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90512000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Miasto Łódź</cbc:StreetName>
+               <cbc:CityName>Miasto Łódź</cbc:CityName>
+               <cbc:PostalZone>91-065</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL711</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Cena oferty brutto w PLN</cbc:Name>
+                  <cbc:Description languageID="POL">Cena oferty brutto w PLN (C) 60 % 60 punktów 
+W przypadku kryterium – Cena oferty brutto w PLN (C) oferta otrzyma zaokrągloną do dwóch miejsc po przecinku ilość punktów
+wynikającą z działania: Pi(C) = (Cmin / Ci) x 60 gdzie: Pi(C) Ilość punktów jakie otrzyma oferta badana za kryterium – cena oferty brutto w PLN Cmin Najniższa cena spośród wszystkich ofert niepodlegających odrzuceniu Ci Cena oferty badanej</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Aspekty ekologiczne (środowiskowe) – udział pojazdów spełniających wymagania minimum EURO 6 </cbc:Name>
+                  <cbc:Description languageID="POL">Zasady oceny ofert wg kryterium – Aspekty ekologiczne (środowiskowe) - Udział pojazdów spełniających wymagania minimum EURO 6
+Zamawiający dokona oceny w ww. kryterium na podstawie oświadczenia Wykonawcy zawartego w pkt. 6 Formularza ofertowego
+Zamawiający przyzna punkty w ww. kryterium, jeśli Wykonawca zaoferuje:
+a) udział w przedmiocie zamówienia co najmniej 30 % pojazdów spełniających wymagania minimum EURO 6 - oferta otrzyma 10 punktów,
+b) udział w przedmiocie zamówienia co najmniej 40 % pojazdów spełniających wymagania minimum EURO 6 - oferta otrzyma 20 punktów.
+Uwagi:
+•	W przypadku udziału w przedmiocie zamówienia mniej niż 30 % pojazdów spełniających wymagania minimum EURO 6 oferta otrzyma 0 punktów w tym kryterium.
+•	Przez cały okres wykonywania zamówienia Wykonawca powinien dysponować pojazdami przeznaczonymi do odbioru odpadów komunalnych
+(z wyjątkiem pojazdów transportujących odpady na duże odległości), które spełniają normę emisji spalin EURO 6.
+•	Wskazane procentowe ilości winny być zgodne z informacjami, które będą podane w Wykazie narzędzi i urządzeń (Załącznik nr 7 do SWZ).</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Aspekty innowacyjne – udział pojazdów wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu</cbc:Name>
+                  <cbc:Description languageID="POL">Zasady oceny ofert wg kryterium – Aspekty innowacyjne - udział pojazdów wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu (I) - (dla każdej z części zamówienia).
+Zamawiający dokona oceny w ww. kryterium na podstawie oświadczenia Wykonawcy zawartego w pkt. 7 Formularza ofertowego.
+Zamawiający przyzna punkty w ww. kryterium, jeśli Wykonawca zaoferuje:
+a)	udział w przedmiocie zamówienia co najmniej 60 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny - oferta otrzyma 20 punktów,
+b)	udział w przedmiocie zamówienia co najmniej 40 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny - oferta otrzyma 10 punktów.
+Uwagi:
+•	W przypadku udziału w przedmiocie zamówienia mniej niż 40 % pojazdów przeznaczonych do odbioru odpadów komunalnych spełniających aspekt innowacyjny oferta otrzyma 0 punktów w tym kryterium.
+•	Wskazane procentowe ilości winny być zgodne z informacjami, które będą podane w Wykazie narzędzi i urządzeń (Załącznik nr 7 do SWZ).
+•	Wykonawca powinien posiadać przez cały okres wykonywania zamówienia procent pojazdów zgodny ze złożoną ofertą, przeznaczonych do odbioru odpadów komunalnych z funkcją kompaktującą (bezpylne), wyposażonych w system monitoringu wizyjnego pojazdu z cyfrową rejestracją obrazu, składający się z:
+a)	czterech wodoodpornych kamer lub aparatów cyfrowych. Dwie kamery lub aparaty umieszczone po bokach pojazdu w taki sposób by była widoczna posesja, z której następuje odbiór odpadów, jedna z  tyłu pojazdu umieszczona w taki sposób by była widoczna przestrzeń ładunkowa, jedna z przodu pojazdu obserwująca przestrzeń przed pojazdem.
+Parametry rozdzielczości zapisu kamer lub aparatów mają umożliwiać odczyt i prawidłowe rozpoznanie poszczególnych frakcji odpadów odbieranych od właścicieli nieruchomości, kamery lub aparaty z wbudowanym oświetlaczem podczerwieni,
+b)	rejestratora mobilnego z funkcją rejestracji i archiwizacji danych, umożliwiającego podłączenie co najmniej 4 kamer lub aparatów, wyposażonego w moduł GPS, posiadającego możliwość archiwizowania nagrań przez okres minimum 30 dni. Uruchomienie rejestracji musi nastąpić natychmiast po uruchomieniu się systemu operacyjnego. Rejestrator powinien być zabezpieczony przed odczytem oraz zmianą danych przez osoby nieuprawnione,
+c)	monitora umieszczonego w kabinie kierowcy, spełniającego również funkcję konsoli zarządzającej systemem po zalogowaniu przez administratora,
+d)	systemu umożliwiającego pobieranie przez Zamawiającego zarejestrowanego materiału oraz z możliwością podglądu online.
+Wykorzystywana cyfrowa rejestracja obrazu musi posiadać funkcję animizowania (zamazywania) twarzy ludzkich.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">(Numeracja zgodna z SWZ) 
+38. POUCZENIE O ŚRODKACH OCHRONY PRAWNEJ PRZYSŁUGUJĄCYCH WYKONAWCY
+38.1	Środki ochrony prawnej przysługują Wykonawcy, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy Pzp. 
+38.2	Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15 ustawy Pzp, oraz Rzecznikowi Małych i Średnich Przedsiębiorców. 
+38.3	W postępowaniu odwołanie przysługuje na: 
+38.3.1 niezgodną z przepisami ustawy Pzp czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy; 
+38.3.2 zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie ustawy Pzp; 
+38.4	Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. 
+38.5	Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać́ się̨ z jego treścią̨ przed upływem tego terminu. 
+38.6	Domniemywa się̨, że Zamawiający mógł zapoznać́ się̨ z treścią̨ odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej. 
+38.7	Odwołanie wnosi się w przypadku zamówień, których wartość jest równa albo przekracza progi unijne:
+38.7.1.	10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej; 
+38.7.2.	15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w pkt. 38.7.1 SWZ. 
+38.8	Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne. 
+38.9	Odwołanie w przypadkach innych niż określone w pkt. 38.7 i 38.8 SWZ wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne. 
+38.10	Jeżeli Zamawiający mimo takiego obowiązku nie przesłał Wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty, odwołanie wnosi się nie później niż w terminie: 
+38.10.1.	30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia; 
+38.10.2.	6 miesięcy od dnia zawarcia umowy, jeżeli Zamawiający nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia. 
+38.11	Pisma w postępowaniu odwoławczym wnosi się w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej, z tym, że odwołanie i przystąpienie do postępowania odwoławczego, wniesione w postaci elektronicznej, wymagają opatrzenia podpisem zaufanym. 
+38.12	Pisma w formie pisemnej wnosi się za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe, osobiście, za pośrednictwem posłańca, a pisma w postaci elektronicznej wnosi się przy użyciu środków komunikacji elektronicznej. </cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">DOM-WZP-III.271.29.2024-część 3</cbc:ID>
+         <cbc:Name languageID="POL">Część 3 – Odbieranie odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie miasta Łodzi w sektorze Widzew w okresie od 01.01.2025 r. do 30.06.2026 r.</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest świadczenie przez Wykonawcę usługi polegającej na odbieraniu odpadów komunalnych od właścicieli nieruchomości znajdujących się na terenie miasta Łodzi w sektorze Widzew w okresie od 1 stycznia 2025 r. do 30 czerwca 2026 r. 
+Szczegółowy opis przedmiotu zamówienia znajduje się w Załączniku nr 1c do SWZ oraz we wzorze umowy (Załącznik nr 8c do SWZ).</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">(Numeracja zgodna z SWZ) 8.1	O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy spełniają następujące warunki udziału w postępowaniu dotyczące:
+8.1.1	zdolności do występowania w obrocie gospodarczym:
+Zamawiający nie precyzuje w tym zakresie żadnych wymagań, których spełnianie Wykonawca zobowiązany jest wykazać w sposób szczególny.
+8.1.2	uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów:
+8.1.2.1	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada wpis do rejestru działalności regulowanej w zakresie odbioru odpadów komunalnych od właścicieli nieruchomości, o którym mowa w art. 9b i następne ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399 z póżn. zm), prowadzony przez właściwy organ administracji w zakresie objętym przedmiotem Umowy,
+8.1.2.2	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada wpis do rejestru, o którym mowa w art. 50 ust. 1 pkt 5 lit. b ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587 z późn. zm.).
+8.1.3	sytuacji ekonomicznej lub finansowej:
+8.1.3.1	Warunek zostanie uznany za spełniony, jeżeli Wykonawca posiada: środki finansowe lub zdolność kredytową:
+8.1.3.1.3	dla części 3: w wysokości co najmniej 1 000 000,00 PLN.
+8.1.4	zdolności technicznej lub zawodowej:
+8.1.4.1	Warunek zdolności technicznej zostanie uznany za spełniony, jeżeli Wykonawca wykaże, iż należycie wykonał lub wykonuje w okresie ostatnich trzech lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie usługę/usługi (maksymalnie 3 dla każdej części) polegające na:
+8.1.4.1.3	Część 3: Odbiorze odpadów komunalnych o łącznej masie minimum 35 000 Mg, w ciągu kolejnych 12 miesięcy.
+8.1.4.2	Warunek zdolności zawodowej zostanie uznany za spełniony, jeżeli Wykonawca dysponuje lub będzie dysponował:
+8.1.4.2.3	Część 3: minimalną liczbą poszczególnych rodzajów pojazdów gwarantującą sprawną realizację przedmiotu zamówienia, to jest pojazdami:
+•	przystosowanymi do odbioru odpadów komunalnych z funkcją kompaktującą (bezpylne), o pojemności zabudowy co najmniej 15 m3 - minimum 10 sztuk oraz o pojemności zabudowy poniżej 15 m3 - minimum 1 sztuka,
+•	przystosowanymi do odbioru odpadów komunalnych zbieranych selektywnie – skrzyniowe (bez funkcji kompaktującej), o ładowności co najmniej 5 t - minimum 4 sztuki, w tym co najmniej 3 z dźwigiem do systemu HDS,
+•	do odbioru odpadów komunalnych z zabudową hakową lub bramową o pojemności kontenera min 7 m3  - minimum 4 sztuki, w tym co najmniej 2 z dźwigiem do systemu HDS,
+•	do odbioru z pojemników podziemnych z systemu HDS - minimum 1 sztuka,
+•	transportującymi odpady na duże odległości o pojemności co najmniej 36 m3 - minimum 2 sztuki.
+•	wyposażonymi w urządzenia do ważenia odpadów komunalnych - minimum 3 sztuki.
+Informacje dotyczące RODO zamieszczone są w pkt. 39 SWZ Podstawy wykluczenia. Szczegółowe informacje znajdują się SWZ.
+Korupcja Dotyczy art. 108 ust. 1 pkt 1) lit. c) ustawy Pzp Nadużycia Dotyczy art. 108 ust. 1 pkt 1) lit. g) ustawy Pzp Naruszenie obowiązków w dziedzinie prawa pracy Dotyczy art. 108 ust. 1 pkt. 1) lit. h) i pkt. 2) ustawy Pzp Naruszenie zobowiązania dotyczącego płatności składek na ubezpieczenia społeczne Dotyczy art. 108 ust. 1 pkt. 3) ustawy Pzp Naruszenie zobowiązania dotyczącego płatności podatków Dotyczy - art. 108 ust. 1 pkt. 3) ustawy Pzp Naruszenie zobowiązań wynikających wyłącznie z krajowych przesłanek wykluczenia art. 108 ust. 1 pkt 1) lit. g) i pkt 2 i pkt 4 ustawy Pzp Porozumienia z innymi wykonawcami mające na celu zakłócenie konkurencji Dotyczy art. 108 ust. 1 pkt 5) ustawy Pzp Praca dzieci i inne formy handlu ludźmi Dotyczy art. 108 ust. 1 pkt 1) lit. b), f) i h) ustawy Pzp Przestępstwa terrorystyczne lub przestępstwa związane z działalnością terrorystyczną Dotyczy art. 108 ust. 1 pkt 1) lit. d) i e) ustawy Pzp Udział w organizacji przestępczej Dotyczy art. 108 ust. 1 pkt 1) lit. a) ustawy Pzp Bezpośrednie lub pośrednie zaangażowanie w przygotowanie przedmiotowego postępowania o udzielenie zamówienia Dotyczy art. 108 ust. 1 pkt 6) ustawy Pzp.</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90511000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90533000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90513100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90512000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Miasto Łódź</cbc:StreetName>
+               <cbc:CityName>Miasto Łódź</cbc:CityName>
+               <cbc:PostalZone>90-232</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL711</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

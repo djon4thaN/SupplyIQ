@@ -1,0 +1,27 @@
+entity_level,source_file,value_field,currency_code,total_records,populated_values,coverage_pct,minimum,q1,median,q3,maximum,zero_count,negative_count,currency_valid,aggregation_rule
+procedure,procurement_procedures.csv,estimated_value,BGN,274,9,3.28,23346.95,55867.220000,71750.00,1896000.00,11966447.00,0,0,true,Do not aggregate across entity levels or currencies.
+procedure,procurement_procedures.csv,estimated_value,CZK,274,4,1.46,330578,36564519.5,50354307.5,53640756.25,58364680,0,0,true,Do not aggregate across entity levels or currencies.
+procedure,procurement_procedures.csv,estimated_value,EUR,274,56,20.44,0.10,114177.7050,335000.0000,1146051,23448062.10,0,0,true,Do not aggregate across entity levels or currencies.
+procedure,procurement_procedures.csv,estimated_value,HUF,274,2,0.73,191368266.00,,194008048.00,,196647830.00,0,0,true,Do not aggregate across entity levels or currencies.
+procedure,procurement_procedures.csv,estimated_value,PLN,274,11,4.01,720268.7,1247508.335,2031756.33,3433755.87,26221163.78,0,0,true,Do not aggregate across entity levels or currencies.
+procedure,procurement_procedures.csv,estimated_value,SEK,274,1,0.36,100000000,,100000000,,100000000,0,0,true,Do not aggregate across entity levels or currencies.
+lot,procurement_lots.csv,estimated_value,BGN,846,14,1.65,39.00,3900.000000,35218.610000,967750.00,4045333.33,0,0,true,Do not aggregate across entity levels or currencies.
+lot,procurement_lots.csv,estimated_value,CZK,846,6,0.71,330578,2432500,25566250,50757711.25,58364680,0,0,true,Do not aggregate across entity levels or currencies.
+lot,procurement_lots.csv,estimated_value,EUR,846,83,9.81,0.01,33910.0000,165289.26,840900.00,7800000,0,0,true,Do not aggregate across entity levels or currencies.
+lot,procurement_lots.csv,estimated_value,HUF,846,7,0.83,24128013.00,34944564.00,46200000.00,72584133.00,102630689.00,0,0,true,Do not aggregate across entity levels or currencies.
+lot,procurement_lots.csv,estimated_value,PLN,846,46,5.44,2161.73,32949,115437.96,418530.1775,8983455,0,0,true,Do not aggregate across entity levels or currencies.
+lot,procurement_lots.csv,estimated_value,SEK,846,1,0.12,100000000,,100000000,,100000000,0,0,true,Do not aggregate across entity levels or currencies.
+award,procurement_awards.csv,award_value,BGN,849,11,1.30,515.000000,7300.000000,22998.75,948000.00,3173650.00,0,0,true,Do not aggregate across entity levels or currencies.
+award,procurement_awards.csv,award_value,CHF,849,4,0.47,115475.1,679051.275,1201313.855,1643283.5325,1965981.0,0,0,true,Do not aggregate across entity levels or currencies.
+award,procurement_awards.csv,award_value,CZK,849,4,0.47,319900,2942952.25,30627151.5,57668920,58364680,0,0,true,Do not aggregate across entity levels or currencies.
+award,procurement_awards.csv,award_value,EUR,849,188,22.14,0,40469.1450,189407,462711.75,17195913.34,1,0,true,Do not aggregate across entity levels or currencies.
+award,procurement_awards.csv,award_value,HUF,849,12,1.41,1248000.00,9820875.00,32279368.00,66254437.50,150000000.00,0,0,true,Do not aggregate across entity levels or currencies.
+award,procurement_awards.csv,award_value,PLN,849,348,40.99,40,51111.6,158184.9,610242,3236069080,0,0,true,Do not aggregate across entity levels or currencies.
+award,procurement_awards.csv,award_value,RON,849,103,12.13,292.5,37534.5,165088.98,622990.6,8330617.65,0,0,true,Do not aggregate across entity levels or currencies.
+award_supplier,award_suppliers.csv,awarded_value,BGN,783,11,1.40,515.000000,7300.000000,22998.75,948000.00,3173650.00,0,0,true,Do not aggregate across entity levels or currencies.
+award_supplier,award_suppliers.csv,awarded_value,CHF,783,4,0.51,115475.1,679051.275,1201313.855,1643283.5325,1965981.0,0,0,true,Do not aggregate across entity levels or currencies.
+award_supplier,award_suppliers.csv,awarded_value,CZK,783,4,0.51,319900,2942952.25,30627151.5,57668920,58364680,0,0,true,Do not aggregate across entity levels or currencies.
+award_supplier,award_suppliers.csv,awarded_value,EUR,783,216,27.59,0,56180.75,222269.55,567004.25,17195913.34,1,0,true,Do not aggregate across entity levels or currencies.
+award_supplier,award_suppliers.csv,awarded_value,HUF,783,12,1.53,1248000.00,9820875.00,32279368.00,66254437.50,150000000.00,0,0,true,Do not aggregate across entity levels or currencies.
+award_supplier,award_suppliers.csv,awarded_value,PLN,783,375,47.89,40,53232.75,158500,658749.7,3236069080,0,0,true,Do not aggregate across entity levels or currencies.
+award_supplier,award_suppliers.csv,awarded_value,RON,783,103,13.15,292.5,37534.5,165088.98,622990.6,8330617.65,0,0,true,Do not aggregate across entity levels or currencies.

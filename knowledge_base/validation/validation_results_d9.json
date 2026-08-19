@@ -1,0 +1,14 @@
+{
+  "phase": "D9",
+  "status": "validated",
+  "checks": {
+    "two_normalized_pdfs_present": true,
+    "pdfinfo_open": true,
+    "searchable_text": true,
+    "rendered_all_pages": true,
+    "document_index_linked": true,
+    "paraphrase_controls_logged": true
+  },
+  "passed": 6,
+  "total": 6
+}

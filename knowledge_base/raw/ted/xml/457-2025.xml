@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">2672683.3</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">2672683.3</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:IssueDate>2024-12-23+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>PPZP.272.49.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.bip.ropczyce.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://platformazakupowa.pl/pn/ropczyce</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Ropczyce</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Krisego 1</cbc:StreetName>
+                           <cbc:CityName>Ropczyce</cbc:CityName>
+                           <cbc:PostalZone>39-100</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>8181581908</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Referat Programów Pomocowych i Zamówień Publicznych</cbc:Name>
+                           <cbc:Telephone>17 2210510</cbc:Telephone>
+                           <cbc:ElectronicMail>woskom@ropczyce.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://epuap.gov.pl/wps/portal/strefa-klienta/katalog-spraw/opis-uslugi/odwolanie-do-krajowej-izby-odwolawczej/UZP</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul.Postępu 17A</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Sekretariat Biura Odwołań</cbc:Name>
+                           <cbc:Telephone>(22) 458 78 01</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Bank Spółdzielczy w Ropczycach</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Rynek 13</cbc:StreetName>
+                           <cbc:CityName>Ropczyce</cbc:CityName>
+                           <cbc:PostalZone>39-100</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>8180002340</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>sekretariat@bsropczyce.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000457-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">14cda88a-d258-482c-990a-f3dda50ecbc2</cbc:ID>
+   <cbc:ContractFolderID>a31313bc-b007-4a4b-aea0-0215e99d6d87</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>09:08:32Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://platformazakupowa.pl/pn/ropczyce</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">649671-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">PPZP.272.29.2024</cbc:ID>
+      <cbc:Name languageID="POL">Udzielenie kredytu długoterminowego w kwocie 5 535 065,00 zł na spłatę wcześniej zaciągniętych zobowiązań Gminy Ropczyce</cbc:Name>
+      <cbc:Description languageID="POL">1. Przedmiotem zamówienia jest: usługa udzielenia kredytu długoterminowego w wysokości 5 535 065, 00 - zł (słownie: pięć milionów pięćset trzydzieści pięć tysięcy sześćdziesiąt pięć złotych 00/100), zaciąganego na spłatę wcześniej zaciągniętych zobowiązań Gminy Ropczyce. 
+2. Kredyt winien być dostępny w jednej transzy od dnia następnego od daty podpisania umowy do 31.12.2024 r.
+3. Spłata kredytu nastąpi w terminie: od 01.01.2025 r. do 31.12.2034 r. (okres 120 miesięcy).
+1)	do 31.12.2025 r. –    100 000,00 zł,
+2)	do 31.12.2026r. –      100 000,00 zł,
+3)	do 31.12.2027 r. –    100 000,00 zł,
+4)	do 31.12.2028 r. –     100 000,00 zł,
+5)	do 31.12.2029 r. –      100 000,00 zł,
+6)	do 31.12.2030 r. –     400 000,00 zł,
+7)	do 31.12.2031 r. –     500 000,00 zł,
+8)	do 31.12.2032 r.  -   1 300 000,00 zł,
+9)	do 31.12.2033 r. –   1 500 000,00 zł,
+10)	do 31.12.2034 r.  -  1 335 065,00 zł,
+4. Okres karencji w spłacie kredytu obejmuje czas od daty podpisania umowy do 31.12.2024 r.
+5. Spłata odsetek od poszczególnych transz kredytu nastąpi w ratach miesięcznych, licząc od następnego miesiąca po miesiącu, w którym transza zostanie uruchomiona.
+6. Zabezpieczeniem kredytu będzie weksel in blanco wraz z deklaracją wekslową.
+7. Oprocentowanie będzie zmienne ustalone w oparciu o stawkę bazową – WIBOR 1M, notowany na dzień ostatniego dnia roboczego miesiąca poprzedzającego miesiąc obrachunkowy (w zaokrągleniu do dwóch miejsc po przecinku).
+8. Stała marża banku (określona w załączniku nr 1 do SIWZ), nie podlegająca zmianie przez cały okres wykonania zamówienia.
+9. Ponadto do wyliczenia ceny w ofercie należy przyjąć:
+1)	że kredyt będzie wykorzystany w całości przez Zamawiającego w dniu 31.12.2024 r.,
+2)	że bieg odsetek rozpoczyna się od dnia 01.01.2025 r. do końca spłaty umowy wg zapisów umowy,
+3)	stałą stawkę WIBOR 1M w całym okresie kredytowania wyliczoną na podstawie średniej za okres od dnia 01.08.2024 r. do dnia 15.10.2024 r., tj. 5,82%.
+10. Zamawiający zastrzega sobie możliwość wcześniejszej spłaty kredytu bez dodatkowych opłat i prowizji.
+11. Zamawiający zastrzega sobie możliwość wykorzystania części kredytu postawionego do jego dyspozycji.
+12. Zamawiający informuje, że na stronie Biuletynu Informacji Publicznej https://ropczyce.bip.net.pl w zakładce Budżet zostały udostępnione dokumenty w celu wstępnego zbadania zdolności kredytowej, tj. sprawozdania, opinie, uchwały.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">1. W przedmiotowym postępowaniu o udzielenie zamówienia komunikacja między Zamawiającym a Wykonawcami, w szczególności składanie ofert, wymiana informacji oraz przekazywanie dokumentów lub oświadczeń, odbywa się przy użyciu środków komunikacji elektronicznej zapewnionych przez Platformę zakupową, umożliwiającą obsługę procesu udzielania zamówień publicznych za pośrednictwem środków komunikacji elektronicznej.
+2. Platforma zakupowa jest dostępna pod adresem: https://platformazakupowa.pl/pn/ropczyce.
+3. W celu skrócenia czasu udzielenia odpowiedzi na pytania preferuje się, aby komunikacja między Zamawiającym a Wykonawcami, w tym wszelkie oświadczenia, wnioski, zawiadomienia oraz informacje, przekazywane były za pośrednictwem Platformy zakupowej i formularza „Wyślij wiadomość do zamawiającego”.
+4. Za datę przekazania (wpływu) oświadczeń, wniosków, zawiadomień oraz informacji przyjmuje się datę ich przesłania za pośrednictwem Platformy zakupowej poprzez kliknięcie przycisku „Wyślij wiadomość do zamawiającego” po których pojawi się komunikat, że wiadomość została wysłana do zamawiającego.
+5. Zamawiający dopuszcza, awaryjnie, komunikację za pośrednictwem poczty elektronicznej. Adres poczty elektronicznej osoby uprawnionej do kontaktu z Wykonawcami: ropczyce@intertele.pl
+6. Zamawiający będzie przekazywał Wykonawcom informacje w formie elektronicznej za pośrednictwem Platformy zakupowej. Informacje dotyczące odpowiedzi na pytania, zmiany specyfikacji, zmiany terminu składania i otwarcia ofert Zamawiający będzie zamieszczał na platformie w sekcji „Komunikaty”. Korespondencja, której zgodnie z obowiązującymi przepisami adresatem jest konkretny Wykonawca, będzie przekazywana w formie elektronicznej za pośrednictwem Platformy zakupowej do konkretnego Wykonawcy.
+7. Wykonawca jako podmiot profesjonalny ma obowiązek sprawdzania komunikatów i wiadomości bezpośrednio na Platformie zakupowej przesłanych przez zamawiającego, gdyż system powiadomień może ulec awarii lub powiadomienie może trafić do folderu SPAM.
+8. Zamawiający określa niezbędne wymagania sprzętowo-aplikacyjne umożliwiające pracę na Platformie zakupowej tj.:
+1)	stały dostęp do sieci Internet o gwarantowanej przepustowości nie mniejszej niż 512 kb/s,
+2)	komputer klasy PC lub MAC o następującej konfiguracji: pamięć min. 2 GB Ram, procesor Intel IV 2 GHZ lub jego nowsza wersja, jeden z systemów operacyjnych - MS Windows 7, Mac Os x 10 4, Linux, lub ich nowsze wersje,
+3)	zainstalowana dowolna przeglądarka internetowa, w przypadku Internet Explorer minimalnie wersja 10 0,
+4)	włączona obsługa JavaScript,
+5)	zainstalowany program Adobe Acrobat Reader lub inny obsługujący format plików .pdf,
+6)	Platforma zakupowa działa według standardu przyjętego w komunikacji sieciowej - kodowanie UTF8,
+7)	oznaczenie czasu odbioru danych przez platformę zakupową stanowi datę oraz dokładny czas (hh:mm:ss) generowany wg. czasu lokalnego serwera synchronizowanego z zegarem Głównego Urzędu Miar.
+9. Zamawiający określa dopuszczalne formaty przesyłanych danych w txt, rtf, pdf ,xps, odt, ods, odp, doc, xls, ppt, docx, xlsx, pptx, csv, jpg, jpeg, tif, tiff, geotiff, png, svg, wav, mp3, avi, mpg, mpeg, mp4, m4a, mpeg4, ogg, ogv, zip, tar, gz, gzip, 7z, html, xhtml, css, xml, xsd, gml, rng, xsl, xslt, TSL, XMLsig, XAdES, CAdES, ASIC, XMLenc.
+10. Zamawiający rekomenduje wykorzystanie formatów: pdf, doc, jpg ze szczególnym wskazaniem na pdf.
+11. Wykonawca, przystępując do niniejszego postępowania o udzielenie zamówienia publicznego:
+1) akceptuje warunki korzystania z Platformy zakupowej określone w Regulaminie zamieszczonym na stronie internetowej pod linkiem w zakładce „Regulamin" oraz uznaje go za wiążący,
+2) zapoznał i stosuje się do Instrukcji składania ofert/wniosków dostępnej pod linkiem.
+12. Zamawiający nie ponosi odpowiedzialności za złożenie oferty w sposób niezgodny z Instrukcją korzystania z Platformy zakupowej, w szczególności za sytuację, gdy Zamawiający zapozna się z treścią oferty przed upływem terminu składania ofert (np. złożenie oferty w zakładce „Wyślij wiadomość do zamawiającego”). Taka oferta zostanie uznana przez Zamawiającego za ofertę handlową i nie będzie brana pod uwagę w przedmiotowym postępowaniu, ponieważ nie został spełniony obowiązek narzucony w art. 221 ustawy PZP.
+13. Zamawiający informuje, że instrukcje korzystania z Platformy zakupowej dotyczące 
+w szczególności logowania, składania wniosków o wyjaśnienie treści SWZ, składania ofert oraz innych czynności podejmowanych w niniejszym postępowaniu przy użyciu Platformy zakupowej znajdują się w zakładce „Instrukcje dla Wykonawców" na stronie internetowej pod adresem: https://platformazakupowa.pl/pn/ropczyce.
+14. Zamawiający informuje, iż w przypadku jakichkolwiek wątpliwości związanych z zasadami korzystania z Platformy zakupowej, Wykonawca winien skontaktować się z dostawcą rozwiązania teleinformatycznego Platformy zakupowej tel. +48 22 101-02-02, e-mail: cwk@platformazakupowa.pl.
+15. Zamawiający nie przewiduje sposobu komunikowania się z Wykonawcami w inny sposób niż przy użyciu środków komunikacji elektronicznej, wskazanych w SWZ.
+16. Komunikacja ustna dopuszczalna jest w odniesieniu do informacji, które nie są istotne, 
+w szczególności, gdy nie dotyczą ogłoszenia o zamówieniu lub dokumentów zamówienia, ofert, o ile jej treść jest udokumentowana.
+17. Oferty składa się pod rygorem nieważności w formie elektronicznej opatrzonej podpisem kwalifikowanym.
+18. Zamawiający określa dopuszczalny format kwalifikowanego podpisu elektronicznego, jako:
+1) dokumenty w formacie „pdf” należy podpisywać formatem PAdES,
+2) dopuszcza się podpisanie dokumentów w formacie innym niż „pdf”, wtedy należy użyć formatu XAdES. W związku z tym, Wykonawca będzie zobowiązany załączyć oddzielny plik z podpisem.
+19. Wykonawca może zwrócić się do Zamawiającego z wnioskiem o wyjaśnienie treści SWZ.
+20. Zamawiający udzieli wyjaśnień niezwłocznie, jednak nie później niż na 6 dni przed upływem terminu składania ofert, pod warunkiem, że wniosek o wyjaśnienie treści SWZ wpłynął do Zamawiającego nie później niż na 14 dni przed upływem terminu składania ofert. Jeżeli wniosek o wyjaśnienie treści SWZ wpłynie po upływie terminu, o którym mowa powyżej, Zamawiający może udzielić wyjaśnień albo pozostawić wniosek bez rozpoznania. Przedłużenie terminu składania ofert nie wpływa na bieg terminu składania wniosku o wyjaśnienie treści SWZ.
+21. Treść pytań (bez ujawniania źródła zapytania) wraz z wyjaśnieniami, Zamawiający opublikuje do wiadomości publicznej na stronie internetowej, na której udostępniane będą zmiany i wyjaśnienia treści SWZ oraz inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia, tj. https://platformazakupowa.pl/pn/ropczyce.
+22. W przypadku rozbieżności pomiędzy treścią SWZ a treścią udzielonych odpowiedzi, jako obowiązującą należy przyjąć treść pisma zawierającego późniejsze oświadczenie Zamawiającego.
+23. Zamawiający nie przewiduje zwołania zebrania Wykonawców w celu wyjaśnienia wątpliwości dotyczących treści SWZ.
+24. Zamawiający zastosuje w niniejszym postępowaniu postanowienia art. 139 ust 1 ustawy PZP. W związku z powyższym, Zamawiający najpierw dokona badania i oceny ofert, a następnie dokona kwalifikacji podmiotowej Wykonawcy, którego oferta została najwyżej oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału w postępowaniu. W takim przypadku, Wykonawca nie jest obowiązany do złożenia wraz z ofertą oświadczenia (JEDZ) które będzie składane na żądanie Zamawiającego, wyłącznie przez tego Wykonawcę, którego oferta została najwyżej oceniona.
+</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">66113000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">Nie dotyczy</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Cena</cbc:Name>
+                  <cbc:Description languageID="POL">Kryterium „cena” - waga 100 % (punktów). Kryterium „cena” będzie rozpatrywana na podstawie ceny brutto za wykonanie przedmiotu zamówienia, podanej przez Wykonawcę w formularzu ofertowym.
+Oferta z najniższą ceną otrzyma 100 punktów, każda następna będzie przeliczana proporcjonalnie w stosunku do oferty z najniższą ceną wg wzoru: (najniższa cena brutto / cena oferty ocenianej brutto) x waga.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Każdemu Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu danego zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy Prawo zamówień publicznych przysługują środki ochrony prawnej przewidziane w dziale IX ustawy z dnia 11 września 2019 roku Prawo zamówień publicznych. 2. Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15 ustawy, a także Rzecznikowi Małych i Średnich Przedsiębiorców.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Udzielenie kredytu długoterminowego w kwocie 5 535 065,00 zł na spłatę wcześniej zaciągniętych zobowiązań Gminy Ropczyce</cbc:Name>
+         <cbc:Description languageID="POL">1. Przedmiotem zamówienia jest: usługa udzielenia kredytu długoterminowego w wysokości 5 535 065, 00 - zł (słownie: pięć milionów pięćset trzydzieści pięć tysięcy sześćdziesiąt pięć złotych 00/100), zaciąganego na spłatę wcześniej zaciągniętych zobowiązań Gminy Ropczyce. 
+2. Kredyt winien być dostępny w jednej transzy od dnia następnego od daty podpisania umowy do 31.12.2024 r.
+3. Spłata kredytu nastąpi w terminie: od 01.01.2025 r. do 31.12.2034 r. (okres 120 miesięcy).
+1)	do 31.12.2025 r. –    100 000,00 zł,
+2)	do 31.12.2026r. –      100 000,00 zł,
+3)	do 31.12.2027 r. –    100 000,00 zł,
+4)	do 31.12.2028 r. –     100 000,00 zł,
+5)	do 31.12.2029 r. –      100 000,00 zł,
+6)	do 31.12.2030 r. –     400 000,00 zł,
+7)	do 31.12.2031 r. –     500 000,00 zł,
+8)	do 31.12.2032 r.  -   1 300 000,00 zł,
+9)	do 31.12.2033 r. –   1 500 000,00 zł,
+10)	do 31.12.2034 r.  -  1 335 065,00 zł,
+4. Okres karencji w spłacie kredytu obejmuje czas od daty podpisania umowy do 31.12.2024 r.
+5. Spłata odsetek od poszczególnych transz kredytu nastąpi w ratach miesięcznych, licząc od następnego miesiąca po miesiącu, w którym transza zostanie uruchomiona.
+6. Zabezpieczeniem kredytu będzie weksel in blanco wraz z deklaracją wekslową.
+7. Oprocentowanie będzie zmienne ustalone w oparciu o stawkę bazową – WIBOR 1M, notowany na dzień ostatniego dnia roboczego miesiąca poprzedzającego miesiąc obrachunkowy (w zaokrągleniu do dwóch miejsc po przecinku).
+8. Stała marża banku (określona w załączniku nr 1 do SIWZ), nie podlegająca zmianie przez cały okres wykonania zamówienia.
+9. Ponadto do wyliczenia ceny w ofercie należy przyjąć:
+1)	że kredyt będzie wykorzystany w całości przez Zamawiającego w dniu 31.12.2024 r.,
+2)	że bieg odsetek rozpoczyna się od dnia 01.01.2025 r. do końca spłaty umowy wg zapisów umowy,
+3)	stałą stawkę WIBOR 1M w całym okresie kredytowania wyliczoną na podstawie średniej za okres od dnia 01.08.2024 r. do dnia 15.10.2024 r., tj. 5,82%.
+10. Zamawiający zastrzega sobie możliwość wcześniejszej spłaty kredytu bez dodatkowych opłat i prowizji.
+11. Zamawiający zastrzega sobie możliwość wykorzystania części kredytu postawionego do jego dyspozycji.
+12. Zamawiający informuje, że na stronie Biuletynu Informacji Publicznej https://ropczyce.bip.net.pl w zakładce Budżet zostały udostępnione dokumenty w celu wstępnego zbadania zdolności kredytowej, tj. sprawozdania, opinie, uchwały.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">66113000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL823</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">120</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

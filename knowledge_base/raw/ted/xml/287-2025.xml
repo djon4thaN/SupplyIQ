@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">13096638.36</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <efac:ContractReference>
+                        <cbc:ID>ZI.272.106.2024</cbc:ID>
+                     </efac:ContractReference>
+                  </efac:SettledContract>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://www.um.boleslawiec.bip-gov.pl/public/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">GMINA MIEJSKA BOLESŁAWIEC</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Rynek 41</cbc:StreetName>
+                           <cbc:CityName>Bolesławiec</cbc:CityName>
+                           <cbc:PostalZone>59-700</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL515</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP: 6121636326</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON: 230821405</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>756456571</cbc:Telephone>
+                           <cbc:ElectronicMail>d.wawrzkiewicz@um.boleslawiec.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Miejski Zakład Gospodarki Komunalnej Sp. z o.o. w Bolesławcu</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Bolesławiec</cbc:CityName>
+                           <cbc:PostalZone>59-700</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL515</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6120004512</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000287-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">658edd8e-d85d-4a09-bf6a-6b2d2806010b</cbc:ID>
+   <cbc:ContractFolderID>c9084d9d-17d6-4a04-adb5-e5db3926a614</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+   <cbc:IssueTime>15:14:47+01:00</cbc:IssueTime>
+   <cbc:VersionID>02</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2024-12-30+01:00</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode>POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="POL">Świadczenie usług w zakresie odbioru i zagospodarowania odpadów komunalnych z terenu miasta Bolesławiec</cbc:Name>
+      <cbc:Description languageID="POL">4.1 Przedmiotem zamówienia jest świadczenie usług w zakresie odbioru i zagospodarowania odpadów komunalnych z terenu miasta Bolesławiec, utworzenie i prowadzenie punktów selektywnej zbiórki odpadów komunalnych (centralnego i lokalnych), wyposażenie nieruchomości w pojemniki i/lub worki do gromadzenia odpadów komunalnych oraz utrzymanie tych pojemników w należytym stanie sanitarnym, porządkowym i technicznym. Szczegółowy opis przedmiotu zamówienia oraz zakres obowiązków Wykonawcy znajduje się w Załączniku A do SWZ, który zawiera:
+1)	Załącznik nr 1 – OPIS PRZEDMIOTU ZAMÓWIENIA I WYMAGANIA ZWIĄZANE Z  JEGO REALIZACJĄ,
+2)	Załącznik nr 2 – Wykaz nieruchomości,
+3)	Załącznik nr 3 - HARMONOGRAM ODBIORU ODPADÓW KOMUNALNYCH ZMIESZANYCH (POZOSTAŁE PO SEGREGACJI) Z TERENU MIASTA BOLESŁAWIEC
+4)	Załącznik nr 4 - HARMONOGRAM ODBIORU ODPADÓW KOMUNALNYCH SEGREGOWANYCH Z TERENU MIASTA BOLESŁAWIEC,
+5)	Załącznik nr 5 - WYKAZ /LOKALIZACJA POJEMNIKÓW DO  SEGREGACJI,  * PSZOKI  LOKALNE *,
+6)	Załącznik nr 6 - WYKAZ ULIC I PLACÓW MIASTA BOLESŁAWCA,
+7)	Załącznik nr 7 – Wykaz obudów śmietnikowych,
+8)	Załącznik nr 8 - Wykaz nieruchomości wyposażonych przez Gminę Miejską Bolesławiec w pojemniki na zużyte baterie, 
+9)	Załącznik nr 9 - Wykaz aptek wyposażonych w pojemniki na przeterminowane leki na terenie miasta Bolesławiec
+10)	Załącznik nr 10 – Kontenery na odzież używaną. 
+11)	Załącznik nr 11 – Naklejka.
+ROZDZIAŁ XVI WYMAGANIA DOTYCZĄCE WADIUM 
+16.1.	Wykonawca zobowiązany jest do zabezpieczenia swojej oferty wadium w wysokości: 200 000,00 zł (słownie: dwieście tysięcy złotych i 00/100). Szczegóły określone w SWZ.
+10.7.	Przedmiotowe środki dowodowe: Zamawiający nie będzie wymagał przedmiotowych środków dowodowych.  ROZDZIAŁ XIV. OPIS SPOSOBU PRZYGOTOWANIA OFERT ORAZ WYMAGANIA FORMALNE    DOTYCZĄCE  SKŁADANYCH  OŚWIADCZEŃ I DOKUMENTÓW.
+14.1.	Wykonawca może złożyć tylko jedną ofertę.
+14.2.	Treść oferty musi odpowiadać treści SWZ.
+14.3.	Ofertę składa się na formularzu ofertowym – zgodnie z Załącznikiem nr 1 do SWZ.    Wraz z ofertą Wykonawca jest zobowiązany złożyć:
+1.	JEDZ – Jednolity Europejski Dokument Zmówienia, o którym mowa w pkt. 10.1. SWZ. (jeżeli dotyczy to także z uwzględnieniem pkt 10.1.2. i/lub 10.1.3. SWZ),
+2.	Oświadczenie wykonawców wspólnie ubiegających się o udzielenie zamówienia, o których mowa w pkt 12.2 SWZ, z którego wynika, które usługi wykonają poszczególni Wykonawcy – Załącznik nr 5 – art. 117 ust. 4 Pzp ( jeżeli dotyczy);
+3.	Zobowiązanie innego podmiotu, o którym mowa w pkt 11.2. SWZ – Załącznik nr 6 ( jeżeli dotyczy);
+4.	Oświadczenie o niepodleganiu wykluczenia z postępowania na podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r – załącznik nr 7 do SWZ, o którym mowa w pkt. 10.1. SWZ;
+5.	Oświadczenie o niepodleganiu wykluczenia z postępowania na podstawie art. 7 ust. 1 ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego – załącznik nr 8 do SWZ, o którym mowa w pkt. 10.1. SWZ.   
+6.	Dowód wniesienia wadium – jeżeli zamawiający wymagał wadium,
+7.	Dokumenty, z których wynika prawo do podpisania oferty; odpowiednie pełnomocnictwa (jeżeli dotyczy). ROZDZIAŁ XV. OPIS SPOSOBU OBLICZENIA CENY. 15.1	Wykonawca poda cenę oferty w Formularzu Ofertowym sporządzonym według wzoru stanowiącego Załącznik nr 1 do SWZ. ROZDZIAŁ VII. TERMIN WYKONANIA ZAMÓWIENIA. 7.1 rozpoczęcie realizacji przedmiotu umowy: od dnia zawarcia umowy, nie wcześniej jednak niż od 01 stycznia 2025 roku.  7.2 zakończenie całości: do 31 grudnia 2025 roku.  WYKAZ DOKUMENTÓW POTWIERDZAJĄCYCH SPEŁNIANIE WARUNKÓW UDZIAŁU W POSTĘPOWANIU ORAZ BRAK PODSTAW DO WYKLUCZENIA. 
+10.1.	Do oferty Wykonawca zobowiązany jest dołączyć aktualne na dzień składania ofert oświadczenie o spełnianiu warunków udziału w postępowaniu oraz o braku podstaw do wykluczenia z postępowania. Oświadczenie składane jest na formularzu jednolitego europejskiego dokumentu zamówienia (JEDZ), sporządzonego zgodnie ze wzorem standardowego formularza określonego w Rozporządzeniu Wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia (Dz. Urz. UE L 3 z 06.01.2016, str. 16), zwanego dalej "jednolitym dokumentem" lub JEDZ oraz do oferty oświadczenie o niepodleganiu wykluczenia z postępowania na podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r – załącznik nr 7 do SWZ (Oświadczenie wykonawcy/wykonawcy wspólnie ubiegającego się o udzielenie zamówienia) oraz oświadczenie o niepodleganiu wykluczenia z postępowania na podstawie art. 7 ust. 1 ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego – załącznik nr 8 do SWZ (Oświadczenia podmiotu udostępniającego zasoby) – w przypadku wystąpienia. 10.1.6.	Wymagana forma – forma elektroniczna (opatrzona kwalifikowanym podpisem elektronicznym). 10.1.7.	Instrukcja wypełniania JEDZ dostępna jest na stronie Urzędu Zamówień Publicznych: https://www.gov.pl/web/uzp/jednolity-europejski-dokument-zamowienia</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">10.2.	Podmiotowe środki dowodowe. 
+Zamawiający wezwie Wykonawcę, którego oferta zostanie najwyżej oceniona, do złożenia w wyznaczonym nie krótszym niż 10 dni terminie, aktualnych na dzień złożenia podmiotowych środków dowodowych:
+10.2.1 Wykaz usług wykonanych, a w przypadku świadczeń powtarzających się lub ciągłych również wykonywanych, w okresie ostatnich 3 lat, a jeżeli okres prowadzenia działalności jest krótszy- w tym okresie, wraz z podaniem ich wartości, przedmiotu , dat wykonania i podmiotów, na rzecz których usługi zostały wykonane lub są wykonywane, oraz załączeniem dowodów określających, czy te usługi zostały wykonane lub są wykonywane należycie, przy czym dowodami, o których mowa są referencje bądź inne dokumenty sporządzone przez podmioty, na rzecz którego usługi zostały wykonane, a w przypadku świadczeń powtarzających się lub ciągłych są wykonywane, a jeżeli Wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – oświadczenie Wykonawcy, w przypadku świadczeń powtarzających się lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonanie powinny być wystawione w okresie ostatnich 3 m-cy ( wzór wykazu stanowi Załącznik nr 2 do SWZ);
+10.2.1.1 Wykaz osób skierowanych przez wykonawcę do realizacji zamówienia publicznego, w szczególności odpowiedzialnych za świadczenie usług wraz z informacjami na temat ich kwalifikacji zawodowych, uprawnień, doświadczenia i wykształcenia niezbędnych do wykonania zamówienia publicznego, a także zakresu wykonywanych przez nie czynności oraz informacją o podstawie do dysponowania tymi osobami ( wzór wykazu stanowi Załącznik nr 2A do SWZ);
+10.2.1.2	Wykaz narzędzi, wyposażenia zakładu lub urządzeń technicznych dostępnych Wykonawcy w celu wykonania zamówienia publicznego wraz informacją o podstawie do dysponowania tymi zasobami 
+( wzór wykazu stanowi Załącznik nr 2B do SWZ); 
+10.2.2.	Oświadczenie wykonawcy, w zakresie art. 108 ust. 1 pkt 5 ustawy, o braku przynależności do tej samej grupy kapitałowej, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2021 r. poz. 275 ), z innym Wykonawcą, który złożył odrębną ofertę, ofertę częściową lub wniosek o dopuszczenie do udziału w postępowaniu, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty, oferty częściowej lub wniosku o dopuszczenie do udziału w postępowaniu niezależnie od innego wykonawcy należącego do tej samej grupy kapitałowej – wzór oświadczenia stanowi załącznik nr 3 do SWZ);
+10.2.3.	Informacji z Krajowego Rejestru Karnego w zakresie dotyczącym podstaw wykluczenia wskazanych w art. 108 ust. 1 pkt 1, 2 i 4 Pzp, sporządzonej  nie wcześniej niż 6 miesięcy przed jej złożeniem;
+10.2.4.	Odpisu lub informacji z Krajowego Rejestru Sądowego lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej, w zakresie art. 109 ust. 1 pkt 4 Pzp, sporządzonych nie wcześniej niż 3 miesiące przed jej złożeniem, jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji;
+10.2.5.	Oświadczenia o aktualności informacji zawartych w oświadczeniu, o których mowa  w art. 125 ust. 1 Pzp w zakresie podstaw do wykluczenia z postępowania, o których mowa w:
+-	art. 108 ust. 1 pkt 3 Pzp,
+-	art. 108 ust. 1 pkt 4 Pzp dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego,
+-	art. 108 ust. 1 pkt 5 Pzp dotyczących zawarcia z innymi Wykonawcami porozumienia mającego na celu zakłócenie konkurencji,
+-	art. 108 ust. 1 pkt 6 Pzp,
+-	art. 109 ust. 5-10 Pzp
+zgodnie z wzorem stanowiącym załącznik nr 4 do SWZ.
+10.2.6 Oświadczenie o niepodleganiu wykluczenia z postępowania na podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r – załącznik nr 7 do SWZ.  
+10.2.7 Oświadczenie o niepodleganiu wykluczenia z postępowania na podstawie art. 7 ust. 1 ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego – załącznik nr 8 do SWZ.   
+10.2.8 Wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości na terenie Miasta Bolesławiec, prowadzonego przez Prezydenta Miasta Bolesławiec zgodnie z przepisem art. 9c ustawy z dnia 13 września 1996 roku o utrzymaniu czystości i porządku w gminach,
+10.2.9 Aktualny wpis do BDO odnośnie transportu odpadów na podstawie ustawy z dnia 14 grudnia 2012 r. o odpadach,
+10.2.10 Wpis do rejestru podmiotów zbierających zużyty sprzęt elektryczny i elektroniczny, prowadzony przez Głównego Inspektora Ochrony Środowiska zgodnie z ustawa z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym. ROZDZIAŁ XII.	INFORMACJA DLA WYKONAWCÓW WSPÓLNIE UBIEGAJĄCYCH SIĘ O UDZIELENIE ZAMÓWIENIA.
+12.1.	Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia. W takim przypadku Wykonawcy ustanawiają pełnomocnika do reprezentowania ich w postępowaniu albo do reprezentowania i zawarcia umowy w sprawie zamówienia publicznego. Pełnomocnictwo winno być załączone do oferty.
+WYSYŁANIA I ODBIERANIA KOREPONDENCJI ELEKTRONICZNEJ. 
+1.	W postępowaniu o udzielenie zamówienia publicznego komunikacja między Zamawiającym, a Wykonawcami odbywa się przy użyciu Platformy e-Zamówienia, która jest dostępna pod adresem https://ezamowienia.gov.pl
+DOTYCZĄCE  SKŁADANYCH  OŚWIADCZEŃ I DOKUMENTÓW.
+14.1.	Wykonawca może złożyć tylko jedną ofertę.
+14.2.	Treść oferty musi odpowiadać treści SWZ.
+14.3.	Ofertę składa się na formularzu ofertowym – zgodnie z Załącznikiem nr 1 do SWZ.    Wraz z ofertą Wykonawca jest zobowiązany złożyć:
+1.	JEDZ – Jednolity Europejski Dokument Zmówienia, o którym mowa w pkt. 10.1. SWZ. (jeżeli dotyczy to także z uwzględnieniem pkt 10.1.2. i/lub 10.1.3. SWZ),
+2.	Oświadczenie wykonawców wspólnie ubiegających się o udzielenie zamówienia, o których mowa w pkt 12.2 SWZ, z którego wynika, które usługi wykonają poszczególni Wykonawcy – Załącznik nr 5 – art. 117 ust. 4 Pzp ( jeżeli dotyczy);
+3.	Zobowiązanie innego podmiotu, o którym mowa w pkt 11.2. SWZ – Załącznik nr 6 ( jeżeli dotyczy);
+4.	Oświadczenie o niepodleganiu wykluczenia z postępowania na podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r – załącznik nr 7 do SWZ, o którym mowa w pkt. 10.1. SWZ;
+5.	Oświadczenie o niepodleganiu wykluczenia z postępowania na podstawie art. 7 ust. 1 ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego – załącznik nr 8 do SWZ, o którym mowa w pkt. 10.1. SWZ.   
+6.	Dowód wniesienia wadium – jeżeli zamawiający wymagał wadium,
+7.	Dokumenty, z których wynika prawo do podpisania oferty; odpowiednie pełnomocnictwa (jeżeli dotyczy).
+ROZDZIAŁ XVIII. OPIS KRYTERIÓW OCENY OFERT WRAZ Z PODANIEM WAG TYCH KRYTERIÓW I SPOSOBU OCENY OFERT.
+18.1 Przy wyborze najkorzystniejszej oferty Zamawiający stosować będzie następujące kryteria oceny oferty:
+- cena ryczałtowa brutto – 100 %, 
+ROZDZIAŁ XX. WYMAGANIA DOTYCZĄCE ZABEZPIECZENIA NALEŻYTEGO WYKONANIA UMOWY.
+20.1	Zamawiający nie będzie wymagał od wykonawcy, który złoży najkorzystniejszą ofertę, złożenia przed zawarciem umowy, zabezpieczenia należytego wykonania umowy</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:FiscalLegislationDocumentReference>
+            <cbc:ID>generated_id</cbc:ID>
+         </cac:FiscalLegislationDocumentReference>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">Określone w SWZ.</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Określone w SWZ.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Określone w SWZ.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Świadczenie usług w zakresie odbioru i zagospodarowania odpadów komunalnych z terenu miasta Bolesławiec</cbc:Name>
+         <cbc:Description languageID="POL">4.1 Przedmiotem zamówienia jest świadczenie usług w zakresie odbioru i zagospodarowania odpadów komunalnych z terenu miasta Bolesławiec, utworzenie i prowadzenie punktów selektywnej zbiórki odpadów komunalnych (centralnego i lokalnych), wyposażenie nieruchomości w pojemniki i/lub worki do gromadzenia odpadów komunalnych oraz utrzymanie tych pojemników w należytym stanie sanitarnym, porządkowym i technicznym. Szczegółowy opis przedmiotu zamówienia oraz zakres obowiązków Wykonawcy znajduje się w Załączniku A do SWZ, który zawiera:
+1)	Załącznik nr 1 – OPIS PRZEDMIOTU ZAMÓWIENIA I WYMAGANIA ZWIĄZANE Z  JEGO REALIZACJĄ,
+2)	Załącznik nr 2 – Wykaz nieruchomości,
+3)	Załącznik nr 3 - HARMONOGRAM ODBIORU ODPADÓW KOMUNALNYCH ZMIESZANYCH (POZOSTAŁE PO SEGREGACJI) Z TERENU MIASTA BOLESŁAWIEC
+4)	Załącznik nr 4 - HARMONOGRAM ODBIORU ODPADÓW KOMUNALNYCH SEGREGOWANYCH Z TERENU MIASTA BOLESŁAWIEC,
+5)	Załącznik nr 5 - WYKAZ /LOKALIZACJA POJEMNIKÓW DO  SEGREGACJI,  * PSZOKI  LOKALNE *,
+6)	Załącznik nr 6 - WYKAZ ULIC I PLACÓW MIASTA BOLESŁAWCA,
+7)	Załącznik nr 7 – Wykaz obudów śmietnikowych,
+8)	Załącznik nr 8 - Wykaz nieruchomości wyposażonych przez Gminę Miejską Bolesławiec w pojemniki na zużyte baterie, 
+9)	Załącznik nr 9 - Wykaz aptek wyposażonych w pojemniki na przeterminowane leki na terenie miasta Bolesławiec
+10)	Załącznik nr 10 – Kontenery na odzież używaną. 
+11)	Załącznik nr 11 – Naklejka.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90511000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01Z</cbc:StartDate>
+            <cbc:EndDate>2025-12-31Z</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

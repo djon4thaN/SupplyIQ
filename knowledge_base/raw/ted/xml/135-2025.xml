@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efac:NoticeResult>
+            <cbc:TotalAmount currencyID="EUR">507221</cbc:TotalAmount>
+            <efac:LotResult>
+              <cbc:ID schemeName="result">RES-0001</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+              <efac:LotTender>
+                <cbc:ID>TEN-0001</cbc:ID>
+              </efac:LotTender>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:SettledContract>
+                <cbc:ID>CON-0001</cbc:ID>
+              </efac:SettledContract>
+              <efac:TenderLot>
+                <cbc:ID>LOT-0001</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+            <efac:LotTender>
+              <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+              <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="EUR">507221</cbc:PayableAmount>
+              </cac:LegalMonetaryTotal>
+              <efac:TenderingParty>
+                <cbc:ID>TPA-0001</cbc:ID>
+              </efac:TenderingParty>
+              <efac:TenderLot>
+                <cbc:ID>LOT-0001</cbc:ID>
+              </efac:TenderLot>
+              <efac:TenderReference>
+                <cbc:ID>1</cbc:ID>
+              </efac:TenderReference>
+            </efac:LotTender>
+            <efac:SettledContract>
+              <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+              <cbc:IssueDate>2024-12-26+01:00</cbc:IssueDate>
+              <cac:SignatoryParty>
+                <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+              </cac:SignatoryParty>
+              <efac:ContractReference>
+                <cbc:ID>MAR-24-165</cbc:ID>
+              </efac:ContractReference>
+              <efac:LotTender>
+                <cbc:ID>TEN-0001</cbc:ID>
+              </efac:LotTender>
+            </efac:SettledContract>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+              <efac:Tenderer>
+                <cbc:ID>ORG-0003</cbc:ID>
+              </efac:Tenderer>
+            </efac:TenderingParty>
+          </efac:NoticeResult>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efbc:AcquiringCPBIndicator>false</efbc:AcquiringCPBIndicator>
+              <efbc:AwardingCPBIndicator>false</efbc:AwardingCPBIndicator>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.rmngp.fr/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="FRA">Réunion des Musées Nationaux Gd Palais</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>254-256 rue de BERCY</cbc:StreetName>
+                  <cbc:CityName>PARIS</cbc:CityName>
+                  <cbc:PostalZone>75012</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>69204158500583</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Liliane COLINEAU</cbc:Name>
+                  <cbc:Telephone>0140134800</cbc:Telephone>
+                  <cbc:ElectronicMail>liliane.colineau@grandpalaisrmn.fr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>http://www.legifrance.gouv.fr</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="FRA">Tribunal administratif de Paris</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>7 rue de Jouy</cbc:StreetName>
+                  <cbc:CityName>Paris Cedex 04</cbc:CityName>
+                  <cbc:PostalZone>75181</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FR101</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>17750005500013</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>01 44 59 44 00</cbc:Telephone>
+                  <cbc:ElectronicMail>greffe.ta-paris@juradm.fr</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="FRA">IMPRIMERIE POLLINA</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Z1 de Chasnais</cbc:StreetName>
+                  <cbc:CityName>LUCON</cbc:CityName>
+                  <cbc:PostalZone>85400</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FRG05</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>31491182700025</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000135-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">673c7e51-50b8-42ab-a68f-b6c0c8979ad9</cbc:ID>
+  <cbc:ContractFolderID>54e8c34a-8db3-4e54-a7b5-a7144c913210</cbc:ContractFolderID>
+  <cbc:IssueDate>2024-12-31+01:00</cbc:IssueDate>
+  <cbc:IssueTime>14:50:02+01:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode listName="language">FRA</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cbc:BuyerProfileURI>https://rmn.e-marchespublics.com</cbc:BuyerProfileURI>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">rcr</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID>ORG-0001</cbc:ID>
+      </cac:PartyIdentification>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingProcess>
+    <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+    <cac:NoticeDocumentReference>
+      <cbc:ID>3bee1246-478f-4f4e-b8a5-b42ea0bc29e2-01</cbc:ID>
+    </cac:NoticeDocumentReference>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID>MAR-24-165</cbc:ID>
+    <cbc:Name languageID="FRA">Impression et façonnage de " Un livre pour les vacances "</cbc:Name>
+    <cbc:Description languageID="FRA">Dans le cadre du programme " Un livre pour les vacances ", GrandPalaisRmn s'associe au ministère de l'Education nationale et de la Jeunesse pour publier une nouvelle illustrée d'oeuvres originales, dans le but de renforcer le goût et la pratique de la lecture chez les élèves qui vont entrer au collège, en leur donnant l'occasion de découvrir une oeuvre majeure du patrimoine littéraire.&#13;
+Le présent marché a pour objet l'impression et le façonnage de " Un livre pour les vacances "</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">79800000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cbc:CalculationExpression languageID="FRA">CONFERE DCE</cbc:CalculationExpression>
+          <cac:SubordinateAwardingCriterion>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="FRA">confere DCE</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AppealTerms>
+        <cac:PresentationPeriod>
+          <cbc:Description languageID="FRA">Tout recours gracieux peut être adressé, dans un délai de deux mois à compter de la date de notification d'une décision.&#13;
+Dans les conditions fixées par le code de justice administrative français (Cja), peuvent être formés devant le tribunal administratif de Paris:&#13;
+- Un référé précontractuel depuis le début de la procédure de passation jusqu'à la signature du contrat (art. L.551-1 Cja) ;&#13;
+- Un recours de plein contentieux dans un délai de deux mois à compter de l'accomplissement des mesures de publicité en application de l'arrêt du Conseil d'Etat, n° 358994, 4 avril 2014, Département du Tarn-et-Garonne.&#13;
+- Le code de justice administrative français est consultable sur le site officiel " legifrance - le service public de la diffusion du droit " : http://www.legifrance.gouv.fr</cbc:Description>
+        </cac:PresentationPeriod>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID>ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID>MAR-24-165</cbc:ID>
+      <cbc:Name languageID="FRA">Impression et façonnage de " Un livre pour les vacances "</cbc:Name>
+      <cbc:Description languageID="FRA">Voir documents du DCE</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">79800000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:PlannedPeriod>
+        <cbc:StartDate>2024-11-15+01:00</cbc:StartDate>
+        <cbc:EndDate>2025-07-31+02:00</cbc:EndDate>
+      </cac:PlannedPeriod>
+      <cac:ContractExtension>
+        <cbc:OptionsDescription languageID="FRA">GrandPalaisRmn pourra confier au Titulaire, par marché négocié sans publicité ni mise en concurrence préalable, conformément aux dispositions de l'article 2122-7 du décret n°2018-1075, la réalisation de prestations similaires à celles confiées par le présent accord-cadre. La mise en concurrence du présent accord-cadre tient compte du montant des nouveaux services. La durée pendant laquelle le nouvel accord-cadre pourra être conclu ne pourra dépasser trois ans à compter de la notification du présent Accord-cadre.</cbc:OptionsDescription>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:TenderResult>
+    <cbc:AwardDate>1970-01-01+01:00</cbc:AwardDate>
+  </cac:TenderResult>
+</ContractAwardNotice>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">3309693.48</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">3309693.48</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">3309693.48</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <cac:FinancingParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:FinancingParty>
+                     <cac:PayerParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:PayerParty>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-med</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">3309693.48</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>1</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-11+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Umowa na usługę odbioru i zagospodarowania odpadów komunalnych od właścicieli nieruchomości zamieszkałych na terenie gminy Lubomia w roku 2025</cbc:Title>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>WG.272.340.2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Przedsiębiorstwo Spedycyjno – Transportowe „Transgór” S.A</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        <efbc:GroupLeadIndicator>true</efbc:GroupLeadIndicator>
+                     </efac:Tenderer>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        <efbc:GroupLeadIndicator>false</efbc:GroupLeadIndicator>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://lubomia.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://ezamowienia.gov.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Gmina Lubomia</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Szkolna 1</cbc:StreetName>
+                           <cbc:CityName>Lubomia</cbc:CityName>
+                           <cbc:PostalZone>44-360 </cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6471704471</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48 324516614</cbc:Telephone>
+                           <cbc:ElectronicMail>lubomia@lubomia.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://epuap.gov.pl/wps/portal/strefa-klienta/katalog-spraw/opis-uslugi/odwolanie-do-krajowej-izby-odwolawczej/UZP</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Sekretariat Biura Odwołań</cbc:Name>
+                           <cbc:Telephone>+48 224587801</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Przedsiębiorstwo Spedycyjno – Transportowe „Transgór” S.A.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Norwida 34</cbc:StreetName>
+                           <cbc:CityName>Jastrzębie - Zdrój</cbc:CityName>
+                           <cbc:PostalZone>44-268</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>6420000151</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>sekretariat@transgor.org</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Przedsiębiorstwo Usług Komunalnych „EMPOL” Sp. z o.o.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>os. Rzeka 133</cbc:StreetName>
+                           <cbc:CityName>Tylmanowa</cbc:CityName>
+                           <cbc:PostalZone>34-451</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL219</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>7352497196</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000013-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">486422fb-fa25-4000-8709-3581cf28b062</cbc:ID>
+   <cbc:ContractFolderID>2710a2d1-fdb4-42f5-905e-a79ea044dbfc</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31Z</cbc:IssueDate>
+   <cbc:IssueTime>11:08:52Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://ezamowienia.gov.pl</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">la</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:Description languageID="POL">1. Niniejsze postępowanie o udzielenie zamówienia publicznego prowadzone jest zgodnie z przepisami ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych w trybie przetargu nieograniczonego (art. 132 ustawy Pzp). 2. Zamawiający informuje, iż na podstawie art. 139 ust. 1 ustawy Pzp może najpierw dokonać badania i oceny ofert, a następnie dokonać kwalifikacji podmiotowej Wykonawcy, którego oferta została najwyżej oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału
+w postępowaniu. 3. KLAUZULA ZATRUDNIENIA. 3.1. Zamawiający stosownie do art. 95 ust. 1 ustawy Pzp, wymaga od Wykonawcy / Podwykonawcy zatrudnienia na podstawie umowy o pracę osób, które będą bezpośrednio wykonywały czynności w zakresie realizacji zamówienia, tj. - kierowanie pojazdami świadczącymi przedmiotową usługę, tj. odbiór i transport odpadów komunalnych, - przygotowanie, transport i konserwacja (tj. utrzymywanie w odpowiednim stanie sanitarnym, porządkowym i technicznym, w tym zapewnienie mycia i dezynfekcji) pojemników na odpady komunalne. 3.2. Szczegółowy sposób dokumentowania zatrudnienia ww. osób, uprawnienia Zamawiającego w zakresie kontroli spełniania przez Wykonawcę wymagań, o których mowa w art. 95 ust. 1 ustawy Pzp oraz sankcji z tytułu niespełnienia tych wymagań, rodzaju czynności niezbędnych do realizacji zamówienia, których dotyczą wymagania zatrudnienia na podstawie umowy o pracę przez Wykonawcę lub podwykonawcę osób wykonujących czynności w trakcie realizacji zamówienia zawarte są w Projekcie Umowy – Załącznik Nr 4 do SWZ.4.W postępowaniu o udzielenie zamówienia publicznego komunikacja między Zamawiającym, a Wykonawcami odbywa się przy użyciu
+Platformy eZamówienia, która jest dostępna pod adresem: https://ezamowienia.gov.pl. 5. Maksymalny rozmiar plików przesyłanych za pośrednictwem „Formularzy do komunikacji” wynosi 150 MB (wielkość ta dotyczy plików przesyłanych jako załączniki do jednego formularza). 6. Minimalne wymagania techniczne dotyczące sprzętu używanego w celu korzystania z usług Platformy eZamówienia oraz informacje dotyczące specyfikacji połączenia określa § 12 Regulamin Platformy eZamówienia, a mianowicie: 6.1. W celu prawidłowego korzystania z usług Platformy eZamówienia wymagany jest: a) Komputer PC: parametry
+minimum: Intel Core2 Duo, 2 GB RAM, HD, zainstalowany jeden z poniższych systemów operacyjnych: MS Windows 7 lub nowszy, OSX/Mac OS 10.10, Ubuntu 14.04, zainstalowana jedna z poniższych przeglądarek: Chrome 66.0 lub nowsza, Firefox 59.0 lub nowszy, Safari 11.1 lub nowsza, Edge 14.0 i nowsze, albo b) Tablet/Telefon: parametry minimum: 4 rdzenie procesora, 2GB RAM, Android 6.0 Marshmallow, iOS 10.3, przeglądarka Chrome 61 lub nowa 6.2. Dla skorzystania z pełnej funkcjonalności może być konieczne włączenie w przeglądarce obsługi protokołu bezpiecznej transmisji danych SSL, obsługi Java Script oraz cookies; 6.3.
+Specyfikacja połączenia, formatu przesyłanych danych oraz kodowania i oznaczania czasu odbioru danych: a) specyfikacja połączenia – formularze udostępnione są za pomocą protokołu TLS 1.2, b) format danych oraz kodowanie: formularze dostępne są w formacie HTML z kodowaniem UTF8, c) oznaczenia czasu odbioru danych: wszelkie operacje opierają się o czas serwera i dane zapisywane są z dokładnością co do sekundy. 7. Szczegółowe informacje o środkach komunikacji elektronicznej zawiera rozdział XII i XIII SWZ. 8. Każdy Wykonawca może złożyć jedną ofertę. 9. Ofertę składa się, pod rygorem nieważności, w formie elektronicznej w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (t. j. Dz. U. z 2024 r. poz. 307 ze zm.), z zastrzeżeniem formatów, o których mowa w art. 66 ust. 1 ustawy Pzp, z uwzględnieniem rodzaju przekazywanych danych. Zamawiający preferuje w szczególności następujące formaty przesłanych danych: .pdf, .docx, zip. (zamawiający dopuszcza także format RAR). 10. Wykonawca, którego oferta zostanie uznana za najkorzystniejszą, zobowiązany będzie do wniesienia zabezpieczenia należytego
+wykonania umowy w wysokości 5 % ceny brutto oferty (z podatkiem VAT). 11. Szczegółowe warunki dotyczące postępowania o udzielenie zamówienia publicznego są określone w SWZ, która zawiera szczegółowe informacje dotyczące przedmiotu zamówienia, warunków postępowania o udzielenie zamówienia (pełny opis procedury), warunków uczestnictwa wykonawców w postępowaniu, kryteriów oceny ofert oraz wszelkie informacje potrzebne do prawidłowego sporządzenia i złożenia oferty przez wykonawców. SWZ dostępna jest na stronie internetowej prowadzonego postępowania, o której mowa w Rozdziale I SWZ.</cbc:Description>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">645096-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">RI.271.14.2024.EM</cbc:ID>
+      <cbc:Name languageID="POL">Odbiór i zagospodarowanie odpadów komunalnych od właścicieli nieruchomości zamieszkałych na terenie gminy Lubomia w roku 2025</cbc:Name>
+      <cbc:Description languageID="POL">Przedmiotem zamówienia jest świadczenie usług w zakresie odbierania i zagospodarowania odpadów komunalnych z posesji, na których zamieszkują mieszkańcy gminy Lubomia oraz odpadów komunalnych zebranych w Punkcie Selektywnej Zbiórki Odpadów Komunalnych w Lubomi.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">1. Z postępowania o udzielenie zamówienia wyklucza się Wykonawcę, w stosunku, do którego zachodzi którakolwiek z okoliczności, o których mowa w art. 108 ustawy Pzp. 2. Zamawiający przewiduje podstawy wykluczenia wskazane w art. 109
+ust 1 pkt 4 ustawy Pzp. 3. Wykonawca podlega wykluczeniu także w oparciu o podstawy wykluczenia wskazane art. 7 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących
+ochronie bezpieczeństwa narodowego (t. j. Dz. U. 2024 r., poz. 507 z późn. zm.). 4. Wykluczenie Wykonawcy następuje również na podstawie art. 5k Rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz.U. L 229 z 31.7.2014), w brzmieniu nadanym Rozporządzeniem Rady (UE) 2022/576 z dnia 8 kwietnia 2022 r. w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz.U. L 111 z 8.4.2022). 5. Wykonawca zobowiązany jest złożyć wraz z ofertą oświadczenie stanowiące wstępne potwierdzenie, że Wykonawca na dzień składania ofert: a) nie podlega wykluczeniu, b) spełnia warunki udziału w postępowaniu. Oświadczenie  Wykonawca zobowiązany jest złożyć w formie jednolitego dokumentu sporządzonego zgodnie z wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji Europejskiej 2016/7 z dnia 5 stycznia 2016 r. wydanym na pod-stawie art. 59 ust. 2 dyrektywy 2014/24/UE, zwanego dalej „Jednolitym Dokumentem” lub „JEDZ”. – wg załącznika 2 do SWZ. 6. Wykonawca zobowiązany jest złożyć wraz z ofertą oświadczenie, że: 1) nie podlega wykluczeniu z postępowania na podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie, 2) nie zachodzą w stosunku do niego przesłanki wykluczenia z postępowania na podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz
+służących ochronie bezpieczeństwa narodowego, – wg załącznika Nr 5 do SWZ. 7. W przypadku, o którym mowa w art. 117 ust. 2 lub ust. 3 ustawy, Wykonawcy wspólnie ubiegający się o udzielenie zamówienia zobowiązani są dołączyć do oferty oświadczenie, o którym mowa w art. 117 ust. 4 ustawy („ (…) z którego wynika, które roboty budowlane, dostawy lub usługi wykonają poszczególni wykonawcy.”). W przypadku gdy ofertę składa spółka cywilna, a pełen zakres prac wykonają wspólnicy wspólnie w ramach umowy spółki oświadczenie powinno potwierdzać ten fakt Oświadczenie należy złożyć wg wymogów załącznika nr 7 do SWZ. 8. Zamawiający wezwie Wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie (nie krótszym
+niż 10 dni od dnia wezwania) następujących podmiotowych środków dowodowych (aktualnych na dzień złożenia): 9. W celu potwierdzenia spełniania warunków udziału w postępowaniu: a) dokument potwierdzający aktualny wpis w rejestrze, o którym mowa w art. 49 ust. 1 ustawy z dnia 14.12.2012r. o odpadach, prowadzonym przez Marszałka Województwa, zawierające wykaz kodów odpadów w zakresie transportu co najmniej na niżej wymienione kody odpadów: z grupy 20, z podgrupy 15 01, oraz o kodach 16 01 03, 17 01 01, 17 01 02, 17 01 03, 17 01 07, 17 01 80, 17 02 01, 17 02 02, 17 02 03, 17 03 02, 17 03 80, 17 04 01, 17 04 02, 17 04 03, 17 04 04, 17 04 05, 17 04 06, 17 04 07, 17 04 11, 17 05 08, 17 06 04, 17 08 02, 17 09 04; b) dokument potwierdzający aktualny wpis do rejestru działalności regulowanej prowadzonego przez Wójta Gminy Lubomia w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości, tj. co najmniej: wszystkich odpadów o kodach z grupy 20, wszystkich o kodach z podgrupy 15 01 oraz o kodach 16 01 03,17 01 01, 17 01 02, 17 01 03, 17 01 07, 17 01 80, 17 02 01, 17 02 02, 17 02 03, 17 03 02, 17 03 80, 17 04 01, 17 04 02, 17 04 03, 17 04 04, 17 04 05, 17 04 06, 17 04 07, 17 04 11, 17 05 08, 17 06 04,17 08 02,17 09 04 wraz z podaniem numeru rejestrowego, lub oświadczenie iż taki wpis będzie posiadał co najmniej w dniu podpisania umowy; c) informacji banku lub spółdzielczej kasy oszczędnościowo-kredytowej, potwierdzającej wysokość posiadanych środków finansowych lub zdolność kredytową Wykonawcy, w okresie nie wcześniejszym niż 3 miesiące przed jej złożeniem, d) wykaz usług wykonanych, a w przypadku świadczeń okresowych lub ciągłych również wykonywanych, w okresie ostatnich 3 lat, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których usługi zostały wykonane lub są wykonywane oraz załączeniem dowodów określających, czy te usługi zostały wykonane lub są wykonywane należycie (sporządzonego zgodnie z Załącznikiem Nr 8 do SWZ), Uwaga: Dowodami, o których mowa, są referencje bądź inne dokumenty sporządzone przez podmiot, na rzecz którego usługi zostały wykonane, a w przypadku świadczeń powtarzających się lub ciągłych są wykonywane, a jeżeli Wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – oświadczenie Wykonawcy, w przypadku świadczeń powtarzających się lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonywanie powinny być wystawione w okresie ostatnich 3 miesięcy. Okres, o którym wyżej mowa liczy się wstecz od dnia, w którym upływa termin składania ofert, e) wykaz narzędzi, wyposażenia zakładu i urządzeń technicznych dostępnych Wykonawcy w celu wykonania zamówienia publicznego wraz z informacją o podstawie dysponowania tymi zasobami (sporządzonego zgodnie z Załącznikiem Nr 9 do SWZ). 10. W celu potwierdzenia braku podstaw do wykluczenia z udziału w postępowaniu: 1) informacji z Krajowego Rejestru Karnego w
+zakresie: a) art. 108 ust. 1 pkt 1 i 2 ustawy Pzp; b) art. 108 ust. 1 pkt 4 ustawy Pzp, dotyczącej orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka karnego, -sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem; 2) oświadczenia Wykonawcy, w zakresie art. 108 ust. 1 pkt 5 ustawy Pzp, o braku przynależności do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 594), z innym Wykonawcą, który złożył odrębną ofertę, ofertę częściową lub wniosek o dopuszczenie do udziału w postępowaniu, albo oświadczenia
+o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty, oferty częściowej lub wniosku o dopuszczenie do udziału w postępowaniu niezależnie od innego wykonawcy należącego do tej samej grupy kapitałowej – wg załącznika nr 10 do SWZ, 3) oświadczenia Wykonawcy o aktualności informacji zawartych w oświadczeniu w zakresie podstaw wykluczenia z postępowania wskazanych przez Zamawiającego, o których mowa w: - art. 108 ust. 1 pkt 3 ustawy Pzp, - art. 108 ust. 1 pkt 4 ustawy Pzp, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego, - art. 108 ust. 1 pkt 5 ustawy Pzp, dotyczących zawarcia z innymi Wykonawcami porozumienia mającego na celu zakłócenie konkurencji, - art. 108 ust. 1 pkt 6 ustawy Pzp, - art. 5k Rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie, dodanym Rozporządzeniem Rady (UE) 2022/576 z dnia 8 kwietnia 2022 r. w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków  ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie i art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="POL">Teren gminy Lubomia</cbc:Description>
+         <cac:Address>
+            <cbc:StreetName>ul. Szkolna 1</cbc:StreetName>
+            <cbc:CityName>Lubomia</cbc:CityName>
+            <cbc:PostalZone>44-360</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>100</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Cena</cbc:Name>
+                  <cbc:Description languageID="POL">Zgodnie z rozdziałem XXVI SWZ.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Odwołanie wnosi się w terminie: a) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej; b) 15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a. 2. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej. 3. Odwołanie w przypadkach innych niż określone w pkt 1 i 2 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Odbiór i zagospodarowanie odpadów komunalnych od właścicieli nieruchomości zamieszkałych na terenie gminy Lubomia w roku 2025</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia jest świadczenie usług w zakresie odbierania i zagospodarowania odpadów komunalnych z posesji, na których zamieszkują mieszkańcy, w sposób umożliwiający Gminie Lubomia osiągnięcie odpowiednich poziomów recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami oraz ograniczenie masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania, zgodnie z zapisami ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (t.j. Dz. U. z 2024 r. poz. 399 z późn. zm.), zapisami Planu Gospodarki Odpadami dla Województwa Śląskiego, uchwałą w sprawie Regulaminu utrzymania czystości i porządku na terenie gminy Lubomia, ustawą z dnia 14 grudnia 2012 r. o odpadach (t.j. Dz.U. z 2023 r., poz. 1587 z późn. zm.), a także rozporządzeniami dotyczącymi realizacji zadania oraz świadczenie usługi polegającej na odbiorze i zagospodarowaniu odpadów zebranych w PSZOK (odpady również pochodzą z nieruchomości, na których zamieszkują mieszkańcy), frakcje: papier; metale; tworzywa sztuczne; szkło; odpady opakowaniowe wielomateriałowe; bioodpady; odpady niebezpieczne; przeterminowane leki i chemikalia; odpady niekwalifikujące się do odpadów medycznych powstałe w gospodarstwie domowym w wyniku przyjmowania produktów leczniczych w formie iniekcji i prowadzenia monitoringu substancji we krwi, w szczególności igły i strzykawki; zużyte baterie i akumulatory; zużyty sprzęt elektryczny i elektroniczny; zużyte opony; meble i inne odpady wielkogabarytowe; odpady budowlane i rozbiórkowe; odpady tekstyliów i odzieży.
+PSZOK (Punkt Selektywnego Zbierania Odpadów Komunalnych) – lokalizacja  Lubomia, ul. Szkolna 4, (parcela nr 934/126, k.m. 2 obręb Lubomia). 
+Prowadzący PSZOK: Urząd Gminy Lubomia, ul. Szkolna 1, 44-360 Lubomia.
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">1.	Zamawiający przewiduje udzielenie zamówienia polegającego na powtórzeniu podobnych usług, o których mowa w art. 214 ust.1 pkt 7 ustawy.
+2.	Zakres przewidywanych usług do udzielenia: zamówienia polegać będą na powtórzeniu podobnych zamówień co zamówienia podstawowe i będą zgodne z przedmiotem zamówienia podstawowego, tj. objętego przeprowadzanym przetargiem nieograniczonym i opisanym w załączniku nr 3 do SWZ. 
+3.	 Zamawiający przewiduje, iż wartość zamówienia przewidzianego do udzielenia może wynieść maksymalnie do 50% wartości zamówienia podstawowego.
+4.	Warunki, na jakich zamówienie (powtórzenie podobnych usług) zostanie udzielone:
+a) w przypadku przedłużającej się procedury udzielenia kolejnego zamówienia w procedurze otwartej, przez co należy rozumieć również brak rozstrzygnięcia postępowania w takiej procedurze,
+b)	udzielenie zamówienia zostanie poprzedzone przeprowadzeniem postępowania w trybie z wolnej ręki, po przeprowadzeniu negocjacji z Wykonawcą,
+c)	stawka jednostkowa wynagrodzenia za odebranie i zagospodarowanie 1 Mg odpadów komunalnych z terenu Gminy Lubomia będzie podlegała negocjacji.
+</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90513100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90512000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90514000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">90511000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">34928480</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Teren gminy Lubomia</cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL227</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2025-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

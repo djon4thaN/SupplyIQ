@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1390000</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">1390000</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Team Sp. z o.o.</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-13+01:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-20+01:00</cbc:IssueDate>
+                     <efac:ContractReference>
+                        <cbc:ID>Umowa nr 87/2024</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Team Sp. z o.o.</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://dolnoslaska.policja.gov.pl/</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://platformazakupowa.pl/pn/kwp_wroclaw</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Komenda Wojewódzka Policji we Wrocławiu</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Podwale 31-33</cbc:StreetName>
+                           <cbc:Department>Sekcja do spraw Zamówień Publicznych Komendy Wojewódzkiej Policji we Wrocławiu</cbc:Department>
+                           <cbc:CityName>Wrocław</cbc:CityName>
+                           <cbc:PostalZone>50-040</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL514</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>896-000-47-80</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48478713978</cbc:Telephone>
+                           <cbc:ElectronicMail>malgorzata.rosolowicz@wr.policja.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.gov.pl/web/uzp/krajowa-izba-odwolawcza</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://www.gov.pl/web/uzp/krajowa-izba-odwolawcza</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48224587801</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Team Sp. z o.o. </cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Wrocławska 56</cbc:StreetName>
+                           <cbc:CityName>Długołęka</cbc:CityName>
+                           <cbc:PostalZone>55-095</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL518</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>8961551248</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+48717576600</cbc:Telephone>
+                           <cbc:ElectronicMail>bmw@bmw-team.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000285-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">d2c09d86-977a-4dc6-bcfb-652bd3a5c706</cbc:ID>
+   <cbc:ContractFolderID>cc894d60-88b6-47a9-bb16-9a145876c50d</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-30Z</cbc:IssueDate>
+   <cbc:IssueTime>09:22:47Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2025-01-02Z</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://platformazakupowa.pl/pn/kwp_wroclaw</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">cga</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">pub-os</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">741001-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">true</cbc:ProcessReasonCode>
+         <cbc:ProcessReason languageID="POL">Planowany zakup pojazdów realizowany jest ze środków budżetowych. Dostawa tego typu pojazdów przewiduje wykorzystanie środków finansowych wraz z opłaceniem faktur do 27.12.2024 r.. Niewykorzystanie przyznanych środków finansowych do wyznaczonego terminu spowoduje ich nieodwracalną utratę i znacząco utrudni realizację przez Policję zadań ustawowych dotyczących ochrony i bezpieczeństwa obywateli RP.
+W związku z tym, że przy zachowaniu należytej staranności i terminu określonego w art. 138 ust. 1 ustawy Pzp nie jest możliwa realizacja zakupu pojazdów oraz ich dostawy w terminie pozwalającym na rozliczenie środków finansowych do końca roku budżetowego, a zakup pojazdów jest niezbędny do realizacji zadań ustawowych Policji oraz uwzględniając fakt, że sytuacja ta wyniknęła z przyczyn niezależnych od Zamawiającego spełniły się przesłanki uzasadniające skrócenie terminu składania ofert. </cbc:ProcessReason>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="POL">Dostawa trzech samochodów osobowych typu SUV wzmocniony w wersji nieoznakowanej o mocy silnika od 310 KM do 360 KM</cbc:Name>
+      <cbc:Description languageID="POL">1. Postępowanie nie zostało podzielone na części. Wymaga się złożenia oferty obejmujące trzy samochody typu SUV wzmocniony w wersji nieoznakowanej o mocy silnika od 310 KM do 360 KM 
+2. Dostawa obejmuje pojazdy nowe, wyprodukowane w 2023 lub 2024 r. spełniające wszystkie minimalne wymagania opisane w załącznikach numer:
+- 1 do SWZ – Wymagania ogólne,  
+- 1.1 do SWZ – Podstawowe wymagania samochodu, 
+- 1.2 do SWZ – Wymagania gwarancyjne 
+3. Miejsce dostawy: Wyk. zobowiązany jest wszystkie dostarczyć pojazdy do Wydz. Transportu KWP we Wrocławiu, 54-151 Wrocław, ul. Połbina 1. 
+4. Wykonawcy ubiegający się o udzielenie zamówienia zobowiązani są dołączyć do składanej oferty przedmiotowe środki dowodowe potwierdzające że oferowana dostawa spełnia określone przez Zamawiającego wymagania, cechy i kryteria. Wykaz przedmiotowych środków dowodowych, które należy dołączyć do składanej oferty:
+4.1.	Wyciąg ze świadectwa homologacji typu pojazdu dla pojazdu bazowego lub świadectwo zgodności WE dla kompletnych pojazdów, potwierdzające parametry pojazdu stanowiące podstawę do obliczenia punktów w kryteriach pozacenowych 
+Zam. wymagając załączenia do oferty: "Dokumentu potwierdzającego spełnienie wymogu (świadectwo zgodności WE pojazdu bazowego) (.......) rozumie pod tym pojęciem przedstawienie wzoru takiego dokumentu dla pojazdu, który jest taki sam (ta sama marka i typ oraz posiadający te same parametry techniczne podlegające ocenie w ramach kryteriów pozacenowych) jak oferowany. W związku z tym, że kryterium oceny oferty stanowią m.in. parametry pojazdu ujawnione w tym dokumencie, Zam. wymaga załączenia go do oferty dla porównania i oceny parametrów oferowanego pojazdu. 
+W związku z tym, że wskazany dokument stanowi potwierdz. parametrów oferowanego pojazdu (opis przedmiotu zamówienia), które stanowią kryteria oceny ofert, dokument ten nie podlega uzupełnieniu (jest treścią oferty).
+4.2.	Oświad. potwierdz. spełnianie przez oferowane dostawy wymagań określ. w zał. nr 1, 1.1, 1.2 wykonane poprzez wypełnienie i podpisanie zał. nr 1.1, 1.2 do SWZ 
+4.3.	Forma przedmiotowych środków dowodowych- Rozdz. VI SWZ.
+4.4. Uzupełnianie i wyjaśnianie treści przedmiotowych środków dowodowych:
+4.4.1.Wyciąg ze świadectwa homologacji typu pojazdu dla pojazdu bazowego lub świadectwo zgodności WE dla kompletnych pojazdów – nie podlega uzupełnieniu.
+4.4.2.Jeżeli wykonawca nie złoży oświadczeń stanowiących przedmiotowe środki dowodowe wskazanych w Rozdziale VI pkt 1.2 SWZ (powyżej) lub złożone przedmiotowe środki dowodowe będą niekompletne, Zamawiający wezwie do ich złożenia lub uzupełnienia w wyznaczonym terminie.
+4.4.3.Zamawiający może żądać od wykonawców wyjaśnień dotyczących treści przedmiotowych środków dowodowych.
+5. Zam. przewiduje możliwość udzielania zaliczek na poczet wykonania zamówienia – zasady udzielania zaliczek opisano w §5 PPU.
+6. Zam. nie przewiduje udzielania zamówień, o których mowa w art. 214 ust. 1 pkt 8 ustawy Pzp.
+7. Zam. przewiduje zastosowanie procedury, o której mowa w art. 139 ustawy Pzp, tzw. „procedury odwróconej”, tzn. Zam. może najpierw dokonać badania i oceny ofert, a następnie dokonać kwalifikacji podmiotowej Wyk., którego oferta została najwyżej oceniona, w zakresie braku podstaw wykl.
+8. Na podstawie art. 257 ustawy Pzp Zam. informuje, że unieważni postępowanie o udzielenie zamówienia, jeżeli środki publiczne, które zamierzał przeznaczyć na sfinansowanie całości lub części zamówienia, nie zostaną mu przyznane.
+9. Dopuszczalne zmiany umowy opisano w Rozdz. XXIII SWZ.
+10. Klauzula informacyjna RODO - Rozdział II SWZ.
+11. Wykonawca zobowiązany jest do zabezpieczenia swojej oferty wadium - wysokość wadium wynosi: 20000,00 zł. Forma wniesienia wadium, informacje dot. jego zwrotu, zatrzymania bądź zaliczenia na poczet ZNWU - Rozdział XIII SWZ.
+12. Termin dostawy zamówienia gwarantowanego wynosi 5 dni od daty zawarcia umowy. 
+13. Wykonawca będzie związany ofertą do dnia: 11.03.2025 r.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">O udzielenie zamówienia mogą ubiegać się wykonawcy, którzy nie podlegają wykluczeniu. Zamawiający nie opisuje warunków udziału w postępowaniu. Zam. nie przewiduje wykluczenia na podstawie przepisów art. 109 Pzp. 
+1. JEDZ oraz wykaz podm. śr. dowod. wymaganych przez Zam. Do oferty Wykonawcy zobowiązani są dołączyć: 
+1.1. aktualne na dzień jego złożenia oświadczenie własne wykonawcy, stanowiące dowód potwierdzający brak podstaw do wykluczenia oraz spełnianie
+warunku udziału w postępowaniu. Wyk. składa oświadczenie za pomocą formularza JEDZ, w zakresie w nim określonym oraz oświad., że nie zachodzą wobec niego podstawy wykluczenia przewidziane w: art. 5k rozp. (UE) 833/2014 w brzmieniu nadanym rozp. 2022/576 (UE) oraz w art. 7 ust. 1 Ustawy z 13.04.2022 o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego. Dokument JEDZ oraz oświad. dotyczące podstaw wykluczenia z art. 5k rozp. 833/2014 w brzmieniu nadanym rozp. 2022/576 oraz określonych
+w art. 7 ust. 1 Ustawy z 13.04.2022 o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa
+narodowego należy złożyć w formie elektron., w postaci elektronicznej i opatrzyć kwalifik. podpisem elektron. 
+1.1.1. JEDZ – to Jednolity Europejski Dokument Zamówienia stanowiący wzór standardowego formularza, określony w rozp. wyk. KE wydanym na podstawie art. 59 ust. 2 dyrektywy 2014/24/UE. 
+1.1.2. Wyk. może wypełnić JEDZ, który został dołączony do SWZ w wersji edytowalnej (zał. nr 3 do SWZ) albo wypełnić JEDZ poprzez pobranie ze strony internetowej Zam. wersji elektronicznej w formacie XML i korzystając z dostępnych narzędzi lub oprogramowania i zaimportować plik JEDZ zapisany w formacie XML do narzędzia, które umożliwia wypełnienie JEDZ i utworzenie dok. elektron. np. https://www.uzp.gov.pl/e-uslugi /jedz. 
+1.1.3. W JEDZ należy wypełnić wskazane niewykreślone części: 
+- wskazane niewykreślone pola w część II - wskazane niewykreślone pola w część III - w części IV należy wypełnić tylko pole alfa (ogólne oświadczenie dotyczące wszystkich kryteriów kwalifikacji) 
+- część VI oświadczenia końcowe (należy wypełnić wykropkowane pola oraz podpisać kwalifik. podpisem elektron.) 
+1.1.4. W przypadku wspólnego ubiegania się przez Wyk. o zamówienie (konsorcja, spółki cywilne), JEDZ oraz oświadczenie, że nie zachodzą wobec niego podstawy wykluczenia przewidziane w: art. 5k rozp. (UE) 833/2014 w brzmieniu nadanym rozporządzeniem 2022/576 (UE) oraz w art. 7 ust. 1 Ustawy z 13.04.2022 o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę (...), składa każdy z Wyk. wspólnie ubiegający się o zamówienie (każdy konsorcjant, każdy wspólnik spółki cywilnej). Oświadczenia te, odpowiednio, mają potwierdzać niepodleganie wykluczeniu w zakresie, w którym każdy z Wykonawców wykazuje niepodleg. wykluczeniu. 1.1.5. Oświadczenia podmiotów składających ofertę wspólnie składane na form. JEDZ oraz na formularzu oświad. dotyczącego podstaw wykluczenia z art. 5k rozp. 833/2014 w brzmieniu nadanym rozp. 2022/576 oraz określonych w art. 7 ust. 1 Ustawy z 13.04.2022 o
+szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego powinny mieć formę dok. elektronicznego, podpisanego kwalifik. podpisem elektron. przez każdego z nich w zakresie w jakim potwierdzają okoliczności, o których mowa w treści art. 125 Pzp. 1.1.6. Zam. w niniejszym postęp. nie żąda złożenia oświadczeń o niepodleganiu wykluczeniu od podwykonawców.
+Dokumenty składane wraz z ofertą.
+a. Wypełniony  i podpisany formularz ofertowy zawierający informacje określone w załączniku nr 3 do SWZ.
+b. Przedmiotowe środki dowodowe, o których mowa w Rozdziale VI SWZ, tj. Świadectwo homologacji bądź świadectwo zgodności WE dla kompletnych pojazdów oraz wypełnione i podpisane oświadczenia stanowiące przedmiotowy środek dowodowy.
+c. Wypełnione, w zakresie wskazanym przez Zamawiającego, aktualne na dzień składania ofert i podpisane oświadczenia, o których mowa w art. 125 ustawy Pzp (JEDZ – załącznik nr 4 do SWZ oraz oświadczenie o niepodleganiu wykluczeniu wynikające z rozporządzenia UE i związanej z tym ustawy z dnia 13 kwietnia 2022 o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego – załącznik nr 4.1 do SWZ).
+d. Dowód wniesienia wadium.
+e. W przypadku, gdy ofertę (lub jakiekolwiek dokumenty dołączone do oferty) podpisuje osoba nie wymieniona w dokumentach rejestrowych Wykonawcy, do oferty należy dołączyć pełnomocnictwo. Pełnomocnictwo do złożenia oferty musi być złożone w oryginale w takiej samej formie, jak składana oferta (tj. w formie elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym). 
+Pełnomocnictwo w postaci elektronicznej, opatrzone kwalifikowanym podpisem elektronicznym należy dołączyć do oferty. W przypadku, gdy pełnomocnictwo zostało sporządzone jako dokument w postaci papierowej i opatrzone własnoręcznym podpisem, wykonawca przekazuje cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym potwierdzającym zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej. Potwierdzenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej dokonuje notariusz lub mocodawca. Elektroniczna kopia pełnomocnictwa (jego cyfrowe odwzorowanie) nie może być uwierzytelniona przez upełnomocnionego.
+f. Dodatkowo Wykonawcy ubiegający się wspólnie o udzielenie zamówienia (np. spółki cywilne, konsorcja):
+- zgodnie z art. 58 ust. 2 ustawy Pzp, Wykonawcy ubiegający się wspólnie o udzielenie zamówienia zobowiązani są ustanowić pełnomocnika. Do oferty należy dołączyć to pełnomocnictwo. Z treści pełnomocnictwa winno jednoznacznie wynikać prawo pełnomocnika do reprezentowania Wykonawcy w postępowaniu o udzielenie zamówienia publicznego albo do reprezentowania w postępowaniu i zawarcia umowy w sprawie zamówienia publicznego w imieniu Wykonawcy. Dokument ten winien być podpisany przez osobę/osoby uprawnioną(-e) do jego udzielenia tj. zgodnie z formą reprezentacji każdego z Wykonawców (UWAGA!!! Pełnomocnictwo podpisuje wyłącznie mocodawca kwalifikowanym podpisem elektronicznym). W przypadku wspólników spółki cywilnej dopuszczalne jest przedłożenie umowy spółki cywilnej, z której wynika zakres i sposób reprezentacji, a w przypadku konsorcjum przedłożenie umowy konsorcjum (oryginał - forma elektroniczna z kwalifikowanymi podpisami elektronicznymi lub  cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym poświadczającym zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej podpisane przez mocodawców lub notariusza)
+</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">34114200</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:StreetName>ul. Podwale 31-33</cbc:StreetName>
+            <cbc:CityName>Wrocław</cbc:CityName>
+            <cbc:PostalZone>50-040</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL514</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="POL">.</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Liczba punktów, którą można uzyskać w ramach tego kryterium obliczona zostanie przez podzielenie ceny najtańszej z ofert przez cenę ocenianej oferty i pomnożenie tak otrzymanej liczby przez 100 oraz przez wagę kryterium, którą ustalono na 60 %.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="POL">Parametry techniczno - użytkowe - 40% - liczba punktów, którą można uzyskać w ramach tego kryterium obliczona zostanie zgodnie z załącznikiem numer 6 do SWZ.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1.	Środki ochrony prawnej  uregulowane są w Dziale IX ustawy Pzp.
+2.	Środki ochrony prawnej przysługują wykonawcy, uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy.
+3.	Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15 ustawy Pzp, oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+4.	Postępowanie odwoławcze jest prowadzone w języku polskim. Wszystkie dokumenty przedstawia się w języku polskim, a jeżeli zostały sporządzone w języku obcym, strona oraz uczestnik postępowania odwoławczego, który się na nie powołuje, przedstawia ich tłumaczenie na język polski. W uzasadnionych przypadkach Izba może żądać przedstawienia tłumaczenia dokumentu na język polski poświadczonego przez tłumacza przysięgłego.
+5.	Odwołanie przysługuje na: 
+1) niezgodną z przepisami ustawy czynność zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, w tym na projektowane postanowienie umowy; 
+2) zaniechanie czynności w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, do której zamawiający był obowiązany na podstawie ustawy; 
+3) zaniechanie przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania konkursu na podstawie ustawy, mimo że zamawiający był do tego obowiązany. 
+6. Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. Odwołujący przekazuje zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu. . Domniemywa się, że zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
+7. Odwołanie wnosi się: w terminie: 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej albo w terminie 15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż przy użyciu środków komunikacji elektronicznej.
+8. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub konkurs lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne.
+9. Odwołanie w przypadkach innych niż określony pkt 8 wnosi się w terminie: 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne;
+10. Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty lub nie zaprosił wykonawcy do złożenia oferty w ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się nie później niż w terminie: 
+- 15 dni od dnia zamieszczenia w Biuletynie Zamówień Publicznych ogłoszenia o wyniku postępowania albo 30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia, a w przypadku udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki ‒ ogłoszenia o wyniku postępowania albo ogłoszenia o udzieleniu zamówienia, zawierającego uzasadnienie udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki; 
+- 6 miesięcy od dnia zawarcia umowy, jeżeli zamawiający: 
+a) nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia albo 
+b) opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenie o udzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki; 
+- miesiąca od dnia zawarcia umowy, jeżeli zamawiający: 
+a) nie zamieścił w Biuletynie Zamówień Publicznych ogłoszenia o wyniku postępowania albo b) zamieścił w Biuletynie Zamówień Publicznych ogłoszenie o wyniku postępowania, które nie zawiera uzasadnienia udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki. 
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Dostawa trzech samochodów osobowych typu SUV wzmocniony w wersji nieoznakowanej o mocy silnika od 310 KM do 360 KM</cbc:Name>
+         <cbc:Description languageID="POL">Postępowanie nie zostało podzielone na części. Wymaga się złożenia oferty obejmujące trzy samochody typu SUV wzmocniony w wersji nieoznakowanej o mocy silnika od 310 KM do 360 KM 
+Dostawa obejmuje pojazdy nowe, wyprodukowane w 2024 r. spełniające wszystkie minimalne wymagania opisane w załącznikach numer:
+- 1 do SWZ – Wymagania ogólne,  
+- 1.1 do SWZ – Podstawowe wymagania samochodu, 
+- 1.2 do SWZ – Wymagania gwarancyjne 
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">34114200</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL514</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="DAY">5</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

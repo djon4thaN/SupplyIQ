@@ -1,0 +1,11 @@
+metric_id,area,metric_name,metric_value,unit,status,notes
+d6m_001,monetary,award_value coverage,78.92,percent,validated,Values are explicit tender PayableAmount only.
+d6m_002,monetary,contract_value coverage,0.00,percent,gap,No direct SettledContract monetary value in subset.
+d6m_003,monetary,negative monetary values,0,records,validated,No negative values.
+d6m_004,monetary,flagged monetary outliers,29,records,review,Retained without correction.
+d6m_005,buyers,buyers with country,286,records,validated,of 286
+d6m_006,suppliers,suppliers with country,488,records,gap,of 594; missing rows are NIST.
+d6m_007,entities,entity quality issues,131,records,review,Includes missing country and duplicate candidates.
+d6m_008,categories,CPV codes valid,218,records,validated,of 218
+d6m_009,categories,category labels present,0,records,gap,of 218
+d6m_010,relationships,award-supplier value mismatches,0,records,validated,Bridge value matches award value when populated.

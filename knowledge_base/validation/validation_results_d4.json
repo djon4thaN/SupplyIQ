@@ -1,0 +1,90 @@
+{
+  "phase": "D4",
+  "generated_at": "2026-08-19",
+  "status": "validated_with_gaps",
+  "checks_total": 16,
+  "checks_passed": 16,
+  "checks_failed": 0,
+  "checks": [
+    {
+      "check": "TED source metadata updated",
+      "status": "pass",
+      "detail": "sources.csv"
+    },
+    {
+      "check": "subset registry row",
+      "status": "pass",
+      "detail": "deterministic selection"
+    },
+    {
+      "check": "fixed date range",
+      "status": "pass",
+      "detail": "Q1 2025"
+    },
+    {
+      "check": "no random sampling",
+      "status": "pass",
+      "detail": "sorting and fixed limit"
+    },
+    {
+      "check": "no manual country/category filter",
+      "status": "pass",
+      "detail": "unfiltered"
+    },
+    {
+      "check": "field mappings documented",
+      "status": "pass",
+      "detail": "18 candidate mappings"
+    },
+    {
+      "check": "license gap closed",
+      "status": "pass",
+      "detail": "resolved in D4"
+    },
+    {
+      "check": "D4 gaps recorded",
+      "status": "pass",
+      "detail": "4 gaps"
+    },
+    {
+      "check": "RFC column width sources.csv",
+      "status": "pass",
+      "detail": "3 rows"
+    },
+    {
+      "check": "snake_case header sources.csv",
+      "status": "pass",
+      "detail": "16 columns"
+    },
+    {
+      "check": "RFC column width subset_registry.csv",
+      "status": "pass",
+      "detail": "1 rows"
+    },
+    {
+      "check": "snake_case header subset_registry.csv",
+      "status": "pass",
+      "detail": "14 columns"
+    },
+    {
+      "check": "RFC column width ted_field_mapping.csv",
+      "status": "pass",
+      "detail": "18 rows"
+    },
+    {
+      "check": "snake_case header ted_field_mapping.csv",
+      "status": "pass",
+      "detail": "9 columns"
+    },
+    {
+      "check": "RFC column width research_gaps.csv",
+      "status": "pass",
+      "detail": "16 rows"
+    },
+    {
+      "check": "snake_case header research_gaps.csv",
+      "status": "pass",
+      "detail": "9 columns"
+    }
+  ]
+}

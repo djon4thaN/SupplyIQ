@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="EUR">100000</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID>TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID>CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="EUR">100000</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:TenderingParty>
+                        <cbc:ID>TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>OFFRE JOPER</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-12-04+02:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-30+02:00</cbc:IssueDate>
+                     <efbc:ContractFrameworkIndicator>true</efbc:ContractFrameworkIndicator>
+                     <cac:NoticeDocumentReference>
+                        <cbc:ID>639226-2024</cbc:ID>
+                     </cac:NoticeDocumentReference>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID>ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>25ENTRVEHICULES</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID>TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>JOPER AUTO</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID>ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">OPH Plaine Commune Habitat</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>5 bis rue Danielle Casanova</cbc:StreetName>
+                           <cbc:CityName>Saint-denis</cbc:CityName>
+                           <cbc:PostalZone>93200</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR106</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>48274107100021</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Pôle Commande Publique </cbc:Name>
+                           <cbc:Telephone>0148136204</cbc:Telephone>
+                           <cbc:ElectronicMail>directioncommandepubliqueetjuridique@plainecommunehabitat.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">JOPER AUTO
+</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>63 Bd de la liberation</cbc:StreetName>
+                           <cbc:CityName>Saint-Denis</cbc:CityName>
+                           <cbc:PostalZone>93200</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR106</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>40254536200020</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">TRIBUNAL ADMINISTRATIF DE MONTREUIL</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>7 rue Catherien PLUIG</cbc:StreetName>
+                           <cbc:CityName>MONTREUIL</cbc:CityName>
+                           <cbc:PostalZone>93105</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR106</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>13000686900015</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>0149202000</cbc:Telephone>
+                           <cbc:ElectronicMail>greffe.ta-montreuil@juradm.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000272-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.11</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">24966eff-b454-4345-aefe-c187880ee290</cbc:ID>
+   <cbc:ContractFolderID>629318fa-a432-4e3d-88d9-d9e2b307b5a1</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-31+02:00</cbc:IssueDate>
+   <cbc:IssueTime>08:52:27+02:00</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">FRA</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">hc-am</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID>ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID>25ENTRVEHICULES</cbc:ID>
+      <cbc:Name languageID="FRA">ACCORD-CADRE À BONS DE COMMANDE POUR L'ENTRETIEN ET LA RÉPARATION DES VÉHICULES DE TOURISME ET UTILITAIRES DE PLAINE COMMUNE HABITAT</cbc:Name>
+      <cbc:Description languageID="FRA">Le présent Accord-cadre a pour objet les prestations d'entretien et de réparation notamment au niveau de la mécanique, tôlerie, peinture ainsi que la fourniture des pièces détachées pour des véhicules de tourisme et des véhicules utilitaires de PCH. Le Titulaire doit être en capacité d'effectuer les prestations et livrer les fournitures, objets du présent Accord-cadre, quelle que soit la marque du constructeur automobile ou le type de véhicule (hybride, électrique…). En effet, la flotte est susceptible d'évoluer suite à l'achat de nouveaux véhicules, pour remplacer les véhicules plus anciens. Ces prestations sont à réaliser au fur et à mesure des besoins, pour l'ensemble du patrimoine géré par l'OPH Plaine Commune Habitat. L'accord-cadre est fractionné, il s'agit d'un accord-cadre à bons de commande. Telles que le permettent les dispositions de l'article R.2162-4 du Code de la commande publique, le présent accord-cadre ne comporte pas de montant minimum. Toutefois, pour information, le montant maximum annuel des commandes de l'accord-cadre s'élève à 120 000 Euros HT et le montant prévisionnel annuel des commandes serait de 100 000 Euros HT. Les prestations devront être exécutées conformément aux stipulations de l'accord-cadre et dans le respect de la réglementation, des normes en vigueur, ainsi que des règles de l'art. Ces montants sont purement indicatifs, en aucun cas l'OPH Plaine Commune Habitat ne s'engage à passer des commandes annuelles à hauteur de ces montants. Les prix applicables sont ceux du BPU appliqués aux quantités réellement exécutés. Les réparations se feront au garage du Titulaire.  Les demandes de remorquage se feront principalement sur le territoire du département de la Seine Saint-Denis, notamment au siège de l'Office Plaine Commune Habitat et de manière subsidiaire, il peut être étendu sur tout le territoire de la région parisienne. Le présent accord-cadre n'est pas décomposé en tranches. Aucune variante n'est imposée au titre du présent accord-cadre. Le présent accord-cadre n'est pas décomposé en tranches. 
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="FRA">1) critères d'agrément des candidatures : capacités économiques et financières du candidat et capacités techniques et professionnelles du candidat. 2) Critères d'attributions: les critères de choix de l'offre économiquement la plus avantageuse sont plus précisément décrites dans le RC. 3) Modalités de retrait : les dossiers de consultation peuvent être téléchargés gratuitement sur notre plateforme de dématérialisation : www.maximilien.fr 4) Modalités de remise des plis: les plis seront remis obligatoirement par voie électronique, à l'adresse suivante: www.maximilien.fr dans les conditions décrites au RC 5) Introduction des voies de recours : Tribunal Administratif de Montreuil, 7 rue Catherine PUIG, 93100, Montreuil, F, Téléphone : (+33) 1 49 20 20 00, Courriel : greffe.ta-montreuil@juradm.fr. Les montants indiqués dans la partie 2.1.3 "Valeur estimée" concerne le montant estimatif global des commandes sur la totalité de la durée de l'accord-cadre. En aucun cas l'OPH Plaine Commune Habitat ne s'engage à passer des commandes à hauteur de ces montants.</cbc:Note>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="EUR">400000</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">50110000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">50118400</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">50117300</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="FRA">Les critères d'attribution sont plus précisément décrits dans le RC.</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Les critères d'attribution sont plus précisément décrits dans le RC.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Les critères d'attribution sont plus précisément décrits dans le RC.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="FRA">Tribunal administratif de Montreuil
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cac:SubsequentProcessTenderRequirement>
+               <cbc:Name>buyer-categories</cbc:Name>
+            </cac:SubsequentProcessTenderRequirement>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID>25ENTRVEHICULES</cbc:ID>
+         <cbc:Name languageID="FRA">ACCORD-CADRE À BONS DE COMMANDE POUR L'ENTRETIEN ET LA RÉPARATION DES VÉHICULES DE TOURISME ET UTILITAIRES DE PLAINE COMMUNE HABITAT</cbc:Name>
+         <cbc:Description languageID="FRA">Le présent Accord-cadre a pour objet les prestations d'entretien et de réparation notamment au niveau de la mécanique, tôlerie, peinture ainsi que la fourniture des pièces détachées pour des véhicules de tourisme et des véhicules utilitaires de PCH. Le Titulaire doit être en capacité d'effectuer les prestations et livrer les fournitures, objets du présent Accord-cadre, quelle que soit la marque du constructeur automobile ou le type de véhicule (hybride, électrique…). En effet, la flotte est susceptible d'évoluer suite à l'achat de nouveaux véhicules, pour remplacer les véhicules plus anciens. Ces prestations sont à réaliser au fur et à mesure des besoins, pour l'ensemble du patrimoine géré par l'OPH Plaine Commune Habitat. L'accord-cadre est fractionné, il s'agit d'un accord-cadre à bons de commande. Telles que le permettent les dispositions de l'article R.2162-4 du Code de la commande publique, le présent accord-cadre ne comporte pas de montant minimum. Toutefois, pour information, le montant maximum annuel des commandes de l'accord-cadre s'élève à 120 000 Euros HT et le montant prévisionnel annuel des commandes serait de 100 000 Euros HT. Les prestations devront être exécutées conformément aux stipulations de l'accord-cadre et dans le respect de la réglementation, des normes en vigueur, ainsi que des règles de l'art. Ces montants sont purement indicatifs, en aucun cas l'OPH Plaine Commune Habitat ne s'engage à passer des commandes annuelles à hauteur de ces montants. Les prix applicables sont ceux du BPU appliqués aux quantités réellement exécutés. Les réparations se feront au garage du Titulaire.  Les demandes de remorquage se feront principalement sur le territoire du département de la Seine Saint-Denis, notamment au siège de l'Office Plaine Commune Habitat et de manière subsidiaire, il peut être étendu sur tout le territoire de la région parisienne. Le présent accord-cadre n'est pas décomposé en tranches. Aucune variante n'est imposée au titre du présent accord-cadre. Le présent accord-cadre n'est pas décomposé en tranches. </cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">50110000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">50118400</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">50117300</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">FR106</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2025-01-01+02:00</cbc:StartDate>
+            <cbc:DurationMeasure unitCode="YEAR">1</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="FRA">Le présent accord-cadre est conclu à compter du 1e janvier 2025 jusqu'au 31 décembre 2025. 
+Il fera l'objet d'une reconduction tacite, par année civile, dans la limite de trois reconductions, sans que leur durée totale ne puisse excéder quatre ans, soit jusqu'au 31 décembre 2028. Cependant, il peut être mis fin à l'accord-cadre à l'expiration de chaque période par l'acheteur, qui informera le titulaire de sa décision trois mois avant la fin de la période en cours, par lettre recommandée avec accusé de réception. 
+La non-reconduction de l'accord-cadre dans ces conditions n'ouvre droit à aucune indemnité pour le titulaire. Le titulaire de l'accord-cadre ne pourra refuser sa reconduction. </cbc:OptionsDescription>
+            <cbc:MaximumNumberNumeric>3</cbc:MaximumNumberNumeric>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">1229385</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">2144286.06</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">1229385</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>4</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">1229385</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">not-known</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta SAFEGE</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2024-10-21+02:00</cbc:AwardDate>
+                     <cbc:IssueDate>2024-12-30+01:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Umowa SAFEGE</cbc:Title>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>Umowa SAFEGE</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:Funding>
+                        <efbc:FinancingIdentifier>FENX.01.05-IW.01- 0001/23</efbc:FinancingIdentifier>
+                     </efac:Funding>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>SAFEGE</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.bgpn.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://ezamowienia.gov.pl/pl/</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Babiogórski Park Narodowy z siedzibą w Zawoi</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>1403</cbc:StreetName>
+                           <cbc:CityName>Zawoja</cbc:CityName>
+                           <cbc:PostalZone>34-222</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL219</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>REGON 122462192</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>507 784 217</cbc:Telephone>
+                           <cbc:ElectronicMail>park@bgpn.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.uzp.gov.pl/kio</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>(22) 458 78 00</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">„JZP Kancelaria Adwokacka” Jarosz-Zugaj, Ziaja-Pisula, Zugaj i Partnerzy sp. p. z siedzibą w Katowicach</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Sienna 10</cbc:StreetName>
+                           <cbc:CityName>Katowice</cbc:CityName>
+                           <cbc:PostalZone>40-544</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL22A</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>KRS: 0001044877</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>bgnp@jzplegal.com</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">SAFEGE Societe par actions simplifiee 
+</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>15-27 Rue du Port, Parc de I’lle</cbc:StreetName>
+                           <cbc:Department>SAFEGE Societe par actions simplifiee (Spółka Akcyjna Uproszczona) Oddział w Polsce</cbc:Department>
+                           <cbc:CityName>Nanterre Cedex</cbc:CityName>
+                           <cbc:PostalZone>92022</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR105</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>542021829 R.C.S.</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>SAFEGE Societe par actions simplifiee (Spółka Akcyjna Uproszczona) Oddział w Polsce</cbc:Name>
+                           <cbc:ElectronicMail>przetargi@suezpolska.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000023-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">e90f2f35-47e5-4075-ae50-f3a42cd0d385</cbc:ID>
+   <cbc:ContractFolderID>2b89434e-8946-4ac3-885a-4047c21b6eb8</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-30Z</cbc:IssueDate>
+   <cbc:IssueTime>16:39:08Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">env-pro</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">499085-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">ZP-10/2024</cbc:ID>
+      <cbc:Name languageID="POL">Usługa pełnienia funkcji Inwestora Zastępczego (z rozszerzonym zakresem obowiązków) przy realizacji inwestycji pod nazwą „Budowa Centrum Edukacji Przyrodniczej MORGI”</cbc:Name>
+      <cbc:Description languageID="POL">3.1.	Przedmiotem zamówienia jest usługa pełnienia funkcji Inwestora Zastępczego (z rozszerzonym zakresem obowiązków) przy realizacji inwestycji pod nazwą „Budowa Centrum Edukacji Przyrodniczej MORGI” (dalej również: „Inwestycja).
+3.2.	Zamówienie zostało podzielone na etapy: Etap I, II i III oraz Etap IV jako przysługujące Zamawiającemu prawo opcji.
+3.3.	Inwestor Zastępczy będzie działał w imieniu i na rzecz Zamawiającego na podstawie udzielonych pełnomocnictw (inwestor zastępczy o charakterze pełnomocniczym), w tym m.in. pełnomocnictwa udzielonego w trybie art. 37 ust. 2 PZP.
+3.4.	Szczegółowy opis przedmiotu zamówienia stanowi załącznik 1 do SWZ.
+3.6.	Miejsce realizacji umowy: usługa będzie wykonywana w formie zdalnej oraz formie stacjonarnej na terenie realizacji Inwestycji - teren Babiogórskiego Parku Narodowego (poza obszarem Natura 2000), 34-222 Zawoja Widły, województwo Małopolskie, działki nr 22727/13 i 22728/1 obręb 0002 Zawoja lub w innym wskazanym przez Zamawiającego miejscu.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">5.1.	Zamawiający wymaga zatrudnienia na podstawie umowy o pracę przez Wykonawcę lub podwykonawcę osób wykonujących wskazane poniżej czynności w trakcie realizacji zamówienia: 
+5.1.1.	prace administracyjno-biurowe obsługi przedmiotu zamówienia.
+Szczegółowe zasady określa pkt. 5 SWZ.
+12.1.	Do oferty każdy Wykonawca zobowiązany jest dołączyć:
+12.1.1.	Dokumenty, z których wynika umocowanie do składania oświadczeń woli w imieniu Wykonawcy (przynajmniej do złożenia oferty) – np. odpis z KRS lub CEIDG (o ile dotyczy). Jeżeli Wykonawca działa przez pełnomocnika należy dodatkowo załączyć stosowne pełnomocnictwo dla danej osoby. 
+12.1.2.	Wypełniony formularz ofertowy - stanowiący załącznik nr 2 do SWZ.
+12.1.3.	Zobowiązanie podmiotu udostępniającego zasoby (o ile dotyczy), wraz z oświadczeniem, o którym mowa w pkt. 12.1.6  SWZ od tego podmiotu.
+12.1.4.	Przedmiotowe środki dowodowe, o których mowa w pkt. 13.1 SWZ.
+12.1.5.	Oświadczenie Wykonawców wspólnie ubiegających się o udzielenie zamówienia w zakresie wskazanym w art. 117 ust. 4 PZP (jeśli dotyczy).
+12.1.6.	Wykaz osób, o którym mowa w pkt. 12.4.1.2 SWZ – w zakresie kryterium oceny ofert. 
+12.1.7.	Aktualne na dzień składania ofert oświadczenie, o którym mowa w art. 125 ust. 1 PZP o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu w zakresie wskazanym w pkt. 10.1 SWZ.
+12.1.8.	Oświadczenie, o którym mowa w pkt. 12.1.7 SWZ, składa się na formularzu jednolitego europejskiego dokumentu zamówienia, sporządzonym zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia (Dz. Urz. UE L 3 z 06.01.2016, str. 16), zwanego dalej "JEDZ”. Dalsze zasady do. JEDXZ określa pkt. od 12.1.9 do 12.1.11 SWZ.
+12.2.	W postępowaniu o udzielenie zamówienia Zamawiający żąda podmiotowych środków dowodowych na potwierdzenie:
+12.2.1.	braku podstaw wykluczenia;
+12.2.2.	spełniania warunków udziału w postępowaniu.
+12.3.	Zamawiający najpierw dokona badania i oceny ofert, a następnie kwalifikacji podmiotowej Wykonawcy, którego oferta została najwyżej oceniona. Zamawiający wzywa Wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, nie krótszym niż 10 dni od dnia wezwania, podmiotowych środków dowodowych, wskazanych w pkt. 12.4 - 12.6 SWZ, aktualnych na dzień składania.
+12.4.	Oświadczenia i dokumenty potwierdzające spełnianie warunków udziału w postępowaniu przez Wykonawcę:
+12.4.1.	W zakresie warunku dotyczącego zdolności technicznej lub zawodowej:
+12.4.1.1.	wykaz usług wykonanych nie wcześniej niż w okresie ostatnich 6 lat  , a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie –  wraz z podaniem ich rodzaju wartości, daty i miejsca wykonania oraz podmiotów, na rzecz których te usługi zostały wykonane, oraz załączeniem dowodów określających, czy te usługi zostały wykonane należycie, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty sporządzone przez podmiot, na rzecz którego usługi zostały wykonane, a jeżeli Wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – inne odpowiednie dokumenty – w zakresie potwierdzającym spełnianie warunku, o którym mowa w pkt. 11.1.4.1 SWZ;
+12.4.1.2.	wykaz osób, skierowanych przez Wykonawcę do realizacji zamówienia publicznego wraz z informacjami na temat ich kwalifikacji zawodowych, uprawnień, doświadczenia i wykształcenia niezbędnych do wykonania zamówienia publicznego, a także zakresu wykonywanych przez nie czynności oraz informacją o podstawie do dysponowania tymi osobami – w zakresie potwierdzającym spełnianie warunków, o których mowa w pkt 11.1.4.2. SWZ.
+12.5.	Oświadczenia i dokumenty potwierdzające brak podstaw do wykluczenia Wykonawcy:
+12.5.1.	Informacja z Krajowego Rejestru Karnego w zakresie określonym w art. 108 ust. 1 pkt 1, 2, 4 PZP sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem;
+12.5.2.	Oświadczenie Wykonawcy, w zakresie art. 108 ust. 1 pkt 5 PZP, o braku przynależności do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (t. j. Dz. U. z 2024 r. poz. 594), z innym Wykonawcą, który złożył odrębny wniosek o dopuszczenie do udziału w postępowaniu, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie wniosku o dopuszczenie do udziału w postępowaniu niezależnie od innego Wykonawcy należącego do tej samej grupy kapitałowej;
+12.5.3.	odpis lub informacja z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, w zakresie art. 109 ust. 1 pkt 4 PZP, sporządzonych nie wcześniej niż 3 miesiące przed jej złożeniem, jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji;
+12.5.4.	oświadczenie Wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1 PZP, w zakresie podstaw wykluczenia z postępowania, o których mowa w art. 108 ust. 1 pkt 3-6 oraz art. 109 ust. 1 pkt 7 PZP.
+DALSZE INFORMACJE DOT. PODMIOTOWYCH ŚRODKÓW DOWODOWYCH OKREŚLA PKT. OD 12.6 DO 12.11 SWZ.
+14.	Środki komunikacji elektronicznej, przy użyciu których zamawiający będzie komunikował się z wykonawcami oraz informacje o wymaganiach technicznych i organizacyjnych sporządzania, wysyłania i odbierania korespondencji elektronicznej określa pkt. 14 SWZ.
+22.	Formalności, jakie muszą zostać dopełnione po wyborze oferty w celu zawarcia umowy w sprawie zamówienia publicznego określa pkt. 22 SWZ.
+23.1.	Zamawiający wymaga wniesienia zabezpieczenia należytego wykonania umowy przed podpisaniem umowy w wysokości 5% wartości całkowitej podanej w ofercie albo maksymalnej wartości nominalnej zobowiązania zamawiającego wynikającego z umowy. Szczegółowe zasady określa pkt. 23 SWZ.
+26.	Informacja o przetwarzaniu danych zawarta jest w pkt. 26 SWZ.
+Zamawiający informuje, że niniejsze postępowanie zostało poprzedzone wstępnymi konsultacjami rynkowymi, przeprowadzonymi na podstawie art. 84 PZP. Szczegóły dotyczące przebiegu wstępnych konsultacji rynkowych znajdują się tutaj: https://bgpn.gov.pl/bip/wstepne-konsultacje-rynkowe </cbc:Note>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="PLN">1542416.67</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71541000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71248000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79000000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">75131100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79110000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79100000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79130000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71315200</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">71247000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:StreetName>Zawoja 1403</cbc:StreetName>
+            <cbc:CityName>Zawoja</cbc:CityName>
+            <cbc:PostalZone>34-222</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">PL219</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">(C) Cena brutto – 60 % </cbc:Name>
+                  <cbc:Description languageID="POL">21.3.1.	Cena brutto – 60 % znaczenia (C):
+C = (Cn/Cb) x 60 
+C – wartość punktowa ceny brutto
+Cn – cena brutto oferty z najniższą ceną 
+Cb – cena brutto badanej oferty</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>30</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">(D) Doświadczenie osób wyznaczonych do realizacji zamówienia – 30 % </cbc:Name>
+                  <cbc:Description languageID="POL">21.3.2.	Doświadczenie osób wyznaczonych do realizacji zamówienia – 30% znaczenia (D):
+UWAGA: Jeżeli Wykonawca nie dołączył do oferty dokumentów, o których mowa w pkt. 12. 4.1.2 SWZ lub dokumenty są niekompletne lub ich treść jest błędna, to Zamawiający przyzna 0 pkt w ramach adekwatnego podkryterium D1 lub D2 lub D3. 
+21.3.2.1.1.	(D1) Osoba, o której mowa w pkt. 11.1.4.2.1 SWZ (Koordynator), która uczestniczyła w realizacji roboty budowlanej opisanej w w/w punkcie SWZ.
+Zamawiający przyzna punkty wg następującej skali
+•	1 robota – 0 pkt,
+•	2 roboty – 2 pkt,
+•	3 roboty – 4 pkt,
+•	4 roboty – 7 pkt,
+•	5 lub więcej robót – 10 pkt.
+21.3.2.1.2.	(D2) Osoba, o której mowa w pkt. 11.1.4.2.2 SWZ (adwokat/radca prawny), która uczestniczyła w obsłudze prawnej opisanej w w/w punkcie SWZ.
+Zamawiający przyzna punkty wg następującej skali:
+•	1 postępowania – 0 pkt,
+•	2 postępowań – 2 pkt,
+•	3 postępowań – 4 pkt,
+•	4 postępowań – 7 pkt,
+•	5 lub więcej postępowań – 10 pkt.
+21.3.2.1.3.	(D3) Osoba, o której mowa w pkt. 11.1.4.2.3 SWZ (osoba z zakresu PZP), która posiada doświadczenie w przygotowaniu i przeprowadzeniu opisanego postępowania opisanego w w/w punkcie SWZ.
+Zamawiający przyzna punkty wg następującej skali:
+•	1 postępowania – 0 pkt,
+•	2 postępowań – 2 pkt,
+•	3 postępowań – 4 pkt,
+•	4 postępowań – 7 pkt,
+•	5 lub więcej postępowań – 10 pkt.
+Punkty w kryterium „Doświadczenie osób wyznaczonych do realizacji zamówienia”  zostaną przyznane tylko w przypadku złożenia przez Wykonawcę oświadczenia (w druku Formularz Ofertowy), na podstawie którego będzie można przyznać punkty w tym kryterium.
+W przypadku wyznaczenia do realizacji zamówienia więcej niż jednej osoby w którejś z kategorii osób (koordynator, radca prawny/adwokat, osoba z zakresu PZP), Wykonawca wskazuje w formularzu ofertowym doświadczenie wszystkich takich osób z tej kategorii. Zamawiający przyzna jednak punkty tylko w odniesieniu do osoby dysponującej najniższym doświadczeniem.
+UWAGA: Zamawiający zastrzega sobie prawo weryfikacji czy wskazana w ofercie osoba w sposób obiektywny jest w stanie zrealizować zamówienie, w szczególności, gdy zawarty w opisie przedmiotu zamówienia zakres jest nierealny do spełnienia przez jedną osobę, a Wykonawca w ofercie wskazał tylko jedną osobę do realizacji tego zamówienia. </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>10</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">(T) Czas stawienia się na budowie Koordynatora – 10 %</cbc:Name>
+                  <cbc:Description languageID="POL">21.3.3.	Czas stawienia się na budowie Koordynatora (T) – 10 % znaczenia:
+Wykonawca wskazuje w formularzu ofertowym czas, w jakim deklaruje stawienie się Koordynatora - inspektora nadzoru branży konstrukcyjno-budowlanej  (o którym mowa w pkt. 11.1.4.2.1 SWZ) na budowie na wezwanie Zamawiającego. 
+Zamawiający przyzna punkty wg następującej skali:
+•	poniżej 1 godziny od wezwania – 10 pkt,
+•	1-2 godzin od wezwania – 8 pkt,
+•	powyżej 2 i nie więcej niż 3 godziny od wezwania – 6 pkt,
+•	powyżej 3 i nie więcej niż 8 godzin od wezwania – 3 pkt,
+•	powyżej 8 i nie więcej niż 12 godzin od wezwania – 1 pkt,
+•	powyżej 12 godzin od wezwania – 0 pkt.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">Środki ochrony prawnej określone w Dziale IX PZP przysługują wykonawcy, uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy PZP.
+Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15, oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">ZP-10/2024</cbc:ID>
+         <cbc:Name languageID="POL">Usługa pełnienia funkcji Inwestora Zastępczego (z rozszerzonym zakresem obowiązków) przy realizacji inwestycji pod nazwą „Budowa Centrum Edukacji Przyrodniczej MORGI”</cbc:Name>
+         <cbc:Description languageID="POL">3.1.	Przedmiotem zamówienia jest usługa pełnienia funkcji Inwestora Zastępczego (z rozszerzonym zakresem obowiązków) przy realizacji inwestycji pod nazwą „Budowa Centrum Edukacji Przyrodniczej MORGI” (dalej również: „Inwestycja).
+3.2.	Zamówienie zostało podzielone na etapy: Etap I, II i III oraz Etap IV jako przysługujące Zamawiającemu prawo opcji.
+3.3.	Inwestor Zastępczy będzie działał w imieniu i na rzecz Zamawiającego na podstawie udzielonych pełnomocnictw (inwestor zastępczy o charakterze pełnomocniczym), w tym m.in. pełnomocnictwa udzielonego w trybie art. 37 ust. 2 PZP.
+3.4.	Szczegółowy opis przedmiotu zamówienia stanowi załącznik 1 do SWZ.
+3.6.	Miejsce realizacji umowy: usługa będzie wykonywana w formie zdalnej oraz formie stacjonarnej na terenie realizacji Inwestycji - teren Babiogórskiego Parku Narodowego (poza obszarem Natura 2000), 34-222 Zawoja Widły, województwo Małopolskie, działki nr 22727/13 i 22728/1 obręb 0002 Zawoja lub w innym wskazanym przez Zamawiającego miejscu.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">7.1.	Przedmiot zamówienia zostanie zrealizowany w terminie od dnia podpisania umowy do dnia 31.08.2027 r., z zastrzeżeniem podziału na poszczególne etapy:
+7.1.1.	etap I – w terminie do 5 miesięcy od daty podpisania umowy;
+7.1.2.	etap II – w terminie do 24 miesięcy od zakończenia etapu I:
+7.1.3.	etap III – w terminie do 3 miesięcy, nie dłużej jednak niż do planowanej daty zakończenia Projektu tj. 31.08.2027 r.
+7.1.4.	etap IV (prawo opcji) – w terminie do 5 lat od zakończenia etapu III.</cbc:Note>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="PLN">1542416.67</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71541000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71248000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79000000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">75131100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79110000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79100000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79130000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71315200</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">71247000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Zawoja 1403</cbc:StreetName>
+               <cbc:CityName>Zawoja</cbc:CityName>
+               <cbc:PostalZone>34-222</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">PL219</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:EndDate>2027-08-31+02:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">9.2.	    Zamawiający przewiduje możliwość skorzystania z opcji, o której mowa w art. 441 PZP:
+a)	zakres zamówienia objętego opcją: prawo opcji obejmuje możliwość rozszerzenia zamówienia w ramach umowy podstawowej i na warunkach tej umowy o powiększony zakres za dodatkowym wynagrodzeniem wg cen z Oferty Wykonawcy. Rozszerzenie polega na zleceniu do realizacji dodatkowego etapu realizacji – Etap IV - wsparcie w okresie trwałości Projektu, szczegółowo opisanego w Opisu przedmiotu zamówienia (załącznik nr 1  do SWZ). 
+b)	okoliczności, w jakich może dojść do skorzystania z opcji: istnienie potrzeby po stronie danego Zamawiającego po realizacji zamówienia podstawowego. 
+c)	warunek uruchomienia prawa opcji: oświadczenie woli Zamawiającego, złożone Wykonawcy w formie pisemnej.  </cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

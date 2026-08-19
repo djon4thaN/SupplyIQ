@@ -1,0 +1,19 @@
+target_file,target_field,ted_business_term,ted_search_field,xml_context,required_for_mvp,availability_expectation,d5_action,notes
+procurement_notices.csv,source_notice_id,BT-701,notice-identifier,Notice,true,expected,confirm_xpath,Preservar UUID e versao; publication-number tambem deve ser retido como referencia de origem.
+procurement_notices.csv,notice_type,BT-02,notice-type,Notice,true,expected,confirm_xpath,Result inclui CAN standard/light e outros tipos de resultado.
+procurement_notices.csv,publication_date,OPP-012,publication-date,Notice,true,expected,confirm_xpath,Data oficial de publicacao.
+procurement_procedures.csv,source_procedure_id,BT-04,,Procedure,true,expected,confirm_xpath,Identificador de procedimento pode ligar avisos da mesma procedure.
+procurement_procedures.csv,procedure_type,BT-105,procedure-type,Procedure,true,expected,confirm_xpath,Codelist oficial.
+procurement_lots.csv,source_lot_id,BT-13713/lot identifiers,result-lot-identifier,Lot/LotResult,true,expected,confirm_xpath,Cada aviso eForms contem pelo menos um lot; resultado e por lot.
+procurement_lots.csv,estimated_value,BT-27-Lot,,Lot,false,optional,confirm_xpath,Preservar valor e moeda; pode estar ausente em result notice.
+procurement_awards.csv,award_status,BT-142,winner-selection-status,LotResult,true,expected,confirm_xpath,Pode registrar awarded ou non-awarded sem inventar award.
+procurement_awards.csv,award_value,BT-720,tender-value,Tender/LotResult,true,optional,confirm_xpath,Valor pertence ao tender/resultado; nao confundir com estimated value.
+procurement_contracts.csv,source_contract_id,BT-150,,Contract,true,optional,confirm_xpath,Contrato pode nao existir quando nenhum vencedor foi escolhido.
+procurement_contracts.csv,contract_title,BT-721,contract-title,Contract,false,optional,confirm_xpath,Campo textual multilingue.
+procurement_contracts.csv,contract_date,BT-145,,Contract,true,optional,confirm_xpath,Data de conclusao do contrato.
+buyers.csv,buyer_name,BT-500,buyer-name,Organisation/Buyer,true,expected,confirm_role_and_xpath,Resolver organizacao pelo papel Buyer; nao por nome.
+suppliers.csv,supplier_name,BT-500,winner-name,Organisation/Winner,true,optional,confirm_role_and_xpath,API pode achatar winners; XML deve sustentar winner-lot-contract.
+categories.csv,source_category_code,BT-262,classification-cpv,Procedure/Lot,true,expected,confirm_xpath,CPV e hierarquico; preservar codigo publicado.
+notice_buyers.csv,buyer_id,OPT-300/organisation role,buyer-identifier,Notice/Procedure/Buyer,true,expected,confirm_reference,Tabela ponte quando houver mais de um buyer.
+award_suppliers.csv,supplier_id,organisation role Winner,winner-name,LotResult/Tender/Winner,true,optional,confirm_reference,Nao alinhar listas achatadas por posicao; usar referencias XML.
+contract_suppliers.csv,supplier_id,BT-3202 and organisation references,,Contract/Tender/Winner,true,optional,confirm_reference,Materializar somente se a cadeia de referencias for explicita.

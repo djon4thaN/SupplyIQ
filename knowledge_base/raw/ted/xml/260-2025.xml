@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">ins-fund</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>2</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0002</cbc:ID>
+                     <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+                     <efac:DecisionReason>
+                        <efbc:DecisionReasonCode listName="non-award-justification">ins-fund</efbc:DecisionReasonCode>
+                     </efac:DecisionReason>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>1</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.rars.gov.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://rars.ezamawiajacy.pl</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Rządowa Agencja Rezerw Strategicznych </cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Stawki 2B</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>00-193</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>012199305</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>(48) 22 36 09 153</cbc:Telephone>
+                           <cbc:ElectronicMail>cbrn@rars.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.uzp.gov.pl</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Krajowa Izba Odwoławcza</cbc:StreetName>
+                           <cbc:AdditionalStreetName>ul. Postępu 17 A</cbc:AdditionalStreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676 </cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>NIP 5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>22 458 77 01</cbc:Telephone>
+                           <cbc:ElectronicMail>uzp@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.gov.pl/web/sp-prokuratoria</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Sąd Polubowny przy Prokuratorii Generalnej Rzeczypospolitej Polskiej</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Hoża 76/78 </cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>00-682</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>140264957</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>22 6958504</cbc:Telephone>
+                           <cbc:ElectronicMail>sp@prokuratoria.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00000260-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">1/2025</efbc:GazetteID><efbc:PublicationDate>2025-01-02+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.12</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">6770e082-7bcd-4595-b597-eeff4c8a67f0</cbc:ID>
+   <cbc:ContractFolderID>9329bbab-64db-4268-90ce-67d9212f97f7</cbc:ContractFolderID>
+   <cbc:IssueDate>2024-12-30Z</cbc:IssueDate>
+   <cbc:IssueTime>14:23:11Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://rars.ezamawiajacy.pl</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">cga</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">pub-os</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>art. 132 i następne ustawy z dnia 11 września 2019 roku Prawo zamówień publicznych (Pzp)</cbc:ID>
+      </cac:ProcurementLegislationDocumentReference>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:Description languageID="POL">1. Postępowanie prowadzone jest w trybie przetargu nieograniczonego. 
+2. Postępowanie prowadzone jest wyłącznie w języku polskim. 
+3. Komunikacja między Zamawiającym a Wykonawcami odbywa się przy użyciu środków komunikacji elektronicznej: platformy zakupowej Zamawiającego dostępnej pod adresem: https://rars.ezamawiajacy.pl (dalej platforma zakupowa), z wykorzystaniem zakładki „Korespondencja”. 
+4. W przypadku awarii platformy zakupowej dopuszcza się komunikację przy użyciu poczty elektronicznej: 
+a. Zamawiającego: dw@rars.gov.pl wiadomość e-mail pozwalająca na identyfikację Wykonawcy (oznaczenie adresu mailowego, 
+b. Wykonawcy: oznaczenie Wykonawcy w treści wiadomości mailowej). 
+5. Zamawiający podaje minimalne wymagania sprzętowo-aplikacyjne umożliwiające korzystanie z platformy zakupowej: 
+a. posiadanie stałego dostępu do sieci Internet o gwarantowanej przepustowości nie mniejszej niż 512 kb/s, 
+b. dysponowanie komputerem klasy PC lub MAC o następującej konfiguracji: pamięć min 2GB Ram, procesor Intel IV 2GHZ, jeden z systemów operacyjnych - MS Windows 7 , Mac Os x 10.4, Linux, lub ich nowsze wersje, 
+c. dysponowanie dowolną zainstalowaną przeglądarką internetową obsługującą TLS 1.2 (najlepiej w najnowszej wersji, w przypadku Internet Explorer minimalnie wersja 10.0, d. dysponowanie zainstalowanym programem Acrobat Reader lub innym obsługującym pliki w formacie „.pdf”. 
+6. Minimalne wymagania sprzętowo-aplikacyjne umożliwiające komunikację z wykorzystaniem poczty elektronicznej: 
+a. dysponowanie przez Wykonawcę urządzeniem teleinformatycznym z dostępem do sieci Internet, 
+b. dysponowanie przez Wykonawcę dostępem do nowoczesnej przeglądarki internetowej wspierającej HTML5, CSS3 i JavaScript, 
+c. posiadanie przez Wykonawcę konta poczty elektronicznej. 
+7. Komunikacja w postępowaniu przy użyciu platformy zakupowej (w tym możliwość złożenia oferty), z zastrzeżeniem możliwości zadawania pytań do treści SWZ (por. Rozdział 5 – „Wyjaśnienia treści SWZ” ust. 1 SWZ), wymaga przystąpienia przez Wykonawcę do postępowania. 
+8. Procedura przystąpienia przez Wykonawcę do postępowania: 
+a. Wykonawca wybiera opcję „PRZYSTĄP DO POSTĘPOWANIA”, 
+b. po wybraniu opcji „PRZYSTĄP DO POSTĘPOWANIA”, Wykonawca jest przekierowywany na stronę internetową https://oneplace.marketplanet.pl,
+ otrzymując możliwość: 
+-zalogowania się do platformy zakupowej (w przypadku posiadania przez Wykonawcę konta na platformie zakupowej) 
+lub 
+- założenia bezpłatnego konta na platformie zakupowej, 
+c. Wykonawca: 
+- loguje się do platformy zakupowej 
+lub 
+- zakłada konto wykonując kroki procesu rejestracyjnego, tj.: 
+- podaje adres e-mail, 
+- ustanawia hasło, 
+- powtarza hasło, 
+- wpisuje kod z obrazka, 
+- akceptuje Regulamin korzystania z platformy zakupowej Zamawiającego, informację o przetwarzaniu danych osobowych oraz wyraża zgodę na kontakt 
+telefoniczny w celu weryfikacji danych oraz uruchomienia konta, 
+- wybiera polecenie „zarejestruj się”, 
+- potwierdza rejestrację przez kliknięcie aktywnego linku wysłanego na adres mailowy wskazany w formularzu rejestracyjnym lub poprzez wpisanie kodu autoryzacyjnego, 
+- loguje się do platformy zakupowej Zamawiającego i uzupełnia wymagane dane Wykonawcy. 
+Zalogowanie się do platformy zakupowej Zamawiającego i uzupełnienie wymaganych danych Wykonawcy jest niezbędne do zakończenia procesu rejestracyjnego. 
+9. Datą przekazania korespondencji jest: 
+a. w przypadku platformy zakupowej – data wpływu korespondencji na platformę zakupową, z zastrzeżeniem czytelności korespondencji – platforma zakupowa 
+generuje czas odbioru korespondencji (data, czas: hh:mm:ss) wg czasu lokalnego serwera synchronizowanego odpowiednim źródłem czasu, 
+b. w przypadku poczty elektronicznej – data jej wprowadzenia do środka komunikacji elektronicznej w taki sposób, żeby Zamawiający / Wykonawca mógł się zapoznać z jej treścią. 
+10. Maksymalny rozmiar plików przesyłanych jednorazowo za pośrednictwem: 
+a. platformy zakupowej nie może przekraczać 100 MB, 
+b. poczty elektronicznej nie może przekraczać 20 MB. 
+11. W przypadku wątpliwości związanych z zasadami korzystania z platformy zakupowej, Wykonawca powinien skontaktować się z operatorem platformy zakupowej, dane kontaktowe: tel.: (22) 257 22 23 (infolinia dostępna w dni robocze, w godzinach 9.00- 17.00), e-mail: oneplace@marketplanet.pl. 
+ 12. Ofertę, oświadczenie, o którym mowa w art. 125 ust. 1 Pzp, podmiotowe środki dowodowe, w tym oświadczenie z art. 117 ust. 4 Pzp, zobowiązanie podmiotu udostępniającego zasoby, o którym mowa w art. 118 ust. 3 Pzp oraz pełnomocnictwo sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 roku o informatyzacji działalności podmiotów publicznych, tj. w formatach danych określonych w Załączniku nr 2 do Rozporządzenia Rady Ministrów z dnia 12 kwietnia 2012 roku w sprawie krajowych ram interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów informatycznych. 
+14. Szczegółowe zasady dot. przekazywania przez Wykonawców dokumentów elektronicznych oraz sporządzania i przekazywania cyfrowych odwzorowań dokumentów wystawionych w postaci papierowej reguluje Rozporządzenie Prezesa Rady Ministrów z dnia 30 grudnia 2020 roku w sprawie sposobu sporządzania i przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub konkursie.
+</cbc:Description>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">688408-2024</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">true</cbc:ProcessReasonCode>
+         <cbc:ProcessReason languageID="POL">Zamawiający informuje, że dokonał skrócenia terminu składania ofert do 15 dni. Podstawą skrócenia terminu składania ofert jest art. 138 ust. 2 pkt. 2 Pzp. Zamawiający wyjaśnia, że zachodzi pilna potrzeba udzielenia zamówienia i skrócenie terminu składania ofert jest uzasadnione.  
+Realizacja przedmiotu zamówienia, w każdej jego Części, objęta jest projektem grantowym pn. „Development and maintenance of rescEU CBRN stockpiles in Poland” i następuje w ramach Unijnego Mechanizmu Ochrony Ludności – Union Civil Protection Mechanism (UPCM), stanowiącego system koordynacji pomocy ratowniczej i humanitarnej na wypadek katastrof naturalnych i wynikających z działalności człowieka, których skala lub charakter przekracza możliwości reagowania kraju dotkniętego kryzysem. Głównym celem UCPM jest udzielanie wysoko wyspecjalizowanej pomocy w celu zapobiegania i reagowania na klęski żywiołowe i katastrofy. Dla osiągnięcia tak określonego celu, niezbędne jest pozyskanie przez państwa uczestniczące w UPCM m.in. odpowiednich zasobów sprzętowo-materiałowych. Przystępując do realizacji projektu grantowego, Zamawiający opracował harmonogram pozyskiwania zasobów sprzętowo-materiałowych, szczegółowo planując w czasie poszczególne postępowania zakupowe, które następnie przeprowadził. Przedmiot zamówienia w – odpowiednio – Części 1 i  Części 2 zamówienia 
+został objęty – odpowiednio – częścią 5 i częścią 11 zamówienia, właściwymi dla przeprowadzonego przez Zamawiającego postępowania zakupowego. W żadnej ze 
+wskazanych części zamówienia nie został wyłoniony Wykonawca na realizację poszczególnych dostaw – części zamówienia zostały unieważnione.   
+Aktualnie, z uwagi na sytuację międzynarodową, konieczne jest pilne „uzupełnienie” środków ochrony osobistej w celu zbudowania zasobów pozwalających na skuteczne 
+reagowanie na zagrożenie i/lub sytuacje kryzysowe. Eskalacja konfliktu izraelsko-palestyńskiego („rozlanie się” konfliktu na Liban, zaangażowanie Iranu), zmiany na froncie ukraińskim (druga kontrofensywa), w szczególności wzmożone ataki sił rosyjskich na miasta ukraińskie położone w głębi kraju, a także niepokój wywołany wzmożonymi działaniami operacyjnymi i szkoleniowymi wojsk chińskich i koreańskich oraz kampanią prezydencką w Stanach Zjednoczonych Ameryki, przesądza konieczność podjęcia natychmiastowych działań. Zamawiający wskazuje przy tym, że ogłoszenie postępowania w pierwszej połowie 2024 roku nie było możliwe z uwagi na termin realizacji każdej z Części zamówienia wynoszący do 12 miesięcy (termin zastrzeżony na korzyść dłużnika, ustalony na podstawie rozeznania zdolności materiałowo-produkcyjnych Wykonawców na danym rynku właściwym). Zawarcie umowy o udzielenie zamówienia publicznego z  Wykonawcami wyłonionymi w postępowaniu na realizację poszczególnych Części zamówienia przed sierpniem 2024 roku byłoby niemożliwe z uwagi na brak zabezpieczenia w budżecie Zamawiającego na 2025 rok środków na pokrycie podatku VAT będącego wydatkiem niekwalifikowalnym. </cbc:ProcessReason>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">BZzp.271.84.2024</cbc:ID>
+      <cbc:Name languageID="POL">Dostawa środków ochrony osobistej w ramach projektu „Development and maintenance of rescEU CBRN stockpiles in Poland” z podziałem na dwie Części</cbc:Name>
+      <cbc:Description languageID="POL">1. Przedmiotem zamówienia jest dostawa środków ochrony osobistej w ramach projektu „Development and maintenance of rescEU CBRN stockpiles in Poland” z podziałem na dwie Części: 
+a. Część 1, w ramach której Wykonawca będzie zobowiązany do dostarczenia kombinezonów ochronnych wielokrotnego użytku w ilości 6.000,00 sztuk, zgodnie ze 
+specyfikacją techniczną stanowiącą Załącznik nr 1 do SWZ – „Opis przedmiotu zamówienia”,  
+b.  Część 2, w ramach której Wykonawca będzie zobowiązany do dostarczenia hybrydowego systemu ochrony dróg oddechowych w ilości 120 sztuk, zgodnie ze specyfikacją techniczną stanowiącą Załącznik nr 1 do SWZ – „Opis przedmiotu zamówienia”. 
+2. Niezależnie od świadczenia polegającego na dostarczeniu określonych urządzeń, o których mowa w ust. 1 powyżej, Wykonawca zobowiązany jest nadto do (dot. każdej z Części zamówienia): 
+A. przeprowadzenia jednodniowego szkolenia z zakresu obsługi, konserwacji i użytkowania dostarczonych środków ochrony osobistej, dla nie mniej niż 6 i nie więcej niż 9 pracowników Zamawiającego lub innych osób wyznaczonych przez Zamawiającego,  
+B. trwałego i widocznego oznakowania każdego opakowania każdego ze środków ochrony osobistej logotypem flagi Unii Europejskiej wraz z oświadczeniem o sposobie 
+finansowania: „Funded by the European Union”, którego wzór stanowi Załącznik nr 1A do SWZ – „Wzór logotypu”, z zastrzeżeniem: 
+a. wymiarów flagi UE – wymiary flagi UE nie mogą być mniejsze niż: 
+▪ 10,5 cm (wysokość) x 16 cm (szerokość), z odpowiednio widocznym oświadczeniem o sposobie finansowania,  
+▪ 1 cm (wysokość), z odpowiednio widocznym oświadczeniem o sposobie finansowania – dot. opakowań o wymiarach mniejszych lub równych 21 cm x 29,7 cm, 
+b. konieczności zachowania proporcji logotypu i oświadczenia o sposobie finansowania względem siebie,  
+c. konieczności zachowania proporcji logotypu i oświadczenia o sposobie finansowania względem opakowania – wyraźna widoczność oznaczenia,  
+d. konieczności zachowania kolorystyki logotypu i oświadczenia o sposobie finansowania (zgodność ze wzorem),  
+e. Zamawiający dopuszcza oznakowanie opakowania urządzenia z wykorzystaniem naklejek, nalepek i im podobnych materiałów, jeśli zapewniają one trwałe związanie z opakowaniem urządzenia,  
+f. Zamawiający dopuszcza oznakowanie opakowania zbiorczego środków ochrony osobistej, wyłącznie jeżeli dany środek ochrony osobistej jest paczkowany przez producenta, tj. gdy dany środek ochrony osobistej zapakowany w opakowanie jednostkowe transportowany jest zwyczajowo w opakowaniu zbiorczym. W szczególności Zamawiający nie dopuszcza połączenia jednostkowych opakowań w opakowania zbiorcze lub opakowań zbiorczych zwyczajowo paczkowanych przez producenta, w większe opakowania zbiorcze (opakowania „paczkowane” przez Wykonawcę) w celu uniknięcia obowiązku oznakowania przez Wykonawcę każdego jednostkowego i/lub zbiorczego opakowania urządzenia,  
+C. udzielenia Zamawiającemu gwarancji jakości na dostarczone środki ochrony osobistej co najmniej do dnia 30 września 2026 roku, w ramach której Wykonawca będzie 
+zobowiązany do: 
+a. usuwania wad i usterek środków ochrony osobistej,  
+b. (a gdy dotyczy) przeprowadzania lub zapewnienia przeprowadzenia okresowych przeglądów środków ochrony osobistej lub jego poszczególnych elementów, wymaganych i/lub zalecanych przez producenta, w tym do zapewnienia bieżącej (w okresie eksploatacji) i/lub okresowej (w szczególności w trakcie lub na skutek przeprowadzenia okresowego przeglądu) wymiany i/lub uzupełnienia materiałów eksploatacyjnych i/lub części wymiennych, na wyłączny koszt Wykonawcy i na warunkach określonych w Załączniku nr 2A – 2B do SWZ – „Projektowane postanowienia umowne” i z zastrzeżeniem długości okresu gwarancyjnego określonego w inny sposób w Załączniku nr 1 do SWZ – „Opis przedmiotu zamówienia”.  
+3. Szczegółowy opis przedmiotu zamówienia, w szczególności określenie parametrów technicznych i funkcjonalnych przedmiotu zamówienia, z wyszczególnionym podziałem na Części, stanowi Załącznik nr 1 do SWZ – „Opis przedmiotu zamówienia”.  
+4. Warunki realizacji przedmiotu zamówienia, indywidualnie dla każdej z Części zamówienia, określa Załącznik nr 2A – 2B do SWZ – „Projektowane postanowienia umowne”.  </cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">[wadium]
+1. Zamawiający wymaga wniesienia wadium w wysokości: 
+C. Część 1 zamówienia: 50.000,00 (pięćdziesiąt tysięcy) złotych 
+D. Część 2 zamówienia: 40.000,00 (czterdzieści tysięcy) złotych 
+2. Wadium należy wnieść przed upływem terminu składania ofert i utrzymywać 
+nieprzerwanie do dnia upływu terminu związania ofertą, z wyjątkiem przypadków, o 
+których mowa w art. 98 ust. 1 pkt 2 i 3 i art. 98ust. 2 PZP.  
+3. Wadium może być wnoszone w jednej lub kilku formach wskazanych w art. 97 ust. 7 Pzp, 
+w zależności od wyboru Wykonawcy, tj. w:  
+a. pieniądzu, 
+b. gwarancjach bankowych  
+c. gwarancjach ubezpieczeniowych,   
+d. poręczeniach udzielonych przez podmioty, o których mowa w art. 6b ust. 5 pkt. 2 ustawy z 
+dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.  
+4. Wadium wnoszone w pieniądzu należy wpłacić przelewem na rachunek bankowy 
+Zamawiającego, numer rachunku: 96 1130 1017 0000 3159 1590 0002, wskazując w tytule 
+przelewu dane umożliwiające identyfikację zabezpieczanej oferty (określenie Wykonawcy, 
+postępowania o udzielenie zamówienia publicznego oraz Części zamówienia, której dotyczy 
+wadium). Wniesienie wadium w pieniądzu będzie skuteczne, jeżeli rachunek bankowy 
+Zamawiającego zostanie uznany kwotą wadium przed upływem terminu składania ofert. 
+Wadium wniesione w pieniądzu Zamawiający przechowuje na rachunku bankowym.  
+5. Wadium wnoszone w formach, o których mowa w ust. 3 lit. b – d powyżej Wykonawca 
+przekazuje w oryginale, w postaci elektronicznej, z zastrzeżeniem zachowania form 
+prawnych wymaganych przez przepisy bezwzględnie obowiązującego prawa.  
+6. Z treści wadium wnoszonego w formach, o których mowa w ust. 3 lit. b – d powyżej powinno 
+wynikać bezwarunkowe, na pierwsze żądanie Zamawiającego zobowiązanie 
+gwaranta/poręczyciela do wypłaty Zamawiającemu pełnej kwoty wadium w 
+okolicznościach określonych w art. 98 ust. 6 Pzp. Wierzytelność z tytułu 
+gwarancji/poręczenia nie może być przedmiotem przelewu na rzecz osoby trzeciej.  
+7. Wadium wniesione w formie gwarancji lub poręczenia musi mieć taką samą płynność jak 
+wadium wniesione w pieniądzu – dochodzenie roszczenia z tytułu wadium wniesionego w 
+tej formie nie może być utrudnione.  
+8. Oferta Wykonawcy, który nie wniesie wadium lub wniesie wadium w sposób 
+nieprawidłowy, lub nie będzie utrzymywał wadium nieprzerwanie do upływu terminu 
+związania ofertą lub złoży wniosek o zwrot wadium w przypadku, o którym mowa w art. 98 
+ust. 2 pkt 3 PZP zostanie odrzucona z postępowania na podstawie art. 226 ust. 1 pkt 14 PZP 
+w zw. z art. 266 PZP.  
+9.  Zamawiający zwraca wadium na zasadach uregulowanych w art. 98 ust. 1 – 5 PZP.
+[procedura odwrócona]
+1. Zamawiający informuje o zamiarze zastosowania w postępowaniu tzw. procedury 
+odwróconej, o której mowa w art. 139 Pzp – dot. każdej z Części zamówienia.  
+2. Zamawiający najpierw dokona badania i oceny ofert, a następnie będzie dokonywać 
+kwalifikacji podmiotowej Wykonawcy, którego oferta została najwyżej oceniona w zakresie 
+braku podstaw wykluczenia oraz spełniania warunków udziału w postępowaniu.  
+3. Zamawiający informuje, że na podstawie art. 139 ust. 2 Pzp, oświadczenie, o którym mowa 
+w art. 125 ust. 1 Pzp składane na formularzu JEDZ (przez Wykonawcę, Wykonawców 
+wspólnie ubiegających się o udzielenie zamówienia, podmiot udostępniający zasoby – gdy 
+dotyczy) będzie składane wyłącznie przez Wykonawcę, którego oferta została najwyżej 
+oceniona, a gdy dotyczy – przez podmiot, który udostępnia zasoby Wykonawcy, którego 
+oferta została najwyżej oceniona.  
+[przedmiotowe środki dowodowe]
+1. Zamawiający wymaga złożenia wraz z ofertą następujących przedmiotowych środków 
+dowodowych: kart katalogowych i/lub innych dokumentów potwierdzających, że oferowane 
+środki ochrony osobistej spełniają wszystkie parametry techniczne i użytkowe określone 
+przez Zamawiającego w Załączniku nr 1 do SWZ – Opis przedmiotu zamówienia. W 
+przypadku, gdy karta katalogowa i/lub inny dokument nie zawierają odniesienia do 
+wszystkich parametrów określonych przez Zamawiającego w Załączniku nr 1 do SWZ – 
+Opis przedmiotu zamówienia, Wykonawca jest zobowiązany do złożenia odpowiedniego 
+oświadczenia producenta potwierdzającego spełnianie przez oferowane środki ochrony 
+osobistej danego parametru, wraz ze wskazaniem jego rzeczywistej wartości. 
+UWAGA! W celu uniknięcia wątpliwości Zamawiający oświadcza, że – co do zasady – nie dopuszcza złożenia – jako 
+przedmiotowego środka dowodowego – dokumentu stanowiącego wykaz parametrów technicznych i użytkowych środków ochrony osobistej, opracowanego przez Wykonawcę, bez względu na jego nazwę („specyfikacja techniczna”, „karta katalogowa”, inne). Dokument, o którym mowa w zdaniu poprzednim będzie traktowany jako oświadczenie własne Wykonawcy. Oświadczenie własne Wykonawcy zostanie zakwalifikowane jako dopuszczalny przedmiotowy środek dowodowy wyłącznie w przypadku, gdy Wykonawca będzie równocześnie producentem lub autoryzowanym dystrybutorem oferowanych środków ochrony osobistej.
+[warunki udziału w postępowaniu]
+1. O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy spełniają warunek udziału 
+w postępowaniu dot. zdolności technicznej lub zawodowej w zakresie wiedzy i doświadczenia.  
+2. Zamawiający wymaga, aby Wykonawca: 
+a. w zakresie Części 1 zamówienia: 
+- w okresie ostatnich sześciu lat przed upływem terminu 
+składania ofert, a jeśli okres prowadzenia działalności jest krótszy – w tym okresie, zrealizował 
+należycie, a w przypadku świadczeń powtarzających się lub ciągłych, również realizuje 
+należycie, co najmniej jedną dostawę specjalistycznych środków ochrony osobistej 
+(indywidualnej) – odzieży ochronnej przed zagrożeniami typu CBRN, w szczególności 
+zapewniające ochronę / służące ochronie przed skażeniami biologicznymi / chemicznymi 
+radiologicznymi, o wartości nie mniejszej niż 2.500.000,00 złotych brutto. 
+W celu 
+uniknięcia wątpliwości Zamawiający oświadcza, że wartość dostawy, o której mowa w 
+zdaniu poprzednim może obejmować wartość środków ochrony osobistej – odzieży 
+ochronnej także wraz z akcesoriami, jeśli dostawa realizowana w ramach danego 
+zamówienia obejmowała dostarczenie środków ochrony osobistej – odzieży ochronnej wraz 
+z akcesoriami
+lub 
+- w okresie ostatnich sześciu lat przed upływem terminu 
+składania ofert, a jeśli okres prowadzenia działalności jest krótszy – w tym okresie, zrealizował 
+należycie, a w przypadku świadczeń powtarzających się lub ciągłych, również realizuje 
+należycie, co najmniej jedną dostawę specjalistycznych środków ( w tym sprzętu) ochrony 
+osobistej (indywidualnej) przed zagrożeniami typu CBRN, w szczególności skażeniami typu 
+chemicznego / biologicznego / radiologicznego, o wartości nie 
+mniejszej niż 2.500.000,00 złotych brutto. 
+W celu 
+uniknięcia wątpliwości Zamawiający oświadcza, że wartość dostawy, o której mowa w 
+zdaniu poprzednim może obejmować wartość środków (w tym sprzętu) ochrony osobistej także wraz z akcesoriami, jeśli dostawa realizowana w ramach danego 
+zamówienia obejmowała dostarczenie środków (w tym sprzętu) ochrony osobistej wraz 
+z akcesoriami. 
+b. w zakresie Części 2 zamówienia: w okresie ostatnich sześciu lat przed upływem terminu 
+składania ofert, a jeśli okres prowadzenia jest krótszy – w tym okresie, zrealizował 
+należycie, a w przypadku świadczeń powtarzających się lub ciągłych, również realizuje 
+należycie, co najmniej jedną dostawę specjalistycznych środków (sprzętu) ochrony 
+osobistej (indywidualnej) przed zagrożeniami CBRN w szczególności skażeniami typu 
+chemicznego / biologicznego / radiologicznego lub co najmniej jedną dostawę sprzętu 
+specjalistycznego do wykrywania / identyfikacji / lokalizacji / pomiaru / analizy zagrożeń 
+typu CBRN, w szczególności skażeń typu chemicznego / biologicznego / radiologicznego 
+lub co najmniej jedną dostawę specjalistycznego sprzętu (urządzeń) do usuwania / 
+neutralizowania skażeń typu chemicznego / biologicznego / radiologicznego, o wartości nie 
+mniejszej niż 2.000.000,00 złotych brutto. 
+3. W przypadku, gdy wartość dostawy, o której mowa w ust. 2 powyżej zostanie określona w 
+walucie obcej, tj. w walucie innej niż polski złoty (PLN), Zamawiający przeliczy wartość 
+dostawy wg bieżącego kursu średniego waluty obcej w złotych polskich, opublikowanego 
+przez Narodowy Bank Polski, na podstawie § 2 pkt. 1 i pkt. 2 uchwały nr 51/2002 Zarządu 
+NBP z dnia 23 września 2002 roku w sprawie sposobu wyliczania i ogłaszania bieżących 
+kursów walut obcych, w dniu przekazania ogłoszenia o zamówieniu do publikacji w 
+Dzienniku Urzędowym UE.  
+</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">35113200</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="POL">siedziba Zamawiającego</cbc:Description>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Cena </cbc:Name>
+                  <cbc:Description languageID="POL">Punkty za kryterium K1 – „Cena” zostaną przyznane wg następującego wzoru: 
+‘ 
+C = (Cena całkowita brutto oferty najtańszej / Cena całkowita brutto oferty badanej) x 60 pkt,  
+gdzie: 
+C – ilość punktów przyznanych badanej ofercie w kryterium K1 – „Cena”, 
+Cena całkowita brutto najtańszej oferty – najniższa cena całkowitego wynagrodzenia brutto wskazana w formularzu ofertowym dla ofert niepodlegających odrzuceniu,  
+Cena całkowita brutto oferty badanej – cena całkowitego wynagrodzenia brutto wskazana w formularzu ofertowym oferty badanej.  
+Wynik zostanie zaokrąglony do dwóch miejsc po przecinku, tj. poprzez odcięcie trzeciej i następnych cyfr po przecinku (trzecia i następne cyfry po przecinku nie będą brane pod uwagę). </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Skrócenie terminu realizacji</cbc:Name>
+                  <cbc:Description languageID="POL">Punkty za kryterium K2 – „Skrócenie terminu realizacji” zostaną przyznane wg następujących zasad: 
+a. w przypadku, gdy Wykonawca nie zadeklaruje skrócenia terminu realizacji przedmiotu zamówienia otrzyma 0 (zero) punktów,  
+b. w przypadku, gdy Wykonawca zadeklaruje skrócenie terminu realizacji przedmiotu zamówienia o 7 dni otrzyma 20 (dwadzieścia) punktów,  
+c. w przypadku gdy Wykonawca zadeklaruje skrócenie terminu realizacji przedmiotu zamówienia o 14 dni otrzyma 40 (czterdzieści) punktów.  </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu 
+zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez 
+Zamawiającego przepisów Pzp, przysługują środki ochrony prawnej określone w dziale IX 
+Pzp, tj. odwołanie i skarga do sądu powszechnego.  
+2. Postępowanie odwoławcze zostało uregulowane w przepisach art. 506-578 PZP.  
+3. Postępowanie skargowe zostało uregulowane w przepisach art.579-590 PZP. 
+4. Odwołanie przysługuje na: 
+a. niezgodną z przepisami Pzp czynność Zamawiającego, podjętą w postępowaniu, w tym na 
+projektowane postanowienie umowy,  
+b.  zaniechanie czynności w postępowaniu, do której Zamawiający był obowiązany na 
+podstawie Pzp, 
+c. zaniechanie przeprowadzenia postępowania o udzielenie zamówienia, mimo że 
+Zamawiający był do tego obowiązany. 
+5. Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. Odwołujący przekazuje 
+Zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej 
+albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem 
+terminu do wniesienia odwołania w taki sposób, aby Zamawiający mógł zapoznać się z jego 
+treścią przed upływem tego terminu. Domniemywa się, że Zamawiający mógł zapoznać się 
+z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie 
+odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego 
+wniesienia przy użyciu środków komunikacji elektronicznej.  
+6. Odwołanie wnosi się w terminie:  
+a. 10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę 
+jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji 
+elektronicznej, 
+b. 15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę 
+jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a 
+powyżej.  
+7. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie 
+zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia 
+publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia 
+dokumentów zamówienia na stronie internetowej.  
+8. Odwołanie w przypadkach innych niż określone w ust. 6 i 7 powyżej wnosi się w terminie 
+5 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było 
+powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.  
+9. Na orzeczenie Krajowej Izby Odwoławczej oraz postanowienie Prezesa Krajowej Izby 
+Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, stronom oraz uczestnikom 
+postępowania przysługuje skarga do sądu.  
+10. Skargę wnosi się do Sądu Okręgowego w Warszawie Wydział XXIII Gospodarczy 
+Odwoławczy i Zamówień Publicznych, za pośrednictwem Prezesa Krajowej Izby 
+Odwoławczej, w terminie 14 dni od dnia doręczenia orzeczenia Krajowej Izby 
+Odwoławczej lub postanowienia Prezesa Krajowej Izby Odwoławczej, o którym mowa w 
+art. 519 ust. 1 PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie 
+skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 
+listopada 2012 r. - Prawo pocztowe jest równoznaczne z jej wniesieniem.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Część 1 - Dostawa kombinezonów ochronnych wielokrotnego użytku</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia w Części 1 zamówienia jest dostawa kombinezonów ochronnych wielokrotnego użytku w ilości 6.000,00 sztuk, zgodnie ze 
+specyfikacją techniczną stanowiącą Załącznik nr 1 do SWZ – „Opis przedmiotu zamówienia”.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">35113410</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">35113200</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejsce realizacji zamówienia: obszar Rzeczypospolitej Polskiej. 
+Zamawiający informuje, że dokładne miejsce dostawy przedmiotu zamówienia  zostanie wskazane na etapie realizacji przedmiotu zamówienia, nie później jednak niż na 14 dni przed planowanym terminem dostawy. Wykonawca jest więc zobowiązany do przyjęcia w kalkulacji ceny ofertowej kosztów transportu przedmiotu zamówienia do dowolnego miejsca na terenie Rzeczypospolitej Polskiej.  </cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">12</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Cena </cbc:Name>
+                  <cbc:Description languageID="POL">Punkty za kryterium K1 – „Cena” zostaną przyznane wg następującego wzoru: 
+‘ 
+C = (Cena całkowita brutto oferty najtańszej / Cena całkowita brutto oferty badanej) x 60 pkt,  
+gdzie: 
+C – ilość punktów przyznanych badanej ofercie w kryterium K1 – „Cena”, 
+Cena całkowita brutto najtańszej oferty – najniższa cena całkowitego wynagrodzenia brutto wskazana w formularzu ofertowym dla ofert niepodlegających odrzuceniu,  
+Cena całkowita brutto oferty badanej – cena całkowitego wynagrodzenia brutto wskazana w formularzu ofertowym oferty badanej.  
+Wynik zostanie zaokrąglony do dwóch miejsc po przecinku, tj. poprzez odcięcie trzeciej i następnych cyfr po przecinku (trzecia i następne cyfry po przecinku nie będą brane pod uwagę). </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Skrócenie terminu realizacji</cbc:Name>
+                  <cbc:Description languageID="POL">Punkty za kryterium K2 – „Skrócenie terminu realizacji” zostaną przyznane wg następujących zasad: 
+a. w przypadku, gdy Wykonawca nie zadeklaruje skrócenia terminu realizacji przedmiotu zamówienia otrzyma 0 (zero) punktów,  
+b. w przypadku, gdy Wykonawca zadeklaruje skrócenie terminu realizacji przedmiotu zamówienia o 7 dni otrzyma 20 (dwadzieścia) punktów,  
+c. w przypadku gdy Wykonawca zadeklaruje skrócenie terminu realizacji przedmiotu zamówienia o 14 dni otrzyma 40 (czterdzieści) punktów.  </cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu 
+zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez 
+Zamawiającego przepisów Pzp, przysługują środki ochrony prawnej określone w dziale IX 
+Pzp, tj. odwołanie i skarga do sądu powszechnego.  
+2. Postępowanie odwoławcze zostało uregulowane w przepisach art. 506-578 PZP.  
+3. Postępowanie skargowe zostało uregulowane w przepisach art.579-590 PZP. 
+4. Odwołanie przysługuje na: 
+a. niezgodną z przepisami Pzp czynność Zamawiającego, podjętą w postępowaniu, w tym na 
+projektowane postanowienie umowy,  
+b.  zaniechanie czynności w postępowaniu, do której Zamawiający był obowiązany na 
+podstawie Pzp, 
+c. zaniechanie przeprowadzenia postępowania o udzielenie zamówienia, mimo że 
+Zamawiający był do tego obowiązany. 
+5. Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej. Odwołujący przekazuje 
+Zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej 
+albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem 
+terminu do wniesienia odwołania w taki sposób, aby Zamawiający mógł zapoznać się z jego 
+treścią przed upływem tego terminu. Domniemywa się, że Zamawiający mógł zapoznać się 
+z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie 
+odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego 
+wniesienia przy użyciu środków komunikacji elektronicznej.  
+6. Odwołanie wnosi się w terminie:  
+a. 10 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę 
+jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji 
+elektronicznej, 
+b. 15 dni od dnia przekazania informacji o czynności Zamawiającego stanowiącej podstawę 
+jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a 
+powyżej.  
+7. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie 
+zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 10 dni od dnia 
+publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia 
+dokumentów zamówienia na stronie internetowej.  
+8. Odwołanie w przypadkach innych niż określone w ust. 6 i 7 powyżej wnosi się w terminie 
+5 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było 
+powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.  
+9. Na orzeczenie Krajowej Izby Odwoławczej oraz postanowienie Prezesa Krajowej Izby 
+Odwoławczej, o którym mowa w art. 519 ust. 1 PZP, stronom oraz uczestnikom 
+postępowania przysługuje skarga do sądu.  
+10. Skargę wnosi się do Sądu Okręgowego w Warszawie Wydział XXIII Gospodarczy 
+Odwoławczy i Zamówień Publicznych, za pośrednictwem Prezesa Krajowej Izby 
+Odwoławczej, w terminie 14 dni od dnia doręczenia orzeczenia Krajowej Izby 
+Odwoławczej lub postanowienia Prezesa Krajowej Izby Odwoławczej, o którym mowa w 
+art. 519 ust. 1 PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie 
+skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 
+listopada 2012 r. - Prawo pocztowe jest równoznaczne z jej wniesieniem.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Część 2 - Dostawa hybrydowego systemu ochrony dróg oddechowych</cbc:Name>
+         <cbc:Description languageID="POL">Przedmiotem zamówienia w Części 2 zamówienia jest dostawa hybrydowego systemu ochrony dróg oddechowych w ilości 120 sztuk, zgodnie ze specyfikacją 
+techniczną stanowiącą Załącznik nr 1 do SWZ – „Opis przedmiotu zamówienia”. </cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">42514300</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">35814000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">35113200</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="POL">Miejsce realizacji zamówienia: obszar Rzeczypospolitej Polskiej. 
+Zamawiający informuje, że dokładne miejsce dostawy przedmiotu zamówienia  zostanie wskazane na etapie realizacji przedmiotu zamówienia, nie później jednak niż na 14 dni przed planowanym terminem dostawy. Wykonawca jest więc zobowiązany do przyjęcia w kalkulacji ceny ofertowej kosztów transportu przedmiotu zamówienia do dowolnego miejsca na terenie Rzeczypospolitej Polskiej.  </cbc:Description>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">12</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>
