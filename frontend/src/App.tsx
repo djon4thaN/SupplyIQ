@@ -2,10 +2,10 @@ import { useEffect, useRef, useState } from 'react'
 import type { FormEvent, ReactNode } from 'react'
 
 const suggestedQuestions = [
-  { label: 'Market intelligence', question: 'What are the latest trends in our supply market?' },
-  { label: 'Supplier risk', question: 'Which supplier risks should we prioritize this quarter?' },
-  { label: 'Cost analysis', question: 'How can we identify the biggest opportunities to reduce cost?' },
-  { label: 'Strategic sourcing', question: 'Help me build a strategic sourcing brief for a new category.' },
+  { label: 'Supplier evaluation', question: 'What factors should be considered when evaluating a supplier?' },
+  { label: 'Procurement criteria', question: 'What selection and qualification criteria are used in public procurement?' },
+  { label: 'Contract execution', question: 'What risks should be monitored during contract execution?' },
+  { label: 'Project associations', question: 'Which suppliers are associated with projects in the Knowledge Base?' },
 ]
 
 const storageKey = 'supplyiq.chat-history.v1'
