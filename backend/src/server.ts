@@ -1,5 +1,6 @@
 import { app } from './app.ts'
 import { createGeminiConfiguration } from './config/gemini.ts'
+import { initializeDocumentKnowledgeBase } from './knowledge-base/documents/document-retrieval.service.ts'
 import { initializeStructuredKnowledgeBase } from './knowledge-base/structured-knowledge-base.service.ts'
 
 const port = Number(process.env.PORT) || 3000
@@ -17,6 +18,13 @@ try {
   initializeStructuredKnowledgeBase()
 } catch {
   console.error('Não foi possível iniciar a API: a Knowledge Base estruturada não está disponível.')
+  process.exitCode = 1
+}
+
+try {
+  await initializeDocumentKnowledgeBase()
+} catch {
+  console.error('Não foi possível iniciar a API: a Knowledge Base documental não está disponível.')
   process.exitCode = 1
 }
 
