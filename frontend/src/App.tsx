@@ -12,6 +12,7 @@ const storageKey = 'supplyiq.chat-history.v1'
 const maximumConversations = 20
 const maximumStorageCharacters = 180_000
 const maximumSavedAnswerCharacters = 12_000
+const apiBaseUrl = (import.meta.env.VITE_API_URL || 'http://127.0.0.1:3000').replace(/\/$/, '')
 
 type Source = { sourceId?: string; name?: string; organization?: string; url?: string; limitations?: string }
 type ChatResponse = { answer?: string; sources?: Source[]; limitations?: string[]; supportLevel?: string; code?: string }
@@ -137,7 +138,7 @@ function App() {
     const conversationId = activeId ?? createConversationId()
     setActiveId(conversationId); setLoading(true); setError('')
     try {
-      const response = await fetch('http://127.0.0.1:3000/api/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ message }) })
+      const response = await fetch(`${apiBaseUrl}/api/chat`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ message }) })
       const data = await response.json().catch(() => ({})) as ChatResponse & { message?: string }
       if (!response.ok) {
         if (data.code === 'AI_USAGE_LIMIT_REACHED') {
