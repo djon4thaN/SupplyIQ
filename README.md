@@ -146,9 +146,16 @@ Resposta esperada: a informação não está disponível na Knowledge Base.
 - Documentos históricos ou contextuais não constituem regra legal atual.
 - O sistema não converte moedas nem infere totais ausentes.
 
-## Deploy em nuvem (Render)
+## Deploy em nuvem
 
-Pendente de publicação. O link público e a captura de tela serão adicionados após o deploy.
+O SupplyIQ foi publicado no Render com dois serviços:
+
+- Frontend: [https://supplyiq-frontend.onrender.com](https://supplyiq-frontend.onrender.com)
+- Backend: [https://supplyiq-api-3qjw.onrender.com](https://supplyiq-api-3qjw.onrender.com)
+
+O frontend está disponível publicamente e se comunica com o backend por meio da API REST. A aplicação foi testada em produção com uma pergunta real, retornando resposta do agente, fontes e nível de suporte.
+
+![Deploy do SupplyIQ no Render](assets/04-render-deployment.png)
 
 ## Histórico
 
