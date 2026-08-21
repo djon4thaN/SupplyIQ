@@ -1,125 +1,155 @@
+<div align="center">
+
 # SupplyIQ
 
-SupplyIQ is a procurement intelligence application that combines a React web interface, an Express API, a controlled Knowledge Base, hybrid retrieval, and Gemini-powered grounded answers.
+Assistente de procurement com RAG híbrido e Gemini.
 
-## Features
+[React](https://react.dev/) · [Vite](https://vite.dev/) · [TypeScript](https://www.typescriptlang.org/) · [Node.js](https://nodejs.org/) · [Express](https://expressjs.com/) · [Gemini API](https://ai.google.dev/) · [CSV](https://www.rfc-editor.org/rfc/rfc4180) · [PDF](https://www.adobe.com/acrobat/about-adobe-pdf.html) · [Render](https://render.com/)
 
-- Chat interface with persistent local conversation history.
-- Suggested questions that are validated against the internal retrieval capabilities.
-- Hybrid retrieval over structured records and normalized PDF document chunks.
-- Grounded Gemini responses with sources, support level, and limitations.
-- Safe handling of unavailable AI services, including a clear usage-limit message.
+</div>
 
-## Architecture
+## Visão geral
 
-- **Frontend:** React, Vite, and TypeScript. It renders the chat, suggested-question cards, sources, and safe availability messages.
-- **Backend:** Node.js, Express, and TypeScript. It validates requests, retrieves Knowledge Base context, calls Gemini, and returns safe API responses.
-- **Knowledge Base:** Controlled structured data and normalized PDFs used by retrieval only.
+O SupplyIQ responde perguntas de procurement a partir de uma Knowledge Base local. Dados estruturados em CSV e conteúdo documental em PDFs normalizados são tratados como fontes distintas e recuperados de forma complementar.
 
-## Repository structure
+O agente de IA é funcional e usa Gemini para redigir respostas fundamentadas exclusivamente no contexto recuperado. Quando não há contexto suficiente, o sistema informa que a informação não está disponível na Knowledge Base.
+
+## Destaques
+
+- Retrieval híbrido de registros estruturados e trechos documentais.
+- Gemini com grounding no contexto recuperado.
+- Fontes e limitações exibidas junto às respostas.
+- Limitações de escopo preservadas e aplicadas no backend.
+- Chat com histórico salvo localmente no navegador.
+- Tratamento seguro de perguntas sem contexto recuperável.
+- Chave da API mantida somente no ambiente do backend.
+
+## Arquitetura
+
+```mermaid
+flowchart LR
+    U[Usuário] --> F[React / Vite]
+    F --> A[Express API]
+    A --> R[Hybrid Retrieval]
+    R --> K[Knowledge Base CSV / PDF]
+    R --> G[Gemini]
+    G --> S[Resposta com fontes]
+```
+
+O usuário envia uma pergunta pelo frontend. A API recupera contexto estruturado e documental permitido, envia ao Gemini somente a pergunta e esse contexto e devolve uma resposta com as fontes e limitações aplicáveis.
+
+## Tecnologias
+
+| Tecnologia | Finalidade |
+| --- | --- |
+| React, Vite e TypeScript | Interface de chat web. |
+| Node.js, Express e TypeScript | API HTTP, validação e orquestração do agente. |
+| Gemini API | Geração de respostas fundamentadas. |
+| CSV | Dados estruturados da Knowledge Base. |
+| PDF | Conteúdo documental normalizado para retrieval. |
+| Render | Plataforma prevista para o deploy em nuvem. |
+
+## Estrutura do repositório
 
 ```text
-frontend/                    React and Vite client
-backend/                     Express API and Gemini agent
-knowledge_base/
-  processed/                 Allowed structured retrieval data
-  pdf/normalized/            Allowed PDFs for semantic document retrieval
-  metadata/                  Source, entity, document, and capability metadata
-AGENTS.md                    Repository rules for contributors and agents
+frontend/        Aplicação React e Vite
+backend/         API Express e agente Gemini
+knowledge_base/  Dados e documentos controlados para retrieval
+assets/          Evidências visuais do projeto
+AGENTS.md        Regras de arquitetura, segurança e escopo
 ```
 
-## Requirements
+## Knowledge Base e agente
 
-- Node.js 24 or later
-- npm
-- A Gemini API key and an available Gemini model for grounded answer generation
+- Os CSVs permitidos ficam em `knowledge_base/processed/`.
+- Os PDFs permitidos ficam em `knowledge_base/pdf/normalized/`.
+- `raw/`, `validation/` e PDFs originais não são usados como contexto de resposta.
+- `retrieveHybridContext` combina resultados estruturados e documentais para formar o contexto recuperado.
+- O Gemini recebe somente a pergunta e o contexto recuperado; nunca recebe a chave de API, a base inteira ou dados fora do escopo permitido.
 
-## Installation
+## Como executar localmente
 
-Install dependencies independently for each application:
+Pré-requisitos: Node.js 24+ e uma chave da Gemini API.
 
-```bash
-cd frontend
-npm install
-```
+Inicie o backend em um terminal:
 
 ```bash
 cd backend
 npm install
-```
-
-## Backend configuration
-
-Create the local backend environment file from the provided example:
-
-```bash
-cd backend
 copy .env.example .env
 ```
 
-Set the required local values in `.env` according to `.env.example`. Do not commit, share, log, or paste the resulting file. The backend requires a Gemini API key and a model name; `PORT` is optional and defaults to `3000`.
+No arquivo `backend/.env`, configure:
 
-## Running the application
-
-Start the backend in one terminal:
-
-```bash
-cd backend
-npm run dev
+```env
+PORT=3000
+GEMINI_API_KEY=sua_chave_aqui
+GEMINI_MODEL=gemini-3.5-flash-lite
 ```
 
-Start the frontend in a second terminal:
+Em seguida, execute:
+
+```bash
+npm start
+```
+
+Inicie o frontend em outro terminal:
 
 ```bash
 cd frontend
+npm install
 npm run dev
 ```
 
-The frontend is served by Vite and the backend defaults to `http://localhost:3000`.
+- Frontend: [http://localhost:5173](http://localhost:5173)
+- Health check: [http://localhost:3000/api/health](http://localhost:3000/api/health)
 
-## API checks
+> No macOS ou Linux, use `cp .env.example .env` no lugar de `copy .env.example .env`.
 
-Verify that the API is available:
+## Exemplos de uso
 
-```bash
-curl http://localhost:3000/api/health
+**Pergunta suportada**
+
+```text
+What factors should be considered when evaluating a supplier?
 ```
 
-Send a chat request:
+Resposta esperada, de forma resumida: critérios de seleção e exclusão, situação financeira, capacidade técnica, risco e desempenho do fornecedor, sempre condicionados às fontes recuperadas.
 
-```bash
-curl -X POST http://localhost:3000/api/chat \
-  -H "Content-Type: application/json" \
-  -d '{"message":"What factors should be considered when evaluating a supplier?"}'
+**Pergunta fora do escopo**
+
+```text
+What do you know about soccer?
 ```
 
-The chat response includes grounded answer content only when Gemini successfully generates it from the retrieved context. If the API usage limit has been reached, the backend returns the safe code `AI_USAGE_LIMIT_REACHED`; the frontend displays a temporary-unavailability message without exposing provider details.
+Resposta esperada: a informação não está disponível na Knowledge Base.
 
-## Knowledge Base behavior
+## Evidências visuais
 
-Structured retrieval reads only `knowledge_base/processed/`. Document retrieval reads only PDFs under `knowledge_base/pdf/normalized/`, with their declared metadata. The application does not use `raw/`, `validation/`, or original PDFs as answer sources.
+### Tela inicial
 
-Capabilities are declared in Knowledge Base metadata. Suggested questions are selected only when retrieval returns supported capability context; they do not make unsupported market, quarterly, or cost-reduction claims.
+![Tela inicial do SupplyIQ](assets/01-home-screen.png)
 
-## Security
+### Resposta fundamentada
 
-- Never commit `.env`, API keys, or credentials.
-- The API validates incoming chat payloads and returns only safe public error messages.
-- Gemini errors are reduced to safe local diagnostics; prompts, provider payloads, keys, and stack traces are not sent to the frontend.
-- Grounding rules prohibit answers that are not supported by retrieved Knowledge Base context.
+![Resposta fundamentada com fontes](assets/02-grounded-answer.png)
 
-## Limitations
+### Pergunta fora do escopo
 
-- Answers depend on the available structured records and normalized documents.
-- Document guidance may be historic or jurisdiction-specific and is presented with source limitations.
-- Gemini availability depends on the configured model and API quota. When the API usage limit is reached, grounded generation is temporarily unavailable and the client is informed safely.
-- There are currently no automated test scripts; build and endpoint checks are used for delivery validation.
+![Resposta para pergunta sem contexto](assets/03-out-of-scope-answer.png)
 
-## Commit history
+## Segurança e limitações
 
-Recent delivery-oriented changes include:
+- `.env` e a chave da API não são versionados.
+- O Gemini pode ficar temporariamente indisponível por limite de uso ou cota.
+- Dados em `raw/` e `validation/` não participam das respostas.
+- Documentos históricos ou contextuais não constituem regra legal atual.
+- O sistema não converte moedas nem infere totais ausentes.
 
-- `fix: align suggested questions with validated retrieval`
-- `fix: align suggested questions with knowledge base`
-- `feat: add local chat history`
-- `docs: finalize project documentation and AI availability UX`
+## Deploy em nuvem (Render)
+
+Pendente de publicação. O link público e a captura de tela serão adicionados após o deploy.
+
+## Histórico
+
+O projeto possui commits incrementais no GitHub cobrindo estrutura, Knowledge Base, retrieval, agente, API, frontend e documentação.
